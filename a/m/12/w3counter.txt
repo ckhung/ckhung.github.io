@@ -1,0 +1,290 @@
+# fmt-w3counter w3counter.txt > x
+# (then, from gnuploplot)
+# set style data linespoints; set xdata time; set timefmt "%Y-%m"
+# plot "x" using 1:2 title "IE", "x" using 1:3 title "Firefox", "x" using 1:4 title "Chrome", "x" using 1:5 title "Safari", "x" using 1:6 title "Opera"
+# set output "browser-share.svg"; set term svg; replot
+2007 05  1.8 Opera
+2007 05  1.1 AOL
+2007 05  2.4 Safari
+2007 05 24.9 Firefox
+2007 05 67.6 Internet Explorer
+2007 06  1.8 Opera
+2007 06  1.0 AOL
+2007 06  2.3 Safari
+2007 06 25.3 Firefox
+2007 06 67.4 Internet Explorer
+2007 07  1.8 Opera
+2007 07  1.0 AOL
+2007 07  2.2 Safari
+2007 07 25.3 Firefox
+2007 07 67.5 Internet Explorer
+2007 08  1.8 Opera
+2007 08  1.0 AOL
+2007 08  2.1 Safari
+2007 08 25.7 Firefox
+2007 08 67.3 Internet Explorer
+2007 09  1.8 Opera
+2007 09  1.0 AOL
+2007 09  2.1 Safari
+2007 09 25.8 Firefox
+2007 09 67.2 Internet Explorer
+2007 10  1.8 Opera
+2007 10  1.0 AOL
+2007 10  2.3 Safari
+2007 10 26.5 Firefox
+2007 10 66.2 Internet Explorer
+2007 11  2.0 Opera
+2007 11  0.9 AOL
+2007 11  2.6 Safari
+2007 11 28.1 Firefox
+2007 11 63.7 Internet Explorer
+2007 12  2.0 Opera
+2007 12  0.9 AOL
+2007 12  2.6 Safari
+2007 12 28.3 Firefox
+2007 12 63.5 Internet Explorer
+2008 01  2.0 Opera
+2008 01  0.9 AOL
+2008 01  2.8 Safari
+2008 01 29.0 Firefox
+2008 01 62.8 Internet Explorer
+2008 02  0.9 Mozilla
+2008 02  2.0 Opera
+2008 02  2.9 Safari
+2008 02 29.0 Firefox
+2008 02 62.6 Internet Explorer
+2008 03  0.9 Mozilla
+2008 03  2.0 Opera
+2008 03  2.8 Safari
+2008 03 29.1 Firefox
+2008 03 62.7 Internet Explorer
+2008 04  0.9 Mozilla
+2008 04  2.0 Opera
+2008 04  2.8 Safari
+2008 04 29.2 Firefox
+2008 04 62.7 Internet Explorer
+2008 05  0.9 Mozilla
+2008 05  2.0 Opera
+2008 05  2.7 Safari
+2008 05 29.3 Firefox
+2008 05 62.7 Internet Explorer
+2008 06  0.9 Mozilla
+2008 06  2.0 Opera
+2008 06  2.6 Safari
+2008 06 29.5 Firefox
+2008 06 62.7 Internet Explorer
+2008 07  1.0 Mozilla
+2008 07  2.1 Opera
+2008 07  2.5 Safari
+2008 07 30.2 Firefox
+2008 07 62.0 Internet Explorer
+2008 08  1.0 Mozilla
+2008 08  2.1 Opera
+2008 08  2.5 Safari
+2008 08 32.3 Firefox
+2008 08 60.3 Internet Explorer
+2008 09  1.0 Mozilla
+2008 09  2.1 Opera
+2008 09  2.8 Safari
+2008 09 33.3 Firefox
+2008 09 58.8 Internet Explorer
+2008 10  1.0 Mozilla
+2008 10  2.0 Opera
+2008 10  3.1 Safari
+2008 10 31.2 Firefox
+2008 10 60.5 Internet Explorer
+2008 11  1.1 Mozilla
+2008 11  2.0 Opera
+2008 11  3.0 Safari
+2008 11 31.5 Firefox
+2008 11 60.3 Internet Explorer
+2008 12  1.1 Mozilla
+2008 12  2.0 Opera
+2008 12  2.9 Safari
+2008 12 31.9 Firefox
+2008 12 60.0 Internet Explorer
+2009 01  1.1 Mozilla
+2009 01  2.0 Opera
+2009 01  2.8 Safari
+2009 01 32.0 Firefox
+2009 01 60.1 Internet Explorer
+2009 02  1.1 Mozilla
+2009 02  2.1 Opera
+2009 02  2.8 Safari
+2009 02 32.3 Firefox
+2009 02 59.9 Internet Explorer
+2009 03  1.1 Mozilla
+2009 03  2.1 Opera
+2009 03  2.8 Safari
+2009 03 32.4 Firefox
+2009 03 59.5 Internet Explorer
+2009 04  1.1 Mozilla
+2009 04  2.1 Opera
+2009 04  3.0 Safari
+2009 04 32.5 Firefox
+2009 04 59.1 Internet Explorer
+2009 05  1.0 Mozilla
+2009 05  2.0 Opera
+2009 05  3.2 Safari
+2009 05 32.2 Firefox
+2009 05 58.9 Internet Explorer
+2009 06  1.1 Mozilla
+2009 06  2.0 Opera
+2009 06  3.3 Safari
+2009 06 32.4 Firefox
+2009 06 58.4 Internet Explorer
+2009 07  1.8 Opera
+2009 07  4.7 Safari
+2009 07 32.4 Firefox
+2009 07  3.4 Chrome
+2009 07 54.3 Internet Explorer
+2009 08  1.9 Opera
+2009 08  5.0 Safari
+2009 08 32.9 Firefox
+2009 08  3.7 Chrome
+2009 08 53.7 Internet Explorer
+2009 09  2.1 Opera
+2009 09  5.2 Safari
+2009 09 32.9 Firefox
+2009 09  3.9 Chrome
+2009 09 53.3 Internet Explorer
+2009 10  2.0 Opera
+2009 10  5.3 Safari
+2009 10 33.0 Firefox
+2009 10  4.3 Chrome
+2009 10 52.6 Internet Explorer
+2009 11  1.2 Opera
+2009 11  5.4 Safari
+2009 11 32.9 Firefox
+2009 11  4.8 Chrome
+2009 11 52.5 Internet Explorer
+2009 12  2.2 Opera
+2009 12  5.2 Safari
+2009 12 32.8 Firefox
+2009 12  5.6 Chrome
+2009 12 51.1 Internet Explorer
+2010 01  2.1 Opera
+2010 01  5.5 Safari
+2010 01 32.7 Firefox
+2010 01  6.3 Chrome
+2010 01 50.4 Internet Explorer
+2010 02  2.1 Opera
+2010 02  5.7 Safari
+2010 02 32.7 Firefox
+2010 02  6.9 Chrome
+2010 02 49.6 Internet Explorer
+2010 03  2.1 Opera
+2010 03  5.6 Safari
+2010 03 32.9 Firefox
+2010 03  7.5 Chrome
+2010 03 48.8 Internet Explorer
+2010 04  2.1 Opera
+2010 04  5.5 Safari
+2010 04 32.5 Firefox
+2010 04  8.3 Chrome
+2010 04 48.2 Internet Explorer
+2010 05  2.1 Opera
+2010 05  5.5 Safari
+2010 05 33.3 Firefox
+2010 05  8.7 Chrome
+2010 05 47.3 Internet Explorer
+2010 06  2.2 Opera
+2010 06  3.7 Safari
+2010 06 33.4 Firefox
+2010 06  9.6 Chrome
+2010 06 47.8 Internet Explorer
+2010 07  2.3 Opera
+2010 07  2.1 Safari
+2010 07 33.9 Firefox
+2010 07 10.6 Chrome
+2010 07 48.0 Internet Explorer
+2010 08  1.5 Opera
+2010 08  4.4 Safari
+2010 08 33.2 Firefox
+2010 08 11.4 Chrome
+2010 08 46.1 Internet Explorer
+2010 09  1.7 Opera
+2010 09  5.8 Safari
+2010 09 31.7 Firefox
+2010 09 11.9 Chrome
+2010 09 45.3 Internet Explorer
+2010 10  2.0 Opera
+2010 10  5.8 Safari
+2010 10 31.5 Firefox
+2010 10 12.5 Chrome
+2010 10 44.0 Internet Explorer
+2010 11  2.0 Opera
+2010 11  6.0 Safari
+2010 11 32.0 Firefox
+2010 11 13.1 Chrome
+2010 11 42.5 Internet Explorer
+2010 12  2.0 Opera
+2010 12  5.9 Safari
+2010 12 30.3 Firefox
+2010 12 13.5 Chrome
+2010 12 41.3 Internet Explorer
+2011 01  2.0 Opera
+2011 01  5.9 Safari
+2011 01 31.1 Firefox
+2011 01 14.2 Chrome
+2011 01 40.0 Internet Explorer
+2011 02  2.0 Opera
+2011 02  6.0 Safari
+2011 02 30.5 Firefox
+2011 02 15.2 Chrome
+2011 02 40.2 Internet Explorer
+2011 03  2.0 Opera
+2011 03  6.0 Safari
+2011 03 30.1 Firefox
+2011 03 15.6 Chrome
+2011 03 39.3 Internet Explorer
+2011 04  1.4 iPhone
+2011 04  6.2 Safari
+2011 04 29.5 Firefox
+2011 04 15.7 Chrome
+2011 04 37.8 Internet Explorer
+2011 05  2.2 Opera
+2011 05  6.4 Safari
+2011 05 28.3 Firefox
+2011 05 16.8 Chrome
+2011 05 37.7 Internet Explorer
+2011 06  2.4 Opera
+2011 06  6.3 Safari
+2011 06 28.2 Firefox
+2011 06 18.7 Chrome
+2011 06 36.3 Internet Explorer
+2011 07  2.3 Opera
+2011 07  6.4 Safari
+2011 07 27.7 Firefox
+2011 07 19.6 Chrome
+2011 07 35.6 Internet Explorer
+2011 08  2.3 Opera
+2011 08  6.2 Safari
+2011 08 26.7 Firefox
+2011 08 20.2 Chrome
+2011 08 35.4 Internet Explorer
+2011 09  2.4 Opera
+2011 09  6.0 Safari
+2011 09 26.1 Firefox
+2011 09 20.9 Chrome
+2011 09 35.1 Internet Explorer
+2011 10  2.4 Opera
+2011 10  6.4 Safari
+2011 10 26.2 Firefox
+2011 10 22.2 Chrome
+2011 10 34.3 Internet Explorer
+2011 11  2.4 Opera
+2011 11  6.2 Safari
+2011 11 25.5 Firefox
+2011 11 22.8 Chrome
+2011 11 32.9 Internet Explorer
+2011 12  2.6 Opera
+2011 12  6.3 Safari
+2011 12 25.5 Firefox
+2011 12 23.8 Chrome
+2011 12 31.2 Internet Explorer
+2012 01  2.5 Opera
+2012 01  6.5 Safari
+2012 01 24.8 Firefox
+2012 01 24.6 Chrome
+2012 01 30.9 Internet Explorer

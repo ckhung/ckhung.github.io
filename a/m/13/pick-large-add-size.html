@@ -1,0 +1,23 @@
+<pre>
+#!/usr/bin/perl -w
+open F, $ARGV[0] or die;
+while (&lt;F&gt;) {
+    ($size, $pkg) = split;
+    $size{$pkg} = $size;
+}
+close F;
+
+while (&lt;STDIN&gt;) {
+    if (/^"(\S+)"\s*\[.*\];$/) {
+	$pkg1 = $1;
+	next unless (exists($size{$pkg1}) and s/"$pkg1"/"$pkg1\\n$size{$pkg1}"/);
+    } elsif (/^"(\S+)"\s*-&gt;\s*"(\S+)"/) {
+	($pkg1, $pkg2) = ($1, $2);
+	next unless (
+	    exists($size{$pkg1}) and s/"$pkg1"/"$pkg1\\n$size{$pkg1}"/ and
+	    exists($size{$pkg2}) and s/"$pkg2"/"$pkg2\\n$size{$pkg2}"/
+	);
+    }
+    print;
+}
+</pre>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="monotonic-functions.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/monotonic-functions.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3766"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3763"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.72"
+     inkscape:cx="406.9563"
+     inkscape:cy="245.94437"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.014816,-411.89688)">
+    <g
+       id="g4423"
+       transform="translate(12.5,-23.030842)"
+       inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/g4472.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="translate(0,452.36218)"
+         inkscape:connector-curvature="0"
+         id="path2989"
+         d="m 283.17215,279.69052 -197.292073,0 0,-191.489359"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+      <path
+         sodipodi:nodetypes="czzc"
+         transform="translate(0,452.36218)"
+         inkscape:connector-curvature="0"
+         id="path4389"
+         d="m 60.348162,254.15861 c 0,0 33.783816,-41.35848 68.471958,-49.90329 34.68813,-8.54482 33.65571,-27.853 70.79304,-45.26112 37.13733,-17.40812 24.37137,-56.86654 60.34815,-62.669247"
+         style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4405"
+         y="685.69556"
+         x="116.66666"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="685.69556"
+           x="116.66666"
+           id="tspan4407"
+           sodipodi:role="line">嚴格單調遞增</tspan><tspan
+           id="tspan4409"
+           y="705.69556"
+           x="116.66666"
+           sodipodi:role="line">(當然也是單調遞增)</tspan></text>
+    </g>
+    <g
+       id="g4430"
+       transform="translate(-18.713915,-24.191381)"
+       inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/g4472.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 567.50484,733.21324 -197.29207,0 0,-191.48936"
+         id="path4391"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 344.68085,707.68133 c 0,0 52.34533,-74.27466 77.75629,-74.27466 25.41096,0 27.79501,0 61.50871,0 33.7137,0 24.37137,-77.75629 60.34815,-83.559"
+         id="path4393"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czzc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4401"
+         d="m 421.78472,632.98189 64.72745,0"
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="391.38889"
+         y="687.08441"
+         id="text4411"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4413"
+           x="391.38889"
+           y="687.08441">單調遞增</tspan><tspan
+           sodipodi:role="line"
+           x="391.38889"
+           y="707.08441"
+           id="tspan4415">(但並不是嚴格單調遞增)</tspan></text>
+    </g>
+    <g
+       id="g4438"
+       transform="translate(-50.000023,-23.030841)"
+       inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/g4472.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4395"
+         d="m 846.03482,732.0527 -197.29207,0 0,-191.48936"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+      <path
+         sodipodi:nodetypes="czzc"
+         inkscape:connector-curvature="0"
+         id="path4397"
+         d="m 623.21083,706.52079 c 0,0 30.29525,-100.96712 69.6325,-100.96712 39.33725,0 38.27716,34.81625 70.79304,34.81625 32.51588,0 23.21083,-85.88008 59.18761,-91.68279"
+         style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="czzc"
+         transform="translate(0,452.36218)"
+         inkscape:connector-curvature="0"
+         id="path4403"
+         d="m 693.09234,152.99231 c 12.28887,-0.30722 18.87313,2.51607 28.87884,10.13832 10.00571,7.62225 12.11725,12.64485 18.74053,17.20442 6.62328,4.55957 13.51776,7.68055 21.81275,7.98777"
+         style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4417"
+         y="687.69556"
+         x="668.22223"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="687.69556"
+           x="668.22223"
+           id="tspan4419"
+           sodipodi:role="line">不是單調遞增</tspan><tspan
+           id="tspan4421"
+           y="707.69556"
+           x="668.22223"
+           sodipodi:role="line">(更不可能是嚴格單調遞增)</tspan></text>
+    </g>
+    <rect
+       ry="12.765959"
+       rx="11.605417"
+       y="459.00809"
+       x="72.348145"
+       height="511.11096"
+       width="487.49997"
+       id="rect4509"
+       style="fill:none;stroke:#00ff00;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:9, 9;stroke-dashoffset:0"
+       inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/g4472.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3045"
+       transform="translate(9.7222222,-66.666713)"
+       inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/g4472.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 284.56104,1012.6083 -197.292074,0 0,-191.4894"
+         id="path4448"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 261.3502,987.07635 c 0,0 -33.78382,-41.35848 -68.47196,-49.90329 -34.68813,-8.54482 -33.65571,-27.853 -70.79304,-45.26112 C 84.947871,874.50382 97.713831,835.0454 61.737051,829.24269"
+         id="path4450"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czzc" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="115.27778"
+         y="969.02887"
+         id="text4452"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4454"
+           x="115.27778"
+           y="969.02887">嚴格單調遞減</tspan><tspan
+           sodipodi:role="line"
+           x="115.27778"
+           y="989.02887"
+           id="tspan4456">(當然也是單調遞減)</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4505"
+       y="496.50806"
+       x="255.6815"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/g4472.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         y="496.50806"
+         x="255.6815"
+         id="tspan4507"
+         sodipodi:role="line">單調函數</tspan></text>
+    <g
+       transform="translate(-21.838893,212.72831)"
+       id="g4458"
+       inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/g4472.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4460"
+         d="m 567.50484,733.21324 -197.29207,0 0,-191.48936"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+      <path
+         sodipodi:nodetypes="czzc"
+         inkscape:connector-curvature="0"
+         id="path4462"
+         d="m 544.294,707.68133 c 0,0 -52.34533,-74.27466 -77.75629,-74.27466 -25.41096,0 -27.79501,0 -61.50871,0 -33.7137,0 -24.37137,-77.75629 -60.34815,-83.559"
+         style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 467.19013,632.98189 -64.72745,0"
+         id="path4464"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4466"
+         y="684.30664"
+         x="388.61111"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="684.30664"
+           x="388.61111"
+           id="tspan4468"
+           sodipodi:role="line">單調遞減</tspan><tspan
+           id="tspan4470"
+           y="704.30664"
+           x="388.61111"
+           sodipodi:role="line">(但並不是嚴格單調遞減)</tspan></text>
+    </g>
+    <g
+       transform="translate(-54.166689,213.88885)"
+       id="g4472"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 846.03482,732.0527 -197.29207,0 0,-191.48936"
+         id="path4474"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 822.82398,706.52079 c 0,0 -30.29525,-100.96712 -69.6325,-100.96712 -39.33725,0 -38.27716,34.81625 -70.79304,34.81625 -32.51588,0 -23.21083,-85.88008 -59.18761,-91.68279"
+         id="path4476"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czzc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 752.94247,605.35449 c -12.28887,-0.30722 -18.87313,2.51607 -28.87884,10.13832 -10.00571,7.62225 -12.11725,12.64485 -18.74053,17.20442 -6.62328,4.55957 -13.51776,7.68055 -21.81275,7.98777"
+         id="path4478"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czzc" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="666.83331"
+         y="684.91772"
+         id="text4480"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4482"
+           x="666.83331"
+           y="684.91772">不是單調遞減</tspan><tspan
+           sodipodi:role="line"
+           x="666.83331"
+           y="704.91772"
+           id="tspan4484">(更不可能是嚴格單調遞減)</tspan></text>
+    </g>
+  </g>
+</svg>

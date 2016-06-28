@@ -1,0 +1,48 @@
+::請翻譯\: 『這篇文章討論 「用來繞過網路言論封鎖」 的最有影響力的技術。』::[html]<p>『這篇文章討論 「用來繞過網路言論封鎖」 的最有影響力的技術。』</p>{
+	=名詞 -> this article
+	=動詞 -> discusses
+	=名詞 -> the most influential technologies
+	=分詞片語 -> used
+	=片語 -> to circumvent
+	=名詞 -> Internet censorship
+	=-> have used
+	=-> use
+	=-> using
+	=-> of
+	=-> that
+}
+
+::請翻譯\: 『在言論管制國家裡做生意的國際公司自我設限、 提供客製修改過的內容給用戶。』::[html]<p>『在言論管制國家裡做生意的國際公司自我設限、 提供客製修改過的內容給用戶。』</p>{
+	=名詞 -> international companies
+	=分詞片語 ->  doing business
+	=片語 -> in censorship countries
+	=動詞 -> restrict themselves and provide tailored content
+	=片語 -> to users
+	=-> done bussiness
+	=-> do business
+	=-> to do business
+}
+
+::請翻譯\: 『這些科技的成功已經證明了: 網路言論管制系統可以被繞過、 被打敗。』::[html]<p>『這些科技的成功證明了: 網路言論管制系統可以被繞過、 被打敗。』</p>{
+	=名詞 -> the success of these technologies
+	=動詞 -> has proven
+	=子句的頭 -> that
+	=名詞 -> Internet censorship systems
+	=動詞 -> can be circumvented and defeated.
+	=-> can circumvent and defeat
+	=-> circumventing and defeating
+	=-> is proven
+}
+
+::請翻譯\: 『在中國防火長城裡面所使用的先進網路過濾科技是由西方的公司所提供的。』::[html]<p>『在中國防火長城裡面所使用的先進網路過濾科技是由西方的公司所提供的。』</p>{
+	=名詞 -> the advanced Internet filtering technologies
+	=分詞 -> used
+	=片語 -> in the Chinese GFW
+	=動詞 -> are provided
+	=片語 -> by western companies
+	=-> using
+	=-> have used
+	=-> are providing
+	=-> provide
+}
+

@@ -1,0 +1,14 @@
+unset border
+unset tics
+unset key
+set termoption dash
+set parametric
+set arrow 1 lt 7 lw 0.2 from 0,5 to 2,1 head
+set arrow 2 lt 7 lw 0.2 from 0,5 to -2,1 head
+set arrow 3 lt 7 lw 0.2 from 2,1 to 1.2,-0.6 head
+plot t,0.5*t, t,-0.5*t, 0,t
+set term svg size 80 60
+set output "1.svg"
+replot
+
+# splot u,v,u/2 , u,v,-u/2, 0,0,u , u,0,u/2 , u,0,-u/2

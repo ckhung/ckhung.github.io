@@ -1,0 +1,19 @@
+#!/usr/bin/gnuplot
+
+gaussian(x,y)=exp(-(x*x+y*y))
+g(x,y)=gaussian(x-3,y/2)*3+gaussian(x/3,y-2)*2 - 1
+set cont base
+set cntrparam levels discrete 0
+unset surface
+set table "/tmp/contour.dat"
+splot g(x,y)
+unset cont
+set surface
+unset table
+set style data lines
+splot "/tmp/contour.dat", g(x,y)
+
+# http://lowrank.net/gnuplot/implicit/solve-e.html
+# http://comments.gmane.org/gmane.comp.graphics.gnuplot.user/6915
+# http://www.gnuplotting.org/vector-field-from-data-file/
+# http://www.the-idea-shop.com/article/215/understanding-why-the-method-of-lagrange-multipliers-works

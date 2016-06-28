@@ -1,0 +1,31 @@
+#!/usr/bin/perl -w
+
+$prev = 0;	# was there any previous output?
+print "[\n";
+while (<>) {
+    chomp;
+    next if (/^#/ or /^\s*$/);
+    @f = split /\s*,\s*/;
+    if ($F{lon} and $F{lat}) {
+	print ",\n" if $prev;
+	@prop = ();
+	print qq({"type":"Feature", "geometry":{ "type":"Point","coordinates":[$f[$F{lon}],$f[$F{lat}]]}, "properties":{);
+	for ($i=0; $i<=$#f; ++$i) {
+	    next if ($i==$F{lon} or $i==$F{lat});
+	    push @prop, qq("$keys[$i]": "$f[$i]");
+	}
+	print join(',', @prop);
+	print qq(}});
+	$prev = 1;
+    } elsif (/\blon\b/ and /\blat\b/) {
+	# @f : index => key
+	for ($i=0; $i<=$#f; ++$i) {
+	    $F{$f[$i]} = $i;
+	}
+	# %F : key => index
+	die unless ($F{lon} and $F{lat});
+	@keys = @f;
+    }
+}
+print "\n]\n\n";
+

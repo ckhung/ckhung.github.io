@@ -1,0 +1,12 @@
+#!/usr/bin/perl -w
+# usage: ./pr_xt_recent /proc/net/xt_recent/DEFAULT
+# see http://forums.fedoraforum.org/showthread.php?t=224461
+$now = time;
+qx(perl -ne 'print if s/^jiffies: *//' /proc/timer_list) =~ /(\d+)/;
+$jnow = $1;
+while (<>) {
+    ($src, $last_seen) = /src=(\S+).*last_seen:\s(\d+)/;
+    @time = localtime($now - ($jnow-$last_seen)/1000);
+    printf "%02d/%02d:%02d:%02d  $src\n", $time[4]+1, @time[3,2,1];
+}
+

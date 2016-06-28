@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="350"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="ipad-bar.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="ipad-jail.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2444"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2511"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2578"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2645"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.79625"
+     inkscape:cx="296.15235"
+     inkscape:cy="277.45315"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-2"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-230.78532,-381.36218)">
+    <image
+       y="407.73581"
+       x="258.75589"
+       id="image2446"
+       height="302"
+       width="235"
+       xlink:href="ipad.png" />
+    <image
+       y="476.37405"
+       x="300.32602"
+       id="image2513"
+       height="114.22457"
+       width="150.70801"
+       xlink:href="censorship.jpg" />
+    <g
+       id="g2416"
+       transform="translate(-395.6044,38.932496)">
+      <image
+         xlink:href="hand-bar.png"
+         width="202.19778"
+         height="215.76923"
+         id="image2580"
+         x="675.78491"
+         y="432.01294" />
+      <g
+         transform="translate(2.511774,-3.7676611)"
+         id="g2405">
+        <image
+           y="408.20602"
+           x="674.11346"
+           id="image2647"
+           height="33.555725"
+           width="30.532207"
+           xlink:href="diamond.png" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#image2647"
+           id="use2389"
+           transform="translate(86.028238,0)"
+           width="300"
+           height="350" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use2389"
+           id="use2391"
+           transform="translate(-43.014119,0)"
+           width="300"
+           height="350" />
+        <image
+           xlink:href="diamond.png"
+           width="30.532207"
+           height="33.555725"
+           id="use2395"
+           x="846.16998"
+           y="408.20602" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use2395"
+           id="use2397"
+           transform="translate(-43.01416,1.4913667e-8)"
+           width="300"
+           height="350" />
+      </g>
+      <use
+         height="350"
+         width="300"
+         transform="translate(0,213.50078)"
+         id="use2414"
+         xlink:href="#g2405"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>

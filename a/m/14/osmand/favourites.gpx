@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="25.0269534" lon="121.5225005">
+    <name>捷運古亭站</name>
+    <category>臺北</category>
+  </wpt>
+  <wpt lat="24.993818" lon="121.505138">
+    <name>捷運景安站</name>
+    <category>臺北</category>
+  </wpt>
+  <wpt lat="24.0687029" lon="120.7151341">
+    <name>朝陽科技大學</name>
+    <category>臺中</category>
+  </wpt>
+  <wpt lat="24.12395" lon="120.675114">
+    <name>中興大學</name>
+    <category>臺中</category>
+  </wpt>
+  <wpt lat="24.055174" lon="120.696647">
+    <name>省議會公車站</name>
+    <category>臺中</category>
+  </wpt>
+  <wpt lat="22.616586" lon="120.296128">
+    <name>世界一水果專賣店</name>
+    <category>高雄</category>
+  </wpt>
+  <wpt lat="22.623637" lon="120.297508">
+    <name>亞蒂米德式廚房</name>
+    <category>高雄</category>
+  </wpt>
+  <wpt lat="22.625667" lon="120.282616">
+    <name>Sapulo 糕餅小舖</name>
+    <category>高雄</category>
+  </wpt>
+  <wpt lat="24.8081324" lon="121.0403252">
+    <name>高鐵新竹站</name>
+  </wpt>
+  <wpt lat="23.928386" lon="121.505907">
+    <name>花蓮鯉魚潭</name>
+  </wpt>
+</gpx>

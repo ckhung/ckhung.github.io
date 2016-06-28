@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-8' action='modify' visible='true' lat='24.10702119563' lon='120.61377502909'>
+    <tag k='amenity' v='parking_entrance' />
+    <tag k='name' v='日出停車場' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='24.11431774431' lon='120.6142171442'>
+    <tag k='amenity' v='car_rental' />
+    <tag k='name' v='和運租車' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='24.11154412428' lon='120.61600789428'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='樂雅樂便當攤' />
+  </node>
+</osm>

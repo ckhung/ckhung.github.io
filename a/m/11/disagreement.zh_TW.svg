@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="707"
+   height="530"
+   id="svg2"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="disagreement.zh_TW.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/11/disagreement.zh_TW.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs44" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="720"
+     id="namedview42"
+     showgrid="false"
+     inkscape:zoom="0.50943396"
+     inkscape:cx="353.5"
+     inkscape:cy="265"
+     inkscape:window-x="-2"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M 201,463 L 664,463 L 693,520 L 172,520"
+     fill="#ff99cb"
+     id="path4" />
+  <path
+     d="M 232,404 L 634,404 L 664,463 L 201,463"
+     fill="#ffcb99"
+     id="path6" />
+  <path
+     d="M 264,341 L 602,341 L 634,404 L 232,404"
+     fill="#feff99"
+     id="path8" />
+  <path
+     d="M 297,277 L 570,277 L 602,341 L 264,341"
+     fill="#cefecc"
+     id="path10" />
+  <path
+     d="M 331,211 L 536,211 L 570,277 L 297,277"
+     fill="#cff"
+     id="path12" />
+  <path
+     d="M 367,140 L 500,140 L 536,211 L 331,211"
+     fill="#ca9bfb"
+     id="path14" />
+  <path
+     d="M 434,10 L 500,140 L 367,140"
+     fill="#e1e1e1"
+     id="path16" />
+  <path
+     d="M 434,10 L 172,520 L 693,520 z M 14,140 L 500,140 M 14,211 L 536,211 M 14,277 L 570,277 M 14,341 L 602,341 M 14,404 L 634,404 M 14,463 L 664,463 M 14,520 L 172,520"
+     fill="none"
+     stroke="#000"
+     stroke-width="4"
+     id="path18" />
+  <text
+     font-family="Arial"
+     font-size="22px"
+     id="text20">
+    <tspan
+       x="14"
+       y="130"
+       fill="#8d8d8d"
+       id="a">針對主論點反駁</tspan>
+    <tspan
+       x="14"
+       y="201"
+       fill="#8a3be0"
+       id="b">針對內文反駁</tspan>
+    <tspan
+       x="14"
+       y="267"
+       fill="#38e1e1"
+       id="c">反駁</tspan>
+    <tspan
+       x="14"
+       y="331"
+       fill="#3ce535"
+       id="d">反對</tspan>
+    <tspan
+       x="14"
+       y="394"
+       fill="#e3e404"
+       id="e">批評對方的語氣</tspan>
+    <tspan
+       x="14"
+       y="453"
+       fill="#ff8b1a"
+       id="f">以人廢言</tspan>
+    <tspan
+       x="14"
+       y="510"
+       fill="#ec5ba2"
+       id="g">辱罵</tspan>
+  </text>
+  <text
+     font-family="Arial"
+     font-size="17px"
+     text-anchor="middle"
+     id="text29">
+    <tspan
+       x="436"
+       y="90"
+       id="a1">針對</tspan>
+    <tspan
+       x="436"
+       y="109"
+       id="a2">原文主旨</tspan>
+    <tspan
+       x="436"
+       y="128"
+       id="a3">論述其謬誤</tspan>
+    <tspan
+       x="436"
+       y="180"
+       id="b1">引用原文內容</tspan>
+    <tspan
+       x="436"
+       y="199"
+       id="b2">並指出這段文字的謬誤</tspan>
+    <tspan
+       x="436"
+       y="268"
+       id="c1">提供反對的觀點加上論述或證據</tspan>
+    <tspan
+       x="436"
+       y="324"
+       id="d1">並未提供論述, 只是提出反對的觀點</tspan>
+    <tspan
+       x="436"
+       y="388"
+       id="e1">並未駁斥發言內容; 只是批評發言者的態度</tspan>
+    <tspan
+       x="436"
+       y="429"
+       id="f1">並未駁斥發言內容; 只是攻擊發言者的人格、</tspan>
+    <tspan
+       x="436"
+       y="448"
+       id="f2">或因為其所屬團體 (職業/社團/族群...) 而否定其發言</tspan>
+    <tspan
+       x="436"
+       y="496"
+       id="g1">&quot;腦殘&quot;、 &quot;北七哦&quot;、 &quot;去撞牆啦&quot;</tspan>
+  </text>
+</svg>

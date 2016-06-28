@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="surveillance-class.svg"
+   inkscape:export-filename="/home/ckhung/public_html/m/13/surveillance-class.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.67357669"
+     inkscape:cx="350.88869"
+     inkscape:cy="243.5067"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1104"
+     inkscape:window-height="754"
+     inkscape:window-x="484"
+     inkscape:window-y="118"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(156.24258,-223.58221)">
+    <rect
+       style="fill:#006600;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3278"
+       width="328.57144"
+       height="251.42857"
+       x="147.34039"
+       y="266.8483"
+       rx="21.546961"
+       ry="18.784531" />
+    <image
+       y="357.53171"
+       x="-223.95401"
+       id="image3160"
+       xlink:href="file:///home/ckhung/public_html/m/13/tux-vader.png"
+       height="337.14285"
+       width="337.14285"
+       style="fill:#ffff00"
+       transform="scale(-1,1)" />
+    <image
+       y="455.62289"
+       x="310.15298"
+       id="image3275"
+       xlink:href="file:///home/ckhung/public_html/m/13/ma-headphone.png"
+       height="219"
+       width="254" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="47.447796"
+       y="597.94922"
+       id="text4048"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4050"
+         x="47.447796"
+         y="597.94922">資訊人，</tspan><tspan
+         sodipodi:role="line"
+         x="47.447796"
+         y="627.94922"
+         id="tspan4052">權貴</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="298.27866"
+       y="328.54001"
+       id="text4054"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4056"
+         x="298.27866"
+         y="328.54001">獨裁者的</tspan><tspan
+         sodipodi:role="line"
+         x="298.27866"
+         y="373.54001"
+         id="tspan4060">資訊科技指南</tspan><tspan
+         sodipodi:role="line"
+         x="298.27866"
+         y="418.54001"
+         id="tspan4062" /><tspan
+         sodipodi:role="line"
+         x="298.27866"
+         y="463.54001"
+         id="tspan4058">監聽技巧篇</tspan></text>
+  </g>
+</svg>

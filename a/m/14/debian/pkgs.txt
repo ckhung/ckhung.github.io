@@ -1,0 +1,21 @@
+# 基本求生工具
+lynx
+vim
+gpm
+
+# X Window
+xserver-xorg-core
+xserver-xorg-input-all
+xserver-xorg-video-fbdev
+xfonts-base
+xinit
+xserver-xorg
+icewm
+roxterm
+dbus-x11
+
+# 中文
+ttf-arphic-ukai
+ttf-arphic-uming
+gcin
+

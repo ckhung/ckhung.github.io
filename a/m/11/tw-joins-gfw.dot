@@ -1,0 +1,126 @@
+// perl -ne 'print unless (/label=/ and not m#// *en *$#)' tw-joins-gfw.dot | dot -Tsvg > ~/tw-joins-gfw.svg
+
+// digraph "Chinamerica 的統一防火長城: 臺灣是首選測試省份"
+digraph "Taiwan as the testing ground for The United Great Firewall of Chinamerica"
+{
+
+    rankdir=LR;
+
+    content_industry [
+	label="數位內容產業",
+	label="Digital Content Industry", // en
+	color=red,
+    ];
+
+    DRM [
+	label="DRM\n(遙控數位枷鎖)",
+	label="DRM",
+	color=red,
+    ];
+
+    trusted_computing [
+	label="TC 信任運算\n(含安全開機)",
+	label="Trusted Computing\nUEFI", // en
+	color=red,
+    ];
+
+    anti_circumvention [
+	label="反規避條款\n(禁止越獄或逆向工程)",
+	label="Anti-Circumvention Laws", // en
+	color=red,
+    ];
+
+    dpi [
+	label="Deep Packet Inspection\n深度封包檢測",
+	label="Deep Packet Inspection", // en
+	color=red,
+    ];
+
+    gwf_China [
+	label="中國防火長城\n(金盾工程等等)",
+	label="Golden Shield\n(GFWoC)", // en
+	color=red,
+    ];
+
+    gwf_USA [
+	label="美國防火長城\n(SOPA 等等)",
+	label="SOPA/PIPA\nGFWoA", // en
+	color=red,
+    ];
+
+    gov_edit [
+	label="筆硯文書\n(IE only)",
+	label="IE only gov services", // en
+	color=red,
+    ];
+
+    censor [
+	label="言論管制",
+	label="censorship", // en
+	color=red,
+    ];
+
+    iPad [
+	label="iPad",
+	label="iPad", // en
+	color=red,
+    ];
+
+    patent [
+	label="專利",
+	label="patent", // en
+	color=red,
+    ];
+
+    suppress_clone [
+	label="「仿冒」污名化「山寨」",
+	label="confusing 'clone' with 'counterfeit'", // en
+	color=red,
+    ];
+
+    alt_player [
+	label="尊重消費者自主權\n的替代播放軟體",
+	label="alternative players that\nrespects freedom", // en
+	color=blue,
+    ];
+
+    alt_device [
+	label="尊重消費者自主權\n的替代硬體",
+	label="alternative hardware that\nrespects freedom", // en
+	color=blue,
+    ];
+
+    usb_boot [
+	label="百毒不侵救命碟",
+	label="linux live usb", // en
+	color=blue,
+    ];
+
+    tunneling [
+	label="各種翻牆技術",
+	label="anti-censorship technologies", // en
+	color=blue,
+    ];
+
+    content_industry -> { DRM iPad trusted_computing patent dpi
+	suppress_clone anti_circumvention gwf_China gwf_USA } [color=red];
+    { iPad trusted_computing } -> DRM [color=red, constraint=false];
+    DRM -> { gwf_China gwf_USA } [color=red];
+    { iPad trusted_computing } -> alt_player [color=red];
+    { gov_edit iPad trusted_computing } -> gwf_USA [color=red];
+    usb_boot -> tunneling [ color=blue ];
+    alt_device -> { usb_boot tunneling alt_player } [ color=blue ];
+    { tunneling usb_boot } -> { gwf_China gwf_USA } [ color=blue ];
+    alt_player -> DRM [ color=blue ];
+    anti_circumvention -> { usb_boot tunneling alt_player } [color=red];
+    { patent suppress_clone } -> { alt_device alt_player } [color=red];
+    { iPad trusted_computing } -> { tunneling usb_boot } [color=red];
+    gov_edit -> usb_boot [color=red];
+    { gwf_China gwf_USA } -> { censor } [ color=red ];
+    dpi -> tunneling [color=red];
+    censor -> { tunneling alt_player usb_boot alt_device } [ color=red, constraint=false ];
+
+    {rank=same; iPad trusted_computing alt_device }
+    {rank=same; DRM alt_player }
+    {rank=same; gwf_China gwf_USA }
+}

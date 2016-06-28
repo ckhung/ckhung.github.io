@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="540"
+   height="730"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="shaman-tqa.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/shaman-tqa.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56688596"
+     inkscape:cx="334.5"
+     inkscape:cy="276.92392"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-488.35715,-262.81415)">
+    <image
+       y="256.36218"
+       x="488.35715"
+       id="image3076"
+       xlink:href="file:///home/ckhung/public_html/m/13/shaman.jpg"
+       height="736.45197"
+       width="540.22632" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="754.72467"
+       y="332.21515"
+       id="text3079"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3081"
+         x="754.72467"
+         y="332.21515">怎麼樣, 教授,</tspan><tspan
+         sodipodi:role="line"
+         x="754.72467"
+         y="362.21515"
+         id="tspan3083">準備好要來跟我學一些</tspan><tspan
+         sodipodi:role="line"
+         x="754.72467"
+         y="392.21515"
+         id="tspan2992">比 「教學品保量化指標」</tspan><tspan
+         sodipodi:role="line"
+         x="754.72467"
+         y="422.21515"
+         id="tspan3085">更科學的事了嗎?</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 368.68085,273.4236 c 0,0 141.59455,-41.22114 158.7621,-70.56093 C 544.61049,173.52288 529.20696,56.448742 508.03868,42.336556 486.87041,28.224371 308.70406,14.112186 275.18762,37.044487 237.30999,63.772319 227.73411,163.32614 271.65957,183.45842 c 43.92546,20.13228 156.99807,14.11218 156.99807,14.11218 0,0 29.42614,18.40881 -6.26502,42.913 -35.69115,24.50418 -53.71177,32.94 -53.71177,32.94 z"
+       id="path3087"
+       inkscape:connector-curvature="0"
+       transform="translate(488.35715,256.36218)"
+       sodipodi:nodetypes="czzczcsc" />
+  </g>
+</svg>

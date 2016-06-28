@@ -1,0 +1,49 @@
+// dot -Tsvg p2p.dot -o p2p.svg
+graph "P2P" {
+
+    overlap = scale;
+
+    P01 [
+	label="Alice",
+    ];
+
+    P02 [
+	label="Bob",
+    ];
+
+    P03 [
+	label="Charles",
+    ];
+
+    P04 [
+	label="Diane",
+    ];
+
+    P05 [
+	label="Edward",
+    ];
+
+    P06 [
+	label="Fiona",
+    ];
+
+    P07 [
+	label="Grace",
+    ];
+
+    P01 -- P02;
+    P01 -- P03;
+    P01 -- P05;
+    P01 -- P06;
+    P02 -- P03;
+    P02 -- P04;
+    P02 -- P06;
+    P02 -- P07;
+    P03 -- P05;
+    P03 -- P06;
+    P04 -- P06;
+    P04 -- P07;
+    P05 -- P06;
+    P05 -- P07;
+}
+

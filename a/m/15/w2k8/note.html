@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link type="text/css" rel="stylesheet" href="../../../i/core.css" />
+<link type="text/css" rel="stylesheet"
+title="user-defined Style" href="../../../i/light.css" />
+</head>
+<body>
+<ol>
+<li>The following is based on the gentoo page <a href=
+"https://wiki.gentoo.org/wiki/QEMU/Windows_guest">
+QEMU/Windows guest</a> with some modifications.
+<li>Testing environment: lubuntu 15.04, qemu-kvm 1:2.2+dfsg-5.
+<li>define this in your ~/.bashrc
+<pre class="code">
+function mywkvm() {
+    img=$1
+    shift
+    mykvm -drive file=$img,if=virtio -netdev user,id=net0 -device rtl8139,netdev=net0 $@
+}
+</pre>
+<li>the first invocation for installation from cdrom:
+<code>mywkvm .../winsrv08.qcow2 -boot d -drive file=.../win-server-2008.iso,media=cdrom -drive file=.../virtio-win.iso,media=cdrom
+<li>Note: it is not enough to choose the virtio driver cdrom.
+You must choose the specific directory as in <a href=
+"install-4.jpg">install-4.jpg</a>.
+<li>an invocation for sharing two usb devices:
+<code>mywkvm .../winsrv08.qcow2 -drive file=.../virtio-win.iso,media=cdrom -usb -usbdevice host:auto:*.*:0b05:5601 -usbdevice host:auto:*.*:090c:1000</code>
+The ":auto" part allows dynamic insertion of usb devices
+into the guest. See <a href=
+"http://david.wragg.org/blog/2009/03/usb-pass-through-with-libvirt-and-kvm.html">
+David Wragg's post</a> and <a href=
+"http://www.linux-kvm.org/images/f/fe/2010-forum-armbru-qdev.pdf">
+kvm forum pdf</a>. Note: the "*.*:" must be present.
+</ol>
+</body>

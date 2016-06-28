@@ -1,0 +1,8 @@
+set xdata time
+set timefmt '%m/%d:%H'
+set style data filledcurves x1
+set xrange ['06/15:06':'06/29:06']
+# set logscale
+plot "traffic.txt" using 2:1
+set term svg ; set output "traffic.svg" ; replot
+set term x11 ; set output; replot

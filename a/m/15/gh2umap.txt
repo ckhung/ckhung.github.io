@@ -1,0 +1,12 @@
+#!/bin/bash
+# usage: gh2umap directions.gpx > directions.geojson
+
+TMPDIR=/tmp/$$
+mkdir $TMPDIR
+ogr2ogr -f geojson $TMPDIR/tr.geojson $1 tracks
+jq '.features' $TMPDIR/tr.geojson > $TMPDIR/tracks.geojson
+ogr2ogr -f geojson $TMPDIR/rp.geojson $1 route_points
+opencc < $TMPDIR/rp.geojson | jq '.features | map(.properties+={_storage_options: {"iconClass": "Ball"}} | .properties.name=.properties.desc )' > $TMPDIR/route_points.geojson
+jq -s '.[0] + .[1]' $TMPDIR/tracks.geojson $TMPDIR/route_points.geojson
+rm -rf $TMPDIR
+

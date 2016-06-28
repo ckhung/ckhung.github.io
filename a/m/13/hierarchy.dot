@@ -1,0 +1,36 @@
+// twopi -Tsvg hierarchy.dot -o hierarchy.svg
+digraph "樹狀結構" {
+
+    overlap = scale;
+
+    principal [ label="校長" ];
+
+    d_management [ label="管理學院院長" ];
+	h_finance [ label="企管系主任" ];
+	h_leisure [ label="休閒系主任" ];
+	h_marketing [ label="行銷系主任" ];
+    d_engineering [ label="理工學院院長" ];
+	h_construction [ label="營建系主任" ];
+	h_chemistry [ label="應化系主任" ];
+	h_environment [ label="環工系主任" ];
+    d_design [ label="設計學院院長" ];
+	h_visual [ label="視傳系主任" ];
+	h_industrial [ label="工設系主任" ];
+	h_urban [ label="都設系主任" ];
+    d_humanities [ label="人文社會學院院長" ];
+	h_language [ label="應外系主任" ];
+	h_social [ label="社工系主任" ];
+	h_childhood [ label="幼保系主任" ];
+    d_info [ label="資訊學院院長" ];
+	h_im [ label="資管系主任" ];
+	h_csie [ label="資工系主任" ];
+	h_ice [ label="資通系主任" ];
+
+    principal -> { d_management d_info d_engineering d_humanities d_design }
+    d_management -> { h_finance h_leisure h_marketing }
+    d_engineering -> { h_construction h_chemistry h_environment }
+    d_design -> { h_visual h_industrial h_urban }
+    d_humanities -> { h_language h_social h_childhood }
+    d_info -> { h_im h_csie h_ice }
+}
+

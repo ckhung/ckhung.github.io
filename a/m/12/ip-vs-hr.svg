@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="ip-vs-hr.svg"
+   inkscape:export-filename="/home/ckhung/public_html/m/12/ip-vs-hr.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="372.14286"
+     inkscape:cy="199.27468"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="928"
+     inkscape:window-height="670"
+     inkscape:window-x="306"
+     inkscape:window-y="272"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136,1021.3622 c 0,0 68,-13 98,-39.00002 30,-26 65,-83 65,-83 0,0 42,59 59,81 17,22.00002 101,51.00002 101,51.00002"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsc" />
+    <path
+       sodipodi:type="arc"
+       id="path2987"
+       sodipodi:cx="290.5"
+       sodipodi:cy="65"
+       sodipodi:rx="12.5"
+       sodipodi:ry="12"
+       d="m 303,65 c 0,6.627417 -5.59644,12 -12.5,12 -6.90356,0 -12.5,-5.372583 -12.5,-12 0,-6.627417 5.59644,-12 12.5,-12 6.90356,0 12.5,5.372583 12.5,12 z"
+       transform="translate(6,799.36218)" />
+    <g
+       id="g5439"
+       transform="matrix(-0.26758179,-0.33620133,0.28729932,-0.2286608,-343.69049,1096.9604)">
+      <g
+         transform="matrix(1.2311028,0,0,1.2311028,-513.74536,545.61839)"
+         id="g3915-6-1-6-3-8-9-4">
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:4.06139946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 89.470687,1065.8714 c 3.726832,6.1263 -0.483788,10.0494 -6.15995,12.9466 -8.030164,4.0988 -27.897855,2.1019 -34.699927,-2.0136 -6.24272,-3.777 -9.012804,-9.3495 -6.040333,-14.1838"
+           id="path3894-6-1-0-5-5-2-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.06139946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m -3.6039608,1025.5673 c -4.0486146,8.0173 9.8170489,12.9895 25.0171498,15.7981 5.902172,1.0905 17.50727,20.951 31.304985,25.6974 8.976723,3.088 29.32616,3.8464 36.493957,-1.431 12.273189,-9.0365 18.480019,-20.6858 21.285449,-35.0876 0.99446,-5.1051 1.24732,-10.936 0.95737,-15.7018 -0.95222,-15.65135 12.95053,-53.66571 11.88223,-57.67679 -2.96832,-11.145 -15.87303,-4.61428 -18.56312,2.55056 -1.30297,3.47036 -13.855983,27.80776 -13.930129,23.14913 -0.182155,-11.44493 0.976802,-25.24346 2.815633,-38.21043 2.75165,-19.40393 -24.340771,-14.51303 -26.731104,3.68233 -1.11979,8.52391 -3.056466,15.50931 -5.109029,34.59012 -3.145876,-10.27557 -8.431218,-25.0361 -10.205324,-35.2396 -2.925492,-16.82552 -27.057045,-6.73957 -23.047657,13.75845 2.730375,13.95905 10.400813,38.57153 9.201296,62.82723 -9.42479,-7.8585 -29.1601036,-22.8885 -41.3717068,1.2939 z"
+           id="path3112-2-8-6-8-2-9-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sssssssscsscsscs" />
+        <path
+           sodipodi:nodetypes="ccscc"
+           inkscape:connector-curvature="0"
+           id="path3882-6-1-33-9-9-7-9"
+           d="m 59.575715,982.54299 c 3.036906,12.66113 7.491675,18.46491 9.149472,21.41991 -2.120425,-7.88684 -2.867853,-9.83062 -4.493955,-18.41483 -0.275702,-1.45543 -0.356716,-3.19808 -0.116408,-5.32482 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.78096485;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           sodipodi:nodetypes="ccscc"
+           inkscape:connector-curvature="0"
+           id="path3884-6-1-2-9-6-6-0"
+           d="m 88.814715,982.9732 c 0.126744,7.63298 2.111509,16.80709 4.971366,22.534 -0.131079,-4.1659 -0.418577,-11.32258 -0.741655,-17.65129 -0.08762,-1.71641 0.253662,-3.27038 1.660858,-5.27111 -1.926583,0.5414 -3.911294,0.38456 -5.890569,0.3884 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.78096485;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.06139946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 79.641568,1058.2706 c 4.036934,-9.6783 3.975985,-12.4651 5.195081,-17.4048"
+           id="path3886-8-5-4-3-7-0-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.06139946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 70.260373,1058.9664 c 1.692214,-11.4747 1.424195,-17.1521 1.855536,-24.8979"
+           id="path3888-4-4-9-8-4-7-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.06139946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 59.041477,1059.499 c 0.0971,-7.9806 -0.598866,-11.7536 -1.048961,-16.8311"
+           id="path3890-1-8-5-1-8-9-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+       x="62"
+       y="947.36218"
+       id="text3060"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3062"
+         x="62"
+         y="947.36218">實體財產權</tspan><tspan
+         sodipodi:role="line"
+         x="62"
+         y="969.86218"
+         id="tspan3064">私密通訊權</tspan><tspan
+         sodipodi:role="line"
+         x="62"
+         y="992.36218"
+         id="tspan3070">言論自由</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+       x="415"
+       y="991.36218"
+       id="text3066"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3068"
+         x="415"
+         y="991.36218">著作權</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+       x="230"
+       y="1023.3622"
+       id="text2999"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="230"
+         y="1023.3622">Internet</tspan></text>
+  </g>
+</svg>

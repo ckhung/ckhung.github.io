@@ -1,0 +1,31 @@
+#!/usr/bin/php
+<?php
+require_once 'QueryPath/QueryPath.php';
+# date_default_timezone_set('Asia/Taipei');
+
+# http://www.ibm.com/developerworks/web/library/os-php-querypath/index.html
+# https://github.com/technosophos/querypath/tree/master/examples
+
+$opts = getopt('f:s:t:v:');
+$in_file = $opts['f'];
+$selector = $opts['s'];
+if (! array_key_exists('v', $opts)) $opts['v'] = 1;
+$is_html = array_key_exists('t', $opts) ?
+    # use value specified by -t if it is present
+    preg_match('/^html?$/', $opts['t']) :
+    # otherwise judge document type from file extension
+    preg_match('/\.html?|php$/', $in_file);
+if ($opts['v'] > 0)
+    fprintf(STDERR, "processing file '$in_file' as an %s file, looking for '$selector' tags...\n", $is_html ? "html" : "xml");
+$qp = $is_html ? htmlqp($in_file) : qp($in_file);
+foreach ($qp->find($selector) as $item) {
+    $new_text = preg_replace('/\n/', ' ',
+	$is_html ? $item->html() : $item->xml());
+    $item->attr("original_multi_line_form", "yes");
+    $item->after($new_text);
+}
+$qp->parent()->remove('[original_multi_line_form="yes"]');
+$qp->top();
+echo($is_html ? $qp->html() : $qp->xml());
+
+?>

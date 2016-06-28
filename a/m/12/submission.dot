@@ -1,0 +1,106 @@
+digraph "Chinamerica 的統一防火長城: 臺灣是首選測試省份" {
+
+    rankdir=LR;
+
+    content_industry [
+	label="數位內容產業",
+	color=red,
+    ];
+
+    DRM [
+	label="DRM\n(遙控數位枷鎖)",
+	color=red,
+    ];
+
+    trusted_computing [
+	label="TC 信任運算\n(含安全開機)",
+	color=red,
+    ];
+
+    anti_circumvention [
+	label="反規避條款\n(禁止越獄或逆向工程)",
+	color=red,
+    ];
+
+    dpi [
+	label="Deep Packet Inspection\n深度封包檢測",
+	color=red,
+    ];
+
+    gwf_China [
+	label="中國防火長城\n(金盾工程等等)",
+	color=red,
+    ];
+
+    gwf_USA [
+	label="美國防火長城\n(SOPA 等等)",
+	color=red,
+    ];
+
+    gov_edit [
+	label="筆硯文書\n(IE only)",
+	color=red,
+    ];
+
+    censor [
+	label="言論管制",
+	color=red,
+    ];
+
+    iPad [
+	label="iPad",
+	color=red,
+    ];
+
+    patent [
+	label="專利",
+	color=red,
+    ];
+
+    suppress_clone [
+	label="「仿冒」污名化「山寨」",
+	color=red,
+    ];
+
+    alt_player [
+	label="尊重消費者自主權\n的替代播放軟體",
+	color=blue,
+    ];
+
+    alt_device [
+	label="尊重消費者自主權\n的替代硬體",
+	color=blue,
+    ];
+
+    usb_boot [
+	label="百毒不侵救命碟",
+	color=blue,
+    ];
+
+    tunneling [
+	label="各種翻牆技術",
+	color=blue,
+    ];
+
+    content_industry -> { DRM iPad trusted_computing patent dpi
+	suppress_clone anti_circumvention gwf_China gwf_USA } [color=red];
+    { iPad trusted_computing } -> DRM [color=red, constraint=false];
+    DRM -> { gwf_China gwf_USA } [color=red];
+    { iPad trusted_computing } -> alt_player [color=red];
+    { gov_edit iPad trusted_computing } -> gwf_USA [color=red];
+    usb_boot -> tunneling [ color=blue ];
+    alt_device -> { usb_boot tunneling alt_player } [ color=blue ];
+    { tunneling usb_boot } -> { gwf_China gwf_USA } [ color=blue ];
+    alt_player -> DRM [ color=blue ];
+    anti_circumvention -> { usb_boot tunneling alt_player } [color=red];
+    { patent suppress_clone } -> { alt_device alt_player } [color=red];
+    { iPad trusted_computing } -> { tunneling usb_boot } [color=red];
+    gov_edit -> usb_boot [color=red];
+    { gwf_China gwf_USA } -> { censor } [ color=red ];
+    dpi -> tunneling [color=red];
+    censor -> { tunneling alt_player usb_boot alt_device } [ color=red, constraint=false ];
+
+    {rank=same; iPad trusted_computing alt_device }
+    {rank=same; DRM alt_player }
+    {rank=same; gwf_China gwf_USA }
+}

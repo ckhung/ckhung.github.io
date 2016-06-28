@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Ireland 2014</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Ireland 2014</name>
+			<Placemark>
+				<name>6/30 Enterprise Rent-A-Car</name>
+				<styleUrl>#icon-1431-nodesc</styleUrl>
+				<Point>
+					<coordinates>-6.245054999999979,53.427273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6/30 Derrymore House</name>
+				<description><![CDATA[53° 0' 33.81" N 6° 20' 22.45" W<br>http://www.glendaloughaccommodation.com/location.html]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-6.339569444444464,53.009391666666666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/02 Rockville House B&amp;B, Cashel</name>
+				<description><![CDATA[52.51889 N, 7.88821 W<br>http://www.bandbireland.com/accommodation/26008/rockville-house]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-7.888209999999958,52.518890000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/05 ??? Rocklands House B&amp;B</name>
+				<description><![CDATA[http://www.kinsaletown.com/map.htm]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-8.521788000000015,51.702225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/07 ForgeField House B &amp; B, Kenmare</name>
+				<description><![CDATA[N 51.887061, W 9.549125<br>http://forgefieldhouse.eu.com/findus.html]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-9.549125000000004,51.887061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/09 ? Brownes Bed &amp; Breakfast</name>
+				<description><![CDATA[http://www.brownesdingle.com/locationDingle.html]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-10.297031999999945,52.139263,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/12 Riverdale Farmhouse, Doolin</name>
+				<description><![CDATA[N 53.023331 , W 9.347070<br>http://www.riverdaledoolin.com/bed_breakfast_accommodation_directions.html]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-9.34707000000003,53.023331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/14 Adare House Bed &amp; Breakfast, Westport</name>
+				<description><![CDATA[53.79848, -9.53697<br>http://www.adarehouse.ie/?pagid=contact]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-9.536969999999997,53.79848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/15 Teach Cruachan Bed &amp; Breakfast, Achill island</name>
+				<description><![CDATA[53.97416, -10.13291<br>http://www.teachcruachan.com/location.html]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-10.132910000000038,53.97416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(maybe wrong?) Caw Cottage B&amp;B</name>
+				<styleUrl>#icon-1197-nodesc</styleUrl>
+				<Point>
+					<coordinates>-7.303734999999961,54.999207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/17 ? Caw Cottage, Derry </name>
+				<description><![CDATA[http://www.cawcottage.com/]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-7.297236999999996,55.00653819999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/19 ? Ashlea House, Portrush</name>
+				<description><![CDATA[55.20708, -6.65509]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-6.655089999999973,55.20708,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/22 Premier Inn Dublin Airport</name>
+				<description><![CDATA[53.44524, -6.22586<br>http://www.premier-inn-dublin-airport.com/FindUs.html]]></description>
+				<styleUrl>#icon-1197</styleUrl>
+				<Point>
+					<coordinates>-6.2258600000000115,53.44524,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Royal Ave</name>
+				<styleUrl>#icon-1207-nodesc</styleUrl>
+				<Point>
+					<coordinates>-5.931780500000059,54.6005479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Victoria St, 1</name>
+				<styleUrl>#icon-1207-nodesc</styleUrl>
+				<Point>
+					<coordinates>-5.925156099999981,54.5981682,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Donegall Quay, 5</name>
+				<styleUrl>#icon-1207-nodesc</styleUrl>
+				<Point>
+					<coordinates>-5.92202999999995,54.599959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>High St</name>
+				<styleUrl>#icon-1207-nodesc</styleUrl>
+				<Point>
+					<coordinates>-5.926154300000008,54.6002817,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hope St, 40</name>
+				<styleUrl>#icon-1207-nodesc</styleUrl>
+				<Point>
+					<coordinates>-5.934946299999979,54.5933265,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grosvenor Rd, 31</name>
+				<styleUrl>#icon-1207-nodesc</styleUrl>
+				<Point>
+					<coordinates>-5.937546500000053,54.5957138,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1197-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1197-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1197'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1197-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1197-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1197-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1197-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1197-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1197-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1197-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1207-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1207-fac-parking.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1207-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1207-fac-parking.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1207-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1207-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1207-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1431-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1431-trans-enclosed-traffic.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1431-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1431-trans-enclosed-traffic.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1431-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1431-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1431-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

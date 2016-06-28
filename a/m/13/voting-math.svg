@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="540"
+   height="540"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="voting-math.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/voting-math.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3762"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3759"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-9"
+       style="overflow:visible">
+      <path
+         id="path3759-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible">
+      <path
+         id="path3762-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.95740741"
+     inkscape:cx="270"
+     inkscape:cy="270"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-99.892534,-383.90426)">
+    <g
+       id="g4465"
+       transform="translate(93.965183,-45.957447)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4385"
+         y="625.36218"
+         x="31"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="625.36218"
+           x="31"
+           id="tspan4387"
+           sodipodi:role="line">0%    投票率   100%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4397"
+         y="491.36218"
+         x="32"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="491.36218"
+           x="32"
+           id="tspan4399"
+           sodipodi:role="line">100%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4401"
+         y="527.36218"
+         x="32"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="32"
+           x="527.36218"
+           id="tspan4403"
+           sodipodi:role="line">贊成率</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4405"
+         d="M 48.848284,603.9277 161.5,489.86218 l 0,113.5 z"
+         style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4407"
+         d="M 162,603.36218 49,604.21046 161,546.36218 z"
+         style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 72.986663,513.24351 c 1.000967,5.14881 2.205198,10.2599 3.303507,15.39345 0.974725,4.22284 1.389065,8.55688 2.338281,12.78389 0.446421,1.98798 0.859441,3.69645 1.942866,5.41866 0.314469,0.49988 0.774541,0.89172 1.161811,1.33758 2.993381,1.65669 5.110948,-0.0548 7.342701,-1.63142 6.057236,-4.45022 10.206261,-10.90259 14.160051,-17.16774 4.22456,-7.03976 7.97569,-14.35155 11.41053,-21.80486 1.44343,-3.72278 2.69355,-7.54088 3.66994,-11.41573 0,0 1.72376,-0.82512 1.72376,-0.82512 l 0,0 c -0.98992,3.89146 -2.24688,7.72914 -3.70016,11.46869 -3.49468,7.47819 -7.33293,14.79766 -11.5532,21.89331 -3.89178,6.24388 -7.963401,12.7032 -13.954229,17.15794 -2.289349,1.64082 -6.267199,4.89556 -9.410917,3.99146 -0.476421,-0.13702 -0.879924,-0.45688 -1.319886,-0.68531 -0.384859,-0.46619 -0.843004,-0.88052 -1.154576,-1.39857 -1.053184,-1.75112 -1.462062,-3.50221 -1.895311,-5.49922 -0.918328,-4.23292 -1.320351,-8.56741 -2.324055,-12.78486 -1.12784,-5.10285 -2.352791,-10.17795 -3.475205,-15.27711 0,0 1.734092,-0.95504 1.734092,-0.95504 z"
+         id="path4415"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4461"
+         y="505.36218"
+         x="77"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="505.36218"
+           x="77"
+           id="tspan4463"
+           sodipodi:role="line">(A)</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path2985"
+         d="m 49,489.36218 0,115 113,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    </g>
+    <g
+       id="g4493"
+       transform="translate(-125.25581,133.99287)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="249.2321"
+         y="609.11462"
+         id="text4433"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4435"
+           x="249.2321"
+           y="609.11462">0%    投票率   100%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="250.2321"
+         y="475.11459"
+         id="text4437"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4439"
+           x="250.2321"
+           y="475.11459">100%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="250.2321"
+         y="511.11459"
+         id="text4441"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4443"
+           x="511.11459"
+           y="250.2321">贊成率</tspan></text>
+      <path
+         style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 267.64592,587.96288 112.08619,-114.34828 0,113.5 z"
+         id="path4445"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 379.93874,587.40797 -112.42387,0.83767 28.53651,-28.86022 83.59171,-28.66739 z"
+         id="path4447"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4449"
+         d="m 291.21877,496.99593 c 1.00097,5.14881 2.2052,10.2599 3.30351,15.39345 0.97472,4.22284 1.38906,8.55688 2.33828,12.78389 0.44642,1.98798 0.85944,3.69645 1.94287,5.41866 0.31447,0.49988 0.77454,0.89172 1.16181,1.33758 2.99338,1.65669 5.11095,-0.0548 7.3427,-1.63142 6.05723,-4.45022 10.20626,-10.90259 14.16005,-17.16774 4.22456,-7.03976 7.97569,-14.35155 11.41053,-21.80486 1.44343,-3.72278 2.69355,-7.54088 3.66994,-11.41573 0,0 1.72376,-0.82512 1.72376,-0.82512 l 0,0 c -0.98992,3.89146 -2.24688,7.72914 -3.70016,11.46869 -3.49468,7.47819 -7.33293,14.79766 -11.5532,21.89331 -3.89178,6.24388 -7.9634,12.7032 -13.95423,17.15794 -2.28935,1.64082 -6.2672,4.89556 -9.41092,3.99146 -0.47642,-0.13702 -0.87992,-0.45688 -1.31988,-0.68531 -0.38486,-0.46619 -0.84301,-0.88052 -1.15458,-1.39857 -1.05318,-1.75112 -1.46206,-3.50221 -1.89531,-5.49922 -0.91833,-4.23292 -1.32035,-8.56741 -2.32405,-12.78486 -1.12784,-5.10285 -2.3528,-10.17795 -3.47521,-15.27711 0,0 1.73409,-0.95504 1.73409,-0.95504 z"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4489"
+         y="493.11459"
+         x="298.23212"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="493.11459"
+           x="298.23212"
+           id="tspan4491"
+           sodipodi:role="line">(D)</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 267.23211,473.1146 0,115 113,0"
+         id="path4431"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g4507"
+       transform="translate(90.257579,117.74528)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4511"
+         y="625.36218"
+         x="209"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="625.36218"
+           x="209"
+           id="tspan4513"
+           sodipodi:role="line">0%    投票率   100%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4515"
+         y="491.36218"
+         x="210"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="491.36218"
+           x="210"
+           id="tspan4517"
+           sodipodi:role="line">100%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4519"
+         y="527.36218"
+         x="210"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="210"
+           x="527.36218"
+           id="tspan4521"
+           sodipodi:role="line">贊成率</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4523"
+         d="M 227.13104,604.21046 339.5,489.86218 l 0,113.5 z"
+         style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cczcc"
+         inkscape:connector-curvature="0"
+         id="path4525"
+         d="m 339,602.36218 -111.71724,1.56552 c 0,0 25.88589,-25.73268 57.21724,-43.06552 31.33135,-17.33284 54.5,-17.5 54.5,-17.5 z"
+         style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 250.98666,513.24351 c 1.00097,5.14881 2.2052,10.2599 3.30351,15.39345 0.97472,4.22284 1.38906,8.55688 2.33828,12.78389 0.44642,1.98798 0.85944,3.69645 1.94287,5.41866 0.31447,0.49988 0.77454,0.89172 1.16181,1.33758 2.99338,1.65669 5.11095,-0.0548 7.3427,-1.63142 6.05723,-4.45022 10.20626,-10.90259 14.16005,-17.16774 4.22456,-7.03976 7.97569,-14.35155 11.41053,-21.80486 1.44343,-3.72278 2.69355,-7.54088 3.66994,-11.41573 0,0 1.72376,-0.82512 1.72376,-0.82512 l 0,0 c -0.98992,3.89146 -2.24688,7.72914 -3.70016,11.46869 -3.49468,7.47819 -7.33293,14.79766 -11.5532,21.89331 -3.89178,6.24388 -7.9634,12.7032 -13.95423,17.15794 -2.28935,1.64082 -6.2672,4.89556 -9.41092,3.99146 -0.47642,-0.13702 -0.87992,-0.45688 -1.31988,-0.68531 -0.38486,-0.46619 -0.84301,-0.88052 -1.15458,-1.39857 -1.05318,-1.75112 -1.46206,-3.50221 -1.89531,-5.49922 -0.91833,-4.23292 -1.32035,-8.56741 -2.32405,-12.78486 -1.12784,-5.10285 -2.3528,-10.17795 -3.47521,-15.27711 0,0 1.73409,-0.95504 1.73409,-0.95504 z"
+         id="path4527"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="258"
+         y="509.36218"
+         id="text4529"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4531"
+           x="258"
+           y="509.36218">(E)</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4509"
+         d="m 227,489.36218 0,115 111.58619,-1.69657"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="203.86552"
+       y="418.26923"
+       id="text3046"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3048"
+         x="203.86552"
+         y="418.26923">單調遞增觀點篩選合理表決機制</tspan></text>
+    <g
+       transform="translate(90.820111,-45.957447)"
+       id="g3050">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3052"
+         y="625.36218"
+         x="209"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="625.36218"
+           x="209"
+           id="tspan3054"
+           sodipodi:role="line">0%    投票率   100%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3056"
+         y="491.36218"
+         x="210"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="491.36218"
+           x="210"
+           id="tspan3058"
+           sodipodi:role="line">100%</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3060"
+         y="527.36218"
+         x="210"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="210"
+           x="527.36218"
+           id="tspan3062"
+           sodipodi:role="line">贊成率</tspan></text>
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3064"
+         d="M 227.41381,604.21046 339.5,489.86218 l 0,113.5 z"
+         style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3066"
+         d="m 340,603.36218 -112.71724,1.13104 56.12566,-57.28938 56.29707,-0.17101 z"
+         style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 250.98666,513.24351 c 1.00097,5.14881 2.2052,10.2599 3.30351,15.39345 0.97472,4.22284 1.38906,8.55688 2.33828,12.78389 0.44642,1.98798 0.85944,3.69645 1.94287,5.41866 0.31447,0.49988 0.77454,0.89172 1.16181,1.33758 2.99338,1.65669 5.11095,-0.0548 7.3427,-1.63142 6.05723,-4.45022 10.20626,-10.90259 14.16005,-17.16774 4.22456,-7.03976 7.97569,-14.35155 11.41053,-21.80486 1.44343,-3.72278 2.69355,-7.54088 3.66994,-11.41573 0,0 1.72376,-0.82512 1.72376,-0.82512 l 0,0 c -0.98992,3.89146 -2.24688,7.72914 -3.70016,11.46869 -3.49468,7.47819 -7.33293,14.79766 -11.5532,21.89331 -3.89178,6.24388 -7.9634,12.7032 -13.95423,17.15794 -2.28935,1.64082 -6.2672,4.89556 -9.41092,3.99146 -0.47642,-0.13702 -0.87992,-0.45688 -1.31988,-0.68531 -0.38486,-0.46619 -0.84301,-0.88052 -1.15458,-1.39857 -1.05318,-1.75112 -1.46206,-3.50221 -1.89531,-5.49922 -0.91833,-4.23292 -1.32035,-8.56741 -2.32405,-12.78486 -1.12784,-5.10285 -2.3528,-10.17795 -3.47521,-15.27711 0,0 1.73409,-0.95504 1.73409,-0.95504 z"
+         id="path3068"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="258"
+         y="509.36218"
+         id="text3070"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3072"
+           x="258"
+           y="509.36218">(B)</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3074"
+         d="m 227,489.36218 0,115 113,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    </g>
+    <g
+       transform="translate(443.67505,-45.957447)"
+       id="g3866">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="31"
+         y="625.36218"
+         id="text3868"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3870"
+           x="31"
+           y="625.36218">0%    投票率   100%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="32"
+         y="491.36218"
+         id="text3872"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3874"
+           x="32"
+           y="491.36218">100%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="32"
+         y="527.36218"
+         id="text3876"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3878"
+           x="527.36218"
+           y="32">贊成率</tspan></text>
+      <path
+         sodipodi:nodetypes="cccc"
+         style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 48.848284,603.9277 161.5,489.86218 l 0,113.5 z"
+         id="path3880"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 162,603.36218 -113,0.84828 112.59897,-71.3257 z"
+         id="path3882"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3884"
+         d="m 72.986663,513.24351 c 1.000967,5.14881 2.205198,10.2599 3.303507,15.39345 0.974725,4.22284 1.389065,8.55688 2.338281,12.78389 0.446421,1.98798 0.859441,3.69645 1.942866,5.41866 0.314469,0.49988 0.774541,0.89172 1.161811,1.33758 2.993381,1.65669 5.110948,-0.0548 7.342701,-1.63142 6.057236,-4.45022 10.206261,-10.90259 14.160051,-17.16774 4.22456,-7.03976 7.97569,-14.35155 11.41053,-21.80486 1.44343,-3.72278 2.69355,-7.54088 3.66994,-11.41573 0,0 1.72376,-0.82512 1.72376,-0.82512 l 0,0 c -0.98992,3.89146 -2.24688,7.72914 -3.70016,11.46869 -3.49468,7.47819 -7.33293,14.79766 -11.5532,21.89331 -3.89178,6.24388 -7.963401,12.7032 -13.954229,17.15794 -2.289349,1.64082 -6.267199,4.89556 -9.410917,3.99146 -0.476421,-0.13702 -0.879924,-0.45688 -1.319886,-0.68531 -0.384859,-0.46619 -0.843004,-0.88052 -1.154576,-1.39857 -1.053184,-1.75112 -1.462062,-3.50221 -1.895311,-5.49922 -0.918328,-4.23292 -1.320351,-8.56741 -2.324055,-12.78486 -1.12784,-5.10285 -2.352791,-10.17795 -3.475205,-15.27711 0,0 1.734092,-0.95504 1.734092,-0.95504 z"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="77"
+         y="505.36218"
+         id="text3886"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3888"
+           x="77"
+           y="505.36218">(C)</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 49,489.36218 0,115 113,0"
+         id="path3890"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="465.02188"
+       y="259.94635"
+       id="text3068"
+       sodipodi:linespacing="125%"
+       transform="translate(55.908095,380.78372)"><tspan
+         sodipodi:role="line"
+         id="tspan3070"
+         x="465.02188"
+         y="259.94635" /></text>
+    <g
+       id="g3869"
+       transform="translate(17.756286,-14.622824)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="456.78256"
+         y="757.73029"
+         id="text4537"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4539"
+           x="456.78256"
+           y="757.73029">0%    投票率   100%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="457.78256"
+         y="623.73029"
+         id="text4541"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4543"
+           x="457.78256"
+           y="623.73029">100%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         x="457.78256"
+         y="659.73029"
+         id="text4545"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4547"
+           x="659.73029"
+           y="457.78256">贊成率</tspan></text>
+      <path
+         style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 475.19637,736.57856 112.08619,-114.34828 0,113.5 z"
+         id="path4549"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 587.06532,736.42685 -112.56552,0.43447 59.23727,-60.09634 0.72247,27.17794 52.32302,-28.21265 z"
+         id="path4551"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4555"
+         y="641.73029"
+         x="505.78253"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="641.73029"
+           x="505.78253"
+           id="tspan4557"
+           sodipodi:role="line">(F)</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 474.78256,621.73028 0,115 112.15172,-0.56552"
+         id="path4535"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 489.29565,644.42667 c 0,0 9.63874,5.74902 15.58636,10.56703 5.94761,4.81801 17.83185,21.13405 17.83185,21.92658"
+         id="path3080"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 525.4877,648.91766 c 0,0 -16.13987,7.11443 -22.85119,11.09538 -6.71132,3.98094 -20.47361,17.43558 -20.47361,17.43558"
+         id="path3082"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3864"
+         sodipodi:cx="292.84332"
+         sodipodi:cy="312.95938"
+         sodipodi:rx="6.5764022"
+         sodipodi:ry="22.823984"
+         d="m 299.41972,312.95938 c 0,12.60534 -2.94435,22.82399 -6.5764,22.82399 -3.63204,0 -6.5764,-10.21865 -6.5764,-22.82399 0,-12.60534 2.94436,-22.82398 6.5764,-22.82398 3.63205,0 6.5764,10.21864 6.5764,22.82398 z"
+         transform="translate(240.32895,376.3259)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3071"
+         y="661.51929"
+         x="526.40082"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="661.51929"
+           x="526.40082"
+           id="tspan3073"
+           sodipodi:role="line">不及格!</tspan></text>
+    </g>
+    <g
+       id="g3138"
+       transform="translate(17.756286,-14.622824)">
+      <g
+         transform="translate(74.595659,297.35461)"
+         id="g4465-3">
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="31"
+           y="625.36218"
+           id="text4385-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4387-4"
+             x="31"
+             y="625.36218">0%    投票率   100%</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="32"
+           y="491.36218"
+           id="text4397-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4399-4"
+             x="32"
+             y="491.36218">100%</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+           x="32"
+           y="527.36218"
+           id="text4401-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4403-6"
+             x="527.36218"
+             y="32">贊成率</tspan></text>
+        <path
+           sodipodi:nodetypes="cccc"
+           style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 48.848284,603.9277 161.5,489.86218 l 0,113.5 z"
+           id="path4405-4"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 162,603.36218 49,604.21046 76.640534,575.72923 107.87573,575.28632 161,546.36218 z"
+           id="path4407-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path4415-4"
+           d="m 72.986663,513.24351 c 1.000967,5.14881 2.205198,10.2599 3.303507,15.39345 0.974725,4.22284 1.389065,8.55688 2.338281,12.78389 0.446421,1.98798 0.859441,3.69645 1.942866,5.41866 0.314469,0.49988 0.774541,0.89172 1.161811,1.33758 2.993381,1.65669 5.110948,-0.0548 7.342701,-1.63142 6.057236,-4.45022 10.206261,-10.90259 14.160051,-17.16774 4.22456,-7.03976 7.97569,-14.35155 11.41053,-21.80486 1.44343,-3.72278 2.69355,-7.54088 3.66994,-11.41573 0,0 1.72376,-0.82512 1.72376,-0.82512 l 0,0 c -0.98992,3.89146 -2.24688,7.72914 -3.70016,11.46869 -3.49468,7.47819 -7.33293,14.79766 -11.5532,21.89331 -3.89178,6.24388 -7.963401,12.7032 -13.954229,17.15794 -2.289349,1.64082 -6.267199,4.89556 -9.410917,3.99146 -0.476421,-0.13702 -0.879924,-0.45688 -1.319886,-0.68531 -0.384859,-0.46619 -0.843004,-0.88052 -1.154576,-1.39857 -1.053184,-1.75112 -1.462062,-3.50221 -1.895311,-5.49922 -0.918328,-4.23292 -1.320351,-8.56741 -2.324055,-12.78486 -1.12784,-5.10285 -2.352791,-10.17795 -3.475205,-15.27711 0,0 1.734092,-0.95504 1.734092,-0.95504 z"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="77"
+           y="505.36218"
+           id="text4461-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4463-7"
+             x="77"
+             y="505.36218">(G)</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+           d="m 49,489.36218 0,115 113,0"
+           id="path2985-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+      </g>
+    </g>
+  </g>
+</svg>

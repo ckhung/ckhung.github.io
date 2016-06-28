@@ -1,0 +1,6 @@
+set style data linespoints
+set key noautotitle
+plot "party-vote.txt" using 1 title "2008" lt 1, "party-vote.txt" using 2 title "2012" lt 2, 5 lt 3
+set output "party-vote.svg"
+set term svg
+replot

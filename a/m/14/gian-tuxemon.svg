@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="522"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="gian-tuxemon.svg"
+   inkscape:export-filename="/home/ckhung/public_html/m/14/gian-tuxemon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.30875"
+     inkscape:cx="401.52818"
+     inkscape:cy="261"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1220"
+     inkscape:window-height="877"
+     inkscape:window-x="234"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-531.42859,-497.07648)">
+    <image
+       y="497.07648"
+       x="531.42859"
+       id="image3402"
+       xlink:href="file:///home/ckhung/public_html/m/14/lego-chicago.jpg"
+       height="522"
+       width="800" />
+    <image
+       y="515.75079"
+       x="551.66492"
+       id="image3483"
+       xlink:href="file:///home/ckhung/public_html/m/14/gian.png"
+       height="212"
+       width="175" />
+    <image
+       y="630.52246"
+       x="880.21948"
+       id="image3596"
+       xlink:href="file:///home/ckhung/public_html/m/14/tuxemon.png"
+       height="344.63419"
+       width="344.63419" />
+    <path
+       style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.75072,92.582617 c 0,0 26.01798,-12.070203 32.85577,-21.394461 8.40497,-11.461313 1.52818,-48.901623 7.64088,-60.362941 6.11271,-11.46131796 133.02335,-9.2209957 139.064,-0.764088 7.64087,10.69723 5.34861,40.496658 -0.7641,55.778417 -4.88225,12.20563 -102.38776,4.584528 -116.90544,6.876785 -11.52057,1.81903 -61.89111,19.866288 -61.89111,19.866288 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       transform="translate(531.42859,497.07648)"
+       sodipodi:nodetypes="csssssc" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="737.7323"
+       y="529.29614"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="737.7323"
+         y="529.29614">我不想當超人了!</tspan><tspan
+         sodipodi:role="line"
+         x="737.7323"
+         y="551.79614"
+         id="tspan2991">給我別的玩具吧!</tspan></text>
+  </g>
+</svg>

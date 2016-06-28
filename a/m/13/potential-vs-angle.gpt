@@ -1,0 +1,10 @@
+d2r(x) = x/180*pi
+unset key
+set xrange [0:360]
+set xtics 60
+set label 1 "系統位能 vs 轉盤角度" at 240, 0.8
+set label 2 "角度" at 330, -0.95
+set output "potential-vs-angle.svg"
+set term svg
+plot 0.2*sin(d2r(x))+0.5*sin(2*d2r(x))+0.3*sin(7*d2r(x))
+

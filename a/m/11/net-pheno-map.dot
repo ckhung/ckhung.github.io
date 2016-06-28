@@ -1,0 +1,97 @@
+digraph "Network Phenomena Map#網路現象地圖" {
+
+    // rankdir=BT;
+    rankdir=LR;
+    edge [ fontsize=6, fontcolor=Blue ];
+    // nodesep=1.0
+    // node [color=Red,fontname=Courier]
+    // edge [color=Blue, style=dashed]
+
+    
+
+    "Internet#網際網路" -> { "$0@copy#複製零成本" "read/write#雙向流通" }
+    { "$0@copy#複製零成本" "read/write#雙向流通" } -> {
+	"information\noverflow#資訊爆炸" "web 2.0"
+    }
+    "$0@copy#複製零成本" -> {
+	"free software#自由軟體" "free culture#自由文化" "P2P"
+    }
+    "read/write#雙向流通" -> "P2P";
+    "read/write#雙向流通" -> "free software#自由軟體" [ label = "copyleft\npatch" ];
+    "free software#自由軟體" -> "SaaS"
+	[ label = "telnet/ssh/rdesktop/vnc\nwiki/cms/ltsp/drbl" ];
+    "SaaS" -> "free culture#自由文化" [ label = "wikipedia\nopen street map\ncitizen journalism\nflockdraw#維基百科\nopen street map\n公民新聞\nflockdraw" ];
+    "read/write#雙向流通" -> "free culture#自由文化" [ label = "share-alike#相同方式分享" ];
+    "information\noverflow#資訊爆炸" -> "attention\nscarcity#注意力稀有"
+	[ label = "Herbert Simon\nMichael Goldhaber" ];
+    "attention\nscarcity#注意力稀有" -> "search\nengine#搜尋引擎" 
+	[ label = "rise of google\nMS w/ yahoo#google 崛起\n微軟想買雅虎" ];
+    "attention\nscarcity#注意力稀有" -> "emotion\ndetermines\ninfo spread#情緒決定\n資訊傳導度"
+	[ label = "survival of the fittest meme#模因的適者生存" ];
+    "attention\nscarcity#注意力稀有" -> "social net. sites#社交網站"
+	[ label = "from msn to twitter/FB#從 msn 到噗浪/臉書" ];
+    "attention\nscarcity#注意力稀有" -> "free culture#自由文化"
+	[ label = "creative commons#創用 CC" ];
+    "attention\nscarcity#注意力稀有" -> "ad industry#廣告產業"
+	[ label = "facebook/google\nplacment marketing#臉書/google\n置入性行銷\n證照卓越大學\n拋售點閱率" ];
+    "emotion\ndetermines\ninfo spread#情緒決定\n資訊傳導度" -> "human flesh search#人肉搜索";
+    "emotion\ndetermines\ninfo spread#情緒決定\n資訊傳導度" -> "a whole new mind#未來在等待的人才";
+    "social net. sites#社交網站" -> "privacy lost#隱私流失"
+	[ label = "lawyers using FB\nsocial engineering#律師調用臉書資料\n社交工程"];
+    { "social net. sites#社交網站" "emotion\ndetermines\ninfo spread#情緒決定\n資訊傳導度" } -> "NPO/social biz#NPO/社會企業";
+    "free culture#自由文化" -> "long tails#長尾現象"
+	[ label = "exposure culture" ];
+    "free software#自由軟體" -> "long tails#長尾現象"
+	[ label = "democratization of\nproduction tools\ngift culture\naccessibility#創作工具民主化\ngift culture\n網站自殘" ];
+    "$0@copy#複製零成本" -> "long tails#長尾現象"
+	[ label = "democratization of\ndistribution tools#流通工具民主化" ];
+    { "search\nengine#搜尋引擎" "web 2.0" } -> "long tails#長尾現象"
+	[ label = "connecting\ndemand+supply#供需管道暢通化" ];
+    { "search\nengine#搜尋引擎" "long tails#長尾現象" "ad industry#廣告產業" } -> "SEO";
+    "SEO" -> { "free software#自由軟體" "free culture#自由文化" }
+	[ label = "creative commons#網站自殘\n創用 CC" ];
+    "attention\nscarcity#注意力稀有" -> "long tails#長尾現象"
+	[ dir=both, style=dashed,
+	  label = "reputation economy#聲譽經濟" ]
+    "ad industry#廣告產業" -> "ad-style PaaS#行銷類 PaaS"
+	[ label = "AddSense RSS\nAmazon PA API\nsite statistics#AddSense RSS\nAmazon PA API\n流量統計" ];
+    "free culture#自由文化" -> "ad-style PaaS#行銷類 PaaS"
+	[ label = "mashup\nprogrammable web\ngoogle maps mania\nYQL" ];
+    "social net. sites#社交網站"  -> "ad-style PaaS#行銷類 PaaS"
+	[ label = "'digg/twitter/like' buttons#'推/噗/讚' 按鈕" ];
+    { "social net. sites#社交網站" "emotion\ndetermines\ninfo spread#情緒決定\n資訊傳導度" } ->
+	"dirty secrets\nexposed (gov+biz)#政府與大企業\n惡行曝光";
+    "emotion\ndetermines\ninfo spread#情緒決定\n資訊傳導度" -> "streisand effect#史翠珊效應"
+	[ label = "09 F9#09 F9" ]
+    {"human flesh search#人肉搜索" "streisand effect#史翠珊效應" "SaaS"} -> "privacy lost#隱私流失"
+    "streisand effect#史翠珊效應" -> "dirty secrets\nexposed (gov+biz)#政府與大企業\n惡行曝光"
+	[ label = "Sony Rootkit\nDRM\nwikileaks\nACTA\nhttp://streisand.me/#Sony 入侵用戶電腦\n遙控數位枷鎖\n維基解密\nACTA 密約\nhttp://streisand.me/" ];
+    "social net. sites#社交網站" -> "a whole new mind#未來在等待的人才" 
+	[ dir=both,
+	  label = "design,story,symphony,\nempathy,play,meaning#設計,故事,見林,\n關懷,玩耍,意義" ];
+    "dirty secrets\nexposed (gov+biz)#政府與大企業\n惡行曝光" -> "transparent gov.#政府透明化";
+    "NPO/social biz#NPO/社會企業" -> "world flattens#世界變平"
+	[ label = "OLPC\n1kg\nOpenIDEO#每童一機\n多揹一公斤\nOpenIDEO" ];
+    { "long tails#長尾現象" "transparent gov.#政府透明化" } -> "world flattens#世界變平";
+    "free culture#自由文化" -> "transparent gov.#政府透明化"
+	[ dir=both, style=dashed
+	  label = "conservative manifesto\ncrowdsourcing constitution\ntransparent Poland\nNicaragua agriculture\nsunlight foundation\ngapminder agriculture#英國保守黨宣言\n冰島群策憲法\n波蘭透明化\n尼加拉瓜農業\n陽光基金會\ngapminder" ]
+    "free software#自由軟體" -> "IP model failing#智財商業模式式微"
+	[ dir=both
+	  label = "Supercomputers\nsmart phones\nHollywood\nMicrosoft failing#超級電腦\n智慧手機\n好萊塢\n微軟潰堤" ];
+    "free culture#自由文化" -> "IP model failing#智財商業模式式微"
+	[ dir=both
+	  label = "independent musicians\nDOAJ#獨立音樂人\n開放期刊" ];
+    "SaaS" -> "IP model failing#智財商業模式式微"
+	[ label = "wiki/prezi\ngoogle {doc,cal,map,...}" ];
+    { "P2P" "long tails#長尾現象" } -> "IP model failing#智財商業模式式微";
+    "search\nengine#搜尋引擎" -> "IP model failing#智財商業模式式微"
+	[ label = "DRM removal\nHDCP master key\nopen source alternative\nbought propaganda#DRM removal\nHDCP master key\nopen source alternative\n全部換正版" ];
+    "dirty secrets\nexposed (gov+biz)#政府與大企業\n惡行曝光" -> "IP model failing#智財商業模式式微"
+	[ label = "ACTA leak\nhomeland NBC PSA\nOOXML scandal#ACTA 解密\n片面反盜版\nOOXML 醜聞" ];
+    "IP model failing#智財商業模式式微" -> "democratization#民主化"
+	[ label = "chilling DMCA exposed\nkindle 1984 exposed\nwindows phone home exposed\napple infrared patent exposed#DRM 集權崩盤\nkindle 1984 事件\n盜版警察曝光\n資訊人權貴時代\n外星人棋局曝光" ];
+    { "dirty secrets\nexposed (gov+biz)#政府與大企業\n惡行曝光" "transparent gov.#政府透明化" } -> "democratization#民主化";
+    "social net. sites#社交網站" -> "democratization#民主化"
+	[ label = "jasmine revolution#茉莉花革命\n大埔怪手" ];
+}

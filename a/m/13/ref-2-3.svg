@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="400"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.0"
+   sodipodi:docname="ref-2-3.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/ckhung/public_html/m/13/ref-2-3.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3782"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3779"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path3785"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyDiamondL"
+       style="overflow:visible">
+      <path
+         id="path3879"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyDiamondM"
+       style="overflow:visible">
+      <path
+         id="path3882"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3776"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3773"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="15"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="373.4752"
+     inkscape:cy="237.5108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="1052.3622px"
+     height="744.09448px"
+     showgrid="true"
+     inkscape:grid-points="true"
+     inkscape:window-width="772"
+     inkscape:window-height="626"
+     inkscape:window-x="71"
+     inkscape:window-y="89"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40,-61.605286)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4142"
+       width="539.66815"
+       height="380.94226"
+       x="93.740112"
+       y="65.106674" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.17451859;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2166"
+       width="253.9615"
+       height="253.9615"
+       x="219.13359"
+       y="130.18431" />
+    <text
+       xml:space="preserve"
+       style="font-size:38.09422684px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186.46458"
+       y="413.76434"
+       id="text3139"><tspan
+         sodipodi:role="line"
+         id="tspan3141"
+         x="186.46458"
+         y="413.76434">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.09422684px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="367.82135"
+       y="442.57681"
+       id="text3143"><tspan
+         sodipodi:role="line"
+         id="tspan3145"
+         x="367.82135"
+         y="442.57681">100%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.09422684px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="93.740112"
+       y="192.08742"
+       id="text3147"><tspan
+         sodipodi:role="line"
+         id="tspan3149"
+         x="93.740112"
+         y="192.08742">100%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.09422684px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="506.42755"
+       y="382.55856"
+       id="text3151"><tspan
+         sodipodi:role="line"
+         id="tspan3153"
+         x="506.42755"
+         y="382.55856">投票率</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.09422684px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="154.5892"
+       y="125.15591"
+       id="text3155"><tspan
+         sodipodi:role="line"
+         x="154.5892"
+         y="125.15591"
+         id="tspan3159">贊成率</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.58725929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 220.72087,382.55854 474.68237,128.59705"
+       id="path3163"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.58725929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 347.70162,382.55854 0,-126.98075"
+       id="path3165"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.58725929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 220.72087,382.55854 474.68237,255.57779"
+       id="path3167"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.58725929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 347.70162,255.57779 126.98075,-126.98074 0,126.98074 -126.98075,63.49038 0,-63.49038 z"
+       id="path3169"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.58725929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 220.72087,382.55854 253.9615,0 0,-126.98075 -126.98075,63.49038 0,-63.49038 -126.98075,126.98075 z"
+       id="path3171"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#EmptyDiamondM);marker-mid:url(#EmptyDiamondM);marker-end:url(#EmptyDiamondM)"
+       d="m 280.01429,320.80404 0,-69.29646 0,-29.69849 0,-154.149278"
+       id="path2999"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       transform="translate(40,61.605286)" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 278.60007,251.50758 0,67.88225"
+       id="path6885"
+       inkscape:connector-curvature="0"
+       transform="translate(40,61.605286)" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 280.01429,223.2233 0,29.69849"
+       id="path6887"
+       inkscape:connector-curvature="0"
+       transform="translate(40,61.605286)" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="399.21024"
+       y="95.323975"
+       id="text6889"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6891"
+         x="399.21024"
+         y="95.323975">門檻函數把</tspan><tspan
+         sodipodi:role="line"
+         x="399.21024"
+         y="125.32397"
+         id="tspan6901">等腰直角三角形</tspan><tspan
+         sodipodi:role="line"
+         x="399.21024"
+         y="155.32397"
+         id="tspan6895">切成兩塊區域;</tspan><tspan
+         sodipodi:role="line"
+         x="399.21024"
+         y="185.32397"
+         id="tspan6897" /><tspan
+         sodipodi:role="line"
+         x="399.21024"
+         y="215.32397"
+         id="tspan6899">一個明確的投票結果</tspan><tspan
+         sodipodi:role="line"
+         x="399.21024"
+         y="245.32397"
+         id="tspan6903">把線段切成三段</tspan><tspan
+         sodipodi:role="line"
+         x="399.21024"
+         y="275.32397"
+         id="tspan6893" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="271.93103"
+       y="201.38998"
+       id="text3024"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         x="271.93103"
+         y="201.38998">未投票</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="249.30362"
+       y="307.45599"
+       id="text3838"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3840"
+         x="249.30362"
+         y="307.45599">反對加廢票</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
+       x="293.14423"
+       y="351.29663"
+       id="text3842"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3844"
+         x="293.14423"
+         y="351.29663">贊成</tspan></text>
+  </g>
+</svg>

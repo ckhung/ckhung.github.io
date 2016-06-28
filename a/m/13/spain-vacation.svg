@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="spain-vacation.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/spain-vacation.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86166667"
+     inkscape:cx="300"
+     inkscape:cy="295.6294"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-204.28572,48.42348)">
+    <image
+       y="21.843803"
+       x="235.71429"
+       id="image3079"
+       xlink:href="file:///home/ckhung/public_html/m/13/spain.jpg"
+       height="405.45062"
+       width="490.46448" />
+    <image
+       y="189.05397"
+       x="501.80893"
+       id="image3157"
+       xlink:href="file:///home/ckhung/public_html/m/13/hiking-tux.jpg"
+       height="168.62498"
+       width="130.57245" />
+    <image
+       y="422.0394"
+       x="571.79913"
+       id="image3286"
+       xlink:href="file:///home/ckhung/public_html/m/11/sleeping-tux-transparent.png"
+       height="109.53706"
+       width="173.29744" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="path3289"
+       sodipodi:cx="216.20889"
+       sodipodi:cy="315.08704"
+       sodipodi:rx="5.9187622"
+       sodipodi:ry="5.2224369"
+       d="m 222.12766,315.08704 a 5.9187622,5.2224369 0 1 1 -11.83753,0 5.9187622,5.2224369 0 1 1 11.83753,0 z"
+       transform="matrix(1.6348816,0,0,1.6348816,187.74752,-23.144781)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4059"
+       sodipodi:cx="187.31142"
+       sodipodi:cy="307.77563"
+       sodipodi:rx="6.9632492"
+       sodipodi:ry="6.2669249"
+       d="m 194.27467,307.77563 a 6.9632492,6.2669249 0 1 1 -13.9265,0 6.9632492,6.2669249 0 1 1 13.9265,0 z"
+       transform="matrix(1.6348816,0,0,1.6348816,195.71639,-19.729546)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4061"
+       sodipodi:cx="166.0735"
+       sodipodi:cy="299.41974"
+       sodipodi:rx="9.4003868"
+       sodipodi:ry="9.7485495"
+       d="m 175.47389,299.41974 a 9.4003868,9.7485495 0 1 1 -18.80078,0 9.4003868,9.7485495 0 1 1 18.80078,0 z"
+       transform="matrix(1.6348816,0,0,1.6348816,184.3323,-24.283181)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.6348815px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 319.80295,428.80354 C 274.8358,406.60457 240.11433,202.26018 240.11433,162.41586 c 0,-39.8443 -11.38409,-129.7786 6.83045,-146.854733 18.21454,-17.0761321 152.54679,-33.013856 191.25268,-29.598629 38.7059,3.415226 267.52608,68.30453 289.15584,97.903158 21.62978,29.598634 52.36681,119.532924 34.15227,169.622914 -18.21454,50.09 -186.69904,169.62292 -252.72676,178.73019 -66.02772,9.10727 -144.00871,18.78376 -188.97586,-3.41522 z"
+       id="path4063"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssssz" />
+  </g>
+</svg>

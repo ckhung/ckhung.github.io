@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="540"
+   id="svg3145"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="dodd-whining.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/12/dodd-whining.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3147" />
+  <sodipodi:namedview
+     inkscape:document-units="px"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43415836"
+     inkscape:cx="251.02614"
+     inkscape:cy="255.13123"
+     inkscape:current-layer="layer1"
+     id="namedview3149"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="743"
+     inkscape:window-height="410"
+     inkscape:window-x="279"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3151">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-238.97386,-74.72157)">
+    <image
+       y="214.72157"
+       x="238.97386"
+       id="image3340"
+       xlink:href="file:///home/ckhung/public_html/m/12/dodd.jpg"
+       height="400"
+       width="600" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3141"
+       y="128.47987"
+       x="245.79161"
+       style="font-size:24.95015526px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3145"
+         y="128.47987"
+         x="245.79161"
+         sodipodi:role="line">政商兩棲的 Chris Dodd 對那些接受 MPAA</tspan><tspan
+         id="tspan3147"
+         y="162.33484"
+         x="245.79161"
+         sodipodi:role="line">補助的參議員說: 「你工作不保時, 會開口向我要錢;</tspan><tspan
+         id="tspan3155"
+         y="193.52254"
+         x="245.79161"
+         sodipodi:role="line">現在我的工作不保, 你卻不理不睬?」</tspan></text>
+    <path
+       sodipodi:nodetypes="czssssccc"
+       inkscape:connector-curvature="0"
+       id="path3157"
+       d="m 511.14489,456.96392 c 0,0 53.59267,12.33608 78.89835,-5.50453 25.30564,-17.84063 18.34841,-82.56803 40.36655,-100.91651 22.01812,-18.3484 45.87113,0 77.06347,-7.33935 31.1924,-7.33935 100.91649,-5.50452 99.08163,-29.35753 -1.83486,-23.85298 11.00907,-62.38469 -7.33939,-77.06345 -18.34842,-14.67875 -168.80571,-20.18327 -201.83293,3.66965 -39.8104,41.64693 6.65218,169.06325 -25.68781,196.32843 -18.34847,14.67881 -60.54987,20.18329 -60.54987,20.18329 z"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:3.85385227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3927"
+       y="273.44751"
+       x="605.88812"
+       style="font-size:26.97135735px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="273.44751"
+         x="605.88812"
+         id="tspan3929"
+         sodipodi:role="line">拿錢要辦事啊!</tspan><tspan
+         id="tspan3931"
+         y="307.16171"
+         x="605.88812"
+         sodipodi:role="line">我買的法案呢?</tspan></text>
+  </g>
+</svg>

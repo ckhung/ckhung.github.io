@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384"
+   height="640"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="robot-conflict.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/robot-conflict.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8515625"
+     inkscape:cx="380.47706"
+     inkscape:cy="320"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-705.14288,-426.64789)">
+    <image
+       y="426.64789"
+       x="705.14288"
+       id="image3028"
+       xlink:href="file:///home/ckhung/public_html/m/13/robot-visions.jpg"
+       height="640"
+       width="384" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="path3031"
+       sodipodi:cx="183.5"
+       sodipodi:cy="184.5"
+       sodipodi:rx="3.5270548"
+       sodipodi:ry="3.9864726"
+       d="m 187.02705,184.5 a 3.5270548,3.9864726 0 1 1 -7.0541,0 3.5270548,3.9864726 0 1 1 7.0541,0 z"
+       transform="translate(705.14288,426.64789)" />
+    <path
+       transform="translate(721.49407,421.44523)"
+       d="m 187.02705,184.5 a 3.5270548,3.9864726 0 1 1 -7.0541,0 3.5270548,3.9864726 0 1 1 7.0541,0 z"
+       sodipodi:ry="3.9864726"
+       sodipodi:rx="3.5270548"
+       sodipodi:cy="184.5"
+       sodipodi:cx="183.5"
+       id="path3801"
+       style="fill:#ffff00;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       id="path3803"
+       sodipodi:cx="183.5"
+       sodipodi:cy="184.5"
+       sodipodi:rx="5.3851457"
+       sodipodi:ry="5.8445635"
+       d="m 188.88515,184.5 a 5.3851457,5.8445635 0 1 1 -10.7703,0 5.3851457,5.8445635 0 1 1 10.7703,0 z"
+       transform="translate(742.79522,431.1073)" />
+    <path
+       transform="matrix(0.91893735,0,0,0.92377226,779.98961,465.57314)"
+       d="m 190.74324,184.5 a 7.2432365,7.7026544 0 1 1 -14.48648,0 7.2432365,7.7026544 0 1 1 14.48648,0 z"
+       sodipodi:ry="7.7026544"
+       sodipodi:rx="7.2432365"
+       sodipodi:cy="184.5"
+       sodipodi:cx="183.5"
+       id="path3805"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       d="m 221.48442,229.36193 c 13.74988,-8.91884 131.43384,-8.05668 143.69724,1.60539 12.2634,9.66207 26.29048,70.80241 7.86344,83.1384 -18.42704,12.33598 -139.60944,11.46069 -152.61607,-0.80271 -13.00663,-12.2634 -12.69448,-75.02224 1.05539,-83.94108 z"
+       id="path3807"
+       inkscape:connector-curvature="0"
+       transform="translate(705.14288,426.64789)"
+       sodipodi:nodetypes="zzzzz" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="929.22864"
+       y="672.36102"
+       id="text3809"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3811"
+         x="929.22864"
+         y="672.36102">主人的這個指令,</tspan><tspan
+         sodipodi:role="line"
+         x="929.22864"
+         y="684.86102"
+         id="tspan3813">是不是已經違反</tspan><tspan
+         sodipodi:role="line"
+         x="929.22864"
+         y="697.36102"
+         id="tspan3815">保護智慧財產權</tspan><tspan
+         sodipodi:role="line"
+         x="929.22864"
+         y="709.86102"
+         id="tspan3817">的最高指導原則了呢?</tspan></text>
+  </g>
+</svg>

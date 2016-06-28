@@ -1,0 +1,21 @@
+// dot -Tsvg graphic-workflow.dot -o graphic-workflow.svg
+digraph "檔案格式為中心的繪圖工作流程" {
+
+    overlap = scale;
+
+    subgraph cluster_text {
+	text [ label="any text" ];
+	{ text html } -> csv [ label="RE" ];
+    }
+
+    graphic [ label="png/jpg" ];
+
+    html -> graphic [ label="cutycapt" ];
+    { text html csv } -> { dot gpt } [ label="RE" ];
+    ods -> csv [ label="Libre Office" ];
+    dot -> { svg graphic } [ label="graphviz" ];
+    svg -> { svg graphic } [ label="inkscape" ];
+    gpt -> { svg graphic } [ label="gnuplot" ];
+    graphic -> graphic [ label="gimp\nimagemagick" ];
+}
+
