@@ -1,0 +1,36 @@
+/* dark.css */
+@media screen {
+    body { color: #0f8; background: #000; }
+    .strong { background: #266; }
+    :link { color: #66ffe1; }
+    :visited { color: #66b3ff; }
+    em, .em { color: #ff0000; }
+    .search_keyword { background: #5c6666; font-weight:bold; }
+    code, .code { color: #33ff33; }
+    dfn { color: #ff33ff; }
+
+    blockquote.celebrity { background: #666600; }
+    .quote, blockquote { color: #ff4c4c; }
+    pre.mail { color: #ff4c4c; }
+    .hilight1 { background: #66663d; }
+    .hilight2 { background: #3d6666; }
+    .hilight3 { background: #663d66; }
+    .alert { background: #661414; }
+
+    pre.docsrc { background: #476666; }
+    .kbd { color: #33ff33; background: #664766; }
+    .tag { background: #516666; }
+
+    .magic { background: #666666; }
+    .gray_out { color: gray; }
+
+    .toc { background: #666047; }
+    div#toc { background: #666047; }
+    div#nav, .nav, div#footer { background: #504766; }
+    div#nav a:hover { background: #666666; }
+    div#nav a:hover .hovertext { color: #33ff33; }
+    div#nav a:hover .hovertext em { background: #5e1466; }
+
+    /* http://flowplayer.org/tools/tooltip/index.html */
+    .jq_tooltip { background: #66663d; padding: 2px; width: 10em }
+}
