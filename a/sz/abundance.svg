@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="abundance.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0065104"
+     inkscape:cx="515.97412"
+     inkscape:cy="380.02588"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="975"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4202" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-284.36218)"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="../m/12/taiwan.png"
+       xlink:href="../m/12/taiwan.png"
+       width="17.747284"
+       height="29.815441"
+       id="image4382"
+       x="104.26414"
+       y="336.59985" />
+    <rect
+       y="859.52637"
+       x="144.03082"
+       height="50.390324"
+       width="130.46974"
+       id="rect4418"
+       style="opacity:0.8;fill:#ffff00;fill-opacity:1;stroke:none" />
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:18px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot3033"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3035"><rect
+           y="70.632126"
+           x="410.86011"
+           height="52.725388"
+           width="66.652847"
+           id="rect3037" /></flowRegion><flowPara
+         id="flowPara3039" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text3049"
+       y="812.23932"
+       x="19.963865"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="812.23932"
+         x="19.963865"
+         id="tspan3051"
+         sodipodi:role="line">更多搜尋關鍵詞:</tspan><tspan
+         y="834.73932"
+         x="19.963865"
+         sodipodi:role="line"
+         id="tspan3219">『資訊人權貴』 的兩個部落格</tspan><tspan
+         id="tspan6250"
+         y="857.84662"
+         x="19.963865"
+         sodipodi:role="line">『TED』</tspan><tspan
+         id="tspan6254"
+         y="882.27087"
+         x="19.963865"
+         sodipodi:role="line">『3d printer』</tspan><tspan
+         id="tspan6242"
+         y="906.69519"
+         x="19.963865"
+         sodipodi:role="line">『arduino』</tspan><tspan
+         id="tspan6244"
+         y="931.11945"
+         x="19.963865"
+         sodipodi:role="line">『raspberry pi』</tspan><tspan
+         id="tspan6248"
+         y="955.5437"
+         x="19.963865"
+         sodipodi:role="line">『maker culture』 『sozi 簡報』</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="18"
+       y="1004.3622"
+       id="text3057"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3060"
+         x="18"
+         y="1004.3622">本簡報網址 http://user.frdm.info/ckhung/mm/</tspan><tspan
+         sodipodi:role="line"
+         x="18"
+         y="1028.7865"
+         id="tspan3062">或搜尋 『sozi 簡報』</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3301"
+       y="883.69263"
+       x="156.08865"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3305"
+         y="883.69263"
+         x="156.08865"
+         sodipodi:role="line">豐沛富裕的年代</tspan><tspan
+         y="897.89386"
+         x="156.08865"
+         sodipodi:role="line"
+         id="tspan3391">age of abundance</tspan></text>
+    <image
+       sodipodi:absref="../m/12/arduino.jpg"
+       xlink:href="../m/12/arduino.jpg"
+       width="120.68614"
+       height="84.53273"
+       id="image3695"
+       x="874.6087"
+       y="393.34952" />
+    <image
+       sodipodi:absref="../m/12/raspberry-pi.jpg"
+       xlink:href="../m/12/raspberry-pi.jpg"
+       width="201.6295"
+       height="147.57738"
+       id="image3741"
+       x="518.54895"
+       y="319.08948" />
+    <text
+       transform="translate(0,284.36218)"
+       sodipodi:linespacing="125%"
+       id="text4885"
+       y="204"
+       x="568"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="204"
+         x="568"
+         id="tspan4887"
+         sodipodi:role="line" /></text>
+    <g
+       transform="matrix(0.88193327,0,0,0.88193327,474.08689,-187.48047)"
+       id="g4576">
+      <image
+         sodipodi:absref="../m/12/pubchem.jpg"
+         xlink:href="../m/12/pubchem.jpg"
+         y="794.98706"
+         x="530.59991"
+         id="image3522"
+         height="47.228657"
+         width="69.649559" />
+      <image
+         sodipodi:absref="../m/12/openclipart.jpg"
+         xlink:href="../m/12/openclipart.jpg"
+         y="793.3241"
+         x="431.10049"
+         id="image3587"
+         height="49.889427"
+         width="77.467369" />
+      <image
+         sodipodi:absref="../m/12/bach-fantasia.jpg"
+         xlink:href="../m/12/bach-fantasia.jpg"
+         y="777.69202"
+         x="299.6192"
+         id="image3633"
+         height="174.2804"
+         width="117.26712" />
+      <text
+         transform="scale(1.0388461,0.9626065)"
+         xml:space="preserve"
+         style="font-size:11.33872604px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="436.32483"
+         y="905.77484"
+         id="text3475"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3477"
+           x="436.32483"
+           y="905.77484">『openclipart』</tspan><tspan
+           id="tspan5015"
+           sodipodi:role="line"
+           x="436.32483"
+           y="921.1604">『musicxml sites』</tspan><tspan
+           id="tspan5017"
+           sodipodi:role="line"
+           x="436.32483"
+           y="936.54596">『chemical database』</tspan><tspan
+           id="tspan5013"
+           sodipodi:role="line"
+           x="436.32483"
+           y="951.93152">『江易原 素材』</tspan><tspan
+           sodipodi:role="line"
+           x="436.32483"
+           y="966.10492"
+           id="tspan3122">『creative commons</tspan><tspan
+           sodipodi:role="line"
+           x="436.32483"
+           y="981.49048"
+           id="tspan3124">search』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.64373312,0,0,0.64373312,-217.7118,42.13908)"
+       id="g4567">
+      <image
+         sodipodi:absref="../m/11/jake-eywa.jpg"
+         xlink:href="../m/11/jake-eywa.jpg"
+         y="414.6326"
+         x="634.08917"
+         id="image3125"
+         height="266.20239"
+         width="395.67938" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3128"
+         y="562.81903"
+         x="671.29144"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff8600;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="562.81903"
+           x="671.29144"
+           id="tspan3130"
+           sodipodi:role="line">It is the long history of humankind</tspan><tspan
+           style="font-size:18px"
+           id="tspan3132"
+           y="585.31903"
+           x="671.29144"
+           sodipodi:role="line">(and animal kind, too) those who</tspan><tspan
+           style="font-size:18px"
+           id="tspan3914"
+           y="607.81903"
+           x="671.29144"
+           sodipodi:role="line">learned to collaborate and improvise</tspan><tspan
+           style="font-size:18px"
+           id="tspan3134"
+           y="630.31903"
+           x="671.29144"
+           sodipodi:role="line">most effectively have prevailed.&quot;</tspan><tspan
+           style="font-size:18px"
+           id="tspan3920"
+           y="652.81903"
+           x="671.29144"
+           sodipodi:role="line">-- Charles Darwin</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.2415542,0,0,1.2415542,-160.79164,-122.31203)"
+       id="g5584">
+      <image
+         sodipodi:absref="../m/12/fab@home.jpg"
+         xlink:href="../m/12/fab@home.jpg"
+         y="567.75159"
+         x="621.00531"
+         id="image3868"
+         height="59.112751"
+         width="84.558586" />
+      <image
+         sodipodi:absref="../m/12/3dmodels.jpg"
+         xlink:href="../m/12/3dmodels.jpg"
+         y="505.02084"
+         x="552.96613"
+         id="image3322"
+         height="54.61002"
+         width="68.098488" />
+      <image
+         sodipodi:absref="../m/12/jakubowski.jpg"
+         xlink:href="../m/12/jakubowski.jpg"
+         y="568.34448"
+         x="554.66266"
+         id="image3368"
+         height="49.282555"
+         width="61.455154" />
+      <g
+         id="g3104">
+        <image
+           sodipodi:absref="../m/12/reprap.jpg"
+           xlink:href="../m/12/reprap.jpg"
+           width="69.131607"
+           height="48.623142"
+           id="image3787"
+           x="633.28149"
+           y="508.52173" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.05442047px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="630.52173"
+           y="517.70746"
+           id="text3099"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3102"
+             x="630.52173"
+             y="517.70746">『reprap』</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3109"
+         y="618.60199"
+         x="632.6604"
+         style="font-size:8.05442047px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="618.60199"
+           x="632.6604"
+           id="tspan3111"
+           sodipodi:role="line">『fab@home』</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.62125921px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="38.030449"
+       y="310.61719"
+       id="text3371"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="38.030449"
+         y="310.61719"
+         id="tspan3377">- 教下一代壟斷、 貪婪, 還是合作、 分享?</tspan><tspan
+         id="tspan4525"
+         sodipodi:role="line"
+         x="38.030449"
+         y="316.39377">- 與網路為敵, 或是 『與網路為友』?</tspan><tspan
+         id="tspan5590"
+         sodipodi:role="line"
+         x="38.030449"
+         y="322.17035">- 『追隨強權的智慧』 學微軟, 還是學 google?</tspan><tspan
+         id="tspan4527"
+         sodipodi:role="line"
+         x="38.030449"
+         y="328.44095">- 智慧是財產, 還是廣告看版?</tspan><tspan
+         id="tspan4555"
+         sodipodi:role="line"
+         x="38.030449"
+         y="334.21753" /><tspan
+         id="tspan4557"
+         sodipodi:role="line"
+         x="38.030449"
+         y="339.99408" /><tspan
+         id="tspan4559"
+         sodipodi:role="line"
+         x="38.030449"
+         y="345.77066" /><tspan
+         id="tspan4561"
+         sodipodi:role="line"
+         x="38.030449"
+         y="351.54724" /><tspan
+         id="tspan4563"
+         sodipodi:role="line"
+         x="38.030449"
+         y="357.32382" /><tspan
+         id="tspan4565"
+         sodipodi:role="line"
+         x="38.030449"
+         y="363.1004" /><tspan
+         id="tspan4529"
+         sodipodi:role="line"
+         x="38.030449"
+         y="368.87695" /><tspan
+         id="tspan4537"
+         sodipodi:role="line"
+         x="38.030449"
+         y="374.65353">馮諼教我們的事: 仁者安仁, 智者利仁</tspan><tspan
+         id="tspan5539"
+         sodipodi:role="line"
+         x="38.030449"
+         y="380.43011">『國際教育』? 服務學習? 請加入  『網路元素』</tspan></text>
+    <g
+       id="g4586">
+      <path
+         transform="matrix(0.77986689,0,0,0.77986689,288.73585,456.06025)"
+         d="m 916.10982,445.03835 0.15245,109.6426 -60.60917,104.99481 -94.87706,54.95334 -121.23276,0.008 -95.02951,-54.68927 -60.62359,-104.9865 -0.15245,-109.6426 60.60917,-104.99481 94.87706,-54.95334 121.23276,-0.008 95.02951,54.68927 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="0.24765502"
+         sodipodi:arg1="-0.24904303"
+         sodipodi:r2="223.0681"
+         sodipodi:r1="222.98932"
+         sodipodi:cy="500"
+         sodipodi:cx="700"
+         sodipodi:sides="6"
+         id="path3054"
+         style="opacity:0.8;fill:none;stroke:#000000;stroke-width:1.00017071;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.00017068, 3.00051205;stroke-dashoffset:0"
+         sodipodi:type="star" />
+      <image
+         sodipodi:absref="../s/gcompris.jpg"
+         xlink:href="../s/gcompris.jpg"
+         width="60.824726"
+         height="50.591259"
+         id="image3103"
+         x="801.13416"
+         y="679.17554" />
+      <image
+         sodipodi:absref="../s/inkscape.jpg"
+         xlink:href="../s/inkscape.jpg"
+         transform="matrix(-0.00142583,0.99999898,-0.99999898,-0.00142583,0,0)"
+         y="-1003.754"
+         x="816.48041"
+         id="image3144"
+         width="56.950157"
+         height="46.741764" />
+      <image
+         sodipodi:absref="../s/sweethome3d.jpg"
+         xlink:href="../s/sweethome3d.jpg"
+         transform="matrix(0.52003033,0.8541478,-0.8541478,0.52003033,0,0)"
+         y="-439.1348"
+         x="1135.3745"
+         id="image3174"
+         width="55.955349"
+         height="44.216881" />
+      <image
+         sodipodi:absref="../s/denemo.jpg"
+         xlink:href="../s/denemo.jpg"
+         transform="matrix(0.86476447,0.50217767,-0.50217767,0.86476447,0,0)"
+         y="143.99959"
+         x="1121.8389"
+         id="image3204"
+         width="54.825111"
+         height="35.692421" />
+      <image
+         sodipodi:absref="../b/mi/saturn.png"
+         xlink:href="../b/mi/saturn.png"
+         transform="matrix(-0.49638928,0.86810004,-0.86810004,-0.49638928,0,0)"
+         y="-1309.9897"
+         x="291.3981"
+         id="image3234"
+         width="56.58271"
+         height="46.32193" />
+      <image
+         sodipodi:absref="../s/melamine4.png"
+         xlink:href="../s/melamine4.png"
+         transform="matrix(-0.86030965,0.50977182,-0.50977182,-0.86030965,0,0)"
+         y="-1320.9867"
+         x="-314.18298"
+         id="image3264"
+         width="56.122883"
+         height="49.06955" />
+      <image
+         sodipodi:absref="../s/ksimus.jpg"
+         xlink:href="../s/ksimus.jpg"
+         transform="matrix(-0.99999337,-0.00364205,0.00364205,-0.99999337,0,0)"
+         y="-1009.4069"
+         x="-868.32233"
+         id="image3294"
+         width="57.729633"
+         height="37.027405" />
+      <image
+         sodipodi:absref="../b/ma/saddle-contour-pm3d.jpg"
+         xlink:href="../b/ma/saddle-contour-pm3d.jpg"
+         transform="matrix(-0.86500126,-0.50176969,0.50176969,-0.86500126,0,0)"
+         y="-482.04474"
+         x="-1175.4302"
+         id="image3324"
+         width="55.272266"
+         height="42.084011" />
+      <image
+         sodipodi:absref="../b/dg/accel_script.png"
+         xlink:href="../b/dg/accel_script.png"
+         transform="matrix(-0.50573277,-0.86269019,0.86269019,-0.50573277,0,0)"
+         y="124.85525"
+         x="-1182.5322"
+         id="image3354"
+         width="57.261528"
+         height="40.186337" />
+      <image
+         sodipodi:absref="../m/12/ezgox.jpg"
+         xlink:href="../m/12/ezgox.jpg"
+         y="806.94189"
+         x="717.2774"
+         id="image3384"
+         width="223.45238"
+         height="73.416351" />
+      <image
+         sodipodi:absref="../m/12/search-alternative.png"
+         xlink:href="../m/12/search-alternative.png"
+         transform="matrix(0.00475626,-0.99998869,0.99998869,0.00475626,0,0)"
+         width="54.027809"
+         height="37.198227"
+         id="image3074"
+         x="-868.79779"
+         y="670.76776" />
+      <text
+         transform="matrix(0.85491445,-0.518769,0.518769,0.85491445,0,0)"
+         xml:space="preserve"
+         style="font-size:56px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="262.65363"
+         y="1031.6174"
+         id="text3013"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3015"
+           x="262.65363"
+           y="1031.6174">?</tspan></text>
+      <image
+         sodipodi:absref="../s/usb-fleet.jpg"
+         xlink:href="../s/usb-fleet.jpg"
+         y="974.41724"
+         x="-358.97351"
+         id="image3179"
+         height="42.092754"
+         width="63.349586"
+         transform="matrix(0.48961479,-0.87193885,0.87193885,0.48961479,0,0)" />
+      <image
+         sodipodi:absref="../m/12/linuxdistros.jpg"
+         xlink:href="../m/12/linuxdistros.jpg"
+         y="893.88385"
+         x="759.09833"
+         id="image3091"
+         height="43.823772"
+         width="64.359558" />
+      <text
+         xml:space="preserve"
+         style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="838.74066"
+         y="898.3335"
+         id="text3069"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="898.3335"
+           id="tspan3087"
+           style="font-size:4px">linux 的 AppStores 跟</tspan><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="903.62756"
+           id="tspan3093"
+           style="font-size:4px">陽光或父母手足之愛</tspan><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="908.62756"
+           id="tspan3115"
+           style="font-size:4px">一樣都是<tspan
+   style="font-size:4px;font-weight:bold;fill:#ff0000;-inkscape-font-specification:Sans Bold"
+   id="tspan3105">免費</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="913.62756"
+           id="tspan3095"
+           style="font-size:4px">(只是前者的名字比較奇怪 --</tspan><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="918.76251"
+           id="tspan3514"
+           style="font-size:4px">apt、 yum、 ...)</tspan><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="924.19012"
+           id="tspan3097"
+           style="font-size:4px" /><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="929.48279"
+           id="tspan3099"
+           style="font-size:4px">或是要選擇「成就比爾蓋茲心願、</tspan><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="934.48279"
+           id="tspan3103"
+           style="font-size:4px">傷害華人國際形象」的那種<tspan
+   style="font-size:4px;font-weight:bold;fill:#ff0000;-inkscape-font-specification:Sans Bold"
+   id="tspan3107">免費</tspan>?</tspan><tspan
+           sodipodi:role="line"
+           x="838.74066"
+           y="939.48279"
+           id="tspan3101" /></text>
+      <g
+         id="g3131">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4857"
+           y="750.06079"
+           x="818.6026"
+           style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             id="tspan4861"
+             y="750.06079"
+             x="818.6026"
+             sodipodi:role="line">你我各有一個蘋果</tspan><tspan
+             id="tspan4869"
+             y="757.56079"
+             x="818.6026"
+             sodipodi:role="line">如果我們交換蘋果的話</tspan><tspan
+             y="765.06079"
+             x="818.6026"
+             sodipodi:role="line"
+             id="tspan3127">各自都還是只有一個蘋果。</tspan><tspan
+             id="tspan4871"
+             y="772.56079"
+             x="818.6026"
+             sodipodi:role="line">但當你和我各有一個點子時,</tspan><tspan
+             id="tspan4873"
+             y="780.06079"
+             x="818.6026"
+             sodipodi:role="line">如果我們交換點子的話</tspan><tspan
+             y="787.56079"
+             x="818.6026"
+             sodipodi:role="line"
+             id="tspan3129">就都各有兩個點子了。</tspan><tspan
+             id="tspan4883"
+             y="795.06079"
+             x="818.6026"
+             sodipodi:role="line">-- 蕭伯納</tspan><tspan
+             id="tspan4863"
+             y="802.56079"
+             x="818.6026"
+             sodipodi:role="line" /><tspan
+             id="tspan4865"
+             y="810.06079"
+             x="818.6026"
+             sodipodi:role="line" /></text>
+        <image
+           sodipodi:absref="../m/12/bernard-shaw.jpg"
+           xlink:href="../m/12/bernard-shaw.jpg"
+           y="742.66956"
+           x="782.59814"
+           id="image3120"
+           height="53.991295"
+           width="35.544266" />
+      </g>
+    </g>
+    <image
+       sodipodi:absref="../m/12/arduino-art.jpg"
+       xlink:href="../m/12/arduino-art.jpg"
+       width="101.9781"
+       height="63.51577"
+       id="image3409"
+       x="886.11511"
+       y="315.13492" />
+    <image
+       sodipodi:absref="../m/12/arduino-pen.jpg"
+       xlink:href="../m/12/arduino-pen.jpg"
+       width="99.994789"
+       height="84.23629"
+       id="image3471"
+       x="756.34296"
+       y="305.15833" />
+    <image
+       sodipodi:absref="../m/12/lilypad-clothing.jpg"
+       xlink:href="../m/12/lilypad-clothing.jpg"
+       width="117.67224"
+       height="74.484756"
+       id="image3517"
+       x="756.6073"
+       y="395.6481" />
+    <g
+       transform="matrix(0.77394401,0,0,0.77394401,295.96765,535.3924)"
+       id="g4546">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5705"
+         y="360.98239"
+         x="38.508789"
+         style="font-size:19.59826279px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="360.98239"
+           x="38.508789"
+           id="tspan5707"
+           sodipodi:role="line">Abundance is not something we acquire.</tspan><tspan
+           id="tspan5711"
+           y="385.48022"
+           x="38.508789"
+           sodipodi:role="line">It is something we tune into.</tspan><tspan
+           id="tspan5709"
+           y="409.97806"
+           x="38.508789"
+           sodipodi:role="line">                         --  Wayne Dyer</tspan></text>
+      <image
+         sodipodi:absref="../m/12/money-prison.jpg"
+         xlink:href="../m/12/money-prison.jpg"
+         width="170.40694"
+         height="108.36816"
+         id="image4199"
+         x="259.33676"
+         y="429.13992" />
+      <image
+         sodipodi:absref="../m/12/harvest.jpg"
+         xlink:href="../m/12/harvest.jpg"
+         width="158.99736"
+         height="119.24802"
+         id="image4245"
+         x="33.106091"
+         y="415.50375" />
+      <image
+         sodipodi:absref="../m/12/radio.png"
+         xlink:href="../m/12/radio.png"
+         width="67.991966"
+         height="72.298119"
+         id="image4291"
+         x="181.08415"
+         y="452.08627" />
+    </g>
+    <image
+       sodipodi:absref="../m/12/share-idea.jpg"
+       xlink:href="../m/12/share-idea.jpg"
+       width="46.508251"
+       height="33.410458"
+       id="image5635"
+       x="44.891827"
+       y="334.37228" />
+    <g
+       id="g4031"
+       transform="matrix(1.6018745,0,0,1.6018745,-770.34428,-732.95477)">
+      <image
+         sodipodi:absref="../m/14/robot-steal-your-job.jpg"
+         xlink:href="../m/14/robot-steal-your-job.jpg"
+         width="66.334"
+         height="96.82782"
+         id="image3304"
+         x="684.9502"
+         y="834.44733" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="756.07764"
+         y="848.68817"
+         id="text3651"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="756.07764"
+           y="848.68817"
+           id="tspan3665">『</tspan><tspan
+           sodipodi:role="line"
+           x="756.07764"
+           y="861.18817"
+           id="tspan3669">30</tspan><tspan
+           sodipodi:role="line"
+           x="756.07764"
+           y="873.68817"
+           id="tspan3655">步</tspan><tspan
+           sodipodi:role="line"
+           x="756.07764"
+           y="886.18817"
+           id="tspan3657">到</tspan><tspan
+           sodipodi:role="line"
+           x="756.07764"
+           y="898.68817"
+           id="tspan3659">月</tspan><tspan
+           sodipodi:role="line"
+           x="756.07764"
+           y="911.18817"
+           id="tspan3661">球</tspan><tspan
+           sodipodi:role="line"
+           x="756.07764"
+           y="923.68817"
+           id="tspan3663">』</tspan></text>
+    </g>
+    <g
+       id="g4408"
+       transform="matrix(1.2786753,0,0,1.2786753,-841.83323,-422.68719)">
+      <image
+         sodipodi:absref="../m/14/robot-basic-income.jpg"
+         xlink:href="../m/14/robot-basic-income.jpg"
+         width="85.510368"
+         height="92.574265"
+         id="image3226"
+         x="776.44757"
+         y="837.20697" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="774.95471"
+         y="865.57825"
+         id="text4404"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4406"
+           x="774.95471"
+           y="865.57825">『無條件基本收入』</tspan></text>
+    </g>
+    <g
+       id="g4076"
+       transform="matrix(0.72164828,0,0,0.72164828,-348.85183,-115.43208)">
+      <image
+         sodipodi:absref="../m/14/reasons-to-work.jpg"
+         xlink:href="../m/14/reasons-to-work.jpg"
+         width="150.54626"
+         height="113.22334"
+         id="image3719"
+         x="690.37109"
+         y="878.94873" />
+      <text
+         xml:space="preserve"
+         style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="695.23212"
+         y="1001.5417"
+         id="text3722"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3724"
+           x="695.23212"
+           y="1001.5417">『Ray Kurzweil 預測』=&gt;『無條件基本收入』?</tspan></text>
+    </g>
+  </g>
+  <script
+     id="sozi-script"
+     ns1:version="12.06-12110506">function namespace(b,d,a){var c=b;d.split(&quot;.&quot;).forEach(function(e){if(typeof c[e]===&quot;undefined&quot;){c[e]={}}c=c[e]});a(c,b)}namespace(this,&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});namespace(this,&quot;sozi.framenumber&quot;,function(b,d){var g=d.document;var e;var k,i;var f;var c=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=k.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;f.setAttribute(&quot;r&quot;,n);e.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function a(){e=g.createElementNS(c,&quot;g&quot;);k=g.createElementNS(c,&quot;text&quot;);f=g.createElementNS(c,&quot;circle&quot;);e.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);f.setAttribute(&quot;cx&quot;,0);f.setAttribute(&quot;cy&quot;,0);e.appendChild(f);i=g.createTextNode(sozi.location.getFrameIndex()+1);k.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);k.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);k.setAttribute(&quot;x&quot;,0);k.setAttribute(&quot;y&quot;,0);k.appendChild(i);e.appendChild(k);g.documentElement.appendChild(e);h()}function j(l){i.nodeValue=l+1}sozi.events.listen(&quot;sozi.display.ready&quot;,a);sozi.events.listen(&quot;sozi.player.framechange&quot;,j)});namespace(this,&quot;sozi.framelist&quot;,function(u,k){var o=k.document;var c=5;var i;var p;var j=0;var h;var s;var b;var v;var w;var t;var e=300;var f=&quot;decelerate&quot;;var a=&quot;http://www.w3.org/2000/svg&quot;;function n(z){var x=z.relatedTarget,y=o.documentElement;while(x&amp;&amp;x!==i&amp;&amp;x!==y){x=x.parentNode}if(x!==i){u.hide();sozi.player.restart();z.stopPropagation()}}function r(y){var x=p.getCTM().f;if(x&lt;=-k.innerHeight/2){x+=k.innerHeight/2}else{if(x&lt;0){x=0}}p.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+x+&quot;)&quot;);y.stopPropagation()}function d(y){var x=p.getCTM().f;if(x+j&gt;=k.innerHeight*3/2){x-=k.innerHeight/2}else{if(x+j&gt;k.innerHeight+2*c){x=k.innerHeight-j-4*c}}p.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+x+&quot;)&quot;);y.stopPropagation()}function g(x){return function(y){sozi.player.previewFrame(x);y.stopPropagation()}}function l(x){x.stopPropagation()}function q(){i=o.createElementNS(a,&quot;g&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);o.documentElement.appendChild(i);p=o.createElementNS(a,&quot;g&quot;);i.appendChild(p);var z=o.createElementNS(a,&quot;rect&quot;);z.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);z.setAttribute(&quot;x&quot;,c);z.setAttribute(&quot;y&quot;,c);z.setAttribute(&quot;rx&quot;,c);z.setAttribute(&quot;ry&quot;,c);z.addEventListener(&quot;click&quot;,l,false);z.addEventListener(&quot;mousedown&quot;,l,false);z.addEventListener(&quot;mouseout&quot;,n,false);p.appendChild(z);var B=0;var y=sozi.location.getFrameIndex();sozi.document.frames.forEach(function(E,F){var D=o.createElementNS(a,&quot;text&quot;);D.appendChild(o.createTextNode(E.title));p.appendChild(D);if(F===y){D.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}var C=D.getBBox().width;j+=D.getBBox().height;if(C&gt;B){B=C}D.setAttribute(&quot;x&quot;,2*c);D.setAttribute(&quot;y&quot;,j+c);D.addEventListener(&quot;click&quot;,g(F),false);D.addEventListener(&quot;mousedown&quot;,l,false)});var x=o.createElementNS(a,&quot;path&quot;);x.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);x.setAttribute(&quot;d&quot;,&quot;M&quot;+(B+3*c)+&quot;,&quot;+(5*c)+&quot; l&quot;+(4*c)+&quot;,0 l-&quot;+(2*c)+&quot;,-&quot;+(3*c)+&quot; z&quot;);x.addEventListener(&quot;click&quot;,r,false);x.addEventListener(&quot;mousedown&quot;,l,false);i.appendChild(x);var A=o.createElementNS(a,&quot;path&quot;);A.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);A.setAttribute(&quot;d&quot;,&quot;M&quot;+(B+3*c)+&quot;,&quot;+(7*c)+&quot; l&quot;+(4*c)+&quot;,0 l-&quot;+(2*c)+&quot;,&quot;+(3*c)+&quot; z&quot;);A.addEventListener(&quot;click&quot;,d,false);A.addEventListener(&quot;mousedown&quot;,l,false);i.appendChild(A);z.setAttribute(&quot;width&quot;,B+7*c);z.setAttribute(&quot;height&quot;,j+2*c);h=-B-9*c;s=0;w=v=h;i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+h+&quot;,0)&quot;);t=sozi.animation.Animator.instance().augment({onStep:function(C){var E=sozi.animation.profiles[f](C),D=1-E;w=v*E+b*D;i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+w+&quot;,0)&quot;)}})}function m(x){var z=Array.prototype.slice.call(o.getElementsByClassName(&quot;sozi-toc-current&quot;));z.forEach(function(A){A.removeAttribute(&quot;class&quot;)});var y=p.getElementsByTagName(&quot;text&quot;);y[x].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}u.show=function(){b=w;v=s;t.start(e)};u.hide=function(){b=w;v=h;t.start(e)};u.isVisible=function(){return v===s};sozi.events.listen(&quot;sozi.player.ready&quot;,q);sozi.events.listen(&quot;sozi.player.cleanup&quot;,u.hide);sozi.events.listen(&quot;sozi.player.framechange&quot;,m)});namespace(this,&quot;sozi.proto&quot;,function(a){a.Object={installConstructors:function(){function b(){}b.prototype=this;this.instance=function(){var c=new b();c.construct.apply(c,arguments);return c};this.subtype=function(d){var c=new b();c.augment(d);c.installConstructors();return c}},construct:function(){},augment:function(c){for(var b in c){if(c.hasOwnProperty(b)){this[b]=c[b]}}return this},bind:function(c){var b=this;return function(){return c.apply(b,arguments)}}};a.Object.installConstructors()});namespace(this,&quot;sozi.animation&quot;,function(d,g){var h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;var i=40;var b;var j=[];function e(k){if(j.length&gt;0){if(h){h(e)}j.forEach(function(l){l.step(k)})}else{if(!h){g.clearInterval(b)}}}function c(){if(h){h(e)}else{b=g.setInterval(function(){e(Date.now())},i)}}function a(k){j.push(k);if(j.length===1){c()}}function f(k){j.splice(j.indexOf(k),1)}d.Animator=sozi.proto.Object.subtype({construct:function(){this.durationMs=0;this.data=null;this.initialTime=0;this.started=false},start:function(k,l){this.durationMs=k;this.data=l;this.initialTime=Date.now();this.onStep(0);if(!this.started){this.started=true;a(this)}},stop:function(){if(this.started){f(this);this.started=false}},step:function(l){var k=l-this.initialTime;if(k&gt;=this.durationMs){this.stop();this.onStep(1);this.onDone()}else{this.onStep(k/this.durationMs)}},onStep:function(k){},onDone:function(){}});d.profiles={linear:function(k){return k},accelerate:function(k){return Math.pow(k,3)},&quot;strong-accelerate&quot;:function(k){return Math.pow(k,5)},decelerate:function(k){return 1-Math.pow(1-k,3)},&quot;strong-decelerate&quot;:function(k){return 1-Math.pow(1-k,5)},&quot;accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,3)/2;return k&lt;=0.5?m:1-m},&quot;strong-accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,5)/2;return k&lt;=0.5?m:1-m},&quot;decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,2))/2;return k&lt;=0.5?m:1-m},&quot;strong-decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,3))/2;return k&lt;=0.5?m:1-m}}});namespace(this,&quot;sozi.display&quot;,function(c,g){var f=&quot;http://www.w3.org/2000/svg&quot;;var b=&quot;http://www.w3.org/1999/xlink&quot;;var i=g.document;var k;var h;var j;c.viewPorts={};var e;c.CameraState=sozi.proto.Object.subtype({construct:function(){this.cx=this.cy=0;this.width=this.height=1;this.angle=0;this.clipped=true;this.transitionZoomPercent=0;this.transitionProfile=sozi.animation.profiles.linear},setCenter:function(l,m){this.cx=l;this.cy=m;return this},setSize:function(m,l){this.width=m;this.height=l;return this},setClipped:function(l){this.clipped=l;return this},setAngle:function(l){this.angle=(l+180)%360-180;return this},setRawAngle:function(l){this.angle=l;return this},setTransitionZoomPercent:function(l){this.transitionZoomPercent=l;return this},setTransitionProfile:function(l){this.transitionProfile=l;return this},setAtElement:function(p){var s,o,t,m;if(p.nodeName===&quot;rect&quot;){s=p.x.baseVal.value;o=p.y.baseVal.value;t=p.width.baseVal.value;m=p.height.baseVal.value}else{var q=p.getBBox();s=q.x;o=q.y;t=q.width;m=q.height}var n=i.documentElement.createSVGPoint();n.x=s+t/2;n.y=o+m/2;var r=p.getCTM();n=n.matrixTransform(r);var l=Math.sqrt(r.a*r.a+r.b*r.b);return this.setCenter(n.x,n.y).setSize(t*l,m*l).setAngle(Math.atan2(r.b,r.a)*180/Math.PI)},setAtState:function(l){return this.setCenter(l.cx,l.cy).setSize(l.width,l.height).setAngle(l.angle).setClipped(l.clipped).setTransitionZoomPercent(l.transitionZoomPercent).setTransitionProfile(l.transitionProfile)},interpolatableAttributes:[&quot;cx&quot;,&quot;cy&quot;,&quot;width&quot;,&quot;height&quot;,&quot;angle&quot;],interpolate:function(m,q,p){var o=1-p;for(var n=0;n&lt;this.interpolatableAttributes.length;n+=1){var l=this.interpolatableAttributes[n];this[l]=q[l]*p+m[l]*o}}});c.Camera=c.CameraState.subtype({construct:function(n,o){c.CameraState.construct.call(this);this.viewPort=n;this.svgClipRect=i.createElementNS(f,&quot;rect&quot;);var m=i.createElementNS(f,&quot;clipPath&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+n.id+&quot;-&quot;+o);m.appendChild(this.svgClipRect);n.svgGroup.appendChild(m);var l=i.createElementNS(f,&quot;g&quot;);l.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+n.id+&quot;-&quot;+o+&quot;)&quot;);n.svgGroup.appendChild(l);if(n.isPrimary){this.svgLayer=i.createElementNS(f,&quot;g&quot;);this.svgLayer.appendChild(i.getElementById(o))}else{this.svgLayer=i.createElementNS(f,&quot;use&quot;);this.svgLayer.setAttributeNS(b,&quot;href&quot;,&quot;#&quot;+o)}l.appendChild(this.svgLayer)},setAtState:function(l){return c.CameraState.setAtState.call(this,l).update()},getScale:function(){return Math.min(this.viewPort.width/this.width,this.viewPort.height/this.height)},rotate:function(l){return this.setAngle(this.angle+l).update()},zoom:function(m,l,n){return this.setSize(this.width/m,this.height/m).drag((1-m)*(l-this.viewPort.width/2),(1-m)*(n-this.viewPort.height/2))},drag:function(m,l){var q=this.getScale();var o=this.angle*Math.PI/180;var n=Math.sin(o);var p=Math.cos(o);return this.setCenter(this.cx-(m*p-l*n)/q,this.cy-(m*n+l*p)/q).setClipped(false).update()},update:function(){var q=this.getScale();var n=this.width*q;var m=this.height*q;var l=(this.viewPort.width-n)/2;var r=(this.viewPort.height-m)/2;this.svgClipRect.setAttribute(&quot;x&quot;,this.clipped?l:0);this.svgClipRect.setAttribute(&quot;y&quot;,this.clipped?r:0);this.svgClipRect.setAttribute(&quot;width&quot;,this.clipped?n:this.viewPort.width);this.svgClipRect.setAttribute(&quot;height&quot;,this.clipped?m:this.viewPort.height);var p=-this.cx+this.width/2+l/q;var o=-this.cy+this.height/2+r/q;this.svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+q+&quot;)translate(&quot;+p+&quot;,&quot;+o+&quot;)rotate(&quot;+(-this.angle)+&quot;,&quot;+this.cx+&quot;,&quot;+this.cy+&quot;)&quot;);return this}});c.ViewPort=sozi.proto.Object.subtype({construct:function(n,m,l){this.id=n;c.viewPorts[n]=this;this.isPrimary=!!l;if(this.isPrimary){if(e){throw&quot;Failed to create a primary viewport. A primary viewport already exists.&quot;}else{e=this}}this.svgGroup=i.createElementNS(f,&quot;g&quot;);this.svgGroup.setAttribute(&quot;class&quot;,&quot;sozi-viewport&quot;);this.svgGroup.setAttribute(&quot;id&quot;,&quot;sozi-viewport-&quot;+n);i.documentElement.appendChild(this.svgGroup);this.setLocation(0,0).setSize(g.innerWidth,g.innerHeight);this.cameras={};m.forEach(function(o){this.cameras[o]=c.Camera.instance(this,o)},this)},setSize:function(m,l){this.width=m;this.height=l;return this},setLocation:function(l,m){this.x=l;this.y=m;return this},contains:function(l,m){return l&gt;=this.x&amp;&amp;l&lt;this.x+this.width&amp;&amp;m&gt;=this.y&amp;&amp;m&lt;this.y+this.height},getDocumentState:function(){var m=c.CameraState.instance().setCenter(k.x+k.width/2,k.y+k.height/2).setSize(k.width,k.height).setClipped(false);var l={};for(var n in this.cameras){l[n]=m}return l},update:function(){this.svgGroup.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+this.x+&quot;,&quot;+this.y+&quot;)&quot;);for(var l in this.cameras){this.cameras[l].update()}return this},showFrame:function(l){for(var m in l.states){this.cameras[m].setAtState(l.states[m])}return this},drag:function(m,l){for(var n in this.cameras){this.cameras[n].drag(m,l)}return this},zoom:function(m,l,o){for(var n in this.cameras){this.cameras[n].zoom(m,l,o)}return this},rotate:function(l){for(var m in this.cameras){this.cameras[m].rotate(l)}return this},onWindowResize:function(m,l){this.setLocation(this.x*m,this.y*l).setSize(this.width*m,this.height*l).update()}});function d(){var l=i.documentElement;k=l.getBBox();h=g.innerWidth;j=g.innerHeight;l.setAttribute(&quot;width&quot;,h);l.setAttribute(&quot;height&quot;,j);sozi.events.fire(&quot;sozi.display.ready&quot;)}function a(){var l=i.documentElement;l.setAttribute(&quot;width&quot;,g.innerWidth);l.setAttribute(&quot;height&quot;,g.innerHeight);for(var m in c.viewPorts){c.viewPorts[m].onWindowResize(g.innerWidth/h,g.innerHeight/j)}h=g.innerWidth;j=g.innerHeight}sozi.events.listen(&quot;sozi.document.ready&quot;,d);g.addEventListener(&quot;resize&quot;,a,false)});namespace(this,&quot;sozi.player&quot;,function(d,h){var j=sozi.display;var o;var c;var l;var e=500;var q=-10;var k=&quot;linear&quot;;var g=0;var m=0;var n=false;var p=false;function i(){if(sozi.document.frames[m].timeoutEnable){p=true;var r=(m+1)%sozi.document.frames.length;l=h.setTimeout(function(){d.moveToFrame(r)},sozi.document.frames[m].timeoutMs)}}d.startFromIndex=function(r){n=true;p=false;g=r;m=r;o.showFrame(sozi.document.frames[r]);i()};d.restart=function(){d.startFromIndex(m)};d.stop=function(){c.stop();if(p){h.clearTimeout(l);p=false}n=false;g=m};function b(r,B,z){var C={ss:((r&lt;0)?Math.max(B,z):Math.min(B,z))*(100-r)/100,ts:0.5,k:0};if(r!==0){var x=B-z;var w=B-C.ss;var t=z-C.ss;if(x!==0){var s=Math.sqrt(w*t);var A=(w-s)/x;var y=(w+s)/x;C.ts=(A&gt;0&amp;&amp;A&lt;=1)?A:y}C.k=w/C.ts/C.ts}return C}d.jumpToFrame=function(r){d.stop();sozi.events.fire(&quot;sozi.player.cleanup&quot;);g=r;m=r;o.showFrame(sozi.document.frames[r]);sozi.events.fire(&quot;sozi.player.framechange&quot;,r)};function f(r,u,x,s){var t={};for(var w in r){t[w]={initialState:sozi.display.CameraState.instance(),finalState:sozi.display.CameraState.instance()};t[w].profile=s||u[w].transitionProfile;t[w].initialState.setAtState(r[w]);if(u.hasOwnProperty(w)){t[w].finalState.setAtState(u[w])}else{t[w].finalState.setAtState(r[w])}if(t[w].finalState.angle-t[w].initialState.angle&gt;180){t[w].finalState.setRawAngle(t[w].finalState.angle-360)}else{if(t[w].finalState.angle-t[w].initialState.angle&lt;-180){t[w].initialState.setRawAngle(t[w].initialState.angle-360)}}var v=x||u[w].transitionZoomPercent;if(v&amp;&amp;u.hasOwnProperty(w)){t[w].zoomWidth=b(v,r[w].width,u[w].width);t[w].zoomHeight=b(v,r[w].height,u[w].height)}}return t}d.previewFrame=function(r){m=r;c.start(e,f(o.cameras,sozi.document.frames[r].states,q,sozi.animation.profiles[k]));sozi.events.fire(&quot;sozi.player.framechange&quot;,r)};d.moveToFrame=function(s){if(p){h.clearTimeout(l);p=false}var r,u,t;if(s===(m+1)%sozi.document.frames.length){r=sozi.document.frames[s].transitionDurationMs;u=undefined;t=undefined}else{r=e;u=q;t=sozi.animation.profiles[k]}sozi.events.fire(&quot;sozi.player.cleanup&quot;);n=true;m=s;c.start(r,f(o.cameras,sozi.document.frames[s].states,u,t));sozi.events.fire(&quot;sozi.player.framechange&quot;,s)};d.moveToFirst=function(){d.moveToFrame(0)};d.jumpToPrevious=function(){var r=m;if(!c.started||g&lt;=m){r-=1}if(r&gt;=0){d.jumpToFrame(r)}};d.moveToPrevious=function(){for(var r=m-1;r&gt;=0;r-=1){var s=sozi.document.frames[r];if(!s.timeoutEnable||s.timeoutMs!==0){d.moveToFrame(r);break}}};d.jumpToNext=function(){var r=m;if(!c.started||g&gt;=m){r+=1}if(r&lt;sozi.document.frames.length){d.jumpToFrame(r)}};d.moveToNext=function(){if(m&lt;sozi.document.frames.length-1||sozi.document.frames[m].timeoutEnable){d.moveToFrame((m+1)%sozi.document.frames.length)}};d.moveToLast=function(){d.moveToFrame(sozi.document.frames.length-1)};d.moveToCurrent=function(){d.moveToFrame(m)};d.showAll=function(){d.stop();sozi.events.fire(&quot;sozi.player.cleanup&quot;);c.start(e,f(o.cameras,o.getDocumentState(),q,sozi.animation.profiles[k]))};function a(){o=j.ViewPort.instance(&quot;player&quot;,sozi.document.idLayerList,true);d.startFromIndex(sozi.location.getFrameIndex());h.setTimeout(o.bind(o.update),1);sozi.events.fire(&quot;sozi.player.ready&quot;)}c=sozi.animation.Animator.instance().augment({onStep:function(r){for(var u in this.data){var s=o.cameras[u];s.interpolate(this.data[u].initialState,this.data[u].finalState,this.data[u].profile(r));var t;if(this.data[u].zoomWidth&amp;&amp;this.data[u].zoomWidth.k!==0){t=r-this.data[u].zoomWidth.ts;s.width=this.data[u].zoomWidth.k*t*t+this.data[u].zoomWidth.ss}if(this.data[u].zoomHeight&amp;&amp;this.data[u].zoomHeight.k!==0){t=r-this.data[u].zoomHeight.ts;s.height=this.data[u].zoomHeight.k*t*t+this.data[u].zoomHeight.ss}s.setClipped(this.data[u].finalState.clipped)}o.update()},onDone:function(){g=m;if(n){i()}}});sozi.events.listen(&quot;sozi.display.ready&quot;,a)});namespace(this,&quot;sozi.actions&quot;,function(z,g){var t=sozi.player;var u=sozi.display;var m=g.document;var n=0;var v=1;var s=1.05;var x=5;var q=false;var i=0;var h=0;function a(B,A,C){t.stop();u.viewPorts.player.zoom(B&gt;0?s:1/s,A,C)}function w(A){t.stop();u.viewPorts.player.rotate(A&gt;0?x:-x)}function r(){if(sozi.framelist.isVisible()){sozi.framelist.hide();t.restart()}else{t.stop();sozi.framelist.show()}}function d(A){return u.viewPorts.player.contains(A.clientX,A.clientY)}function f(A){if(!d(A)){return}if(A.button===n){m.documentElement.addEventListener(&quot;mousemove&quot;,p,false);q=false;i=A.clientX;h=A.clientY}else{if(A.button===v){r()}}A.stopPropagation();A.preventDefault()}function p(A){if(!d(A)){return}t.stop();q=true;sozi.events.fire(&quot;sozi.player.cleanup&quot;);u.viewPorts.player.drag(A.clientX-i,A.clientY-h);i=A.clientX;h=A.clientY;A.stopPropagation()}function c(A){if(!d(A)){return}if(A.button===n){m.documentElement.removeEventListener(&quot;mousemove&quot;,p,false)}A.stopPropagation();A.preventDefault()}function o(A){if(!d(A)){return}t.moveToPrevious();A.stopPropagation();A.preventDefault()}function e(A){if(!d(A)){return}if(!q&amp;&amp;A.button!==v){t.moveToNext()}A.stopPropagation();A.preventDefault()}function j(A){if(!d(A)){return}if(!A){A=g.event}var B=0;if(A.wheelDelta){B=A.wheelDelta}else{if(A.detail){B=-A.detail}}if(B!==0){if(A.shiftKey){w(B)}else{a(B,A.clientX,A.clientY)}}A.stopPropagation();A.preventDefault()}function l(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.charCode||A.which){case 43:a(1,g.innerWidth/2,g.innerHeight/2);break;case 45:a(-1,g.innerWidth/2,g.innerHeight/2);break;case 61:t.moveToCurrent();break;case 70:case 102:t.showAll();break;case 84:case 116:r();break;case 82:w(-1);break;case 114:w(1);break;default:return}A.stopPropagation();A.preventDefault()}function b(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.keyCode){case 36:t.moveToFirst();break;case 35:t.moveToLast();break;case 38:t.jumpToPrevious();break;case 33:case 37:t.moveToPrevious();break;case 40:t.jumpToNext();break;case 34:case 39:case 13:case 32:t.moveToNext();break;default:return}A.stopPropagation()}function y(A){A.stopPropagation()}function k(){var B=m.getElementsByTagName(&quot;a&quot;);for(var C=0;C&lt;B.length;C+=1){B[C].addEventListener(&quot;click&quot;,y,false);B[C].addEventListener(&quot;contextmenu&quot;,y,false)}var A=m.documentElement;A.addEventListener(&quot;click&quot;,e,false);A.addEventListener(&quot;mousedown&quot;,f,false);A.addEventListener(&quot;mouseup&quot;,c,false);A.addEventListener(&quot;contextmenu&quot;,o,false);A.addEventListener(&quot;DOMMouseScroll&quot;,j,false);g.onmousewheel=j;A.addEventListener(&quot;keypress&quot;,l,false);A.addEventListener(&quot;keydown&quot;,b,false)}sozi.events.listen(&quot;sozi.display.ready&quot;,k)});namespace(this,&quot;sozi.document&quot;,function(c,e){var g=e.document;var b=&quot;http://sozi.baierouge.fr&quot;;var d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};var h=[&quot;g&quot;,&quot;image&quot;,&quot;path&quot;,&quot;rect&quot;,&quot;circle&quot;,&quot;ellipse&quot;,&quot;line&quot;,&quot;polyline&quot;,&quot;polygon&quot;,&quot;text&quot;,&quot;clippath&quot;];c.frames=[];c.idLayerList=[];function j(l,k){var m=l.getAttributeNS(b,k);return m===&quot;&quot;?d[k]:m}function i(n,o,k){var l=n.states[o]=n.states[o]||sozi.display.CameraState.instance();if(typeof l.hide===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;hide&quot;)){l.hide=j(k,&quot;hide&quot;)===&quot;true&quot;}if(typeof l.transitionZoomPercent===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){l.setTransitionZoomPercent(parseInt(j(k,&quot;transition-zoom-percent&quot;),10))}if(typeof l.transitionProfile===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;transition-profile&quot;)){l.setTransitionProfile(sozi.animation.profiles[j(k,&quot;transition-profile&quot;)||&quot;linear&quot;])}if(k.hasAttributeNS(b,&quot;refid&quot;)){var m=g.getElementById(k.getAttributeNS(b,&quot;refid&quot;));if(m){if(l.hide){m.style.visibility=&quot;hidden&quot;}l.setAtElement(m)}}if(k.hasAttributeNS(b,&quot;clip&quot;)){l.setClipped(j(k,&quot;clip&quot;)===&quot;true&quot;)}}function a(){var l=[];var p=g.getElementsByTagNameNS(b,&quot;layer&quot;);for(var n=0;n&lt;p.length;n+=1){var s=p[n].getAttributeNS(b,&quot;group&quot;);if(s&amp;&amp;l.indexOf(s)===-1){l.push(s)}}var r=g.documentElement;var o=&quot;http://www.w3.org/2000/svg&quot;;var q=g.createElementNS(o,&quot;g&quot;);var k=Array.prototype.slice.call(r.childNodes);k.forEach(function(u,t){if(!u.getAttribute){r.removeChild(u)}else{if(l.indexOf(u.getAttribute(&quot;id&quot;))!==-1){if(q.firstChild){q.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+t);c.idLayerList.push(&quot;sozi-wrapper-&quot;+t);r.insertBefore(q,u);q=g.createElementNS(o,&quot;g&quot;)}c.idLayerList.push(u.getAttribute(&quot;id&quot;))}else{if(h.indexOf(u.localName.toLowerCase())!==-1){r.removeChild(u);q.appendChild(u)}}}});if(q.firstChild){q.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+k.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+k.length);r.appendChild(q)}var m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));m.sort(function(u,t){seqA=parseInt(j(u,&quot;sequence&quot;),10);seqB=parseInt(j(t,&quot;sequence&quot;),10);return seqA-seqB});m.forEach(function(v,u){var x={id:v.getAttribute(&quot;id&quot;),title:j(v,&quot;title&quot;),sequence:parseInt(j(v,&quot;sequence&quot;),10),timeoutEnable:j(v,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(j(v,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(j(v,&quot;transition-duration-ms&quot;),10),states:{}};c.idLayerList.forEach(function(A){if(u===0||A.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){i(x,A,v)}else{var z=x.states[A]=sozi.display.CameraState.instance();var y=c.frames[c.frames.length-1].states[A];z.setAtState(y)}});var t=Array.prototype.slice.call(v.getElementsByTagNameNS(b,&quot;layer&quot;));t.forEach(function(y){var z=y.getAttributeNS(b,&quot;group&quot;);if(z&amp;&amp;c.idLayerList.indexOf(z)!==-1){i(x,z,y)}});for(var w in x.states){if(x.states.hasOwnProperty(w)){c.frames.push(x);break}}})}function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;sozi.document.ready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});namespace(this,&quot;sozi.location&quot;,function(a,e){var c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;sozi.player.framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)});</script>
+  <style
+     id="sozi-style"
+     ns1:version="12.06-12110506">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <ns1:frame
+     ns1:refid="image3103"
+     ns1:title="幼教: gcompris"
+     ns1:sequence="2"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame1" />
+  <ns1:frame
+     id="frame2"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="5"
+     ns1:title="向量繪圖: inkscape"
+     ns1:refid="image3144" />
+  <ns1:frame
+     id="frame3"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="4"
+     ns1:title="室內設計: sweethome3d"
+     ns1:refid="image3174" />
+  <ns1:frame
+     id="frame4"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="3"
+     ns1:title="音樂: denemo"
+     ns1:refid="image3204" />
+  <ns1:frame
+     id="frame5"
+     ns1:sequence="6"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:title="天文: celestia"
+     ns1:refid="image3234" />
+  <ns1:frame
+     id="frame6"
+     ns1:sequence="7"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:title="化學: ghemical"
+     ns1:refid="image3264" />
+  <ns1:frame
+     id="frame7"
+     ns1:sequence="8"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:title="電路: ksimus"
+     ns1:refid="image3294" />
+  <ns1:frame
+     id="frame8"
+     ns1:sequence="9"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:title="數學: gnuplot"
+     ns1:refid="image3324" />
+  <ns1:frame
+     id="frame9"
+     ns1:sequence="10"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:title="數學: drgeo"
+     ns1:refid="image3354" />
+  <ns1:frame
+     id="frame11"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="11"
+     ns1:title="搜尋「alternative」"
+     ns1:refid="image3074" />
+  <ns1:frame
+     ns1:refid="text3013"
+     ns1:title="等待著你自己發現的軟體"
+     ns1:sequence="13"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame13" />
+  <ns1:frame
+     id="frame14"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="1"
+     ns1:title="豐沛富裕"
+     ns1:refid="text3301" />
+  <ns1:frame
+     ns1:refid="image3125"
+     ns1:title="向納美人學習"
+     ns1:sequence="32"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame18" />
+  <ns1:frame
+     id="frame183"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="12"
+     ns1:title="救命碟"
+     ns1:refid="image3179" />
+  <ns1:frame
+     ns1:refid="image3695"
+     ns1:title="arduino"
+     ns1:sequence="19"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame19" />
+  <ns1:frame
+     id="frame20"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="23"
+     ns1:title="raspberry pi"
+     ns1:refid="image3741" />
+  <ns1:frame
+     ns1:refid="image3787"
+     ns1:title="reprap"
+     ns1:sequence="24"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame21" />
+  <ns1:frame
+     id="frame22u"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="25"
+     ns1:title="fab@home"
+     ns1:refid="image3868" />
+  <ns1:frame
+     ns1:refid="image3322"
+     ns1:title="免費的3D模型"
+     ns1:sequence="27"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame23" />
+  <ns1:frame
+     id="frame24"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="26"
+     ns1:title="Jakubowski 談建構文明的工具"
+     ns1:refid="image3368" />
+  <ns1:frame
+     ns1:refid="image3091"
+     ns1:title="還有很多版本"
+     ns1:sequence="15"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame25W" />
+  <ns1:frame
+     id="frame26"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="16"
+     ns1:title="免費"
+     ns1:refid="text3069" />
+  <ns1:frame
+     ns1:refid="g3131"
+     ns1:title="蕭伯納: 交換點子"
+     ns1:sequence="17"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame28" />
+  <ns1:frame
+     id="frame28E"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="20"
+     ns1:title="arduino art"
+     ns1:refid="image3409" />
+  <ns1:frame
+     ns1:refid="image3471"
+     ns1:title="arduino 畫筆"
+     ns1:sequence="21"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame29" />
+  <ns1:frame
+     id="frame30"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="22"
+     ns1:title="lilypad"
+     ns1:refid="image3517" />
+  <ns1:frame
+     id="frame32"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="0.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="14"
+     ns1:title="ezgo"
+     ns1:refid="g4586" />
+  <ns1:frame
+     ns1:refid="g4576"
+     ns1:title="數位素材"
+     ns1:sequence="18"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame314" />
+  <ns1:frame
+     ns1:refid="g4546"
+     ns1:title="你調對頻道了嗎?"
+     ns1:sequence="28"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame32b" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="30 步到月球"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame32h"
+     ns1:sequence="29"
+     ns1:refid="g4031" />
+  <ns1:frame
+     ns1:refid="g4408"
+     ns1:sequence="30"
+     id="frame33"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="無條件基本收入"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="人類不工作之後?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame34"
+     ns1:sequence="31"
+     ns1:refid="g4076" />
+</svg>

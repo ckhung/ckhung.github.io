@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="long-tail.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.109375"
+     inkscape:cx="156.44715"
+     inkscape:cy="384"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3417"
+     showgrid="false"
+     inkscape:window-width="1315"
+     inkscape:window-height="919"
+     inkscape:window-x="157"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4506" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4512" />
+    </marker>
+    <linearGradient
+       id="linearGradient2271"
+       x1="174.22"
+       xlink:href="#linearGradient2261"
+       gradientUnits="userSpaceOnUse"
+       y1="106.76"
+       gradientTransform="matrix(.38514 0 0 .38514 -.27979 41.711)"
+       x2="136.71"
+       y2="54.502" />
+    <linearGradient
+       id="linearGradient2269"
+       x1="221.69"
+       xlink:href="#linearGradient2261"
+       gradientUnits="userSpaceOnUse"
+       y1="147.22"
+       gradientTransform="matrix(.38514 0 0 .38514 -.27979 41.711)"
+       x2="164.31"
+       y2="67.219" />
+    <linearGradient
+       id="linearGradient2267"
+       x1="233"
+       xlink:href="#linearGradient2261"
+       gradientUnits="userSpaceOnUse"
+       y1="184.36"
+       gradientTransform="matrix(.38514 0 0 .38514 -.27979 41.711)"
+       x2="187"
+       y2="101.36" />
+    <linearGradient
+       id="linearGradient2261">
+      <stop
+         id="stop2263"
+         stop-color="#735017"
+         offset="0" />
+      <stop
+         id="stop2265"
+         stop-color="#93651d"
+         offset="1" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3264"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3261"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective44" />
+    <use
+       xlink:href="#gpPt11"
+       id="gpPt12"
+       style="fill:black; stroke:none" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt11"
+       transform="rotate(45)" />
+    <use
+       xlink:href="#gpPt9"
+       id="gpPt10"
+       style="fill:black; stroke:none" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt9"
+       transform="rotate(180)" />
+    <use
+       xlink:href="#gpPt7"
+       id="gpPt8"
+       style="fill:black; stroke:none" />
+    <path
+       id="gpPt7"
+       style="stroke-width:0.222"
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+    <use
+       xlink:href="#gpPt5"
+       id="gpPt6"
+       style="fill:black; stroke:none" />
+    <circle
+       id="gpPt5"
+       style="stroke-width:0.222"
+       cx="0"
+       cy="0"
+       r="1" />
+    <use
+       xlink:href="#gpPt3"
+       id="gpPt4"
+       style="fill:black; stroke:none" />
+    <rect
+       id="gpPt3"
+       style="stroke-width:0.222"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <path
+       id="gpPt2"
+       style="stroke-width:0.222"
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+    <path
+       id="gpPt1"
+       style="stroke-width:0.222"
+       d="M-1,-1 L1,1 M1,-1 L-1,1" />
+    <path
+       id="gpPt0"
+       style="stroke-width:0.222"
+       d="M-1,0 h2 M0,-1 v2" />
+    <circle
+       id="gpDot"
+       r="1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 240 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="600 : 240 : 1"
+       inkscape:persp3d-origin="300 : 160 : 1"
+       id="perspective45" />
+    <use
+       xlink:href="#gpPt11-2"
+       id="gpPt12-5"
+       style="fill:black; stroke:none" />
+    <use
+       xlink:href="#gpPt3-6"
+       id="gpPt11-2"
+       transform="rotate(45)" />
+    <use
+       xlink:href="#gpPt9-5"
+       id="gpPt10-7"
+       style="fill:black; stroke:none" />
+    <use
+       xlink:href="#gpPt7-9"
+       id="gpPt9-5"
+       transform="rotate(180)" />
+    <use
+       xlink:href="#gpPt7-9"
+       id="gpPt8-5"
+       style="fill:black; stroke:none" />
+    <path
+       id="gpPt7-9"
+       style="stroke-width:0.222"
+       d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+    <use
+       xlink:href="#gpPt5-8"
+       id="gpPt6-0"
+       style="fill:black; stroke:none" />
+    <circle
+       id="gpPt5-8"
+       style="stroke-width:0.222"
+       cx="0"
+       cy="0"
+       r="1" />
+    <use
+       xlink:href="#gpPt3-6"
+       id="gpPt4-0"
+       style="fill:black; stroke:none" />
+    <rect
+       id="gpPt3-6"
+       style="stroke-width:0.222"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <path
+       id="gpPt2-0"
+       style="stroke-width:0.222"
+       d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+    <path
+       id="gpPt1-2"
+       style="stroke-width:0.222"
+       d="M-1,-1 L1,1 M1,-1 L-1,1" />
+    <path
+       id="gpPt0-7"
+       style="stroke-width:0.222"
+       d="M-1,0 h2 M0,-1 v2" />
+    <circle
+       id="gpDot-9"
+       r="1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 240 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="600 : 240 : 1"
+       inkscape:persp3d-origin="300 : 160 : 1"
+       id="perspective45-2" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-6"
+       style="overflow:visible;">
+      <path
+         id="path3219"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3225"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible">
+      <path
+         id="path3145"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4452">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop4454" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop4456" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="600 : 200 : 1"
+       inkscape:persp3d-origin="300 : 133.33333 : 1"
+       id="perspective87" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible">
+      <path
+         id="path3145-5"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4452-8">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop4454-2" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop4456-5" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="600 : 200 : 1"
+       inkscape:persp3d-origin="300 : 133.33333 : 1"
+       id="perspective87-6" />
+    <use
+       xlink:href="#gpPt11-7"
+       id="gpPt12-7"
+       style="fill:#000000;stroke:none"
+       x="0"
+       y="0"
+       width="600"
+       height="480" />
+    <use
+       xlink:href="#gpPt3-1"
+       id="gpPt11-7"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+       x="0"
+       y="0"
+       width="600"
+       height="480" />
+    <use
+       xlink:href="#gpPt9-50"
+       id="gpPt10-9"
+       style="fill:#000000;stroke:none"
+       x="0"
+       y="0"
+       width="600"
+       height="480" />
+    <use
+       xlink:href="#gpPt7-3"
+       id="gpPt9-50"
+       transform="scale(-1,-1)"
+       x="0"
+       y="0"
+       width="600"
+       height="480" />
+    <use
+       xlink:href="#gpPt7-3"
+       id="gpPt8-1"
+       style="fill:#000000;stroke:none"
+       x="0"
+       y="0"
+       width="600"
+       height="480" />
+    <path
+       id="gpPt7-3"
+       style="stroke-width:0.222"
+       d="m 0,-1.33 -1.33,2 2.66,0 z"
+       inkscape:connector-curvature="0" />
+    <use
+       xlink:href="#gpPt5-4"
+       id="gpPt6-8"
+       style="fill:#000000;stroke:none"
+       x="0"
+       y="0"
+       width="600"
+       height="480" />
+    <circle
+       id="gpPt5-4"
+       style="stroke-width:0.222"
+       cx="0"
+       cy="0"
+       r="1"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1"
+       sodipodi:ry="1" />
+    <use
+       xlink:href="#gpPt3-1"
+       id="gpPt4-5"
+       style="fill:#000000;stroke:none"
+       x="0"
+       y="0"
+       width="600"
+       height="480" />
+    <rect
+       id="gpPt3-1"
+       style="stroke-width:0.222"
+       x="-1"
+       y="-1"
+       width="2"
+       height="2" />
+    <path
+       id="gpPt2-04"
+       style="stroke-width:0.222"
+       d="M -1,0 1,0 M 0,-1 0,1 m -1,-2 2,2 m -2,0 2,-2"
+       inkscape:connector-curvature="0" />
+    <path
+       id="gpPt1-21"
+       style="stroke-width:0.222"
+       d="M -1,-1 1,1 M 1,-1 -1,1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="gpPt0-5"
+       style="stroke-width:0.222"
+       d="M -1,0 H 1 M 0,-1 v 2"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="gpDot-1"
+       r="1"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="1"
+       sodipodi:ry="1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 240 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="600 : 240 : 1"
+       inkscape:persp3d-origin="300 : 160 : 1"
+       id="perspective45-6" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-66"
+       style="overflow:visible">
+      <path
+         id="path3219-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         id="path3225-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-7"
+       style="overflow:visible">
+      <path
+         id="path3829"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3225-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3046"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3048"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3050"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3052"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-284.36218)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.15747987,0,0,0.15747987,437.80225,598.39281)"
+       id="g4992">
+      <image
+         sodipodi:absref="../m/13/short-head-blind-followers.jpg"
+         xlink:href="../m/13/short-head-blind-followers.jpg"
+         width="954"
+         height="697"
+         id="image4335"
+         x="1130.217"
+         y="283.51758" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="1684.6113"
+         y="432.71091"
+         id="text4986"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1684.6113"
+           y="432.71091"
+           id="tspan4990">『大學 專利蟑螂』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.42650203,0,0,0.42650203,382.28889,836.93946)"
+       id="g3817">
+      <g
+         style="color:#ffffff;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g22" />
+      <g
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g24" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g26"
+         transform="translate(5.8299602,-38.866396)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 25.6,463.4 557.1,0 m -557.1,0 0,-446.8"
+           id="path28" />
+      </g>
+      <g
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g30" />
+      <g
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g32"
+         transform="translate(5.8299602,-38.866396)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 26.57166,52.848178 c 0,0 14.319898,196.387812 18.22834,215.951822 3.473634,17.38755 11.39108,43.58513 19.2,56.6 8.744939,14.5749 19.2,32 19.2,32 l 19.2,21.1 19.3,15.10405 0.73846,68.98785 -96.427529,0 0.560729,-409.743722 z"
+           id="path34"
+           sodipodi:nodetypes="ccccccccc"
+           style="fill:#ff0000;fill-opacity:1" />
+      </g>
+      <g
+         style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g36"
+         transform="translate(5.8299602,-39.838056)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 550.56842,448.017 27.90607,13.36033 -24.56356,10.44534 10.14413,-8.25911 -443.19352,0 L 121.7,393.7 l 19.2,11.3 19.2,8.8 19.2,7 19.2,5.6 19.2,4.7 19.2,3.9 19.2,3.2 19.2,2.8 19.2,2.4 19.3,2.1 19.2,1.8 19.2,1.5 19.2,1.4 19.2,1.2 19.2,1.1 19.2,1 19.2,0.8 19.2,0.8 19.2,0.7 19.3,0.6 19.2,0.5 19.2,0.5 19.2,0.5 -12.93158,-9.883 z"
+           id="path38"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+           style="fill:#008000;fill-opacity:1" />
+      </g>
+      <g
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g40" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="94.251015"
+         y="237.08502"
+         id="text3192"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan3194"
+           x="94.251015"
+           y="237.08502">Hits</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="342.02429"
+         y="397.40891"
+         id="text3196"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan3198"
+           x="342.02429"
+           y="397.40891">Niches</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="-292.70575"
+         y="19.494509"
+         id="text3200"
+         sodipodi:linespacing="100%"
+         transform="matrix(-0.00590759,-0.9999826,0.9999826,-0.00590759,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3202"
+           x="-292.70575"
+           y="19.494509">Popularity</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="287.61133"
+         y="445.02026"
+         id="text3204"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan3206"
+           x="287.61133"
+           y="445.02026">ranking</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="296.35626"
+         y="465.42508"
+         id="text2413"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan2415"
+           x="296.35626"
+           y="465.42508">$$ &lt;== motivation ==&gt; reputation</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.2974597,0,0,1.2974597,-765.68439,511.86916)"
+       id="g5491">
+      <image
+         sodipodi:absref="../m/13/netflix-lt.png"
+         xlink:href="../m/13/netflix-lt.png"
+         y="244.23363"
+         x="607.90802"
+         id="image3156"
+         height="153.5376"
+         width="262.03751" />
+      <g
+         id="g3570"
+         transform="matrix(0.29809453,0,0,0.29809453,702.24694,146.50113)">
+        <image
+           sodipodi:absref="../m/13/long-tail-book-tw.jpg"
+           xlink:href="../m/13/long-tail-book-tw.jpg"
+           width="165.8692"
+           height="234.72058"
+           id="image3470"
+           x="87.907822"
+           y="428.28476" />
+        <image
+           sodipodi:absref="../m/13/chris-anderson.jpg"
+           xlink:href="../m/13/chris-anderson.jpg"
+           width="156.39134"
+           height="234.58702"
+           id="image3567"
+           x="256.6344"
+           y="428.07794" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+           x="145.53244"
+           y="635.80194"
+           id="text3574"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3576"
+             x="145.53244"
+             y="635.80194">Chris Anderson</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="662.91357"
+         y="260.59055"
+         id="text3159"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3161"
+           x="662.91357"
+           y="260.59055">Netflix DVD Rental Estimate</tspan></text>
+      <g
+         id="g4549"
+         transform="matrix(0.75854223,0,0,0.75854223,157.42786,74.203068)">
+        <text
+           transform="matrix(0.77073685,0,0,0.77073685,590.14117,-175.34801)"
+           sodipodi:linespacing="125%"
+           id="text3232"
+           y="631.2193"
+           x="79.964111"
+           style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="631.2193"
+             x="79.964111"
+             id="tspan3234"
+             sodipodi:role="line">20 世紀思維： 80-20 法則</tspan><tspan
+             id="tspan3236"
+             y="638.7193"
+             x="79.964111"
+             sodipodi:role="line">Pareto's Principle / 帕雷托法則</tspan></text>
+        <path
+           transform="matrix(0.77073685,0,0,0.77073685,590.14117,-175.34801)"
+           inkscape:connector-curvature="0"
+           id="path4077"
+           d="m 99.604423,647.82002 50.269837,8.18346"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.77073687px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+           d="m 666.50538,333.10452 38.74482,6.30729"
+           id="path4483"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4533">
+          <rect
+             id="rect4069"
+             width="12.903833"
+             height="15.12782"
+             x="652.67487"
+             y="321.62595"
+             style="fill:#ffff55;fill-opacity:1;stroke:none" />
+          <rect
+             style="fill:#80ffff;fill-opacity:1;stroke:none"
+             id="rect4073"
+             width="16.745634"
+             height="18.916676"
+             x="81.133179"
+             y="651.32721"
+             transform="matrix(0.77073685,0,0,0.77073685,590.14117,-175.34801)" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.08294749px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="656.75244"
+             y="325.43283"
+             id="text4493"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan4495"
+               x="656.75244"
+               y="325.43283">20%</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:3.08294749px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="656.54681"
+             y="335.36972"
+             id="text4497"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan4499"
+               x="656.54681"
+               y="335.36972">80%</tspan></text>
+        </g>
+        <g
+           id="g4541">
+          <use
+             x="0"
+             y="0"
+             xlink:href="#rect4073"
+             id="use4491"
+             transform="translate(54.467441,0.60687956)"
+             width="1024"
+             height="768" />
+          <use
+             x="0"
+             y="0"
+             xlink:href="#rect4069"
+             id="use4489"
+             transform="translate(54.467441,-1.3149057)"
+             width="1024"
+             height="768" />
+          <text
+             xml:space="preserve"
+             style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="156.84613"
+             y="651.43237"
+             id="text4501"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.77073685,0,0,0.77073685,590.14117,-175.34801)"><tspan
+               sodipodi:role="line"
+               id="tspan4503"
+               x="156.84613"
+               y="651.43237">80%</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="156.93504"
+             y="667.79272"
+             id="text4505"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.77073685,0,0,0.77073685,590.14117,-175.34801)"><tspan
+               sodipodi:role="line"
+               id="tspan4507"
+               x="156.93504"
+               y="667.79272">20%</tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4509"
+           y="325.43286"
+           x="666.8949"
+           style="font-size:3.08294749px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="325.43286"
+             x="666.8949"
+             id="tspan4511"
+             sodipodi:role="line">產品種類/</tspan><tspan
+             id="tspan4521"
+             y="329.28656"
+             x="666.8949"
+             sodipodi:role="line">客戶人數/</tspan><tspan
+             id="tspan4525"
+             y="333.14023"
+             x="666.8949"
+             sodipodi:role="line">推銷員人數/</tspan><tspan
+             id="tspan4527"
+             y="336.99393"
+             x="666.8949"
+             sodipodi:role="line">...</tspan><tspan
+             id="tspan4513"
+             y="340.8476"
+             x="666.8949"
+             sodipodi:role="line" /></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4515"
+           y="325.36429"
+           x="692.4566"
+           style="font-size:3.08294749px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="325.36429"
+             x="692.4566"
+             id="tspan4517"
+             sodipodi:role="line">營業額/</tspan><tspan
+             id="tspan4523"
+             y="329.21799"
+             x="692.4566"
+             sodipodi:role="line">客訴案件/</tspan><tspan
+             id="tspan4529"
+             y="333.07166"
+             x="692.4566"
+             sodipodi:role="line">業績/</tspan><tspan
+             id="tspan4531"
+             y="336.92535"
+             x="692.4566"
+             sodipodi:role="line">...</tspan><tspan
+             id="tspan4519"
+             y="340.77902"
+             x="692.4566"
+             sodipodi:role="line" /></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.1538441,0,0,0.1538441,406.48425,899.71181)"
+       id="g4916">
+      <g
+         style="color:#ffffff;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g22-9"
+         transform="translate(0,-120)" />
+      <g
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g24-4"
+         transform="translate(0,-120)" />
+      <g
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g30-5"
+         transform="translate(0,-120)" />
+      <g
+         style="fill:none;stroke:#00c0c0;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g36-9"
+         transform="translate(9.6267275e-7,19.919023)">
+        <path
+           d="m 25.505671,51.675719 22.775707,7.683296 22.775709,-1.061634 25.690685,9.626614 24.991098,-6.846607 12.35951,24.246505 12.39838,-43.66963 23.08664,86.676107 0.73846,-42.982991 21.14332,-27.364776 14.3417,46.653037 6.56843,45.95303 15.31336,-66.187849 13.37004,16.974899 34.84655,-40.653036 14.3417,119.370846 17.25669,-120.929145 19.2,94.679345 14.3417,-72.646147 19.2,144.905667 L 371.67207,40.544548 389.90041,257.05304 402.29879,81.010943 425.38543,281.87288 446.62875,58.991106 460.97045,223.70163 473.36883,75.537664 504.34535,303.64191 507.23118,59.210491 536.35183,134.45518 552.8409,297.14925 573.2166,76.03767"
+           id="path38-6"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccc"
+           style="fill:none;stroke:#00c0c0;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g40-5"
+         transform="translate(0,-120)" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="219.59511"
+         y="35.465595"
+         id="text3188-1"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="219.59511"
+           y="35.465595"
+           id="tspan2434-5">大英百科 vs 維基百科:</tspan><tspan
+           sodipodi:role="line"
+           x="219.59511"
+           y="59.465595"
+           id="tspan3820">何者品質較高?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="-205.74367"
+         y="20.008255"
+         id="text3200-7"
+         sodipodi:linespacing="100%"
+         transform="matrix(-0.00590759,-0.99998255,0.99998255,-0.00590759,0,0)"><tspan
+           sodipodi:role="line"
+           x="-205.74367"
+           y="20.008255"
+           id="tspan3814">quality 品質</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="307.04453"
+         y="344.45343"
+         id="text3204-5"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan3206-3"
+           x="307.04453"
+           y="344.45343">ranking 排名</tspan></text>
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 27.206479,68.50203 156.437241,1.94332 0.97167,254.57488"
+         id="path2413-3"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 383.80566,25.748993 54.41295,0"
+         id="path3212-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#00c0c0;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 382.834,46.153853 54.41295,0"
+         id="path3214-9"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="450.85019"
+         y="31.578959"
+         id="text3216-7"><tspan
+           sodipodi:role="line"
+           x="450.85019"
+           y="31.578959"
+           id="tspan3220-4">大英百科的條目</tspan><tspan
+           sodipodi:role="line"
+           x="450.85019"
+           y="51.578957"
+           id="tspan3824">維基百科的條目</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+         d="m 26.234817,35.465598 0.97166,288.582982 563.562733,0"
+         id="path5576"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       transform="matrix(1.1933635,0,0,1.1933635,4.0408172,-995.49833)"
+       id="g3419">
+      <g
+         id="g5131"
+         transform="matrix(0.91390825,0,0,0.91390825,409.44622,826.67046)">
+        <image
+           sodipodi:absref="../m/13/herbert-simon.jpg"
+           xlink:href="../m/13/herbert-simon.jpg"
+           width="109.09949"
+           height="109.09949"
+           id="image5102"
+           x="53.101517"
+           y="292.56525" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5105"
+           y="308.69843"
+           x="170.15886"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             id="tspan5109"
+             y="308.69843"
+             x="170.15886"
+             sodipodi:role="line">資訊爆炸年代， 稀有的當然不是資訊。</tspan><tspan
+             id="tspan5123"
+             y="328.69843"
+             x="170.15886"
+             sodipodi:role="line">那是什麼呢? 當然是資訊所 &quot;消耗&quot;</tspan><tspan
+             id="tspan5111"
+             y="348.69843"
+             x="170.15886"
+             sodipodi:role="line">的東西， 也就是資訊接收者的注意力。</tspan><tspan
+             id="tspan5129"
+             y="367.0936"
+             x="170.15886"
+             sodipodi:role="line">-- Herbert Simon</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/13/tim-wu.jpg"
+         xlink:href="../m/13/tim-wu.jpg"
+         y="1208.0646"
+         x="455.35287"
+         id="image5048"
+         height="89.387527"
+         width="160.5764" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="458.06296"
+         y="1316.0181"
+         id="text5051"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5053"
+           x="458.06296"
+           y="1316.0181">吳修銘 &quot;exposure culture&quot;</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3407"
+         y="1313.8645"
+         x="671.86688"
+         style="font-size:8.37967682px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1313.8645"
+           x="671.86688"
+           id="tspan3409"
+           sodipodi:role="line">Eric R. Raymond</tspan><tspan
+           y="1324.3391"
+           x="671.86688"
+           sodipodi:role="line"
+           id="tspan4244">&quot;Gift Culture&quot;</tspan></text>
+      <image
+         sodipodi:absref="../m/13/eric-raymond.jpg"
+         xlink:href="../m/13/eric-raymond.jpg"
+         y="1174.7432"
+         x="629.80389"
+         id="image3378"
+         height="126.45108"
+         width="84.357994" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#image3567"
+         id="use3381"
+         transform="matrix(0.53860309,0,0,0.53860309,589.32925,928.14765)"
+         width="1024"
+         height="768" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3401"
+         y="1298.8898"
+         x="772.28003"
+         style="font-size:8.37967682px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1298.8898"
+           x="772.28003"
+           id="tspan3403"
+           sodipodi:role="line">Chris Anderson</tspan><tspan
+           y="1309.3644"
+           x="772.28003"
+           sodipodi:role="line"
+           id="tspan4246">&quot;Reputation</tspan><tspan
+           id="tspan3405"
+           y="1319.839"
+           x="772.28003"
+           sodipodi:role="line">Economy&quot;</tspan></text>
+    </g>
+    <g
+       transform="translate(-400.70257,-27.696591)"
+       id="g3458">
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="834.17511"
+         y="874.13763"
+         id="text3438"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3440"
+           x="834.17511"
+           y="874.13763">有限的貨架</tspan><tspan
+           sodipodi:role="line"
+           x="834.17511"
+           y="887.93402"
+           id="tspan3442">pre-filter</tspan><tspan
+           sodipodi:role="line"
+           x="834.17511"
+           y="902.93402"
+           id="tspan3444">push marketing</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="939.63336"
+         y="873.08313"
+         id="text3446"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3448"
+           x="939.63336"
+           y="873.08313">無限的貨架</tspan><tspan
+           sodipodi:role="line"
+           x="939.63336"
+           y="886.87952"
+           id="tspan3450">post-filter</tspan><tspan
+           sodipodi:role="line"
+           x="939.63336"
+           y="901.87952"
+           id="tspan3452">pull marketing</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="909.05048"
+         y="881.51978"
+         id="text3454"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3456"
+           x="909.05048"
+           y="881.51978">vs</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.78963825,0,0,0.78963825,18.532636,-11.300758)"
+       id="g5501">
+      <g
+         id="g3350"
+         transform="matrix(1.1758949,0,0,1.1758949,-562.12636,376.93718)">
+        <g
+           id="g22-4"
+           style="color:#ffffff;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+        <g
+           id="g24-6"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+        <g
+           id="g30-6"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+        <g
+           id="g40-8"
+           style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+        <path
+           id="path3209"
+           d="m 835.90698,431.39174 60.24291,0"
+           style="fill:none;stroke:#800080;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(0.94039363,0,0,0.94039363,837.29119,-47.029707)"
+           id="g3417">
+          <g
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+             id="g26-2"
+             transform="matrix(1.0769693,0,0,1.0769693,-392.17501,40.562856)">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 25.6,463.4 557.1,0 m -557.1,0 0,-446.8"
+               id="path28-1" />
+          </g>
+          <g
+             style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+             id="g36-70"
+             transform="matrix(1.0769693,0,0,1.0769693,-392.17501,39.516408)">
+            <path
+               d="m 26.477331,55.562359 c 0,0 8.214684,177.492571 12.128505,218.533491 3.91382,41.04092 6.841376,58.71112 11.156844,83.77386 4.315468,25.06274 5.630294,32.65489 18.113563,51.22779 12.483269,18.5729 16.265348,22.73925 33.441797,32.54212 17.17645,9.80287 33.38477,10.68432 33.38477,10.68432 l 34.41127,5.41972 38.91831,3.61972"
+               id="path38-5"
+               sodipodi:nodetypes="czzzzccc"
+               style="fill:none;stroke:#ff0000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               inkscape:connector-curvature="0" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:25.84726334px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             x="-75.272018"
+             y="141.69989"
+             id="text3188-4"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               x="-75.272026"
+               y="141.69989"
+               id="tspan5556-4">Forces behind the The Long Tail</tspan><tspan
+               sodipodi:role="line"
+               x="-75.272018"
+               y="167.54715"
+               id="tspan2434-3">長尾現象背後的驅力</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.38544655px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             x="-384.81769"
+             y="-381.01611"
+             id="text3200-46"
+             sodipodi:linespacing="100%"
+             transform="matrix(-0.00590759,-0.99998255,0.99998255,-0.00590759,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan3202-1"
+               x="-384.81769"
+               y="-381.01611">Popularity 熱門程度</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:19.38544655px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             x="-88.705132"
+             y="561.69391"
+             id="text3204-7"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan3206-33"
+               x="-88.705132"
+               y="561.69391">ranking 排名</tspan></text>
+          <path
+             style="fill:none;stroke:#00c0c0;stroke-width:5.38484621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -364.96737,339.84696 c -0.0873,0.0499 10.36229,58.31683 26.53949,84.59523 16.1772,26.27841 19.8983,29.58845 42.19199,45.1815 22.2937,15.59304 39.89032,24.49008 96.3076,39.82642 56.41727,15.33635 148.43536,17.07671 179.709,18.29073 31.27365,1.21402 246.1609,3.07794 246.1609,3.07794"
+             id="path2413-30"
+             sodipodi:nodetypes="czzzzc"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-size:17.23150826px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none"
+             x="-99.082565"
+             y="497.32269"
+             id="text3185-0"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="-99.082565"
+               y="497.32269"
+               id="tspan3191-8">Democratize the tools of production</tspan><tspan
+               id="tspan3866"
+               sodipodi:role="line"
+               x="-99.082565"
+               y="520.59045">生產/創作工具民主化</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:17.23150826px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none"
+             x="6.2249947"
+             y="400.3844"
+             id="text3193-8"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="6.2249932"
+               y="400.3844"
+               id="tspan3199-6">Democratize the tools of distribution</tspan><tspan
+               sodipodi:role="line"
+               x="6.2249956"
+               y="423.65213"
+               id="tspan2444-3">流通工具民主化</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:17.23150826px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none"
+             x="-197.90295"
+             y="307.17987"
+             id="text3201-8"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               x="-197.90295"
+               y="307.17987"
+               id="tspan3205-2">Connect supply and demand</tspan><tspan
+               sodipodi:role="line"
+               x="-197.90295"
+               y="330.4476"
+               id="tspan2438-1">供需管道暢通化</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#800080;stroke-width:3.23090792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+             d="m -270.65992,354.18531 60.69397,30.34699"
+             id="path3207-6" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#800080;stroke-width:3.23090792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+             d="m 109.34192,464.82628 -1.04645,-55.46174"
+             id="path3211-2" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#ff0000;stroke-width:5.38484621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -206.68766,226.39155 58.60108,0"
+             id="path3212-5" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#00c0c0;stroke-width:5.38484621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -206.68766,248.36696 58.60108,0"
+             id="path3214-4" />
+          <text
+             xml:space="preserve"
+             style="font-size:17.23150826px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             x="-134.48277"
+             y="232.67024"
+             id="text3216-77"><tspan
+               sodipodi:role="line"
+               id="tspan3218-5"
+               x="-134.48277"
+               y="232.67024">old economy 舊經濟</tspan><tspan
+               sodipodi:role="line"
+               x="-134.48277"
+               y="254.20963"
+               id="tspan3220-40">new economy 新經濟</tspan></text>
+          <rect
+             style="fill:none;stroke:#0000ff;stroke-width:0.94895661;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.5916533, 7.5916533;stroke-dashoffset:0"
+             id="rect5386"
+             width="328.24713"
+             height="52.039185"
+             x="-260.69272"
+             y="476.66757"
+             rx="4.7447829"
+             ry="6.6426969" />
+          <rect
+             ry="7.774765"
+             rx="4.718605"
+             y="368.05917"
+             x="-159.2766"
+             height="76.105988"
+             width="343.29385"
+             id="rect5388"
+             style="fill:none;stroke:#0000ff;stroke-width:1.023803;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.19042495, 8.19042495;stroke-dashoffset:0" />
+          <rect
+             style="fill:none;stroke:#0000ff;stroke-width:0.90431929;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:7.23455465, 7.23455465;stroke-dashoffset:0"
+             id="rect5489"
+             width="260.57758"
+             height="64.81501"
+             x="-327.34207"
+             y="277.42014"
+             rx="4.5215964"
+             ry="6.3302355" />
+        </g>
+      </g>
+      <image
+         sodipodi:absref="../m/13/3secway-on-ad.jpg"
+         xlink:href="../m/13/3secway-on-ad.jpg"
+         y="954.66656"
+         x="121.18236"
+         id="image3800"
+         height="78.151108"
+         width="94.346901" />
+      <g
+         id="g5393"
+         transform="matrix(0.8660254,0.5,-0.5,0.8660254,623.02847,392.19215)">
+        <image
+           sodipodi:absref="../m/13/dragon-ball.jpg"
+           xlink:href="../m/13/dragon-ball.jpg"
+           width="81.125984"
+           height="45.633366"
+           id="image4078"
+           x="231.34369"
+           y="353.56979" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4081"
+           y="404.52728"
+           x="237.85561"
+           style="font-size:3.62165141px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="404.52728"
+             x="237.85561"
+             id="tspan4083"
+             sodipodi:role="line">黃興良 (賽魯回歸) 的 『七龍珠 藍白拖』</tspan></text>
+      </g>
+      <g
+         id="g5381"
+         transform="translate(-6.416703,-5.0785498)">
+        <image
+           sodipodi:absref="../m/13/seediq-bale.jpg"
+           xlink:href="../m/13/seediq-bale.jpg"
+           width="89.56308"
+           height="67.023048"
+           id="image3735"
+           x="22.267269"
+           y="963.23859" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4212"
+           y="974.39777"
+           x="21.034451"
+           style="font-size:4.14240122px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="974.39777"
+             x="21.034451"
+             id="tspan4214"
+             sodipodi:role="line">『賽德克巴萊 kuso』</tspan></text>
+      </g>
+      <g
+         id="g4308"
+         transform="matrix(0.4405654,0.44056539,-0.44056539,0.4405654,770.29783,367.3274)">
+        <image
+           sodipodi:absref="../m/13/erik-johansson-coffee.jpg"
+           xlink:href="../m/13/erik-johansson-coffee.jpg"
+           width="120.30108"
+           height="88.421295"
+           id="image4299"
+           x="377.96051"
+           y="727.80652" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4302"
+           y="800.2887"
+           x="427.13849"
+           style="font-size:5.98825312px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="800.2887"
+             x="427.13849"
+             id="tspan4304"
+             sodipodi:role="line">瑞典： 『Johansson</tspan><tspan
+             id="tspan4306"
+             y="808.41418"
+             x="427.13849"
+             sodipodi:role="line">impossible pictures』</tspan></text>
+      </g>
+      <g
+         id="g4318"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,1028.3293,177.89679)">
+        <image
+           sodipodi:absref="../m/13/falling-girl.jpg"
+           xlink:href="../m/13/falling-girl.jpg"
+           width="74.915581"
+           height="53.814362"
+           id="image3978"
+           x="399.09058"
+           y="758.46802" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4314"
+           y="807.55566"
+           x="413.46304"
+           style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="807.55566"
+             x="413.46304"
+             id="tspan4316"
+             sodipodi:role="line">捷克 『跌倒少女』</tspan></text>
+      </g>
+      <g
+         id="g3298"
+         transform="matrix(0.91878136,0,0,0.91878136,-95.906252,72.423385)">
+        <image
+           sodipodi:absref="../m/13/bush-blair.jpg"
+           xlink:href="../m/13/bush-blair.jpg"
+           width="103.87595"
+           height="78.426338"
+           id="image3289"
+           x="357.25107"
+           y="959.87561" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3292"
+           y="967.37524"
+           x="357.98068"
+           style="font-size:5.55094433px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="967.37524"
+             x="357.98068"
+             id="tspan3294"
+             sodipodi:role="line">『Bush Blair Endless Love』</tspan><tspan
+             id="tspan3296"
+             y="974.90735"
+             x="357.98068"
+             sodipodi:role="line">『bad lip reading』</tspan></text>
+      </g>
+      <g
+         id="g5401"
+         transform="translate(193.01253,13.643758)">
+        <g
+           transform="translate(102.4,-9.4523111)"
+           id="g5364">
+          <image
+             sodipodi:absref="../m/13/youtube-recommend.jpg"
+             xlink:href="../m/13/youtube-recommend.jpg"
+             y="616.43933"
+             x="95.9151"
+             id="image3432"
+             height="90.181831"
+             width="105.99786" />
+        </g>
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path3474"
+           d="m 250.01051,612.69274 23.67965,9.73742 -19.69616,5.97524"
+           style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend-2)" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3470"
+           y="625.65051"
+           x="278.2081"
+           style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="625.65051"
+             x="278.2081"
+             id="tspan3472"
+             sodipodi:role="line">filters</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/13/social-networks.jpg"
+         xlink:href="../m/13/social-networks.jpg"
+         y="637.51221"
+         x="524.89374"
+         id="image5486"
+         height="69.564819"
+         width="93.581245" />
+      <g
+         transform="matrix(0.92508341,0,0,0.92508341,-91.371254,550.72644)"
+         id="g3447">
+        <image
+           sodipodi:absref="../m/13/telezombies.jpg"
+           xlink:href="../m/13/telezombies.jpg"
+           y="440.6976"
+           x="581.10168"
+           id="image3881"
+           height="71.055428"
+           width="94.984116" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.87981725px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+           x="582.1532"
+           y="445.48199"
+           id="text3435"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="582.1532"
+             y="445.48199"
+             id="tspan3441">『巫妖電視王』『AFK Pl@yers』『Machinima』</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/13/chess-clay-stop-motion.jpg"
+         xlink:href="../m/13/chess-clay-stop-motion.jpg"
+         width="77.986176"
+         height="58.002216"
+         id="image3938"
+         x="839.4754"
+         y="555.06134"
+         transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)" />
+      <g
+         id="g3905">
+        <image
+           xlink:href="../m/15/baby-dada.jpg"
+           width="92.51712"
+           height="63.605526"
+           id="image3898"
+           x="343.77081"
+           y="958.81079" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3901"
+           y="965.25891"
+           x="402.21594"
+           style="font-size:5.06561089000000031px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="965.25891"
+             x="402.21594"
+             id="tspan3903"
+             sodipodi:role="line">『嬰兒達達語』</tspan></text>
+      </g>
+    </g>
+    <image
+       sodipodi:absref="../m/12/job-market-lt.png"
+       xlink:href="../m/12/job-market-lt.png"
+       width="123.34644"
+       height="103.80433"
+       id="image3392"
+       x="821.19415"
+       y="642.95642" />
+    <rect
+       transform="translate(0,284.36218)"
+       style="fill:none;stroke:#000000;stroke-opacity:1"
+       id="rect14147"
+       width="1029.2988"
+       height="769.98706"
+       x="-0.9935317"
+       y="0"
+       rx="5"
+       ry="7" />
+    <g
+       id="g3231">
+      <image
+         sodipodi:absref="../s/read-write-web.png"
+         xlink:href="../s/read-write-web.png"
+         y="908.84357"
+         x="513.63953"
+         id="image4746"
+         height="81.977631"
+         width="122.96645" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3227"
+         y="902.41992"
+         x="539.33075"
+         style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="902.41992"
+           x="539.33075"
+           id="tspan3229"
+           sodipodi:role="line">呼應 「Web 2.0」 的觀察</tspan></text>
+    </g>
+  </g>
+  <script
+     ns1:version="12.06-12110506"
+     id="sozi-script">function module(c,a){var b=this;c.split(&quot;.&quot;).forEach(function(d){if(typeof b[d]===&quot;undefined&quot;){b[d]={}}b=b[d]});a(b)}module(&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});module(&quot;sozi.framenumber&quot;,function(d){var f=this,g=f.document,i,j,b,c,e=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=j.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;b.setAttribute(&quot;r&quot;,n);i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function a(){i=g.createElementNS(e,&quot;g&quot;);j=g.createElementNS(e,&quot;text&quot;);b=g.createElementNS(e,&quot;circle&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);b.setAttribute(&quot;cx&quot;,0);b.setAttribute(&quot;cy&quot;,0);i.appendChild(b);c=g.createTextNode(sozi.location.getFrameIndex()+1);j.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);j.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);j.setAttribute(&quot;x&quot;,0);j.setAttribute(&quot;y&quot;,0);j.appendChild(c);i.appendChild(j);g.documentElement.appendChild(i);h()}function k(l){c.nodeValue=l+1}sozi.events.listen(&quot;displayready&quot;,a);sozi.events.listen(&quot;framechange&quot;,k)});module(&quot;sozi.framelist&quot;,function(v){var k=this,q=k.document,m,c,j=0,d=5,i,t,b,x,y,u,f=300,g=&quot;decelerate&quot;,a=&quot;http://www.w3.org/2000/svg&quot;;function p(B){var z=B.relatedTarget,A=q.documentElement;while(z!==m&amp;&amp;z!==A){z=z.parentNode}if(z===A){v.hide();sozi.player.restart();B.stopPropagation()}}function s(A){var z=c.getCTM().f;if(z&lt;=-k.innerHeight/2){z+=k.innerHeight/2}else{if(z&lt;0){z=0}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function e(A){var z=c.getCTM().f;if(z+j&gt;=k.innerHeight*3/2){z-=k.innerHeight/2}else{if(z+j&gt;k.innerHeight+2*d){z=k.innerHeight-j-4*d}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function r(z){var B=sozi.animation.profiles[g](z),A=1-B;y=x*B+b*A;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+y+&quot;,0)&quot;)}function w(){}function h(z){return function(A){sozi.player.previewFrame(z);A.stopPropagation()}}function l(z){z.stopPropagation()}function o(){var B=q.createElementNS(a,&quot;rect&quot;),A=q.createElementNS(a,&quot;path&quot;),C=q.createElementNS(a,&quot;path&quot;),D=0,E,z=sozi.location.getFrameIndex();m=q.createElementNS(a,&quot;g&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);q.documentElement.appendChild(m);c=q.createElementNS(a,&quot;g&quot;);m.appendChild(c);B.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);B.setAttribute(&quot;x&quot;,d);B.setAttribute(&quot;y&quot;,d);B.setAttribute(&quot;rx&quot;,d);B.setAttribute(&quot;ry&quot;,d);B.addEventListener(&quot;click&quot;,l,false);B.addEventListener(&quot;mousedown&quot;,l,false);B.addEventListener(&quot;mouseout&quot;,p,false);c.appendChild(B);sozi.document.frames.forEach(function(G,H){var F=q.createElementNS(a,&quot;text&quot;);F.appendChild(q.createTextNode(G.title));c.appendChild(F);if(H===z){F.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}E=F.getBBox().width;j+=F.getBBox().height;if(E&gt;D){D=E}F.setAttribute(&quot;x&quot;,2*d);F.setAttribute(&quot;y&quot;,j+d);F.addEventListener(&quot;click&quot;,h(H),false);F.addEventListener(&quot;mousedown&quot;,l,false)});A.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);A.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(5*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,-&quot;+(3*d)+&quot; z&quot;);A.addEventListener(&quot;click&quot;,s,false);A.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(A);C.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);C.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(7*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,&quot;+(3*d)+&quot; z&quot;);C.addEventListener(&quot;click&quot;,e,false);C.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(C);B.setAttribute(&quot;width&quot;,D+7*d);B.setAttribute(&quot;height&quot;,j+2*d);i=-D-9*d;t=0;y=x=i;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+i+&quot;,0)&quot;);u=new sozi.animation.Animator(r,w)}function n(z){var B=Array.prototype.slice.call(q.getElementsByClassName(&quot;sozi-toc-current&quot;)),A=c.getElementsByTagName(&quot;text&quot;);B.forEach(function(C){C.removeAttribute(&quot;class&quot;)});A[z].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}v.show=function(){b=y;x=t;u.start(f)};v.hide=function(){b=y;x=i;u.start(f)};v.isVisible=function(){return x===t};sozi.events.listen(&quot;displayready&quot;,o);sozi.events.listen(&quot;cleanup&quot;,v.hide);sozi.events.listen(&quot;framechange&quot;,n)});module(&quot;sozi.document&quot;,function(c){var e=this,g=e.document,b=&quot;http://sozi.baierouge.fr&quot;,d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};c.frames=[];c.idLayerList=[];function i(k,j){var l=k.getAttributeNS(b,j);return l===&quot;&quot;?d[j]:l}function h(n,o,j){var k=n.layers[o]=n.layers[o]||{idLayer:o,geometry:{clip:d.clip}},l=k.geometry.clip,m;if(typeof k.hide===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;hide&quot;)){k.hide=i(j,&quot;hide&quot;)===&quot;true&quot;}if(typeof k.transitionZoomPercent===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){k.transitionZoomPercent=parseInt(i(j,&quot;transition-zoom-percent&quot;),10)}if(typeof k.transitionProfile===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-profile&quot;)){k.transitionProfile=sozi.animation.profiles[i(j,&quot;transition-profile&quot;)||&quot;linear&quot;]}if(j.hasAttributeNS(b,&quot;refid&quot;)){m=g.getElementById(j.getAttributeNS(b,&quot;refid&quot;));if(m){if(k.hide){m.style.visibility=&quot;hidden&quot;}k.geometry=sozi.display.getElementGeometry(m);k.geometry.clip=l}}if(j.hasAttributeNS(b,&quot;clip&quot;)){k.geometry.clip=i(j,&quot;clip&quot;)===&quot;true&quot;}}function a(){var j,m,n,o,k=g.documentElement,l=&quot;http://www.w3.org/2000/svg&quot;;m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(p){var q=p.getAttributeNS(b,&quot;group&quot;);if(q&amp;&amp;c.idLayerList.indexOf(q)===-1&amp;&amp;g.getElementById(q)){c.idLayerList.push(q)}});j=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));if(j.some(function(p){return p.hasAttributeNS(b,&quot;refid&quot;)})){n=g.createElementNS(l,&quot;g&quot;);o=Array.prototype.slice.call(k.childNodes);o.forEach(function(q,p){if(!q.getAttribute){k.removeChild(q)}else{if(c.idLayerList.indexOf(q.getAttribute(&quot;id&quot;))===-1){k.removeChild(q);n.appendChild(q)}else{if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+p);c.idLayerList.push(&quot;sozi-wrapper-&quot;+p);k.insertBefore(n,q);n=g.createElementNS(l,&quot;g&quot;)}}}});if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+o.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+o.length);k.appendChild(n)}}j.forEach(function(q,p){var s,r={id:q.getAttribute(&quot;id&quot;),title:i(q,&quot;title&quot;),sequence:parseInt(i(q,&quot;sequence&quot;),10),timeoutEnable:i(q,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(i(q,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(i(q,&quot;transition-duration-ms&quot;),10),layers:{}};c.idLayerList.forEach(function(w){var t,u,v;if(p===0||w.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){h(r,w,q)}else{u=r.layers[w]={};v=c.frames[c.frames.length-1].layers[w];for(t in v){u[t]=v[t]}}});m=Array.prototype.slice.call(q.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(t){var u=t.getAttributeNS(b,&quot;group&quot;);if(u&amp;&amp;c.idLayerList.indexOf(u)!==-1){h(r,u,t)}});for(s in r.layers){if(r.layers.hasOwnProperty(s)){c.frames.push(r);break}}});c.frames.sort(function(q,p){return q.sequence-p.sequence})}function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;documentready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});module(&quot;sozi.animation&quot;,function(d){var g=this,i=40,j=[],b,h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;function e(l){var k;if(j.length&gt;0){if(h){h(e)}j.forEach(function(m){m.step(l)})}else{if(!h){g.clearInterval(b)}}}function c(){if(h){h(e)}else{b=g.setInterval(function(){e(Date.now())},i)}}function a(k){j.push(k);if(j.length===1){c()}}function f(k){j.splice(j.indexOf(k),1)}d.Animator=function(k,l){this.onStep=k;this.onDone=l;this.durationMs=0;this.data={};this.initialTime=0;this.started=false};d.Animator.prototype.start=function(k,l){this.durationMs=k;this.data=l;this.initialTime=Date.now();this.onStep(0,this.data);if(!this.started){this.started=true;a(this)}};d.Animator.prototype.stop=function(){if(this.started){f(this);this.started=false}};d.Animator.prototype.step=function(l){var k=l-this.initialTime;if(k&gt;=this.durationMs){this.stop();this.onStep(1,this.data);this.onDone()}else{this.onStep(k/this.durationMs,this.data)}};d.profiles={linear:function(k){return k},accelerate:function(k){return Math.pow(k,3)},&quot;strong-accelerate&quot;:function(k){return Math.pow(k,5)},decelerate:function(k){return 1-Math.pow(1-k,3)},&quot;strong-decelerate&quot;:function(k){return 1-Math.pow(1-k,5)},&quot;accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,3)/2;return k&lt;=0.5?m:1-m},&quot;strong-accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,5)/2;return k&lt;=0.5?m:1-m},&quot;decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,2))/2;return k&lt;=0.5?m:1-m},&quot;strong-decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,3))/2;return k&lt;=0.5?m:1-m}}});module(&quot;sozi.display&quot;,function(c){var f=this,a=f.document,g,b=&quot;http://www.w3.org/2000/svg&quot;;c.layers={};function e(){var j,k,l,i=a.documentElement;g=i.getBBox();i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);sozi.document.idLayerList.forEach(function(m){c.layers[m]={geometry:{cx:0,cy:0,width:1,height:1,rotate:0,clip:true},svgClipRect:a.createElementNS(b,&quot;rect&quot;),svgLayer:a.getElementById(m)};k=a.createElementNS(b,&quot;clipPath&quot;);k.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+m);k.appendChild(c.layers[m].svgClipRect);i.appendChild(k);j=a.createElementNS(b,&quot;g&quot;);j.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+m+&quot;)&quot;);i.insertBefore(j,c.layers[m].svgLayer);j.appendChild(c.layers[m].svgLayer)});sozi.events.fire(&quot;displayready&quot;)}function d(){var i=a.documentElement;i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);c.update()}function h(k){var j=c.layers[k].geometry,i={};i.scale=Math.min(f.innerWidth/j.width,f.innerHeight/j.height);i.width=j.width*i.scale;i.height=j.height*i.scale;i.x=(f.innerWidth-i.width)/2;i.y=(f.innerHeight-i.height)/2;return i}c.getElementGeometry=function(m){var p,l,q,j,n,k,o=m.getCTM(),i=Math.sqrt(o.a*o.a+o.b*o.b);if(m.nodeName===&quot;rect&quot;){p=m.x.baseVal.value;l=m.y.baseVal.value;q=m.width.baseVal.value;j=m.height.baseVal.value}else{n=m.getBBox();p=n.x;l=n.y;q=n.width;j=n.height}k=a.documentElement.createSVGPoint();k.x=p+q/2;k.y=l+j/2;k=k.matrixTransform(o);return{cx:k.x,cy:k.y,width:q*i,height:j*i,rotate:Math.atan2(o.b,o.a)*180/Math.PI}};c.getDocumentGeometry=function(){var k,i={layers:{}},j={geometry:{cx:g.x+g.width/2,cy:g.y+g.height/2,width:g.width,height:g.height,rotate:0,clip:false}};for(k in c.layers){if(c.layers.hasOwnProperty(k)){i.layers[k]=j}}return i};c.update=function(){var n,i,j,k,m,l;for(n in c.layers){if(c.layers.hasOwnProperty(n)){j=c.layers[n].geometry;i=h(n);k=c.layers[n].svgClipRect;k.setAttribute(&quot;x&quot;,j.clip?i.x:0);k.setAttribute(&quot;y&quot;,j.clip?i.y:0);k.setAttribute(&quot;width&quot;,j.clip?i.width:f.innerWidth);k.setAttribute(&quot;height&quot;,j.clip?i.height:f.innerHeight);m=-j.cx+j.width/2+i.x/i.scale;l=-j.cy+j.height/2+i.y/i.scale;c.layers[n].svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+i.scale+&quot;)translate(&quot;+m+&quot;,&quot;+l+&quot;)rotate(&quot;+(-j.rotate)+&quot;,&quot;+j.cx+&quot;,&quot;+j.cy+&quot;)&quot;)}}};c.showFrame=function(l){var m,k,j,i;for(m in l.layers){if(l.layers.hasOwnProperty(m)){j=l.layers[m].geometry;k=c.layers[m].geometry;for(i in j){if(j.hasOwnProperty(i)){k[i]=j[i]}}}}c.update()};c.drag=function(k,i){var n,l,j,m;for(n in c.layers){if(c.layers.hasOwnProperty(n)){l=c.layers[n].geometry;j=h(n);m=l.rotate*Math.PI/180;l.cx-=(k*Math.cos(m)-i*Math.sin(m))/j.scale;l.cy-=(k*Math.sin(m)+i*Math.cos(m))/j.scale;l.clip=false}}c.update()};c.zoom=function(l,j,n){var m,k=(1-l)*(j-f.innerWidth/2),i=(1-l)*(n-f.innerHeight/2);for(m in c.layers){if(c.layers.hasOwnProperty(m)){c.layers[m].geometry.width/=l;c.layers[m].geometry.height/=l}}c.drag(k,i)};c.rotate=function(i){var j;for(j in c.layers){if(c.layers.hasOwnProperty(j)){c.layers[j].geometry.rotate+=i;c.layers[j].geometry.rotate%=360}}c.update()};sozi.events.listen(&quot;documentready&quot;,e);f.addEventListener(&quot;resize&quot;,d,false)});module(&quot;sozi.player&quot;,function(q){var n=sozi.display,g=this,p,j,o=500,c=-10,l=&quot;linear&quot;,h=0,i=0,b=false,a=false;function m(v,x){var w,u,z,t,s,y;for(z in x){if(x.hasOwnProperty(z)){t=n.layers[z].geometry;w=x[z].profile(v);u=1-w;for(s in x[z].initialState){if(x[z].initialState.hasOwnProperty(s)){if(typeof x[z].initialState[s]===&quot;number&quot;&amp;&amp;typeof x[z].finalState[s]===&quot;number&quot;){t[s]=x[z].finalState[s]*w+x[z].initialState[s]*u}}}if(x[z].zoomWidth&amp;&amp;x[z].zoomWidth.k!==0){y=v-x[z].zoomWidth.ts;t.width=x[z].zoomWidth.k*y*y+x[z].zoomWidth.ss}if(x[z].zoomHeight&amp;&amp;x[z].zoomHeight.k!==0){y=v-x[z].zoomHeight.ts;t.height=x[z].zoomHeight.k*y*y+x[z].zoomHeight.ss}t.clip=x[z].finalState.clip}}n.update()}function f(){var s;if(sozi.document.frames[i].timeoutEnable){a=true;s=(i+1)%sozi.document.frames.length;j=g.setTimeout(function(){q.moveToFrame(s)},sozi.document.frames[i].timeoutMs)}}function r(){h=i;if(b){f()}}q.startFromIndex=function(s){b=true;a=false;h=s;i=s;n.showFrame(sozi.document.frames[s]);f()};q.restart=function(){q.startFromIndex(i)};q.stop=function(){p.stop();if(a){g.clearTimeout(j);a=false}b=false;h=i};function e(s,C,A){var D={ss:((s&lt;0)?Math.max(C,A):Math.min(C,A))*(100-s)/100,ts:0.5,k:0},y,x,w,t,B,z;if(s!==0){y=C-A;x=C-D.ss;w=A-D.ss;if(y!==0){t=Math.sqrt(x*w);B=(x-t)/y;z=(x+t)/y;D.ts=(B&gt;0&amp;&amp;B&lt;=1)?B:z}D.k=x/D.ts/D.ts}return D}q.jumpToFrame=function(s){q.stop();sozi.events.fire(&quot;cleanup&quot;);h=s;i=s;n.showFrame(sozi.document.frames[s]);sozi.events.fire(&quot;framechange&quot;,s)};function d(s,w,z,t){var u,y,x,v={};for(y in s.layers){if(s.layers.hasOwnProperty(y)){v[y]={initialState:{},finalState:{}};v[y].profile=t||w.layers[y].transitionProfile;for(u in s.layers[y].geometry){if(s.layers[y].geometry.hasOwnProperty(u)){v[y].initialState[u]=s.layers[y].geometry[u];if(w.layers.hasOwnProperty(y)){v[y].finalState[u]=w.layers[y].geometry[u]}else{v[y].finalState[u]=s.layers[y].geometry[u]}}}v[y].initialState.rotate=(v[y].initialState.rotate-180)%360+180;v[y].finalState.rotate=(v[y].finalState.rotate-180)%360+180;if(v[y].finalState.rotate-v[y].initialState.rotate&gt;180){v[y].finalState.rotate-=360}else{if(v[y].finalState.rotate-v[y].initialState.rotate&lt;-180){v[y].initialState.rotate-=360}}x=z||w.layers[y].transitionZoomPercent;if(x&amp;&amp;w.layers.hasOwnProperty(y)){v[y].zoomWidth=e(x,s.layers[y].geometry.width,w.layers[y].geometry.width);v[y].zoomHeight=e(x,s.layers[y].geometry.height,w.layers[y].geometry.height)}}}return v}q.previewFrame=function(s){i=s;p.start(o,d(n,sozi.document.frames[s],c,sozi.animation.profiles[l]));sozi.events.fire(&quot;framechange&quot;,s)};q.moveToFrame=function(t){var s,v,u;if(a){g.clearTimeout(j);a=false}if(t===(i+1)%sozi.document.frames.length){s=sozi.document.frames[t].transitionDurationMs;v=undefined;u=undefined}else{s=o;v=c;u=sozi.animation.profiles[l]}sozi.events.fire(&quot;cleanup&quot;);b=true;i=t;p.start(s,d(n,sozi.document.frames[t],v,u));sozi.events.fire(&quot;framechange&quot;,t)};q.moveToFirst=function(){q.moveToFrame(0)};q.jumpToPrevious=function(){var s=i;if(!p.started||h&lt;=i){s-=1}if(s&gt;=0){q.jumpToFrame(s)}};q.moveToPrevious=function(){var s,t;for(s=i-1;s&gt;=0;s-=1){t=sozi.document.frames[s];if(!t.timeoutEnable||t.timeoutMs!==0){q.moveToFrame(s);break}}};q.jumpToNext=function(){var s=i;if(!p.started||h&gt;=i){s+=1}if(s&lt;sozi.document.frames.length){q.jumpToFrame(s)}};q.moveToNext=function(){if(i&lt;sozi.document.frames.length-1||sozi.document.frames[i].timeoutEnable){q.moveToFrame((i+1)%sozi.document.frames.length)}};q.moveToLast=function(){q.moveToFrame(sozi.document.frames.length-1)};q.moveToCurrent=function(){q.moveToFrame(i)};q.showAll=function(){q.stop();sozi.events.fire(&quot;cleanup&quot;);p.start(o,d(n,n.getDocumentGeometry(),c,sozi.animation.profiles[l]))};function k(){q.startFromIndex(sozi.location.getFrameIndex());g.setTimeout(n.update,1)}p=new sozi.animation.Animator(m,r);sozi.events.listen(&quot;displayready&quot;,k)});module(&quot;sozi.location&quot;,function(a){var e=this,c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)});module(&quot;sozi.actions&quot;,function(z){var t=sozi.player,u=sozi.display,j=this,o=j.document,p=0,v=1,s=1.05,x=5,c=false,l=false,g=0,e=0;function a(B,A,C){t.stop();u.zoom(B&gt;0?s:1/s,A,C)}function w(A){t.stop();u.rotate(A&gt;0?x:-x)}function r(){if(sozi.framelist.isVisible()){sozi.framelist.hide();t.restart()}else{t.stop();sozi.framelist.show()}}function i(A){if(A.button===p){c=true;l=false;g=A.clientX;e=A.clientY}else{if(A.button===v){r()}}A.stopPropagation();A.preventDefault()}function m(A){if(c){t.stop();l=true;sozi.events.fire(&quot;cleanup&quot;);u.drag(A.clientX-g,A.clientY-e);g=A.clientX;e=A.clientY}A.stopPropagation()}function f(A){if(A.button===p){c=false}A.stopPropagation();A.preventDefault()}function q(A){t.moveToPrevious();A.stopPropagation();A.preventDefault()}function h(A){if(!l&amp;&amp;A.button!==v){t.moveToNext()}A.stopPropagation();A.preventDefault()}function k(A){var B=0;if(!A){A=j.event}if(A.wheelDelta){B=A.wheelDelta}else{if(A.detail){B=-A.detail}}if(B!==0){if(A.shiftKey){w(B)}else{a(B,A.clientX,A.clientY)}}A.stopPropagation();A.preventDefault()}function n(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.charCode||A.keyCode){case 43:a(1,j.innerWidth/2,j.innerHeight/2);break;case 45:a(-1,j.innerWidth/2,j.innerHeight/2);break;case 61:t.moveToCurrent();break;case 70:case 102:t.showAll();break;case 84:case 116:r();break;case 82:w(-1);break;case 114:w(1);break}A.stopPropagation();A.preventDefault()}function d(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.keyCode){case 36:t.moveToFirst();break;case 35:t.moveToLast();break;case 38:t.jumpToPrevious();break;case 33:case 37:t.moveToPrevious();break;case 40:t.jumpToNext();break;case 34:case 39:case 13:case 32:t.moveToNext();break}A.stopPropagation()}function y(A){A.stopPropagation()}function b(){var B=o.getElementsByTagName(&quot;a&quot;);for(var C=0;C&lt;B.length;C+=1){B[C].addEventListener(&quot;click&quot;,y,false);B[C].addEventListener(&quot;contextmenu&quot;,y,false)}var A=o.documentElement;A.addEventListener(&quot;click&quot;,h,false);A.addEventListener(&quot;mousedown&quot;,i,false);A.addEventListener(&quot;mouseup&quot;,f,false);A.addEventListener(&quot;mousemove&quot;,m,false);A.addEventListener(&quot;keypress&quot;,n,false);A.addEventListener(&quot;keydown&quot;,d,false);A.addEventListener(&quot;contextmenu&quot;,q,false);A.addEventListener(&quot;DOMMouseScroll&quot;,k,false);j.onmousewheel=k}j.addEventListener(&quot;load&quot;,b,false)});</script>
+  <style
+     ns1:version="12.06-12110506"
+     id="sozi-style">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="書及作者"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame1"
+     ns1:sequence="1"
+     ns1:refid="g3570" />
+  <ns1:frame
+     ns1:refid="image3156"
+     ns1:sequence="3"
+     id="frame2"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Netflix"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="三大驅力"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame3"
+     ns1:sequence="4"
+     ns1:refid="g5501" />
+  <ns1:frame
+     ns1:refid="g5381"
+     ns1:sequence="5"
+     id="frame4"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="賽德克 巴萊"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="經濟動能推升方案"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame5"
+     ns1:sequence="6"
+     ns1:refid="image3800" />
+  <ns1:frame
+     ns1:refid="g3298"
+     ns1:sequence="7"
+     id="frame6"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Bush Blair Endless Love"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3447"
+     ns1:sequence="9"
+     id="frame8"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="巫妖電視王"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g4318"
+     ns1:sequence="11"
+     id="frame10"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="跌倒少女"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="impossible pictures"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame11"
+     ns1:sequence="12"
+     ns1:refid="g4308" />
+  <ns1:frame
+     ns1:refid="g5393"
+     ns1:sequence="13"
+     id="frame12"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="七龍珠與藍白拖"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="youtube 裡面的 filters"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame15"
+     ns1:sequence="17"
+     ns1:refid="g5401" />
+  <ns1:frame
+     ns1:refid="image5486"
+     ns1:sequence="16"
+     id="frame16"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="社交媒體"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="供需管道暢通化"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame17"
+     ns1:sequence="18"
+     ns1:refid="rect5489" />
+  <ns1:frame
+     ns1:refid="g5501"
+     ns1:sequence="19"
+     id="frame18"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="三大驅力"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="大英百科 vs 維基百科"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame19"
+     ns1:sequence="20"
+     ns1:refid="g4916" />
+  <ns1:frame
+     ns1:refid="g3458"
+     ns1:sequence="21"
+     id="frame21"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="其他特性"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3419"
+     ns1:sequence="24"
+     id="frame24"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="創作的動機?"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="資訊就業市場的長尾?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame25"
+     ns1:sequence="25"
+     ns1:refid="image3392" />
+  <ns1:frame
+     ns1:refid="rect14147"
+     ns1:sequence="26"
+     id="frame26"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="全貌"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="image3938"
+     ns1:sequence="14"
+     id="frame260"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="西洋棋大戰， 黏土版"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3231"
+     ns1:sequence="22"
+     id="frame26l"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Web 2.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="兩頭不同的動機"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame264"
+     ns1:sequence="23"
+     ns1:refid="g3817" />
+  <ns1:frame
+     ns1:refid="g4549"
+     ns1:sequence="2"
+     id="frame26f"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Pareto's Principle"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3905"
+     ns1:sequence="8"
+     id="frame263"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="嬰兒達達語"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="rect5386"
+     ns1:sequence="10"
+     id="frame25Z"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="生產/創作工具民主化"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="流通工具民主化"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame269"
+     ns1:sequence="15"
+     ns1:refid="rect5388" />
+</svg>

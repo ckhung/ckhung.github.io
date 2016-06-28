@@ -1,0 +1,2670 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="attention.svg"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.1"
+   id="svg2"
+   height="768"
+   width="1024">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.51115785"
+     inkscape:cx="576.55652"
+     inkscape:cy="189.21739"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1059"
+     inkscape:window-height="530"
+     inkscape:window-x="95"
+     inkscape:window-y="191"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <linearGradient
+       y2="54.502"
+       x2="136.71"
+       gradientTransform="matrix(0.38514,0,0,0.38514,-0.27979,41.711)"
+       y1="106.76"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2261"
+       x1="174.22"
+       id="linearGradient2271" />
+    <linearGradient
+       y2="67.219"
+       x2="164.31"
+       gradientTransform="matrix(0.38514,0,0,0.38514,-0.27979,41.711)"
+       y1="147.22"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2261"
+       x1="221.69"
+       id="linearGradient2269" />
+    <linearGradient
+       y2="101.36"
+       x2="187"
+       gradientTransform="matrix(0.38514,0,0,0.38514,-0.27979,41.711)"
+       y1="184.36"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2261"
+       x1="233"
+       id="linearGradient2267" />
+    <linearGradient
+       id="linearGradient2261">
+      <stop
+         offset="0"
+         stop-color="#735017"
+         id="stop2263" />
+      <stop
+         offset="1"
+         stop-color="#93651d"
+         id="stop2265" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         id="path3264" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         id="path3261" />
+    </marker>
+    <inkscape:perspective
+       id="perspective44"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible">
+      <path
+         id="path3203"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1"
+       style="overflow:visible">
+      <path
+         id="path3200"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3264-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3261-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4029"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4031"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4033"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4035"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4037"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4039"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4041"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4043"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4045"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4047"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4049"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4051"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4053"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4055"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4057"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4059"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3264-8-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4057-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path4059-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.36218)">
+    <g
+       transform="matrix(2.0144953,0,0,2.0144953,-750.74569,-298.90274)"
+       id="g5696">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5656"
+         y="395.98349"
+         x="735.31696"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="395.98349"
+           x="735.31696"
+           id="tspan5658"
+           sodipodi:role="line">注意力</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5660"
+         y="459.09979"
+         x="662.31189"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="459.09979"
+           x="662.31189"
+           id="tspan5662"
+           sodipodi:role="line">金錢</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5664"
+         y="329.24835"
+         x="819.94049"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="329.24835"
+           x="819.94049"
+           id="tspan5666"
+           sodipodi:role="line">隱私</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5668"
+         y="329.45575"
+         x="661.83655"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="329.45575"
+           x="661.83655"
+           id="tspan5670"
+           sodipodi:role="line">創意</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         transform="matrix(0.49640225,0,0,0.49640225,423.31064,213.50326)"
+         inkscape:connector-curvature="0"
+         id="path4473"
+         d="m 613.92795,377.4227 -67.04913,66.21287"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7);marker-end:url(#marker4057)" />
+      <g
+         transform="matrix(0.25767244,-0.25767244,0.25767244,0.25767244,525.68397,343.30156)"
+         id="g5697">
+        <g
+           transform="matrix(0.39849038,0,0,0.39849038,191.85313,237.75479)"
+           id="g11517">
+          <image
+             sodipodi:absref="../m/13/astroturfing.jpg"
+             xlink:href="../m/13/astroturfing.jpg"
+             y="454.97592"
+             x="187.24916"
+             id="image5317"
+             height="34.894905"
+             width="34.894905" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text5320"
+             y="459.2626"
+             x="223.24324"
+             style="font-size:2.55785179px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               id="tspan5326"
+               y="459.2626"
+               x="223.24324"
+               sodipodi:role="line" /><tspan
+               id="tspan5334"
+               y="462.45993"
+               x="223.24324"
+               sodipodi:role="line">『astroturfing』</tspan><tspan
+               id="tspan5693"
+               y="465.93066"
+               x="223.24324"
+               sodipodi:role="line">『偽草根運動』</tspan><tspan
+               id="tspan5332"
+               y="469.12799"
+               x="223.24324"
+               sodipodi:role="line">『五毛黨』</tspan><tspan
+               id="tspan5695"
+               y="472.32532"
+               x="223.24324"
+               sodipodi:role="line">『寫手門』</tspan><tspan
+               y="475.52261"
+               x="223.24324"
+               sodipodi:role="line"
+               id="tspan5719">『microsoft</tspan><tspan
+               y="478.99338"
+               x="223.24324"
+               sodipodi:role="line"
+               id="tspan5721">astroturfing』</tspan><tspan
+               y="482.46414"
+               x="223.24324"
+               sodipodi:role="line"
+               id="tspan5717">(『土皇帝 網軍』)</tspan></text>
+        </g>
+        <g
+           id="g5234"
+           transform="matrix(0.73751712,0,0,0.73751712,-308.84844,84.588191)">
+          <image
+             sodipodi:absref="../m/12/buying-publication.jpg"
+             xlink:href="../m/12/buying-publication.jpg"
+             y="451.31168"
+             x="728.61017"
+             id="image3508"
+             height="15.582909"
+             width="25.039474" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text5230"
+             y="469.34082"
+             x="734.65851"
+             style="font-size:1.98560905px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="469.34082"
+               x="734.65851"
+               id="tspan5232"
+               sodipodi:role="line">『採購期刊版面』</tspan></text>
+        </g>
+        <g
+           id="g5219"
+           transform="matrix(0.68832439,0,0,0.68832439,-195.7905,204.41662)">
+          <image
+             sodipodi:absref="../m/13/anti-embedded-marketing.jpg"
+             xlink:href="../m/13/anti-embedded-marketing.jpg"
+             y="376.76532"
+             x="661.38818"
+             id="image5212"
+             height="27.714218"
+             width="49.293232" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text5215"
+             y="380.29205"
+             x="701.2887"
+             style="font-size:2.11620593px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="380.29205"
+               x="701.2887"
+               sodipodi:role="line"
+               id="tspan5226">『業配(文)』</tspan><tspan
+               y="382.93732"
+               x="701.2887"
+               sodipodi:role="line"
+               id="tspan5224">『第一次買新聞</tspan><tspan
+               id="tspan6654"
+               y="385.58258"
+               x="701.2887"
+               sodipodi:role="line">就上手』</tspan><tspan
+               id="tspan6650"
+               y="388.22781"
+               x="701.2887"
+               sodipodi:role="line">『embedded</tspan><tspan
+               id="tspan6652"
+               y="391.0993"
+               x="701.2887"
+               sodipodi:role="line">marketing』</tspan></text>
+        </g>
+        <g
+           transform="matrix(0.71250587,0,0,0.71250587,57.109117,173.71685)"
+           id="g5855">
+          <image
+             sodipodi:absref="../m/14/embed-marketing-nuclear.jpg"
+             xlink:href="../m/14/embed-marketing-nuclear.jpg"
+             y="408.76834"
+             x="241.19867"
+             id="image3498"
+             height="26.574717"
+             width="19.944513" />
+          <text
+             transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
+             sodipodi:linespacing="125%"
+             id="text5831"
+             y="430.00183"
+             x="-239.39935"
+             style="font-size:2.46231842px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               id="tspan5853"
+               y="430.00183"
+               x="-239.39935"
+               sodipodi:role="line">『核能學會坦承買廣告』</tspan></text>
+        </g>
+        <g
+           id="g3428"
+           transform="matrix(0.6681186,0,0,0.6681186,58.219527,162.59909)">
+          <image
+             sodipodi:absref="../m/14/embed-marketing-env.jpg"
+             xlink:href="../m/14/embed-marketing-env.jpg"
+             y="417.91879"
+             x="313.64941"
+             id="image3638"
+             height="23.579729"
+             width="36.503742" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.71241522px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="52.809776"
+             y="539.22247"
+             id="text6646"
+             sodipodi:linespacing="125%"
+             transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan6648"
+               x="52.809776"
+               y="539.22247">『美麗灣 新聞置入』</tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text6677"
+           y="403.345"
+           x="205.53644"
+           style="font-size:14.56369686px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="403.345"
+             x="205.53644"
+             id="tspan6679"
+             sodipodi:role="line"
+             style="font-size:5.44892406px">為什麼你需要學習</tspan><tspan
+             style="font-size:16.34677315px"
+             y="422.11166"
+             x="205.53644"
+             sodipodi:role="line"
+             id="tspan3407">媒</tspan><tspan
+             style="font-size:16.34677315px"
+             y="442.5451"
+             x="205.53644"
+             sodipodi:role="line"
+             id="tspan3410">體</tspan><tspan
+             style="font-size:16.34677315px"
+             y="462.97858"
+             x="205.53644"
+             sodipodi:role="line"
+             id="tspan3412">識</tspan><tspan
+             style="font-size:16.34677315px"
+             y="483.41205"
+             x="205.53644"
+             sodipodi:role="line"
+             id="tspan3414">讀</tspan></text>
+        <g
+           id="g3070"
+           transform="matrix(0.19361709,0,0,0.19361709,108.03143,367.46292)">
+          <image
+             sodipodi:absref="../m/13/scal-bus.jpg"
+             xlink:href="../m/13/scal-bus.jpg"
+             width="284.78769"
+             height="189.85846"
+             id="image3063"
+             x="195.2636"
+             y="395.54581" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3066"
+             y="420.10782"
+             x="214.25232"
+             style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="420.10782"
+               x="214.25232"
+               id="tspan3068"
+               sodipodi:role="line">『四川航空 免費巴士 上億』</tspan></text>
+        </g>
+        <g
+           transform="matrix(1.631095,0,0,1.631095,-1038.1778,-338.99369)"
+           id="g3423">
+          <image
+             sodipodi:absref="../m/14/g-ads.png"
+             xlink:href="../m/14/g-ads.png"
+             width="37.418362"
+             height="24.925457"
+             id="image3420"
+             x="721.83472"
+             y="450.97025" />
+        </g>
+        <image
+           sodipodi:absref="../m/14/antinuclear-keyword.jpg"
+           xlink:href="../m/14/antinuclear-keyword.jpg"
+           width="21.352415"
+           height="14.626407"
+           id="image3473"
+           x="227.84474"
+           y="442.16101" />
+        <image
+           sodipodi:absref="../m/14/we-sell-likes.png"
+           xlink:href="../m/14/we-sell-likes.png"
+           y="398.41013"
+           x="258.83957"
+           id="image4806"
+           height="10.5914"
+           width="31.7742" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.49640226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7);marker-end:url(#marker4057)"
+         d="M 750.01486,368.97155 716.4253,335.83302"
+         id="path3754"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         transform="matrix(0.24547458,0.24547458,-0.24547458,0.24547458,739.20439,203.55796)"
+         id="g5207">
+        <text
+           xml:space="preserve"
+           style="font-size:5.95682716px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="244.64365"
+           y="305.43112"
+           id="text5672"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="244.64365"
+             y="305.43112"
+             id="tspan5676">信譽經濟 reputation economy</tspan></text>
+        <image
+           sodipodi:absref="../m/13/openideo.jpg"
+           xlink:href="../m/13/openideo.jpg"
+           width="72.101227"
+           height="41.945908"
+           id="image3850"
+           x="210.37837"
+           y="334.26965" />
+        <g
+           id="g5202"
+           transform="matrix(1.0301858,0,0,1.0301858,-9.84919,-9.8447859)">
+          <image
+             sodipodi:absref="../m/13/linus-torvalds.jpg"
+             xlink:href="../m/13/linus-torvalds.jpg"
+             y="238.6461"
+             x="296.04904"
+             id="image4397"
+             height="30.335682"
+             width="30.762945" />
+          <image
+             sodipodi:absref="../m/13/rms.jpg"
+             xlink:href="../m/13/rms.jpg"
+             y="237.70059"
+             x="328.38525"
+             id="image4478"
+             height="31.855701"
+             width="27.072834" />
+          <image
+             sodipodi:absref="../m/13/lawrence-lessig.jpg"
+             xlink:href="../m/13/lawrence-lessig.jpg"
+             y="271.19998"
+             x="318.87491"
+             id="image5199"
+             height="25.237255"
+             width="37.113613" />
+          <image
+             sodipodi:absref="../m/14/jimmy-wales.jpg"
+             xlink:href="../m/14/jimmy-wales.jpg"
+             y="270.69397"
+             x="296.84122"
+             id="image8935"
+             height="26.001347"
+             width="20.884615" />
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text5229"
+           y="329.2103"
+           x="254.2374"
+           style="font-size:5.95682716px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="329.2103"
+             x="254.2374"
+             id="tspan5231"
+             sodipodi:role="line">群眾外包 crowd sourcing</tspan></text>
+        <g
+           transform="matrix(1.0316487,0,0,1.0316487,69.890167,-16.431133)"
+           id="g3425">
+          <image
+             sodipodi:absref="../m/13/osm.jpg"
+             xlink:href="../m/13/osm.jpg"
+             width="47.255077"
+             height="16.539274"
+             id="image3436"
+             x="214.86667"
+             y="359.22281" />
+          <image
+             sodipodi:absref="../m/13/wikipedia.png"
+             xlink:href="../m/13/wikipedia.png"
+             width="24.427185"
+             height="24.348385"
+             id="image3533"
+             x="264.10202"
+             y="336.16833" />
+          <image
+             sodipodi:absref="../m/14/gvo.png"
+             xlink:href="../m/14/gvo.png"
+             y="337.60516"
+             x="215.61914"
+             id="image3422"
+             height="16.685268"
+             width="45.92276" />
+        </g>
+        <image
+           sodipodi:absref="../m/13/telezombies.jpg"
+           xlink:href="../m/13/telezombies.jpg"
+           width="67.94873"
+           height="50.830872"
+           id="image3486"
+           x="213.00401"
+           y="238.58215" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.49640226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7);marker-end:url(#marker4057)"
+         d="m 818.72188,337.14267 -33.43644,32.562"
+         id="path5254"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g3348">
+        <image
+           sodipodi:absref="../m/12/fb-popularity.jpg"
+           xlink:href="../m/12/fb-popularity.jpg"
+           width="37.393089"
+           height="33.774406"
+           id="image3414"
+           x="304.04462"
+           y="819.73999"
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+        <image
+           sodipodi:absref="../m/12/randi-zuckerberg.jpg"
+           xlink:href="../m/12/randi-zuckerberg.jpg"
+           width="27.677559"
+           height="18.534079"
+           id="image5385"
+           x="293.44748"
+           y="792.86487"
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+        <image
+           sodipodi:absref="../s/fbpe05.jpg"
+           xlink:href="../s/fbpe05.jpg"
+           y="793.61591"
+           x="323.24683"
+           id="image3640"
+           height="20.671059"
+           width="24.990383"
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      </g>
+      <g
+         transform="matrix(0.21125501,0,0,0.21125501,805.20623,332.5531)"
+         id="g4679">
+        <image
+           sodipodi:absref="../m/13/south-park-fb.jpg"
+           xlink:href="../m/13/south-park-fb.jpg"
+           y="305.62323"
+           x="25.346912"
+           id="image3317"
+           height="103.9547"
+           width="183.06729" />
+        <text
+           transform="translate(0,284.36218)"
+           sodipodi:linespacing="125%"
+           id="text4675"
+           y="143.12737"
+           x="35.859604"
+           style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="143.12737"
+             x="35.859604"
+             id="tspan4677"
+             sodipodi:role="line">『注意力破產』『南方 facebook』</tspan><tspan
+             id="tspan3348"
+             y="156.69641"
+             x="35.859604"
+             sodipodi:role="line">『zukerberg 定律』</tspan><tspan
+             id="tspan5276"
+             y="170.26544"
+             x="35.859604"
+             sodipodi:role="line"> </tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path3318"
+         d="m 677.60237,338.62475 c 0,0 -19.25077,20.8133 -20.64981,45.2964 -1.31754,23.05706 12.52456,52.80825 12.52456,52.80825"
+         style="fill:none;stroke:#000000;stroke-width:0.49640226;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.9784135, 2.9784135;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-7);marker-end:url(#marker4057)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4618"
+         y="369.58304"
+         x="662.30823"
+         style="font-size:5.95682716px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="369.58304"
+           x="662.30823"
+           id="tspan4620"
+           sodipodi:role="line">智</tspan><tspan
+           id="tspan4622"
+           y="377.02908"
+           x="662.30823"
+           sodipodi:role="line">慧</tspan><tspan
+           id="tspan4624"
+           y="384.4751"
+           x="662.30823"
+           sodipodi:role="line">財</tspan><tspan
+           id="tspan4626"
+           y="391.92114"
+           x="662.30823"
+           sodipodi:role="line">產</tspan></text>
+      <g
+         transform="matrix(1.2483566,0,0,1.2483566,-218.75749,-107.64094)"
+         id="g3630">
+        <image
+           sodipodi:absref="../m/13/clay-shirky.jpg"
+           xlink:href="../m/13/clay-shirky.jpg"
+           y="431.88181"
+           x="839.65399"
+           id="image3627"
+           height="10.881105"
+           width="16.406403" />
+        <image
+           sodipodi:absref="../m/13/cognitive-surplus.jpg"
+           xlink:href="../m/13/cognitive-surplus.jpg"
+           y="431.80948"
+           x="825.02338"
+           id="image3546"
+           height="26.154779"
+           width="18.451342" />
+      </g>
+      <g
+         id="g7295"
+         transform="matrix(0.28242764,0,0,0.28242764,511.92726,317.13071)">
+        <image
+           sodipodi:absref="../m/13/ks-indie.jpg"
+           xlink:href="../m/13/ks-indie.jpg"
+           y="802.66089"
+           x="190.29765"
+           id="image3525"
+           height="50.304886"
+           width="50.304886"
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+        <rect
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+           style="fill:none;stroke:#0000ff;stroke-width:0.49640226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect4121"
+           width="23.790648"
+           height="15.438363"
+           x="190.74722"
+           y="803.32977" />
+        <rect
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+           y="802.95038"
+           x="215.88583"
+           height="23.222296"
+           width="23.98527"
+           id="rect4987"
+           style="fill:none;stroke:#0000ff;stroke-width:0.49640226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <rect
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+           y="836.57544"
+           x="191.49918"
+           height="15.729913"
+           width="24.666338"
+           id="rect4989"
+           style="fill:none;stroke:#0000ff;stroke-width:0.49640226;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <g
+         id="g4056"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-94.447523,653.15859)">
+        <image
+           sodipodi:absref="../m/14/democracy-at-4am.png"
+           xlink:href="../m/14/democracy-at-4am.png"
+           y="416.13028"
+           x="741.98096"
+           id="image4049"
+           height="13.908053"
+           width="23.23387" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4052"
+           y="432.63739"
+           x="742.99188"
+           style="font-size:1.64255071px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="432.63739"
+             x="742.99188"
+             id="tspan4054"
+             sodipodi:role="line">在FlyingV上 3小時募得663萬</tspan></text>
+      </g>
+      <g
+         id="g3385">
+        <image
+           sodipodi:absref="../m/14/chainsmokers-selfie.png"
+           xlink:href="../m/14/chainsmokers-selfie.png"
+           width="32.035671"
+           height="41.406105"
+           id="image3376"
+           x="764.00476"
+           y="416.50998" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3379"
+           y="436.6926"
+           x="791.93182"
+           style="font-size:2.97841358px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="436.6926"
+             x="791.93182"
+             id="tspan3381"
+             sodipodi:role="line">『Microcelebrity</tspan><tspan
+             id="tspan3383"
+             y="440.73404"
+             x="791.93182"
+             sodipodi:role="line">Big Business』</tspan></text>
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4628"
+       y="927.34509"
+       x="727.13678"
+       style="font-size:11.72113991px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="927.34509"
+         x="730.06708"
+         id="tspan4630"
+         sodipodi:role="line">   </tspan><tspan
+         id="tspan4640"
+         y="941.99652"
+         x="730.06708"
+         sodipodi:role="line">  </tspan><tspan
+         id="tspan4636"
+         y="956.64795"
+         x="727.13678"
+         sodipodi:role="line">  與網路為友</tspan><tspan
+         id="tspan4632"
+         y="971.29938"
+         x="727.13678"
+         sodipodi:role="line">或</tspan><tspan
+         id="tspan4634"
+         y="985.95081"
+         x="730.06708"
+         sodipodi:role="line">   與網路為敵?  </tspan><tspan
+         id="tspan4638"
+         y="1000.6022"
+         x="730.06708"
+         sodipodi:role="line"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.98883629px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="585.90106"
+       y="798.45465"
+       id="text4642"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4644"
+         x="589.64825"
+         y="798.45465">   </tspan><tspan
+         sodipodi:role="line"
+         x="589.64825"
+         y="817.19067"
+         id="tspan4646">  </tspan><tspan
+         sodipodi:role="line"
+         x="585.90106"
+         y="835.92676"
+         id="tspan4648"> 順網路者昌</tspan><tspan
+         sodipodi:role="line"
+         x="589.64825"
+         y="854.66278"
+         id="tspan4652">  逆網路者亡  </tspan><tspan
+         sodipodi:role="line"
+         x="589.64825"
+         y="873.3988"
+         id="tspan4654"> </tspan></text>
+    <g
+       transform="matrix(0.64917072,0,0,0.64917072,362.60525,205.23844)"
+       id="g4095">
+      <rect
+         ry="12.765959"
+         rx="11.605417"
+         transform="translate(0,284.36218)"
+         y="500.2569"
+         x="295.92661"
+         height="105.68799"
+         width="191.64771"
+         id="rect3349"
+         style="fill:#ffff00;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="318.67047"
+         y="808.57495"
+         id="text4656"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4658"
+           x="318.67047"
+           y="808.57495">   </tspan><tspan
+           sodipodi:role="line"
+           x="318.67047"
+           y="833.57495"
+           id="tspan4664">智慧 不是財產  </tspan><tspan
+           sodipodi:role="line"
+           x="318.67047"
+           y="858.57495"
+           id="tspan4668">智慧 是廣告看板  </tspan></text>
+    </g>
+    <g
+       id="g4459">
+      <g
+         transform="matrix(2.8166518,0,0,2.8166518,-1479.5243,-351.39685)"
+         id="g3454">
+        <image
+           sodipodi:absref="../m/13/reverse-gun.png"
+           xlink:href="../m/13/reverse-gun.png"
+           width="36.997913"
+           height="27.748436"
+           id="image3443"
+           x="799.88904"
+           y="422.77505" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3446"
+           y="433.51132"
+           x="824.57135"
+           style="font-size:1.98560905px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="433.51132"
+             x="824.57135"
+             id="tspan3448"
+             sodipodi:role="line">『史翠珊效應』</tspan><tspan
+             id="tspan3450"
+             y="435.99335"
+             x="824.57135"
+             sodipodi:role="line">『Streisand</tspan><tspan
+             id="tspan3452"
+             y="438.68762"
+             x="824.57135"
+             sodipodi:role="line">Effect』</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/14/liu-jeng-hung-4th-worst.jpg"
+         xlink:href="../m/14/liu-jeng-hung-4th-worst.jpg"
+         width="110.51089"
+         height="73.601982"
+         id="image3446"
+         x="892.70496"
+         y="839.01862" />
+      <image
+         sodipodi:absref="../m/12/human-flesh-search.jpg"
+         xlink:href="../m/12/human-flesh-search.jpg"
+         width="104.98597"
+         height="80.489243"
+         id="image3559"
+         x="892.24945"
+         y="928.71057" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4429"
+         y="960.32404"
+         x="788.67944"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="960.32404"
+           x="788.67944"
+           id="tspan4431"
+           sodipodi:role="line">你不會想要的</tspan><tspan
+           id="tspan4433"
+           y="975.32404"
+           x="788.67944"
+           sodipodi:role="line">注意力</tspan></text>
+    </g>
+    <g
+       id="g6953"
+       transform="matrix(1.3604303,0,0,1.3604303,-18.667012,-136.42609)">
+      <g
+         transform="matrix(0.29842194,0.29842194,-0.29842194,0.29842194,186.36575,-25.712972)"
+         id="g5127">
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="859.10974"
+           y="62.227692"
+           id="text5238"
+           sodipodi:linespacing="125%"
+           transform="translate(0,284.36218)"><tspan
+             sodipodi:role="line"
+             id="tspan5240"
+             x="859.10974"
+             y="62.227692">成功的網路公司?</tspan></text>
+        <g
+           id="g5374"
+           transform="translate(-6.2973079,-95.160128)">
+          <image
+             sodipodi:absref="../m/13/internet-companies.jpg"
+             xlink:href="../m/13/internet-companies.jpg"
+             width="135.90021"
+             height="90.682053"
+             id="image5369"
+             x="857.77692"
+             y="447.75961" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text5242"
+             y="466.30475"
+             x="892.32587"
+             style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="466.30475"
+               x="892.32587"
+               id="tspan5244"
+               sodipodi:role="line">免費提供什麼?</tspan><tspan
+               id="tspan5372"
+               y="476.30475"
+               x="892.32587"
+               sodipodi:role="line">販賣什麼?</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.28346814,0,0,0.28346814,47.840681,27.655566)"
+         id="g3419">
+        <g
+           id="g5131-0"
+           transform="matrix(0.91390825,0,0,0.91390825,514.28328,816.18377)">
+          <image
+             sodipodi:absref="../m/13/herbert-simon.jpg"
+             xlink:href="../m/13/herbert-simon.jpg"
+             width="109.09949"
+             height="109.09949"
+             id="image5102-5"
+             x="53.101517"
+             y="292.56525" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text5105-5"
+             y="308.69843"
+             x="170.15886"
+             style="font-size:11.9197731px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               id="tspan5109-9"
+               y="308.69843"
+               x="170.15886"
+               sodipodi:role="line">資訊爆炸年代，</tspan><tspan
+               y="323.59814"
+               x="170.15886"
+               sodipodi:role="line"
+               id="tspan4171">稀有的當然不是<tspan
+   style="font-size:11.9197731px;fill:#ff0000"
+   id="tspan4187">資訊</tspan>。</tspan><tspan
+               id="tspan5123-7"
+               y="338.49786"
+               x="170.15886"
+               sodipodi:role="line">那是什麼呢? 當然是</tspan><tspan
+               id="tspan5111-6"
+               y="353.39758"
+               x="170.15886"
+               sodipodi:role="line">資訊所 &quot;消耗&quot; 的東西，</tspan><tspan
+               y="368.2973"
+               x="170.15886"
+               sodipodi:role="line"
+               id="tspan4177">也就是資訊接收者</tspan><tspan
+               id="tspan5129-8"
+               y="383.19702"
+               x="170.15886"
+               sodipodi:role="line">的<tspan
+   style="font-size:11.9197731px;fill:#ff0000"
+   id="tspan4185">注意力</tspan>。</tspan><tspan
+               y="396.90115"
+               x="170.15886"
+               sodipodi:role="line"
+               id="tspan4183">-- Herbert Simon</tspan></text>
+        </g>
+        <image
+           sodipodi:absref="../m/13/tim-wu.jpg"
+           xlink:href="../m/13/tim-wu.jpg"
+           y="1193.677"
+           x="444.80194"
+           id="image5048"
+           height="93.659058"
+           width="168.24982" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="447.03241"
+           y="1310.7426"
+           id="text5051"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5053"
+             x="447.03241"
+             y="1310.7426">吳修銘 &quot;exposure culture&quot;</tspan></text>
+        <image
+           sodipodi:absref="../m/13/eric-raymond.jpg"
+           xlink:href="../m/13/eric-raymond.jpg"
+           y="1190.09"
+           x="621.17133"
+           id="image3378"
+           height="126.45108"
+           width="84.357994" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#image3567"
+           id="use3381"
+           transform="matrix(0.53860309,0,0,0.53860309,589.32925,928.14765)"
+           width="1024"
+           height="768" />
+        <image
+           sodipodi:absref="../m/13/chris-anderson.jpg"
+           xlink:href="../m/13/chris-anderson.jpg"
+           y="1191.7135"
+           x="709.30548"
+           id="image4552"
+           height="124.85487"
+           width="83.236595" />
+        <g
+           transform="matrix(0.70139395,0,0,0.70139395,188.61311,806.17544)"
+           id="g5212">
+          <image
+             sodipodi:absref="../m/13/michael-goldhaber.jpg"
+             xlink:href="../m/13/michael-goldhaber.jpg"
+             y="398.96609"
+             x="373.32571"
+             id="image5201"
+             height="91.243767"
+             width="136.95125" />
+          <text
+             xml:space="preserve"
+             style="font-size:11.94717503px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="379.89529"
+             y="505.06052"
+             id="text5204"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan5206"
+               x="379.89529"
+               y="505.06052">Michael Goldhaber</tspan><tspan
+               sodipodi:role="line"
+               x="379.89529"
+               y="519.99451"
+               id="tspan5208">&quot;attention economy&quot;</tspan><tspan
+               sodipodi:role="line"
+               x="379.89529"
+               y="536.12677"
+               id="tspan5210">『網路的自然經濟』</tspan><tspan
+               sodipodi:role="line"
+               x="379.89529"
+               y="551.06073"
+               id="tspan5274"> </tspan></text>
+        </g>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3407"
+           y="1295.7858"
+           x="627.95679"
+           style="font-size:8.37967682px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="1295.7858"
+             x="627.95679"
+             id="tspan3409"
+             sodipodi:role="line">&quot;Gift</tspan><tspan
+             y="1306.2604"
+             x="627.95679"
+             sodipodi:role="line"
+             id="tspan4189">Culture&quot;</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3401"
+           y="1283.8805"
+           x="789.68085"
+           style="font-size:6.70374107px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="1283.8805"
+             x="789.68085"
+             id="tspan3403"
+             sodipodi:role="line">Chris</tspan><tspan
+             y="1292.2601"
+             x="789.68085"
+             sodipodi:role="line"
+             id="tspan4193">Anderson</tspan><tspan
+             y="1300.6399"
+             x="789.68085"
+             sodipodi:role="line"
+             id="tspan4191">&quot;Reputation</tspan><tspan
+             id="tspan3405"
+             y="1309.0195"
+             x="789.68085"
+             sodipodi:role="line">Economy&quot;</tspan></text>
+      </g>
+      <g
+         id="g4184"
+         transform="matrix(-0.5213786,0,0,-0.5213786,606.63092,1285.2661)">
+        <image
+           sodipodi:absref="../m/13/mayday.jpg"
+           xlink:href="../m/13/mayday.jpg"
+           y="1335.5658"
+           x="704.30902"
+           id="image3313"
+           height="121.13141"
+           width="181.33005" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path3316"
+           d="m 782.43771,1379.6298 20.22561,61.7881 -6.66779,-11.3352 5.55649,-1.5558 1.1113,12.891"
+           style="fill:#ffff00;stroke:#ffff00;stroke-width:0.83796763px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <use
+           height="768"
+           width="1024"
+           transform="matrix(-1,0,0,-1,1598.881,2819.7143)"
+           id="use4170"
+           xlink:href="#path3316"
+           y="0"
+           x="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4172"
+           y="1347.1799"
+           x="743.09778"
+           style="font-size:8.37967682px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="1347.1799"
+             x="743.09778"
+             id="tspan4174"
+             sodipodi:role="line">(可透過網路無限放大)</tspan><tspan
+             y="1357.6545"
+             x="743.09778"
+             sodipodi:role="line"
+             id="tspan4195">資訊 +</tspan><tspan
+             id="tspan4176"
+             y="1367.2886"
+             x="743.09778"
+             sodipodi:role="line">illusory</tspan><tspan
+             id="tspan4178"
+             y="1377.7632"
+             x="743.09778"
+             sodipodi:role="line">attention</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4180"
+           y="1437.4172"
+           x="818.44373"
+           style="font-size:8.37967682px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="1437.4172"
+             x="818.44373"
+             id="tspan4182"
+             sodipodi:role="line">attention</tspan><tspan
+             y="1448.7323"
+             x="818.44373"
+             sodipodi:role="line"
+             id="tspan4197">(真實稀有)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:8.37967682px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="748.1557"
+           y="1470.3085"
+           id="text4252"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4254"
+             x="748.1557"
+             y="1470.3085">Attention Transaction</tspan><tspan
+             sodipodi:role="line"
+             x="748.1557"
+             y="1481.6235"
+             id="tspan3366"> </tspan></text>
+      </g>
+      <g
+         id="g4420"
+         transform="matrix(0,0.40611889,-0.40611889,0,467.29223,313.71661)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4256"
+           y="341.38086"
+           x="271.4072"
+           style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             id="tspan4266"
+             y="341.38086"
+             x="271.4072"
+             sodipodi:role="line">掌握﹑ 左右他人的注意力, 會帶來快感</tspan><tspan
+             id="tspan4264"
+             y="351.38086"
+             x="271.4072"
+             sodipodi:role="line">「擴大影響力」 的慾望 + 稀有 ==&gt; 經濟模式</tspan><tspan
+             y="361.38086"
+             x="271.4072"
+             sodipodi:role="line"
+             id="tspan3364"> </tspan><tspan
+             id="tspan4270"
+             y="371.38086"
+             x="271.4072"
+             sodipodi:role="line" /></text>
+        <image
+           sodipodi:absref="../m/13/hai_mei.jpg"
+           xlink:href="../m/13/hai_mei.jpg"
+           y="205.55438"
+           x="270.80081"
+           id="image4417"
+           height="123.26605"
+           width="167.14041" />
+      </g>
+      <g
+         id="g4467"
+         transform="matrix(0,-0.43460709,0.43460709,0,-75.38641,690.16652)">
+        <image
+           sodipodi:absref="../m/11/currency.jpg"
+           xlink:href="../m/11/currency.jpg"
+           y="301.4043"
+           x="484.51929"
+           id="image4206"
+           height="114.02076"
+           width="136.82492" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4433"
+           y="423.24521"
+           x="499.38715"
+           style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="423.24521"
+             x="499.38715"
+             id="tspan4435"
+             sodipodi:role="line">金錢的影響力逐漸減小</tspan><tspan
+             id="tspan4439"
+             y="435.74521"
+             x="499.38715"
+             sodipodi:role="line">注意力交易的量與日俱增</tspan><tspan
+             y="448.24521"
+             x="499.38715"
+             sodipodi:role="line"
+             id="tspan3368"> </tspan></text>
+      </g>
+      <text
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+         xml:space="preserve"
+         style="font-size:3.79346299px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="-218.52602"
+         y="313.14319"
+         id="text4443"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4445"
+           x="-218.52602"
+           y="313.14319">/</tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="317.88501"
+           id="tspan4449">  「注意力經濟」 難以量化  </tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="322.62683"
+           id="tspan4465">  但網路對它有極大助力：</tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="327.36868"
+           id="tspan4447">  - 增加參與者</tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="332.1105"
+           id="tspan4451">  - 倍乘幻象注意力</tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="336.85233"
+           id="tspan4453">  - 降低賺取門檻(長尾)</tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="341.59415"
+           id="tspan4455">  - 持有者迅速獲得回報</tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="346.336"
+           id="tspan4457">  - 削弱中間人的重要性  </tspan><tspan
+           sodipodi:role="line"
+           x="-218.52602"
+           y="351.07782"
+           id="tspan4461"> </tspan></text>
+      <image
+         sodipodi:absref="../m/14/jai-banana.jpg"
+         xlink:href="../m/14/jai-banana.jpg"
+         y="54.615013"
+         x="-593.14087"
+         id="image4339"
+         height="61.436714"
+         width="92.155067"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <g
+         id="g6020"
+         transform="matrix(0.81168831,0,0,0.81168831,39.757301,-4.9437558)">
+        <rect
+           rx="13.232604"
+           ry="10.178926"
+           transform="translate(0,284.36218)"
+           y="240.73161"
+           x="151.666"
+           height="86.520874"
+           width="156.75546"
+           id="rect5154"
+           style="fill:#ffff00;fill-opacity:1;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5150"
+           y="573.95264"
+           x="171.00597"
+           style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="573.95264"
+             x="171.00597"
+             id="tspan5152"
+             sodipodi:role="line">注意力經濟</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/14/stan-father-facebook.jpg"
+         xlink:href="../m/14/stan-father-facebook.jpg"
+         transform="scale(-1,-1)"
+         width="120.90384"
+         height="68.109161"
+         id="image6132"
+         x="-385.96072"
+         y="-587.60419" />
+    </g>
+    <g
+       id="g8789"
+       transform="matrix(1.3504672,0,0,1.3504672,-95.468845,-306.3211)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3075"
+         y="761.74335"
+         x="196.01616"
+         style="font-size:8.71199226px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3079"
+           y="761.74335"
+           x="196.01616"
+           sodipodi:role="line">「智慧」 是財產? 那麼數學定理、</tspan><tspan
+           id="tspan3081"
+           y="772.63336"
+           x="196.01616"
+           sodipodi:role="line">食譜、 藥方、 優質稻米、</tspan><tspan
+           id="tspan3085"
+           y="783.52332"
+           x="196.01616"
+           sodipodi:role="line">H1N1 疫苗株、 天才基因、</tspan><tspan
+           id="tspan3107"
+           y="795.34467"
+           x="196.01616"
+           sodipodi:role="line">寵物、 奴隸、 黑猩猩呢?</tspan></text>
+      <g
+         transform="matrix(-0.41174687,0,0,-0.41174687,340.80379,1305.3402)"
+         id="g3471">
+        <image
+           sodipodi:absref="../m/13/smell-flowers.jpg"
+           xlink:href="../m/13/smell-flowers.jpg"
+           y="818.21069"
+           x="391.79694"
+           id="image3336"
+           height="113.99903"
+           width="143.78256" />
+        <image
+           sodipodi:absref="../m/13/pay-for-flower.jpg"
+           xlink:href="../m/13/pay-for-flower.jpg"
+           y="815.38574"
+           x="229.46461"
+           id="image3452"
+           height="117.39077"
+           width="156.52103" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="273.06668"
+           y="957.83911"
+           id="text3455"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3457"
+             x="273.06668"
+             y="957.83911">販售價值</tspan><tspan
+             sodipodi:role="line"
+             x="273.06668"
+             y="976.23425"
+             id="tspan3459">(sale value)</tspan><tspan
+             sodipodi:role="line"
+             x="273.06668"
+             y="997.83911"
+             id="tspan5270"> </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="381.24307"
+           y="969.39191"
+           id="text3461"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3463"
+             x="381.24307"
+             y="969.39191">vs</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="419.05234"
+           y="957.83911"
+           id="text3465"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3467"
+             x="419.05234"
+             y="957.83911">使用價值</tspan><tspan
+             sodipodi:role="line"
+             x="419.05234"
+             y="976.23425"
+             id="tspan3469">(use value)</tspan><tspan
+             sodipodi:role="line"
+             x="419.05234"
+             y="997.83911"
+             id="tspan5272"> </tspan></text>
+      </g>
+      <g
+         transform="matrix(0,0.62294834,-0.62294834,0,990.23535,732.97445)"
+         id="g3161">
+        <image
+           sodipodi:absref="../m/13/pythagorean-theorem.gif"
+           xlink:href="../m/13/pythagorean-theorem.gif"
+           y="914.53351"
+           x="34.572777"
+           id="image3144"
+           height="89.762047"
+           width="159.57698" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.28155422px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+           x="94.14344"
+           y="933.64087"
+           id="text3147"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3149"
+             x="94.14344"
+             y="933.64087">如果用『尺規財產權』保護數學定理...</tspan><tspan
+             sodipodi:role="line"
+             x="94.14344"
+             y="936.4928"
+             id="tspan3151">- &lt;使用&gt;數學的成本會提高還是降低?</tspan><tspan
+             sodipodi:role="line"
+             x="94.14344"
+             y="939.34473"
+             id="tspan3153">- 發明定理 vs 使用定理， 何者好賺?</tspan><tspan
+             sodipodi:role="line"
+             x="94.14344"
+             y="942.44061"
+             id="tspan3155">- 數學人才往哪裡走?</tspan><tspan
+             sodipodi:role="line"
+             x="94.14344"
+             y="945.29254"
+             id="tspan3159">- 如果沒人要買我的定理...</tspan><tspan
+             sodipodi:role="line"
+             x="94.14344"
+             y="948.14447"
+             id="tspan3157">- 還有法律人才...</tspan></text>
+        <g
+           transform="matrix(0.08207596,0,0,0.08207596,95.435206,953.88583)"
+           inkscape:label="Layer 1"
+           id="layer1-2">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+             d="m 78.46448,74.37228 1.41421,160.09903 319.61227,0.29289"
+             id="path1307"
+             sodipodi:nodetypes="ccc" />
+          <text
+             xml:space="preserve"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+             x="277.32492"
+             y="-321.8952"
+             id="text1309"
+             sodipodi:linespacing="100%"
+             transform="matrix(0,1,-1,0,0,0)"><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-321.8952"
+               id="tspan1333">education</tspan><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-297.8952"
+               id="tspan2451" /><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-273.8952"
+               id="tspan2453" /><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-249.8952"
+               id="tspan2457">science</tspan><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-225.8952"
+               id="tspan2459">ICT</tspan><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-201.8952"
+               id="tspan2463">engineering  </tspan><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-177.8952"
+               id="tspan2465" /><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-153.8952"
+               id="tspan5268" /><tspan
+               sodipodi:role="line"
+               x="277.32492"
+               y="-129.8952"
+               id="tspan2469">tourism</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+             x="232.22745"
+             y="337.14081"
+             id="text1337"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan1339"
+               x="232.22745"
+               y="337.14081">...   ...     ...   ..</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 84.5797,211.67841 28,10 24,-16 20,4 30,-14 16,8 14,-18 16,-108 18,104 22,20 20,-4 24,24 20,-8 17,7.55513"
+             id="path1341" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#00c0c0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 84.5797,161.14645 20.20101,-7.05826 10.46446,9.3201 11.73655,-67.704267 15.48024,68.597977 32.44869,-12.97056 21.31371,15.42641 11.75736,-42.18377 25,25 16.89949,-40.92893 27.03153,54 14.14214,-14.34314 21.2132,7.51471 13.71364,-52.65303 11.08536,62.79517 17.50043,2.25866"
+             id="path1343"
+             sodipodi:nodetypes="cccccccccccccccc" />
+          <text
+             xml:space="preserve"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+             x="183.92"
+             y="262.08218"
+             id="text3327"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3329"
+               x="183.92"
+               y="262.08218">Industry</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+             x="92.947807"
+             y="-53.944"
+             id="text3331"
+             transform="matrix(0,1,-1,0,0,0)"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3333"
+               x="92.947807"
+               y="-53.944">Benefits</tspan><tspan
+               sodipodi:role="line"
+               x="92.947807"
+               y="-23.944"
+               id="tspan3335">from ICT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ff00ff;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
+             x="150.17912"
+             y="194.50262"
+             id="text3341"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3343"
+               x="150.17912"
+               y="194.50262">proprietary soft.</tspan><tspan
+               sodipodi:role="line"
+               x="150.17912"
+               y="217.00262"
+               id="tspan5099">(sale value)</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#00c0c0;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
+             x="249.04541"
+             y="82.986031"
+             id="text3345"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3347"
+               x="249.04541"
+               y="82.986031">FLOSS (use value)</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+             x="112.33749"
+             y="45.570183"
+             id="text5095"
+             sodipodi:linespacing="100%"><tspan
+               sodipodi:role="line"
+               id="tspan5097"
+               x="112.33749"
+               y="45.570183">Value of ICT</tspan></text>
+        </g>
+      </g>
+      <image
+         sodipodi:absref="../m/14/selling-air.jpg"
+         xlink:href="../m/14/selling-air.jpg"
+         width="110.88667"
+         height="69.304176"
+         id="image3455"
+         x="-862.93872"
+         y="106.32604"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <g
+         transform="matrix(-1,0,0,-1,428.62703,1919.1286)"
+         id="g7950">
+        <image
+           sodipodi:absref="../m/10/piracy-caught.jpg"
+           xlink:href="../m/10/piracy-caught.jpg"
+           y="949.2475"
+           x="15.801216"
+           id="image7935"
+           height="73.56395"
+           width="55.172966" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text7938"
+           y="960.75189"
+           x="83.467194"
+           style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="960.75189"
+             x="83.467194"
+             id="tspan7940"
+             sodipodi:role="line">MPAA</tspan><tspan
+             id="tspan7942"
+             y="975.75189"
+             x="83.467194"
+             sodipodi:role="line">RIAA</tspan><tspan
+             id="tspan7944"
+             y="990.75189"
+             x="83.467194"
+             sodipodi:role="line">BSA</tspan><tspan
+             id="tspan7946"
+             y="1006.9555"
+             x="83.467194"
+             sodipodi:role="line">為何支持</tspan><tspan
+             id="tspan7948"
+             y="1020.7519"
+             x="83.467194"
+             sodipodi:role="line">SOPA?</tspan></text>
+      </g>
+      <g
+         id="g8783">
+        <rect
+           style="fill:#ffff00;fill-opacity:1;stroke:none"
+           id="rect8781"
+           width="93.646126"
+           height="54.966202"
+           x="213.75746"
+           y="532.86682"
+           transform="translate(0,284.36218)"
+           rx="13.232604"
+           ry="10.178926" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="222.91849"
+           y="554.24255"
+           id="text8775"
+           sodipodi:linespacing="125%"
+           transform="translate(0,284.36218)"><tspan
+             sodipodi:role="line"
+             id="tspan8777"
+             x="222.91849"
+             y="554.24255">保護智慧</tspan><tspan
+             sodipodi:role="line"
+             x="222.91849"
+             y="576.74255"
+             id="tspan8779">錯了嗎?</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4567"
+       transform="matrix(0.33201526,0,0,0.33201526,309.63608,757.77187)">
+      <image
+         sodipodi:absref="../m/11/jake-eywa.jpg"
+         xlink:href="../m/11/jake-eywa.jpg"
+         width="395.67938"
+         height="266.20239"
+         id="image3125"
+         x="634.08917"
+         y="414.6326" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff8600;fill-opacity:1;stroke:none;font-family:Sans"
+         x="671.29144"
+         y="562.81903"
+         id="text3128"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3130"
+           x="671.29144"
+           y="562.81903"
+           style="font-size:18px">It is the long history of humankind</tspan><tspan
+           sodipodi:role="line"
+           x="671.29144"
+           y="585.31903"
+           id="tspan3132"
+           style="font-size:18px">(and animal kind, too) those who</tspan><tspan
+           sodipodi:role="line"
+           x="671.29144"
+           y="607.81903"
+           id="tspan3914"
+           style="font-size:18px">learned to collaborate and improvise</tspan><tspan
+           sodipodi:role="line"
+           x="671.29144"
+           y="630.31903"
+           id="tspan3134"
+           style="font-size:18px">most effectively have prevailed.&quot;</tspan><tspan
+           sodipodi:role="line"
+           x="671.29144"
+           y="652.81903"
+           id="tspan3920"
+           style="font-size:18px">-- Charles Darwin</tspan></text>
+    </g>
+  </g>
+  <script
+     id="sozi-script"
+     ns1:version="12.06-12110506">function module(c,a){var b=this;c.split(&quot;.&quot;).forEach(function(d){if(typeof b[d]===&quot;undefined&quot;){b[d]={}}b=b[d]});a(b)}module(&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});module(&quot;sozi.framenumber&quot;,function(d){var f=this,g=f.document,i,j,b,c,e=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=j.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;b.setAttribute(&quot;r&quot;,n);i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function a(){i=g.createElementNS(e,&quot;g&quot;);j=g.createElementNS(e,&quot;text&quot;);b=g.createElementNS(e,&quot;circle&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);b.setAttribute(&quot;cx&quot;,0);b.setAttribute(&quot;cy&quot;,0);i.appendChild(b);c=g.createTextNode(sozi.location.getFrameIndex()+1);j.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);j.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);j.setAttribute(&quot;x&quot;,0);j.setAttribute(&quot;y&quot;,0);j.appendChild(c);i.appendChild(j);g.documentElement.appendChild(i);h()}function k(l){c.nodeValue=l+1}sozi.events.listen(&quot;displayready&quot;,a);sozi.events.listen(&quot;framechange&quot;,k)});module(&quot;sozi.framelist&quot;,function(v){var k=this,q=k.document,m,c,j=0,d=5,i,t,b,x,y,u,f=300,g=&quot;decelerate&quot;,a=&quot;http://www.w3.org/2000/svg&quot;;function p(B){var z=B.relatedTarget,A=q.documentElement;while(z!==m&amp;&amp;z!==A){z=z.parentNode}if(z===A){v.hide();sozi.player.restart();B.stopPropagation()}}function s(A){var z=c.getCTM().f;if(z&lt;=-k.innerHeight/2){z+=k.innerHeight/2}else{if(z&lt;0){z=0}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function e(A){var z=c.getCTM().f;if(z+j&gt;=k.innerHeight*3/2){z-=k.innerHeight/2}else{if(z+j&gt;k.innerHeight+2*d){z=k.innerHeight-j-4*d}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function r(z){var B=sozi.animation.profiles[g](z),A=1-B;y=x*B+b*A;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+y+&quot;,0)&quot;)}function w(){}function h(z){return function(A){sozi.player.previewFrame(z);A.stopPropagation()}}function l(z){z.stopPropagation()}function o(){var B=q.createElementNS(a,&quot;rect&quot;),A=q.createElementNS(a,&quot;path&quot;),C=q.createElementNS(a,&quot;path&quot;),D=0,E,z=sozi.location.getFrameIndex();m=q.createElementNS(a,&quot;g&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);q.documentElement.appendChild(m);c=q.createElementNS(a,&quot;g&quot;);m.appendChild(c);B.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);B.setAttribute(&quot;x&quot;,d);B.setAttribute(&quot;y&quot;,d);B.setAttribute(&quot;rx&quot;,d);B.setAttribute(&quot;ry&quot;,d);B.addEventListener(&quot;click&quot;,l,false);B.addEventListener(&quot;mousedown&quot;,l,false);B.addEventListener(&quot;mouseout&quot;,p,false);c.appendChild(B);sozi.document.frames.forEach(function(G,H){var F=q.createElementNS(a,&quot;text&quot;);F.appendChild(q.createTextNode(G.title));c.appendChild(F);if(H===z){F.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}E=F.getBBox().width;j+=F.getBBox().height;if(E&gt;D){D=E}F.setAttribute(&quot;x&quot;,2*d);F.setAttribute(&quot;y&quot;,j+d);F.addEventListener(&quot;click&quot;,h(H),false);F.addEventListener(&quot;mousedown&quot;,l,false)});A.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);A.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(5*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,-&quot;+(3*d)+&quot; z&quot;);A.addEventListener(&quot;click&quot;,s,false);A.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(A);C.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);C.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(7*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,&quot;+(3*d)+&quot; z&quot;);C.addEventListener(&quot;click&quot;,e,false);C.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(C);B.setAttribute(&quot;width&quot;,D+7*d);B.setAttribute(&quot;height&quot;,j+2*d);i=-D-9*d;t=0;y=x=i;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+i+&quot;,0)&quot;);u=new sozi.animation.Animator(r,w)}function n(z){var B=Array.prototype.slice.call(q.getElementsByClassName(&quot;sozi-toc-current&quot;)),A=c.getElementsByTagName(&quot;text&quot;);B.forEach(function(C){C.removeAttribute(&quot;class&quot;)});A[z].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}v.show=function(){b=y;x=t;u.start(f)};v.hide=function(){b=y;x=i;u.start(f)};v.isVisible=function(){return x===t};sozi.events.listen(&quot;displayready&quot;,o);sozi.events.listen(&quot;cleanup&quot;,v.hide);sozi.events.listen(&quot;framechange&quot;,n)});module(&quot;sozi.document&quot;,function(c){var e=this,g=e.document,b=&quot;http://sozi.baierouge.fr&quot;,d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};c.frames=[];c.idLayerList=[];function i(k,j){var l=k.getAttributeNS(b,j);return l===&quot;&quot;?d[j]:l}function h(n,o,j){var k=n.layers[o]=n.layers[o]||{idLayer:o,geometry:{clip:d.clip}},l=k.geometry.clip,m;if(typeof k.hide===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;hide&quot;)){k.hide=i(j,&quot;hide&quot;)===&quot;true&quot;}if(typeof k.transitionZoomPercent===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){k.transitionZoomPercent=parseInt(i(j,&quot;transition-zoom-percent&quot;),10)}if(typeof k.transitionProfile===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-profile&quot;)){k.transitionProfile=sozi.animation.profiles[i(j,&quot;transition-profile&quot;)||&quot;linear&quot;]}if(j.hasAttributeNS(b,&quot;refid&quot;)){m=g.getElementById(j.getAttributeNS(b,&quot;refid&quot;));if(m){if(k.hide){m.style.visibility=&quot;hidden&quot;}k.geometry=sozi.display.getElementGeometry(m);k.geometry.clip=l}}if(j.hasAttributeNS(b,&quot;clip&quot;)){k.geometry.clip=i(j,&quot;clip&quot;)===&quot;true&quot;}}function a(){var j,m,n,o,k=g.documentElement,l=&quot;http://www.w3.org/2000/svg&quot;;m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(p){var q=p.getAttributeNS(b,&quot;group&quot;);if(q&amp;&amp;c.idLayerList.indexOf(q)===-1&amp;&amp;g.getElementById(q)){c.idLayerList.push(q)}});j=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));if(j.some(function(p){return p.hasAttributeNS(b,&quot;refid&quot;)})){n=g.createElementNS(l,&quot;g&quot;);o=Array.prototype.slice.call(k.childNodes);o.forEach(function(q,p){if(!q.getAttribute){k.removeChild(q)}else{if(c.idLayerList.indexOf(q.getAttribute(&quot;id&quot;))===-1){k.removeChild(q);n.appendChild(q)}else{if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+p);c.idLayerList.push(&quot;sozi-wrapper-&quot;+p);k.insertBefore(n,q);n=g.createElementNS(l,&quot;g&quot;)}}}});if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+o.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+o.length);k.appendChild(n)}}j.forEach(function(q,p){var s,r={id:q.getAttribute(&quot;id&quot;),title:i(q,&quot;title&quot;),sequence:parseInt(i(q,&quot;sequence&quot;),10),timeoutEnable:i(q,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(i(q,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(i(q,&quot;transition-duration-ms&quot;),10),layers:{}};c.idLayerList.forEach(function(w){var t,u,v;if(p===0||w.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){h(r,w,q)}else{u=r.layers[w]={};v=c.frames[c.frames.length-1].layers[w];for(t in v){u[t]=v[t]}}});m=Array.prototype.slice.call(q.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(t){var u=t.getAttributeNS(b,&quot;group&quot;);if(u&amp;&amp;c.idLayerList.indexOf(u)!==-1){h(r,u,t)}});for(s in r.layers){if(r.layers.hasOwnProperty(s)){c.frames.push(r);break}}});c.frames.sort(function(q,p){return q.sequence-p.sequence})}function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;documentready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});module(&quot;sozi.animation&quot;,function(d){var g=this,i=40,j=[],b,h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;function e(l){var k;if(j.length&gt;0){if(h){h(e)}j.forEach(function(m){m.step(l)})}else{if(!h){g.clearInterval(b)}}}function c(){if(h){h(e)}else{b=g.setInterval(function(){e(Date.now())},i)}}function a(k){j.push(k);if(j.length===1){c()}}function f(k){j.splice(j.indexOf(k),1)}d.Animator=function(k,l){this.onStep=k;this.onDone=l;this.durationMs=0;this.data={};this.initialTime=0;this.started=false};d.Animator.prototype.start=function(k,l){this.durationMs=k;this.data=l;this.initialTime=Date.now();this.onStep(0,this.data);if(!this.started){this.started=true;a(this)}};d.Animator.prototype.stop=function(){if(this.started){f(this);this.started=false}};d.Animator.prototype.step=function(l){var k=l-this.initialTime;if(k&gt;=this.durationMs){this.stop();this.onStep(1,this.data);this.onDone()}else{this.onStep(k/this.durationMs,this.data)}};d.profiles={linear:function(k){return k},accelerate:function(k){return Math.pow(k,3)},&quot;strong-accelerate&quot;:function(k){return Math.pow(k,5)},decelerate:function(k){return 1-Math.pow(1-k,3)},&quot;strong-decelerate&quot;:function(k){return 1-Math.pow(1-k,5)},&quot;accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,3)/2;return k&lt;=0.5?m:1-m},&quot;strong-accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,5)/2;return k&lt;=0.5?m:1-m},&quot;decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,2))/2;return k&lt;=0.5?m:1-m},&quot;strong-decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,3))/2;return k&lt;=0.5?m:1-m}}});module(&quot;sozi.display&quot;,function(c){var f=this,a=f.document,g,b=&quot;http://www.w3.org/2000/svg&quot;;c.layers={};function e(){var j,k,l,i=a.documentElement;g=i.getBBox();i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);sozi.document.idLayerList.forEach(function(m){c.layers[m]={geometry:{cx:0,cy:0,width:1,height:1,rotate:0,clip:true},svgClipRect:a.createElementNS(b,&quot;rect&quot;),svgLayer:a.getElementById(m)};k=a.createElementNS(b,&quot;clipPath&quot;);k.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+m);k.appendChild(c.layers[m].svgClipRect);i.appendChild(k);j=a.createElementNS(b,&quot;g&quot;);j.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+m+&quot;)&quot;);i.insertBefore(j,c.layers[m].svgLayer);j.appendChild(c.layers[m].svgLayer)});sozi.events.fire(&quot;displayready&quot;)}function d(){var i=a.documentElement;i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);c.update()}function h(k){var j=c.layers[k].geometry,i={};i.scale=Math.min(f.innerWidth/j.width,f.innerHeight/j.height);i.width=j.width*i.scale;i.height=j.height*i.scale;i.x=(f.innerWidth-i.width)/2;i.y=(f.innerHeight-i.height)/2;return i}c.getElementGeometry=function(m){var p,l,q,j,n,k,o=m.getCTM(),i=Math.sqrt(o.a*o.a+o.b*o.b);if(m.nodeName===&quot;rect&quot;){p=m.x.baseVal.value;l=m.y.baseVal.value;q=m.width.baseVal.value;j=m.height.baseVal.value}else{n=m.getBBox();p=n.x;l=n.y;q=n.width;j=n.height}k=a.documentElement.createSVGPoint();k.x=p+q/2;k.y=l+j/2;k=k.matrixTransform(o);return{cx:k.x,cy:k.y,width:q*i,height:j*i,rotate:Math.atan2(o.b,o.a)*180/Math.PI}};c.getDocumentGeometry=function(){var k,i={layers:{}},j={geometry:{cx:g.x+g.width/2,cy:g.y+g.height/2,width:g.width,height:g.height,rotate:0,clip:false}};for(k in c.layers){if(c.layers.hasOwnProperty(k)){i.layers[k]=j}}return i};c.update=function(){var n,i,j,k,m,l;for(n in c.layers){if(c.layers.hasOwnProperty(n)){j=c.layers[n].geometry;i=h(n);k=c.layers[n].svgClipRect;k.setAttribute(&quot;x&quot;,j.clip?i.x:0);k.setAttribute(&quot;y&quot;,j.clip?i.y:0);k.setAttribute(&quot;width&quot;,j.clip?i.width:f.innerWidth);k.setAttribute(&quot;height&quot;,j.clip?i.height:f.innerHeight);m=-j.cx+j.width/2+i.x/i.scale;l=-j.cy+j.height/2+i.y/i.scale;c.layers[n].svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+i.scale+&quot;)translate(&quot;+m+&quot;,&quot;+l+&quot;)rotate(&quot;+(-j.rotate)+&quot;,&quot;+j.cx+&quot;,&quot;+j.cy+&quot;)&quot;)}}};c.showFrame=function(l){var m,k,j,i;for(m in l.layers){if(l.layers.hasOwnProperty(m)){j=l.layers[m].geometry;k=c.layers[m].geometry;for(i in j){if(j.hasOwnProperty(i)){k[i]=j[i]}}}}c.update()};c.drag=function(k,i){var n,l,j,m;for(n in c.layers){if(c.layers.hasOwnProperty(n)){l=c.layers[n].geometry;j=h(n);m=l.rotate*Math.PI/180;l.cx-=(k*Math.cos(m)-i*Math.sin(m))/j.scale;l.cy-=(k*Math.sin(m)+i*Math.cos(m))/j.scale;l.clip=false}}c.update()};c.zoom=function(l,j,n){var m,k=(1-l)*(j-f.innerWidth/2),i=(1-l)*(n-f.innerHeight/2);for(m in c.layers){if(c.layers.hasOwnProperty(m)){c.layers[m].geometry.width/=l;c.layers[m].geometry.height/=l}}c.drag(k,i)};c.rotate=function(i){var j;for(j in c.layers){if(c.layers.hasOwnProperty(j)){c.layers[j].geometry.rotate+=i;c.layers[j].geometry.rotate%=360}}c.update()};sozi.events.listen(&quot;documentready&quot;,e);f.addEventListener(&quot;resize&quot;,d,false)});module(&quot;sozi.player&quot;,function(q){var n=sozi.display,g=this,p,j,o=500,c=-10,l=&quot;linear&quot;,h=0,i=0,b=false,a=false;function m(v,x){var w,u,z,t,s,y;for(z in x){if(x.hasOwnProperty(z)){t=n.layers[z].geometry;w=x[z].profile(v);u=1-w;for(s in x[z].initialState){if(x[z].initialState.hasOwnProperty(s)){if(typeof x[z].initialState[s]===&quot;number&quot;&amp;&amp;typeof x[z].finalState[s]===&quot;number&quot;){t[s]=x[z].finalState[s]*w+x[z].initialState[s]*u}}}if(x[z].zoomWidth&amp;&amp;x[z].zoomWidth.k!==0){y=v-x[z].zoomWidth.ts;t.width=x[z].zoomWidth.k*y*y+x[z].zoomWidth.ss}if(x[z].zoomHeight&amp;&amp;x[z].zoomHeight.k!==0){y=v-x[z].zoomHeight.ts;t.height=x[z].zoomHeight.k*y*y+x[z].zoomHeight.ss}t.clip=x[z].finalState.clip}}n.update()}function f(){var s;if(sozi.document.frames[i].timeoutEnable){a=true;s=(i+1)%sozi.document.frames.length;j=g.setTimeout(function(){q.moveToFrame(s)},sozi.document.frames[i].timeoutMs)}}function r(){h=i;if(b){f()}}q.startFromIndex=function(s){b=true;a=false;h=s;i=s;n.showFrame(sozi.document.frames[s]);f()};q.restart=function(){q.startFromIndex(i)};q.stop=function(){p.stop();if(a){g.clearTimeout(j);a=false}b=false;h=i};function e(s,C,A){var D={ss:((s&lt;0)?Math.max(C,A):Math.min(C,A))*(100-s)/100,ts:0.5,k:0},y,x,w,t,B,z;if(s!==0){y=C-A;x=C-D.ss;w=A-D.ss;if(y!==0){t=Math.sqrt(x*w);B=(x-t)/y;z=(x+t)/y;D.ts=(B&gt;0&amp;&amp;B&lt;=1)?B:z}D.k=x/D.ts/D.ts}return D}q.jumpToFrame=function(s){q.stop();sozi.events.fire(&quot;cleanup&quot;);h=s;i=s;n.showFrame(sozi.document.frames[s]);sozi.events.fire(&quot;framechange&quot;,s)};function d(s,w,z,t){var u,y,x,v={};for(y in s.layers){if(s.layers.hasOwnProperty(y)){v[y]={initialState:{},finalState:{}};v[y].profile=t||w.layers[y].transitionProfile;for(u in s.layers[y].geometry){if(s.layers[y].geometry.hasOwnProperty(u)){v[y].initialState[u]=s.layers[y].geometry[u];if(w.layers.hasOwnProperty(y)){v[y].finalState[u]=w.layers[y].geometry[u]}else{v[y].finalState[u]=s.layers[y].geometry[u]}}}v[y].initialState.rotate=(v[y].initialState.rotate-180)%360+180;v[y].finalState.rotate=(v[y].finalState.rotate-180)%360+180;if(v[y].finalState.rotate-v[y].initialState.rotate&gt;180){v[y].finalState.rotate-=360}else{if(v[y].finalState.rotate-v[y].initialState.rotate&lt;-180){v[y].initialState.rotate-=360}}x=z||w.layers[y].transitionZoomPercent;if(x&amp;&amp;w.layers.hasOwnProperty(y)){v[y].zoomWidth=e(x,s.layers[y].geometry.width,w.layers[y].geometry.width);v[y].zoomHeight=e(x,s.layers[y].geometry.height,w.layers[y].geometry.height)}}}return v}q.previewFrame=function(s){i=s;p.start(o,d(n,sozi.document.frames[s],c,sozi.animation.profiles[l]));sozi.events.fire(&quot;framechange&quot;,s)};q.moveToFrame=function(t){var s,v,u;if(a){g.clearTimeout(j);a=false}if(t===(i+1)%sozi.document.frames.length){s=sozi.document.frames[t].transitionDurationMs;v=undefined;u=undefined}else{s=o;v=c;u=sozi.animation.profiles[l]}sozi.events.fire(&quot;cleanup&quot;);b=true;i=t;p.start(s,d(n,sozi.document.frames[t],v,u));sozi.events.fire(&quot;framechange&quot;,t)};q.moveToFirst=function(){q.moveToFrame(0)};q.jumpToPrevious=function(){var s=i;if(!p.started||h&lt;=i){s-=1}if(s&gt;=0){q.jumpToFrame(s)}};q.moveToPrevious=function(){var s,t;for(s=i-1;s&gt;=0;s-=1){t=sozi.document.frames[s];if(!t.timeoutEnable||t.timeoutMs!==0){q.moveToFrame(s);break}}};q.jumpToNext=function(){var s=i;if(!p.started||h&gt;=i){s+=1}if(s&lt;sozi.document.frames.length){q.jumpToFrame(s)}};q.moveToNext=function(){if(i&lt;sozi.document.frames.length-1||sozi.document.frames[i].timeoutEnable){q.moveToFrame((i+1)%sozi.document.frames.length)}};q.moveToLast=function(){q.moveToFrame(sozi.document.frames.length-1)};q.moveToCurrent=function(){q.moveToFrame(i)};q.showAll=function(){q.stop();sozi.events.fire(&quot;cleanup&quot;);p.start(o,d(n,n.getDocumentGeometry(),c,sozi.animation.profiles[l]))};function k(){q.startFromIndex(sozi.location.getFrameIndex());g.setTimeout(n.update,1)}p=new sozi.animation.Animator(m,r);sozi.events.listen(&quot;displayready&quot;,k)});module(&quot;sozi.location&quot;,function(a){var e=this,c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)});module(&quot;sozi.actions&quot;,function(z){var t=sozi.player,u=sozi.display,j=this,o=j.document,p=0,v=1,s=1.05,x=5,c=false,l=false,g=0,e=0;function a(B,A,C){t.stop();u.zoom(B&gt;0?s:1/s,A,C)}function w(A){t.stop();u.rotate(A&gt;0?x:-x)}function r(){if(sozi.framelist.isVisible()){sozi.framelist.hide();t.restart()}else{t.stop();sozi.framelist.show()}}function i(A){if(A.button===p){c=true;l=false;g=A.clientX;e=A.clientY}else{if(A.button===v){r()}}A.stopPropagation();A.preventDefault()}function m(A){if(c){t.stop();l=true;sozi.events.fire(&quot;cleanup&quot;);u.drag(A.clientX-g,A.clientY-e);g=A.clientX;e=A.clientY}A.stopPropagation()}function f(A){if(A.button===p){c=false}A.stopPropagation();A.preventDefault()}function q(A){t.moveToPrevious();A.stopPropagation();A.preventDefault()}function h(A){if(!l&amp;&amp;A.button!==v){t.moveToNext()}A.stopPropagation();A.preventDefault()}function k(A){var B=0;if(!A){A=j.event}if(A.wheelDelta){B=A.wheelDelta}else{if(A.detail){B=-A.detail}}if(B!==0){if(A.shiftKey){w(B)}else{a(B,A.clientX,A.clientY)}}A.stopPropagation();A.preventDefault()}function n(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.charCode||A.keyCode){case 43:a(1,j.innerWidth/2,j.innerHeight/2);break;case 45:a(-1,j.innerWidth/2,j.innerHeight/2);break;case 61:t.moveToCurrent();break;case 70:case 102:t.showAll();break;case 84:case 116:r();break;case 82:w(-1);break;case 114:w(1);break}A.stopPropagation();A.preventDefault()}function d(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.keyCode){case 36:t.moveToFirst();break;case 35:t.moveToLast();break;case 38:t.jumpToPrevious();break;case 33:case 37:t.moveToPrevious();break;case 40:t.jumpToNext();break;case 34:case 39:case 13:case 32:t.moveToNext();break}A.stopPropagation()}function y(A){A.stopPropagation()}function b(){var B=o.getElementsByTagName(&quot;a&quot;);for(var C=0;C&lt;B.length;C+=1){B[C].addEventListener(&quot;click&quot;,y,false);B[C].addEventListener(&quot;contextmenu&quot;,y,false)}var A=o.documentElement;A.addEventListener(&quot;click&quot;,h,false);A.addEventListener(&quot;mousedown&quot;,i,false);A.addEventListener(&quot;mouseup&quot;,f,false);A.addEventListener(&quot;mousemove&quot;,m,false);A.addEventListener(&quot;keypress&quot;,n,false);A.addEventListener(&quot;keydown&quot;,d,false);A.addEventListener(&quot;contextmenu&quot;,q,false);A.addEventListener(&quot;DOMMouseScroll&quot;,k,false);j.onmousewheel=k}j.addEventListener(&quot;load&quot;,b,false)});</script>
+  <style
+     id="sozi-style"
+     ns1:version="12.06-12110506">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <ns1:frame
+     ns1:refid="text3075"
+     ns1:sequence="3"
+     id="frame1"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="這些東西也可以當作財產嗎?"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="數學的智慧財產權?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame2"
+     ns1:sequence="4"
+     ns1:refid="g3161" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="如果數學定理是財產..."
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame3"
+     ns1:sequence="5"
+     ns1:refid="text3147" />
+  <ns1:frame
+     ns1:refid="layer1-2"
+     ns1:sequence="6"
+     id="frame4"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="「自由數學」的社會意義"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="販售價值 vs 使用價值"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame6"
+     ns1:sequence="8"
+     ns1:refid="g3471" />
+  <ns1:frame
+     ns1:refid="g5131-0"
+     ns1:sequence="11"
+     id="frame7"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Herbert Simon"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="其他類似想法"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame8"
+     ns1:sequence="12"
+     ns1:refid="g3419" />
+  <ns1:frame
+     ns1:refid="g5212"
+     ns1:sequence="13"
+     id="frame9"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Michael Goldhaber"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="柯賜海+許純美"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame10"
+     ns1:sequence="15"
+     ns1:refid="g4420" />
+  <ns1:frame
+     ns1:refid="g4184"
+     ns1:sequence="17"
+     id="frame11"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="attention transaction"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g5127"
+     ns1:sequence="14"
+     id="frame12"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="成功的網路公司"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="貨幣轉移"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame13"
+     ns1:sequence="19"
+     ns1:refid="g4467" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="網路的力量"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame14"
+     ns1:sequence="20"
+     ns1:refid="text4443" />
+  <ns1:frame
+     ns1:refid="g5696"
+     ns1:sequence="22"
+     id="frame15"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="注意力與其他事物之間的「兌換」"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="關鍵詞廣告"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame16"
+     ns1:sequence="28"
+     ns1:refid="image3420" />
+  <ns1:frame
+     ns1:refid="g3070"
+     ns1:sequence="29"
+     id="frame17"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="四川航空的免費巴士為何賺上億元?"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="媒體識讀"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame18"
+     ns1:sequence="30"
+     ns1:refid="g5697" />
+  <ns1:frame
+     ns1:refid="g5855"
+     ns1:sequence="31"
+     id="frame19"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="核能學會坦承買廣告"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="反收買 要新聞"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame20"
+     ns1:sequence="32"
+     ns1:refid="g5219" />
+  <ns1:frame
+     ns1:refid="g3428"
+     ns1:sequence="33"
+     id="frame21"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="美麗灣 新聞置入"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="採購期刊版面"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame22"
+     ns1:sequence="35"
+     ns1:refid="g5234" />
+  <ns1:frame
+     ns1:refid="g11517"
+     ns1:sequence="37"
+     id="frame23"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="astroturfing"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="媒體識讀"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame24"
+     ns1:sequence="38"
+     ns1:refid="g5697" />
+  <ns1:frame
+     ns1:refid="image3525"
+     ns1:sequence="23"
+     id="frame26"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Kickstarter： 群眾募資"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="modular robot"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame27"
+     ns1:sequence="24"
+     ns1:refid="rect4121" />
+  <ns1:frame
+     ns1:refid="rect4987"
+     ns1:sequence="25"
+     id="frame28"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="更多有趣計畫"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="藝術創作相關計畫"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame29"
+     ns1:sequence="26"
+     ns1:refid="rect4989" />
+  <ns1:frame
+     ns1:refid="g5696"
+     ns1:sequence="39"
+     id="frame30"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="注意力與其他事物之間的「兌換」"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g5207"
+     ns1:sequence="40"
+     id="frame31"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="自由軟體與自由文化"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g5202"
+     ns1:sequence="42"
+     id="frame33"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="知名人士"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="群眾外包網站"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame34"
+     ns1:sequence="43"
+     ns1:refid="g3425" />
+  <ns1:frame
+     ns1:refid="image3850"
+     ns1:sequence="44"
+     id="frame35"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="OpenIdeo"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="注意力與其他事物之間的「兌換」"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame36"
+     ns1:sequence="46"
+     ns1:refid="g5696" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Randi Zukerberg 的隱私突槌"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame37"
+     ns1:sequence="47"
+     ns1:refid="image5385" />
+  <ns1:frame
+     ns1:refid="image3414"
+     ns1:sequence="49"
+     id="frame38"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="犧牲隱私以換取注意力"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="小心注意力破產"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame39"
+     ns1:sequence="52"
+     ns1:refid="g4679" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="注意力與其他事物之間的「兌換」"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame40"
+     ns1:sequence="50"
+     ns1:refid="g5696" />
+  <ns1:frame
+     ns1:refid="g3630"
+     ns1:sequence="53"
+     id="frame41"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="認知剩餘"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="注意力與其他事物之間的「兌換」"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame42"
+     ns1:sequence="54"
+     ns1:refid="g5696" />
+  <ns1:frame
+     ns1:refid="text4628"
+     ns1:sequence="56"
+     id="frame44"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="與網路為友"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="順網路者昌"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame45"
+     ns1:sequence="58"
+     ns1:refid="text4642" />
+  <ns1:frame
+     ns1:refid="g4095"
+     ns1:sequence="1"
+     id="frame46"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="智慧 是廣告看板"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="FB 隱私演化"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame47"
+     ns1:sequence="48"
+     ns1:refid="image3640" />
+  <ns1:frame
+     ns1:refid="g4459"
+     ns1:sequence="55"
+     id="frame48"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="你不會想要的注意力"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="經濟部 反核名人"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame48a"
+     ns1:sequence="34"
+     ns1:refid="image3473" />
+  <ns1:frame
+     ns1:refid="g5207"
+     ns1:sequence="45"
+     id="frame49"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="自由軟體與自由文化"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="販售空氣?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame50"
+     ns1:sequence="9"
+     ns1:refid="image3455" />
+  <ns1:frame
+     ns1:refid="image4339"
+     ns1:sequence="18"
+     id="frame51"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="宅神犯規吃香蕉"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g6953"
+     ns1:sequence="10"
+     id="frame51j"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="注意力經濟"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g6953"
+     ns1:sequence="21"
+     id="frame52"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="注意力經濟"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="MPAA/RIAA/BSA 與網路為敵"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame53"
+     ns1:sequence="7"
+     ns1:refid="g7950" />
+  <ns1:frame
+     ns1:refid="g8789"
+     ns1:sequence="2"
+     id="frame54"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="智慧財產錯在哪裡?"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="巫妖電視王"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame54Y"
+     ns1:sequence="41"
+     ns1:refid="image3486" />
+  <ns1:frame
+     ns1:refid="g4095"
+     ns1:sequence="59"
+     id="frame55"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="智慧 是廣告看板"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Stan 不加朋友， 老爹很失望"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame56"
+     ns1:sequence="16"
+     ns1:refid="image6132" />
+  <ns1:frame
+     ns1:refid="g4056"
+     ns1:sequence="27"
+     id="frame57"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="太陽花@紐約時報"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="We Sell Likes"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame57H"
+     ns1:sequence="36"
+     ns1:refid="image4806" />
+  <ns1:frame
+     ns1:refid="g3385"
+     ns1:sequence="51"
+     id="frame58"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Chainsmoker &quot;Selfie&quot;"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="潘朵拉星神樹"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame59"
+     ns1:sequence="57"
+     ns1:refid="g4567" />
+</svg>

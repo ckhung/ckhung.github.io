@@ -1,0 +1,1 @@
+../i/techfooter.php

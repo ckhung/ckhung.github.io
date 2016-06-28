@@ -1,0 +1,2410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="privacy2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.017657"
+     inkscape:cx="261.83711"
+     inkscape:cy="452.52913"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3897"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3241"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3243"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3245"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3247"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3249"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3251"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       id="perspective9"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient4582"
+       y2="412.43"
+       gradientUnits="userSpaceOnUse"
+       x2="604.74"
+       gradientTransform="matrix(1.6905,0,0,2.1245,-401.15,-415.2)"
+       y1="378.9"
+       x1="293.33"
+       inkscape:collect="always">
+      <stop
+         id="stop2792"
+         style="stop-color:#f9f9f9"
+         offset="0" />
+      <stop
+         id="stop2794"
+         style="stop-color:#f9f9f9;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5487"
+       inkscape:collect="always">
+      <stop
+         id="stop5489"
+         style="stop-color:#ececec"
+         offset="0" />
+      <stop
+         id="stop5491"
+         style="stop-color:#ececec;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="412.43"
+       x2="604.74"
+       y1="378.9"
+       x1="293.33"
+       gradientTransform="matrix(1.6905,0,0,2.1245,-401.15,-415.2)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4464"
+       xlink:href="#linearGradient4582"
+       inkscape:collect="always" />
+    <radialGradient
+       r="11.214"
+       cy="581.84"
+       cx="413.76"
+       gradientTransform="matrix(1,0,0,1.2126,0,-123.73)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4466"
+       xlink:href="#linearGradient5487"
+       inkscape:collect="always" />
+    <radialGradient
+       r="11.182"
+       cy="585.53"
+       cx="382.6"
+       gradientTransform="matrix(1,0,0,0.93076,0,40.542)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4468"
+       xlink:href="#linearGradient5487"
+       inkscape:collect="always" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-284.36218)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <image
+       sodipodi:absref="../m/13/amazon-1-button.png"
+       xlink:href="../m/13/amazon-1-button.png"
+       width="82.030685"
+       height="42.935204"
+       id="image3389"
+       x="446.45306"
+       y="353.81152" />
+    <g
+       transform="matrix(0.17135466,0,0,0.17135466,517.83583,357.51343)"
+       id="g3448">
+      <image
+         sodipodi:absref="../s/fbpe05.jpg"
+         xlink:href="../s/fbpe05.jpg"
+         y="267.82562"
+         x="169.72115"
+         id="image3435"
+         height="489.12607"
+         width="591.33148" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW;font-stretch:normal;font-variant:normal"
+         x="543.23499"
+         y="533.83948"
+         id="text3438"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3440"
+           x="543.23499"
+           y="533.83948">『臉書 隱私』</tspan><tspan
+           sodipodi:role="line"
+           x="543.23499"
+           y="563.83948"
+           id="tspan3442">『FB 沒有隱私』</tspan><tspan
+           sodipodi:role="line"
+           x="543.23499"
+           y="596.40515"
+           id="tspan3444">『臉書隱私幻想』</tspan><tspan
+           sodipodi:role="line"
+           x="543.23499"
+           y="626.40515"
+           id="tspan3446">『Randi privacy』</tspan><tspan
+           id="tspan4172"
+           sodipodi:role="line"
+           x="543.23499"
+           y="658.97089">『FB privacy</tspan><tspan
+           id="tspan4174"
+           sodipodi:role="line"
+           x="543.23499"
+           y="691.53656">   evolution」</tspan></text>
+    </g>
+    <g
+       id="g8167"
+       transform="matrix(0.25784217,0,0,0.25784217,954.43974,-50.609241)">
+      <image
+         sodipodi:absref="../m/12/easycard.jpg"
+         xlink:href="../m/12/easycard.jpg"
+         width="409.38504"
+         height="259.27719"
+         id="image3065"
+         x="-1005.9031"
+         y="3131.7937" />
+      <image
+         sodipodi:absref="../m/12/malte-spitz.jpg"
+         xlink:href="../m/12/malte-spitz.jpg"
+         width="474.30057"
+         height="466.32465"
+         id="image4083"
+         x="-331.83243"
+         y="2930.9031" />
+      <image
+         sodipodi:absref="../m/12/gps-privacy.jpg"
+         xlink:href="../m/12/gps-privacy.jpg"
+         width="179.103"
+         height="273.92221"
+         id="image4161"
+         x="-559.45715"
+         y="3122.53" />
+      <image
+         sodipodi:absref="../m/12/etag.jpg"
+         xlink:href="../m/12/etag.jpg"
+         width="488.33072"
+         height="366.24805"
+         id="image4239"
+         x="-334.74332"
+         y="2528.7017" />
+      <image
+         sodipodi:absref="../m/12/smart-power-meter.jpg"
+         xlink:href="../m/12/smart-power-meter.jpg"
+         width="686.07019"
+         height="529.9892"
+         id="image4395"
+         x="-1020.4498"
+         y="2456.5703" />
+      <text
+         xml:space="preserve"
+         style="font-size:29.86332129999999907px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="-982.1366"
+         y="2995.8547"
+         id="text3149"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="-982.1366"
+           y="2995.8547"
+           id="tspan3159">In digital world, we trade privacy for</tspan><tspan
+           sodipodi:role="line"
+           x="-982.1366"
+           y="3033.1838"
+           id="tspan3174">convenience -- Patrick Oppmann</tspan><tspan
+           sodipodi:role="line"
+           x="-982.1366"
+           y="3070.5129"
+           id="tspan3172">Almost anything you do in today's society</tspan><tspan
+           sodipodi:role="line"
+           x="-982.1366"
+           y="3107.8423"
+           id="tspan3176">involves leaving a track -- Doug Klunder</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:23.27005004999999827px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="-1704.7308"
+         y="2811.655"
+         id="text3193"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3196"
+           x="-1704.7308"
+           y="2811.655">『Malte Spitz』</tspan><tspan
+           sodipodi:role="line"
+           x="-1704.7308"
+           y="2840.8962"
+           id="tspan3198">Tell-All Telephone</tspan></text>
+    </g>
+    <g
+       transform="translate(18.319269,-890.59816)"
+       id="g16067">
+      <image
+         sodipodi:absref="../m/12/biometrics.jpg"
+         xlink:href="../m/12/biometrics.jpg"
+         width="325.53033"
+         height="244.66176"
+         id="image3199"
+         x="659.96405"
+         y="1210.371" />
+      <image
+         sodipodi:absref="../m/13/stylometry.jpg"
+         xlink:href="../m/13/stylometry.jpg"
+         width="75.244812"
+         height="63.487797"
+         id="image4075"
+         x="904.75256"
+         y="1308.0238" />
+      <image
+         sodipodi:absref="../m/12/facial-recognition.jpg"
+         xlink:href="../m/12/facial-recognition.jpg"
+         width="39.308037"
+         height="52.369247"
+         id="image3137"
+         x="782.29852"
+         y="1223.5612" />
+      <g
+         id="g12330"
+         transform="matrix(0.49703213,0,0,0.49703213,1552.7314,409.81328)">
+        <rect
+           style="fill:none;stroke:#ffff00;stroke-opacity:1"
+           id="rect11522"
+           width="64.416084"
+           height="66.382988"
+           x="876.74713"
+           y="67.782433"
+           transform="matrix(2.0119424,0,0,2.0119424,-3155.1931,1536.5966)"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.07165432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="-1388.3062"
+           y="1744.084"
+           id="text12316"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan12318"
+             x="-1388.3062"
+             y="1744.084">『touchid hack』</tspan><tspan
+             sodipodi:role="line"
+             x="-1388.3062"
+             y="1759.1736"
+             id="tspan12320">『指紋鎖</tspan><tspan
+             sodipodi:role="line"
+             x="-1388.3062"
+             y="1774.2631"
+             id="tspan12322">  一輩子無法更改』</tspan><tspan
+             id="tspan4470"
+             sodipodi:role="line"
+             x="-1388.3062"
+             y="1789.3527">『德國國防部長指紋』</tspan></text>
+      </g>
+      <g
+         id="g12337"
+         transform="matrix(0.49703213,0,0,0.49703213,1552.7314,409.81328)">
+        <rect
+           style="fill:none;stroke:#ffff00;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect12324"
+           width="74.742325"
+           height="64.416084"
+           x="715.95282"
+           y="74.666595"
+           transform="matrix(2.0119424,0,0,2.0119424,-3155.1931,1536.5966)" />
+        <text
+           xml:space="preserve"
+           style="font-size:11.85357094000000089px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW;font-stretch:normal;font-variant:normal"
+           x="-1710.879"
+           y="1802.7701"
+           id="text12326"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan12328"
+             x="-1710.879"
+             y="1802.7701">『minority report mall』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49703213,0,0,0.49703213,1554.1672,533.57997)"
+         id="g3185">
+        <rect
+           ry="0"
+           rx="0"
+           transform="matrix(2.0119424,0,0,2.0119424,-3155.1931,1536.5966)"
+           y="72.664185"
+           x="877.0343"
+           height="62.075558"
+           width="68.14917"
+           id="rect3187"
+           style="fill:none;stroke:#ffff00;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3189"
+           y="1781.5668"
+           x="-1373.9036"
+           style="font-size:12.07165432000000038px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             id="tspan3195"
+             y="1781.5668"
+             x="-1373.9036"
+             sodipodi:role="line">『voiceprints</tspan><tspan
+             id="tspan3201"
+             y="1797.9469"
+             x="-1373.9036"
+             sodipodi:role="line">harvested』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.18383065,0,0,0.18383065,707.53678,962.87724)"
+         id="g4624">
+        <g
+           transform="translate(365.05837,1891.8175)"
+           inkscape:label="Layer 1"
+           id="layer1-9">
+          <g
+             id="g2411">
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#0000ff;stroke:#000000;stroke-width:3"
+               d="m -10.795,214.34 c -9.503,0.76 -5.265,0.22 -27.113,0.37 -25.776,-0.31 -55.221,-100.88 -78.472,-124.61 13.37,0.053 7.61,0.053 17.22,0.452 22.471,-0.204 50.376,115.95 88.365,123.79 z"
+               id="path6644"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="42.431"
+               y="99.790001"
+               width="7.5741"
+               height="100.87"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6692" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#ff0000;stroke:#000000;stroke-width:3"
+               d="m 78.758,214.34 c -9.503,0.76 -5.265,0.22 -27.113,0.37 C 25.869,214.4 -3.576,113.83 -26.831,90.1 c 13.372,0.053 7.611,0.053 17.225,0.452 22.471,-0.204 50.375,115.95 88.364,123.79 z"
+               id="path6761"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="17.378"
+               y="95.168999"
+               width="8.1567001"
+               height="117.11"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6690" />
+            <rect
+               x="81.466003"
+               y="120.22"
+               width="8.1567001"
+               height="72.827003"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6694" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#ff0000;stroke:#000000;stroke-width:4"
+               d="m -10.795,90.523 c -9.503,-0.76 -5.265,-0.223 -27.113,-0.369 -25.776,0.312 -55.221,100.88 -78.472,124.61 13.37,-0.05 7.61,-0.05 17.22,-0.45 22.471,0.2 50.376,-115.95 88.365,-123.79 z"
+               id="path6646"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m -21.355,90.955 c -5.698,0.02 -11.396,0.043 -17.093,0.063 -11.743,2.593 -17.592,14.982 -23.75,24.192 -4.598,7.94 -8.772,16.12 -12.782,24.37 h 0.344 c 0.907,-1.89 1.786,-3.78 2.781,-5.66 15.287,-28.78 35.738,-45.152 49.563,-41.371 0.867,-0.711 1.392,-1.301 0.937,-1.594 z"
+               style="fill:#ffffff;fill-opacity:0.60265"
+               id="path6733"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="-47.123001"
+               y="99.790001"
+               width="7.5741"
+               height="100.87"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6763" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#0000ff;stroke:#000000;stroke-width:3"
+               d="m 168.31,214.34 c -9.5,0.76 -5.26,0.22 -27.11,0.37 C 115.42,214.4 85.977,113.83 62.722,90.1 c 13.372,0.053 7.612,0.053 17.225,0.452 22.473,-0.204 50.373,115.95 88.363,123.79 z"
+               id="path6775"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="-72.175003"
+               y="95.168999"
+               width="8.1567001"
+               height="117.11"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6765" />
+            <rect
+               x="-8.0869999"
+               y="120.22"
+               width="8.1567001"
+               height="72.827003"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6767" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#0000ff;stroke:#000000;stroke-width:4"
+               d="m 78.758,90.523 c -9.503,-0.76 -5.265,-0.223 -27.113,-0.369 -25.776,0.312 -55.221,100.88 -78.476,124.61 13.372,-0.05 7.611,-0.05 17.225,-0.45 22.471,0.2 50.375,-115.95 88.364,-123.79 z"
+               id="path6769"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 68.199,90.955 c -5.698,0.02 -11.396,0.043 -17.094,0.063 -11.742,2.593 -17.592,14.982 -23.75,24.192 -4.597,7.94 -8.772,16.12 -12.781,24.37 h 0.343 c 0.908,-1.89 1.786,-3.78 2.782,-5.66 15.286,-28.78 35.738,-45.152 49.562,-41.371 0.868,-0.711 1.392,-1.301 0.938,-1.594 z"
+               style="fill:#ffffff;fill-opacity:0.60265"
+               id="path6771"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="-136.67999"
+               y="99.790001"
+               width="7.5741"
+               height="100.87"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6777" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#ff0000;stroke:#000000;stroke-width:3"
+               d="m 257.86,214.34 c -9.5,0.76 -5.26,0.22 -27.11,0.37 -25.77,-0.31 -55.22,-100.88 -78.47,-124.61 13.37,0.053 7.61,0.053 17.22,0.452 22.47,-0.204 50.38,115.95 88.36,123.79 z"
+               id="path6789"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="-161.73"
+               y="95.168999"
+               width="8.1567001"
+               height="117.11"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6779" />
+            <rect
+               x="-97.639999"
+               y="120.22"
+               width="8.1567001"
+               height="72.827003"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6781" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#ff0000;stroke:#000000;stroke-width:4"
+               d="m 168.31,90.523 c -9.5,-0.76 -5.26,-0.223 -27.11,-0.369 -25.78,0.312 -55.223,100.88 -78.478,124.61 13.372,-0.05 7.612,-0.05 17.225,-0.45 22.473,0.2 50.373,-115.95 88.363,-123.79 z"
+               id="path6783"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 157.75,90.955 c -5.7,0.02 -11.39,0.043 -17.09,0.063 -11.74,2.593 -17.59,14.982 -23.75,24.192 -4.6,7.94 -8.77,16.12 -12.78,24.37 h 0.34 c 0.91,-1.89 1.79,-3.78 2.78,-5.66 15.29,-28.78 35.74,-45.152 49.56,-41.371 0.87,-0.711 1.4,-1.301 0.94,-1.594 z"
+               style="fill:#ffffff;fill-opacity:0.60265"
+               id="path6785"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="-226.23"
+               y="99.790001"
+               width="7.5741"
+               height="100.87"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6791" />
+            <rect
+               x="-251.28"
+               y="95.168999"
+               width="8.1567001"
+               height="117.11"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6793" />
+            <rect
+               x="-187.19"
+               y="120.22"
+               width="8.1567001"
+               height="72.827003"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6795" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#0000ff;stroke:#000000;stroke-width:3"
+               d="m 347.42,214.34 c -9.5,0.76 -5.27,0.22 -27.11,0.37 -25.78,-0.31 -55.23,-100.88 -78.48,-124.61 13.37,0.053 7.61,0.053 17.22,0.452 22.47,-0.204 50.38,115.95 88.37,123.79 z"
+               id="path6803"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#0000ff;stroke:#000000;stroke-width:4"
+               d="m 257.86,90.523 c -9.5,-0.76 -5.26,-0.223 -27.11,-0.369 -25.77,0.312 -55.22,100.88 -78.47,124.61 13.37,-0.05 7.61,-0.05 17.22,-0.45 22.47,0.2 50.38,-115.95 88.36,-123.79 z"
+               id="path6797"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 247.31,90.955 c -5.7,0.02 -11.4,0.043 -17.1,0.063 -11.74,2.593 -17.59,14.982 -23.75,24.192 -4.6,7.94 -8.77,16.12 -12.78,24.37 h 0.34 c 0.91,-1.89 1.79,-3.78 2.79,-5.66 15.28,-28.78 35.73,-45.152 49.56,-41.371 0.87,-0.711 1.39,-1.301 0.94,-1.594 z"
+               style="fill:#ffffff;fill-opacity:0.60265"
+               id="path6799"
+               inkscape:connector-curvature="0" />
+            <rect
+               x="-315.78"
+               y="99.790001"
+               width="7.5741"
+               height="100.87"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6805" />
+            <rect
+               x="-340.84"
+               y="95.168999"
+               width="8.1567001"
+               height="117.11"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6807" />
+            <rect
+               x="-276.75"
+               y="120.22"
+               width="8.1567001"
+               height="72.827003"
+               transform="scale(-1,1)"
+               style="fill:#00f400;stroke:#000000;stroke-width:1.25"
+               id="rect6809" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               style="fill:#ff0000;stroke:#000000;stroke-width:4"
+               d="m 347.42,90.523 c -9.5,-0.76 -5.27,-0.223 -27.11,-0.369 -25.78,0.312 -55.23,100.88 -78.48,124.61 13.37,-0.05 7.61,-0.05 17.22,-0.45 22.47,0.2 50.38,-115.95 88.37,-123.79 z"
+               id="path6811"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 336.86,90.955 c -5.7,0.02 -11.4,0.043 -17.1,0.063 -11.74,2.593 -17.59,14.982 -23.75,24.192 -4.59,7.94 -8.77,16.12 -12.78,24.37 h 0.35 c 0.9,-1.89 1.78,-3.78 2.78,-5.66 15.29,-28.78 35.74,-45.152 49.56,-41.371 0.87,-0.711 1.39,-1.301 0.94,-1.594 z"
+               style="fill:#ffffff;fill-opacity:0.60265"
+               id="path6813"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="256.83032"
+           y="2192.4092"
+           id="text4618"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4620"
+             x="256.83032"
+             y="2192.4092">『加州政府 新生兒 DNA』</tspan><tspan
+             sodipodi:role="line"
+             x="256.83032"
+             y="2237.4092"
+             id="tspan4622">『california DNA privacy』</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3221"
+       transform="matrix(0.23703533,0,0,0.23703533,630.78097,612.0757)">
+      <image
+         sodipodi:absref="../m/12/human-flesh-search.jpg"
+         xlink:href="../m/12/human-flesh-search.jpg"
+         width="388.77383"
+         height="298.05994"
+         id="image3194"
+         x="-1819.0068"
+         y="1019.2568" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3205"
+         y="1344.535"
+         x="-1839.2886"
+         style="font-size:18.15873527999999837px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="1344.535"
+           x="-1839.2886"
+           id="tspan3207"
+           sodipodi:role="line">“When it comes to privacy and accountability,</tspan><tspan
+           id="tspan3209"
+           y="1367.2334"
+           x="-1839.2886"
+           sodipodi:role="line">people always demand the former for themselves</tspan><tspan
+           id="tspan3211"
+           y="1389.9319"
+           x="-1839.2886"
+           sodipodi:role="line">and the latter for everyone else.”  ― David Brin</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="../m/13/utd-anonymization-toolbox.png"
+       xlink:href="../m/13/utd-anonymization-toolbox.png"
+       width="109.11994"
+       height="84.216499"
+       id="image5996"
+       x="57.513725"
+       y="949.98822" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3171"
+       y="899.59064"
+       x="328.67856"
+       style="font-size:14.17154217000000038px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         y="899.59064"
+         x="328.67856"
+         id="tspan3173"
+         sodipodi:role="line">隱私相關的法律建議：</tspan><tspan
+         id="tspan3177"
+         y="917.30505"
+         x="328.67856"
+         sodipodi:role="line">- 政府調閱雲端資料的法律程序</tspan><tspan
+         id="tspan15344"
+         y="935.01947"
+         x="328.67856"
+         sodipodi:role="line">  (但外國服務怎麼辦?)</tspan><tspan
+         id="tspan3175"
+         y="952.73395"
+         x="328.67856"
+         sodipodi:role="line">- 密碼應列為隱私保障 (但外國..)</tspan><tspan
+         id="tspan3270"
+         y="970.44836"
+         x="328.67856"
+         sodipodi:role="line">- 自然人憑證應以「記密碼」優先</tspan><tspan
+         id="tspan3135"
+         y="988.16278"
+         x="328.67856"
+         sodipodi:role="line">- 吹哨者身份保護</tspan><tspan
+         y="1005.8772"
+         x="328.67856"
+         sodipodi:role="line"
+         id="tspan3157">- 『安全維護措施 員工隱私』</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.10798740000000073px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW;font-stretch:normal;font-variant:normal"
+       x="577.09235"
+       y="902.67212"
+       id="text3270"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="577.09235"
+         y="902.67212"
+         id="tspan15682">- 資訊渴望自由； 雲端沒有隱私</tspan><tspan
+         sodipodi:role="line"
+         x="577.09235"
+         y="916.55713"
+         id="tspan3482">- 減少蒐集與上傳、 盡早銷毀或匿名化</tspan><tspan
+         sodipodi:role="line"
+         x="577.09235"
+         y="930.44208"
+         id="tspan15686">- 方便與隱私經常成反比</tspan><tspan
+         sodipodi:role="line"
+         x="577.09235"
+         y="944.32709"
+         id="tspan3296">- 拒絕政府與企業的 「包裝版 rootkit」</tspan><tspan
+         id="tspan3262"
+         sodipodi:role="line"
+         x="577.09235"
+         y="959.39954">- 如果你在意資安與隱私， 那麼自由軟體</tspan><tspan
+         id="tspan3268"
+         sodipodi:role="line"
+         x="577.09235"
+         y="973.28455">  不是一個選項， 而是一個先決條件</tspan><tspan
+         id="tspan3254"
+         sodipodi:role="line"
+         x="577.09235"
+         y="987.16949">- 真正能夠保護隱私的技術解， 是加密</tspan></text>
+    <g
+       transform="translate(28.183486,-45.093578)"
+       id="g4166">
+      <image
+         sodipodi:absref="../m/13/privacy-hood.jpg"
+         xlink:href="../m/13/privacy-hood.jpg"
+         y="544.39862"
+         x="408.84167"
+         id="image3114"
+         height="161.28828"
+         width="215.05106" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ffff;fill-opacity:1;stroke:none"
+         x="517.34509"
+         y="668.70715"
+         id="text3137"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="517.34509"
+           y="668.70715"
+           id="tspan3141">雲端年代的隱私威脅</tspan><tspan
+           sodipodi:role="line"
+           x="517.34509"
+           y="682.76965"
+           id="tspan3147">(「惡意不多」及「小咖偷窺者」篇)</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="../m/13/prism-slide-5.jpg"
+       xlink:href="../m/13/prism-slide-5.jpg"
+       width="108.30657"
+       height="81.229919"
+       id="image3932"
+       x="210.73303"
+       y="411.27332" />
+    <image
+       sodipodi:absref="../m/12/spy-files.jpg"
+       xlink:href="../m/12/spy-files.jpg"
+       width="123.29803"
+       height="92.473511"
+       id="image4163"
+       x="204.20663"
+       y="307.34354" />
+    <image
+       sodipodi:absref="../m/13/google-glass-privacy.jpg"
+       xlink:href="../m/13/google-glass-privacy.jpg"
+       width="118.55419"
+       height="66.54332"
+       id="image4270"
+       x="50.617252"
+       y="866.36938" />
+    <g
+       transform="matrix(1.1638235,0,0,1.1638235,-97.326723,-4.6634086)"
+       id="g4285">
+      <image
+         sodipodi:absref="../m/11/google.png"
+         xlink:href="../m/11/google.png"
+         y="354.93228"
+         x="399.86035"
+         id="image3358"
+         height="44.222019"
+         width="127.67861" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.88449954999999925px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="396.59503"
+         y="415.44971"
+         id="text4273"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="396.59503"
+           y="415.44971"
+           id="tspan4277">『google privacy criticism』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.81525608,0,0,0.81525608,-58.732248,-97.612063)"
+       id="g4294">
+      <image
+         sodipodi:absref="../m/13/siri.jpg"
+         xlink:href="../m/13/siri.jpg"
+         y="494.16046"
+         x="734.71326"
+         id="image3240"
+         height="107.87221"
+         width="107.54433" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="745.45325"
+         y="577.47046"
+         id="text4290"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4292"
+           x="745.45325"
+           y="577.47046">『siri privacy』</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4299"
+       y="513.24792"
+       x="199.02821"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW;font-stretch:normal;font-variant:normal"
+       xml:space="preserve"><tspan
+         id="tspan4303"
+         y="513.24792"
+         x="199.02821"
+         sodipodi:role="line">請見「政府與企業的網路監控與管制」</tspan><tspan
+         id="tspan4305"
+         y="529.18195"
+         x="199.02821"
+         sodipodi:role="line">http://.../mm/</tspan><tspan
+         id="tspan4307"
+         y="546.50604"
+         x="199.02821"
+         sodipodi:role="line">surveillance-censorship.svg</tspan><tspan
+         id="tspan16030"
+         y="565.22021"
+         x="199.02821"
+         sodipodi:role="line">(「政府及企業版」的隱私威脅)</tspan></text>
+    <image
+       sodipodi:absref="../m/11/homomorphic.png"
+       xlink:href="../m/11/homomorphic.png"
+       y="579.81036"
+       x="114.92486"
+       id="image8261"
+       height="42.824936"
+       width="43.242924" />
+    <image
+       sodipodi:absref="../m/11/unhosted.png"
+       xlink:href="../m/11/unhosted.png"
+       y="578.33112"
+       x="178.24371"
+       id="image8323"
+       height="42.852421"
+       width="42.852421" />
+    <g
+       transform="matrix(0.10841654,0,0,0.10841654,113.03958,521.59451)"
+       id="g6492">
+      <image
+         sodipodi:absref="../m/12/firesheep.jpg"
+         xlink:href="../m/12/firesheep.jpg"
+         width="113.22619"
+         height="75.295403"
+         id="image3143"
+         x="1185.67"
+         y="622.52094" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3146"
+         y="606.12439"
+         x="1589.4291"
+         style="font-style:normal;font-weight:normal;font-size:48.42329788px;line-height:125%;font-family:'AR PL UKai TW';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="606.12439"
+           x="1589.4291"
+           id="tspan3148"
+           sodipodi:role="line">無線網路的安全性:</tspan><tspan
+           y="666.6535"
+           x="1589.4291"
+           sodipodi:role="line"
+           id="tspan4369">未加密</tspan><tspan
+           id="tspan3111"
+           y="727.18262"
+           x="1589.4291"
+           sodipodi:role="line">wep</tspan><tspan
+           id="tspan3150"
+           y="787.71173"
+           x="1589.4291"
+           sodipodi:role="line">wpa</tspan><tspan
+           id="tspan3154"
+           y="848.24091"
+           x="1589.4291"
+           sodipodi:role="line">wpa2</tspan><tspan
+           y="908.77002"
+           x="1589.4291"
+           sodipodi:role="line"
+           id="tspan4464">關掉 WPS!(未必有用)</tspan></text>
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:3.02645612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+         d="m 1311.7348,665.72163 130.4963,-8.65853"
+         id="path3120"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         sodipodi:absref="../m/13/backtrack.jpg"
+         xlink:href="../m/13/backtrack.jpg"
+         width="142.13303"
+         height="88.833145"
+         id="image5379"
+         x="1185.5382"
+         y="732.93286" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+         d="m 1061.9478,302.53967 47.1439,-12.11178"
+         id="path5382"
+         inkscape:connector-curvature="0"
+         transform="matrix(3.026456,0,0,3.026456,-1879.236,-164.4282)"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+         d="m 1062.7762,310.82976 47.1441,-5.61792"
+         id="path5384"
+         inkscape:connector-curvature="0"
+         transform="matrix(3.026456,0,0,3.026456,-1879.236,-164.4282)"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+         d="m 1061.5794,323.26372 39.5012,3.82287"
+         id="path5386"
+         inkscape:connector-curvature="0"
+         transform="matrix(3.026456,0,0,3.026456,-1879.236,-164.4282)"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.10582447px;line-height:125%;font-family:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1345.472"
+         y="651.49585"
+         id="text6480"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6482"
+           x="1345.472"
+           y="651.49585">馬上</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.10582447px;line-height:125%;font-family:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1363.3096"
+         y="728.42059"
+         id="text6484"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6486"
+           x="1363.3096"
+           y="728.42059">幾分鐘</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.10582447px;line-height:125%;font-family:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1336.5532"
+         y="803.6731"
+         id="text6488"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6490"
+           x="1336.5532"
+           y="803.6731">如果順利的話, 幾小時</tspan></text>
+    </g>
+    <g
+       transform="matrix(0,0.10972946,-0.10972946,0,459.73237,659.85929)"
+       id="g5738">
+      <image
+         sodipodi:absref="../m/13/ipad-jail.jpg"
+         xlink:href="../m/13/ipad-jail.jpg"
+         y="1116.2677"
+         x="-116.76407"
+         id="image5618"
+         height="211.15961"
+         width="180.99394" />
+      <image
+         sodipodi:absref="../m/13/cydia-leak-less.png"
+         xlink:href="../m/13/cydia-leak-less.png"
+         y="1319.6049"
+         x="-95.886009"
+         id="image5731"
+         height="157.71117"
+         width="405.11588" />
+      <text
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="63.216755"
+         y="1148.0206"
+         id="text5734"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan5748"
+           sodipodi:role="line"
+           x="63.216755"
+           y="1148.0206">『root 理由 安全』</tspan><tspan
+           id="tspan3447"
+           sodipodi:role="line"
+           x="63.216755"
+           y="1178.0637">『刷機 理由 安全』</tspan><tspan
+           id="tspan3449"
+           sodipodi:role="line"
+           x="63.216755"
+           y="1208.0637">『越獄 理由 安全』</tspan><tspan
+           sodipodi:role="line"
+           x="63.216755"
+           y="1238.0637"
+           id="tspan3210" /><tspan
+           sodipodi:role="line"
+           x="63.216755"
+           y="1268.0637"
+           id="tspan3205">『root 知識補給站』</tspan><tspan
+           sodipodi:role="line"
+           x="63.216755"
+           y="1298.1067"
+           id="tspan3208">『刷機 知識補給站』</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="../m/13/ff-privacy.png"
+       xlink:href="../m/13/ff-privacy.png"
+       inkscape:transform-center-y="-15.331763"
+       inkscape:transform-center-x="17.577706"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="52.733089"
+       height="35.155392"
+       id="image5842"
+       x="583.58722"
+       y="-335.90732" />
+    <image
+       sodipodi:absref="../m/13/use-the-source-luke.jpg"
+       xlink:href="../m/13/use-the-source-luke.jpg"
+       width="185.28754"
+       height="144.15297"
+       id="image4398"
+       x="86.714745"
+       y="628.63495" />
+    <g
+       transform="matrix(-0.833905,0,0,-0.833905,338.10959,1480.1192)"
+       id="g8355">
+      <image
+         sodipodi:absref="../m/13/otr.png"
+         xlink:href="../m/13/otr.png"
+         y="784.70514"
+         x="252.62358"
+         id="image3941"
+         height="49.279774"
+         width="50.089531" />
+      <text
+         xml:space="preserve"
+         style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="44.823994"
+         y="847.31274"
+         id="text8351"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan8353"
+           x="44.823994"
+           y="847.31274">『xmpp』</tspan><tspan
+           id="tspan3192"
+           sodipodi:role="line"
+           x="44.823994"
+           y="852.31995">『jabber』</tspan><tspan
+           id="tspan3194"
+           sodipodi:role="line"
+           x="44.823994"
+           y="857.32709">『ChatSecure』</tspan><tspan
+           id="tspan3190"
+           sodipodi:role="line"
+           x="44.823994"
+           y="862.33429">『otr messaging』</tspan></text>
+    </g>
+    <g
+       id="g8654"
+       transform="matrix(-0.73741598,0,0,-0.73741598,374.06255,1398.4845)">
+      <image
+         sodipodi:absref="../m/13/f-droid-in-tibet.jpg"
+         xlink:href="../m/13/f-droid-in-tibet.jpg"
+         y="781.77362"
+         x="52.254593"
+         id="image4151"
+         height="49.436375"
+         width="65.915161" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text8648"
+         y="805.1073"
+         x="51.727985"
+         style="font-size:6.78043365px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           id="tspan8652"
+           y="805.1073"
+           x="51.727985"
+           sodipodi:role="line">『f-droid 市集』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0,-0.75730552,0.75730552,0,-490.752,733.76122)"
+       id="g8966">
+      <image
+         sodipodi:absref="../m/10/firefox-ssh-tunnel.jpg"
+         xlink:href="../m/10/firefox-ssh-tunnel.jpg"
+         y="701.67047"
+         x="51.224152"
+         id="image5300"
+         height="51.16185"
+         width="68.215797" />
+      <text
+         xml:space="preserve"
+         style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="93.425827"
+         y="728.70837"
+         id="text8956"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8958"
+           x="93.425827"
+           y="728.70837">『ssh 山洞』</tspan><tspan
+           sodipodi:role="line"
+           x="93.425827"
+           y="733.71558"
+           id="tspan8960">『ssh tunnel』</tspan><tspan
+           sodipodi:role="line"
+           x="93.425827"
+           y="738.72272"
+           id="tspan8962">『ssh firefox』</tspan><tspan
+           sodipodi:role="line"
+           x="93.425827"
+           y="743.72992"
+           id="tspan8964">『vpn』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-439.54486,261.42975)"
+       id="g9594">
+      <image
+         sodipodi:absref="../m/13/openbsd.png"
+         xlink:href="../m/13/openbsd.png"
+         y="587.6969"
+         x="89.595757"
+         id="image3236"
+         height="39.42897"
+         width="49.596188" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.37594223px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="96.435822"
+         y="595.37274"
+         id="text9590"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan9592"
+           x="96.435822"
+           y="595.37274">『openbsd (沒有) 後門』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.60714909,0,0,0.60714909,57.077727,308.2638)"
+       id="g3234">
+      <image
+         sodipodi:absref="../m/13/sun.jpg"
+         xlink:href="../m/13/sun.jpg"
+         width="61.572918"
+         height="46.179688"
+         id="image3225"
+         x="246.12369"
+         y="680.6701" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.2658174px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="250.86148"
+         y="687.91138"
+         id="text3228"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3230"
+           x="250.86148"
+           y="687.91138">Sunlight is the best disinfectant</tspan><tspan
+           sodipodi:role="line"
+           x="250.86148"
+           y="691.99951"
+           id="tspan3232">-- 美國大法官 Louis Brandeis</tspan></text>
+    </g>
+    <g
+       transform="matrix(0,0.0699836,-0.0699836,0,372.31544,705.54135)"
+       id="g3406">
+      <image
+         sodipodi:absref="../m/13/cyanogenmod.jpg"
+         xlink:href="../m/13/cyanogenmod.jpg"
+         y="526.91467"
+         x="9.0991516"
+         id="image3257"
+         height="439"
+         width="800" />
+      <g
+         id="g3107"
+         transform="matrix(0.71455607,0,0,0.71455607,438.74029,544.95648)">
+        <path
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 217.51024,55.372568 c -1.8483,0.130379 -3.62991,1.367814 -4.5625,5 -1.91347,7.452478 5.95671,35.360348 9.75,48.031252 -6.36094,0.42622 -12.4315,1.07677 -18.21875,1.96875 L 166.94774,81.653818 c 1e-5,0 -11.11874,-0.95401 -7.4375,8.34375 2.03228,5.132938 14.44389,15.859562 25.21875,24.531252 -102.8246,27.91387 -99.72036,133.70992 -99.1875,133.8125 l 312.21825,0 c -2e-5,0 -0.001,-140.5 -158.437,-140.5 -0.20978,0 -0.41579,-4.9e-4 -0.625,0 l -14.8125,-49.812502 c -1e-5,-2e-6 -3.29449,-2.873548 -6.375,-2.65625 z"
+           id="path2410"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sscccscccsccs" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.48985171px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 332.2614,143.25688 c 0,0 14.79271,0 14.79271,15.00507 0,15.00507 -14.79271,15.00507 -14.79271,15.00507 0,0 -14.79272,0 -14.79272,-15.00507 0,-15.00507 15.58038,-14.50676 14.79272,-15.00507 z"
+           id="path2422"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 255.46363,180.95632 c 60,60 140,60 140,60 l 0,0"
+           id="path2473"
+           inkscape:connector-curvature="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cortoba;-inkscape-font-specification:Cortoba Bold"
+           x="50.035034"
+           y="731.65747"
+           id="text4289"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4291"
+             x="50.035034"
+             y="731.65747"
+             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:UnDotum;-inkscape-font-specification:UnDotum Bold">R</tspan></text>
+        <path
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 60.2857,391.13541 157.62126,-63.68312 c 0,0 24.06945,-20.51003 12.83125,-48.32555 -11.2382,-27.81553 -42.79947,-24.66042 -42.79947,-24.66042 L 30.31719,316.96071 c 0,0 -24.06947,20.51003 -12.83128,48.32555 11.23821,27.81552 43.62678,26.38277 42.79979,25.84915 z"
+           id="path4295"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsccsc" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           x="95.623062"
+           y="731.6626"
+           id="text4299-9"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4301"
+             x="95.623062"
+             y="731.6626"
+             style="font-size:72px;font-weight:bold;fill:#000000;-inkscape-font-specification:Bitstream Vera Sans Bold">eplicant</tspan><tspan
+             id="tspan3430"
+             sodipodi:role="line"
+             x="95.623062"
+             y="803.6626"
+             style="font-size:72px;font-weight:bold;fill:#000000;-inkscape-font-specification:Bitstream Vera Sans Bold" /></text>
+        <path
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 217.85375,429.28044 -117.45,122.90442 c 0,0 -13.49681,28.59784 8.19223,49.32432 21.689,20.72647 49.64515,5.94627 49.64515,5.94627 l 117.45,-122.9044 c 0,0 13.49681,-28.59785 -8.19221,-49.32432 -21.68902,-20.72648 -50.61848,-6.0923 -49.64517,-5.94629 z"
+           id="path2449"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 92.79149,551.24757 c -11.04569,0 -20,8.95431 -20,20 0,11.04569 8.95431,20 20,20 0,11.04569 8.95431,20 20,20 0,11.04569 8.95431,20 20,20 11.04569,0 20,-8.95431 20,-20 0,-11.04569 -8.95431,-20 -20,-20 0,-11.04569 -8.95431,-20 -20,-20 0,-11.04569 -8.95431,-20 -20,-20 z"
+           id="path2491"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 85.02974,253.44232 c -0.0517,0.4163 -3.6e-4,201.12458 -3.7e-4,241.12456 0,40 59.99999,40.00002 60,40 0,0 99.99999,2e-5 100,0 l 0,-1.15625 c 19.88699,10e-6 93.40625,0 93.40625,0 -10e-6,2e-5 59.32412,-0.004 59.32412,-40 3e-5,-39.99559 0.0549,-239.5525 0,-239.96875 -107.89867,3.9e-4 -214.93649,4.4e-4 -312.73,4.4e-4 z"
+           id="path2441"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccccscc" />
+        <path
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 239.00525,442.13979 0,170 c 0,0 10,30 40,30 30,0 40,-30 40,-30 l 0,-170 c 0,0 -10,-30 -40,-30 -30,0 -40.80455,30.56688 -40,30 z"
+           id="path2447"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 248.91649,616.43507 c -11.04569,0 -20,8.95431 -20,20 0,11.04569 8.95431,20 20,20 6.55051,0 12.32068,-3.16429 15.96875,-8.03125 3.64736,4.87555 9.47397,8.03125 16.03125,8.03125 5.98339,0 11.30359,-2.6484 14.96875,-6.8125 3.66547,4.17312 9.04041,6.8125 15.03125,6.8125 11.04569,0 20,-8.95431 20,-20 0,-11.04569 -8.95431,-20 -20,-20 -5.98818,0 -11.36589,2.6426 -15.03125,6.8125 -3.66504,-4.16066 -8.98821,-6.8125 -14.96875,-6.8125 -6.55728,0 -12.38389,3.1557 -16.03125,8.03125 -3.64807,-4.86696 -9.41824,-8.03125 -15.96875,-8.03125 z"
+           id="path2493"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 262.09305,345.75478 157.62126,63.68312 c 0,0 31.56158,1.96637 42.79978,-25.84915 11.2382,-27.81552 -12.83125,-48.32556 -12.83125,-48.32556 L 292.06159,271.58008 c 0,0 -31.5616,-1.96637 -42.7998,25.84915 -11.23819,27.81552 13.05547,49.28388 12.83126,48.32555 z"
+           id="path2443"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path3275"
+           sodipodi:cx="-476.85342"
+           sodipodi:cy="342.14471"
+           sodipodi:rx="9.4990721"
+           sodipodi:ry="9.4990721"
+           d="m -467.35435,342.14471 a 9.4990721,9.4990721 0 0 1 -9.49907,9.49908 9.4990721,9.4990721 0 0 1 -9.49908,-9.49908 9.4990721,9.4990721 0 0 1 9.49908,-9.49907 9.4990721,9.4990721 0 0 1 9.49907,9.49907 z"
+           transform="matrix(0.5263672,0,0,0.5263672,342.09411,391.32269)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path3282"
+           sodipodi:cx="-476.85342"
+           sodipodi:cy="342.14471"
+           sodipodi:rx="9.4990721"
+           sodipodi:ry="9.4990721"
+           d="m -467.35435,342.14471 a 9.4990721,9.4990721 0 0 1 -9.49907,9.49908 9.4990721,9.4990721 0 0 1 -9.49908,-9.49908 9.4990721,9.4990721 0 0 1 9.49908,-9.49907 9.4990721,9.4990721 0 0 1 9.49907,9.49907 z"
+           transform="matrix(0.5263672,0,0,0.5263672,363.7214,413.09056)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path3298"
+           sodipodi:cx="-476.85342"
+           sodipodi:cy="342.14471"
+           sodipodi:rx="9.4990721"
+           sodipodi:ry="9.4990721"
+           d="m -467.35435,342.14471 a 9.4990721,9.4990721 0 0 1 -9.49907,9.49908 9.4990721,9.4990721 0 0 1 -9.49908,-9.49908 9.4990721,9.4990721 0 0 1 9.49908,-9.49907 9.4990721,9.4990721 0 0 1 9.49907,9.49907 z"
+           transform="matrix(0.5263672,0,0,0.5263672,498.30767,455.08685)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path3300"
+           sodipodi:cx="-476.85342"
+           sodipodi:cy="342.14471"
+           sodipodi:rx="9.4990721"
+           sodipodi:ry="9.4990721"
+           d="m -467.35435,342.14471 a 9.4990721,9.4990721 0 0 1 -9.49907,9.49908 9.4990721,9.4990721 0 0 1 -9.49908,-9.49908 9.4990721,9.4990721 0 0 1 9.49908,-9.49907 9.4990721,9.4990721 0 0 1 9.49907,9.49907 z"
+           transform="matrix(0.5263672,0,0,0.5263672,532.70469,456.78629)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path3302"
+           sodipodi:cx="-476.85342"
+           sodipodi:cy="342.14471"
+           sodipodi:rx="9.4990721"
+           sodipodi:ry="9.4990721"
+           d="m -467.35435,342.14471 a 9.4990721,9.4990721 0 0 1 -9.49907,9.49908 9.4990721,9.4990721 0 0 1 -9.49908,-9.49908 9.4990721,9.4990721 0 0 1 9.49908,-9.49907 9.4990721,9.4990721 0 0 1 9.49907,9.49907 z"
+           transform="matrix(0.5263672,0,0,0.5263672,560.70098,454.88648)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="path3284"
+           sodipodi:cx="-476.85342"
+           sodipodi:cy="342.14471"
+           sodipodi:rx="9.4990721"
+           sodipodi:ry="9.4990721"
+           d="m -467.35435,342.14471 a 9.4990721,9.4990721 0 0 1 -9.49907,9.49908 9.4990721,9.4990721 0 0 1 -9.49908,-9.49908 9.4990721,9.4990721 0 0 1 9.49908,-9.49907 9.4990721,9.4990721 0 0 1 9.49907,9.49907 z"
+           transform="matrix(0.5263672,0,0,0.5263672,386.51917,432.08871)" />
+      </g>
+    </g>
+    <g
+       id="g4672"
+       transform="matrix(-0.04399989,0,0,-0.04399989,189.43134,910.46765)">
+      <image
+         sodipodi:absref="../m/15/afwall/1.png"
+         xlink:href="../m/15/afwall/1.png"
+         y="1963.6057"
+         x="35.253124"
+         id="image3264"
+         height="800"
+         width="480" />
+      <image
+         sodipodi:absref="../m/15/afwall/2.png"
+         xlink:href="../m/15/afwall/2.png"
+         y="1963.0101"
+         x="525.29578"
+         id="image3326"
+         height="800"
+         width="480" />
+      <rect
+         y="2007.8551"
+         x="542.64789"
+         height="54.084507"
+         width="175.77464"
+         id="rect3329"
+         style="fill:none;stroke:#ffff00;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g10231"
+       transform="matrix(0.66651371,0,0,0.66651371,63.228515,253.27638)">
+      <g
+         transform="matrix(0.20917936,0,0,0.20917936,836.42321,24.839702)"
+         id="g7114">
+        <image
+           sodipodi:absref="../m/12/social-eng-2.jpg"
+           xlink:href="../m/12/social-eng-2.jpg"
+           y="3079.719"
+           x="-1881.5924"
+           id="image3341"
+           height="430.71094"
+           width="646.47046" />
+        <image
+           sodipodi:absref="../m/12/social-eng-3.jpg"
+           xlink:href="../m/12/social-eng-3.jpg"
+           y="3079.4761"
+           x="-1345.2847"
+           id="image3403"
+           height="494.13779"
+           width="431.99161" />
+        <image
+           sodipodi:absref="../m/12/social-eng-1.jpg"
+           xlink:href="../m/12/social-eng-1.jpg"
+           y="3499.8433"
+           x="-1829.5015"
+           id="image3279"
+           height="368.23251"
+           width="490.97665" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:10.48865699999999990px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="556.56262"
+         y="787.5202"
+         id="text3248"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3250"
+           x="556.56262"
+           y="787.5202">『社交工程』</tspan><tspan
+           id="tspan10227"
+           sodipodi:role="line"
+           x="556.56262"
+           y="800.63104">『social</tspan><tspan
+           id="tspan10229"
+           sodipodi:role="line"
+           x="556.56262"
+           y="814.8631">  engineering』</tspan><tspan
+           sodipodi:role="line"
+           x="556.56262"
+           y="829.09521"
+           id="tspan3252">『socialbots』</tspan></text>
+    </g>
+    <g
+       transform="translate(93.615961,-44.757698)"
+       id="g4646">
+      <image
+         sodipodi:absref="../m/13/samsung-watching-you.jpg"
+         xlink:href="../m/13/samsung-watching-you.jpg"
+         y="340.60712"
+         x="360.05844"
+         id="image5521"
+         height="50.251682"
+         width="67.282585" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4642"
+         y="347.53745"
+         x="366.42178"
+         style="font-size:3.69132829px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="347.53745"
+           x="366.42178"
+           id="tspan4644"
+           sodipodi:role="line">『smart TV watching you』</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3813"
+       width="1027.2881"
+       height="772.22754"
+       x="-1.4091743"
+       y="-1.4091707"
+       transform="translate(0,284.36218)" />
+    <g
+       id="g3890"
+       transform="translate(0,-3.3314228)">
+      <image
+         sodipodi:absref="../m/13/lg-smart-tv.png"
+         xlink:href="../m/13/lg-smart-tv.png"
+         y="294.98041"
+         x="352.81866"
+         id="image3499"
+         height="55.878647"
+         width="69.848312" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3153"
+         y="321.20651"
+         x="385.1741"
+         style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="321.20651"
+           x="385.1741"
+           id="tspan3155"
+           sodipodi:role="line">『LG logging』</tspan></text>
+    </g>
+    <g
+       id="g3241">
+      <image
+         sodipodi:absref="../m/13/pdfonline.png"
+         xlink:href="../m/13/pdfonline.png"
+         width="142.54721"
+         height="103.67069"
+         id="image3234"
+         x="517.02136"
+         y="699.84802" />
+      <text
+         transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3237"
+         y="577.06909"
+         x="692.88062"
+         style="font-size:9.85120678000000005px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="577.06909"
+           x="692.88062"
+           id="tspan3239"
+           sodipodi:role="line">『雲端洩密典範』</tspan></text>
+    </g>
+    <g
+       id="g3261">
+      <image
+         sodipodi:absref="../m/13/bruce-schneier.jpg"
+         xlink:href="../m/13/bruce-schneier.jpg"
+         width="50.436405"
+         height="67.248535"
+         id="image3238"
+         x="944.7514"
+         y="921.80444" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.09138869999999955px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         x="820.80554"
+         y="911.82904"
+         id="text3243"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="820.80554"
+           y="911.82904"
+           id="tspan3247">Security is a process,</tspan><tspan
+           sodipodi:role="line"
+           x="820.80554"
+           y="931.9433"
+           id="tspan3253">not a product.</tspan><tspan
+           sodipodi:role="line"
+           x="820.80554"
+           y="952.0575"
+           id="tspan3259" /><tspan
+           sodipodi:role="line"
+           x="820.80554"
+           y="972.17175"
+           id="tspan3255">Bruce Schneier</tspan></text>
+    </g>
+    <image
+       sodipodi:absref="../m/14/secure-drop.png"
+       xlink:href="../m/14/secure-drop.png"
+       y="959.73431"
+       x="208.11111"
+       id="image3714"
+       height="76.930817"
+       width="82.977776" />
+    <g
+       transform="translate(-0.56440585,0)"
+       id="g3284">
+      <image
+         sodipodi:absref="../m/13/who-has-your-back.jpg"
+         xlink:href="../m/13/who-has-your-back.jpg"
+         y="408.98141"
+         x="10.778262"
+         id="image3890"
+         height="141.34058"
+         width="91.383987" />
+      <image
+         sodipodi:absref="../m/14/who-has-your-back.jpg"
+         xlink:href="../m/14/who-has-your-back.jpg"
+         y="407.96317"
+         x="112.79471"
+         id="image4231"
+         height="143.35909"
+         width="70.223297" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4234"
+         y="402.57428"
+         x="14.078792"
+         style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="402.57428"
+           x="14.078792"
+           id="tspan4236"
+           sodipodi:role="line">2013</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4238"
+         y="403.69434"
+         x="116.69756"
+         style="font-size:6.37785816px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="403.69434"
+           x="116.69756"
+           id="tspan4240"
+           sodipodi:role="line">2014</tspan></text>
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,-750.09538,783.13575)"
+       id="g3216">
+      <image
+         sodipodi:absref="../m/13/gpg.jpg"
+         xlink:href="../m/13/gpg.jpg"
+         y="781.85474"
+         x="25.284082"
+         id="image4251"
+         height="43.008106"
+         width="48.323711" />
+      <text
+         transform="translate(0,284.36218)"
+         sodipodi:linespacing="125%"
+         id="text3208"
+         y="529.22925"
+         x="29.990959"
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="529.22925"
+           x="29.990959"
+           id="tspan3212"
+           sodipodi:role="line">『TED 電子郵件』</tspan><tspan
+           id="tspan3214"
+           y="534.22925"
+           x="29.990959"
+           sodipodi:role="line">『ProtonMail』</tspan></text>
+    </g>
+    <g
+       id="g3823"
+       transform="matrix(0,-0.04361428,0.04361428,0,-17.070355,822.55202)">
+      <image
+         sodipodi:absref="../m/15/sip/enc/caller-2.jpg"
+         xlink:href="../m/15/sip/enc/caller-2.jpg"
+         y="1109.0551"
+         x="-22.062984"
+         id="image3758"
+         height="960"
+         width="540" />
+      <image
+         sodipodi:absref="../m/15/sip/enc/receiver-2.jpg"
+         xlink:href="../m/15/sip/enc/receiver-2.jpg"
+         y="1109.0552"
+         x="538.81885"
+         id="image3820"
+         height="960"
+         width="540" />
+      <text
+         xml:space="preserve"
+         style="font-size:80.33946991px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="292.2579"
+         y="1895.5162"
+         id="text3827"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3829"
+           x="292.2579"
+           y="1895.5162">『sip  加密電話』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.25675421,0,0,0.25675421,277.57704,326.7753)"
+       id="g4450">
+      <g
+         transform="matrix(0.37525095,0,0,0.37525095,296.93763,5.881096)"
+         inkscape:export-filename="/home/lamatin/Projekt_Kliparty/hotove/KLIPARTY/SVG/06.Zvirata/netopyr.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         id="g6398">
+        <path
+           d="m 66.47,635.12 c 31.273,-2.24 64.65,-0.91 92.03,21.71 15.5,36.76 39.6,-5.25 61.69,-4.89 27.24,-5.14 55.79,5.83 70.49,39.29 12.12,35.16 34.24,-20.26 54.31,-17.49 36.96,-13.33 77.6,2.29 107.33,33.05 -0.98,-44.7 29.7,-73.64 54.84,-95.15 11.52,-18.19 47.35,0.27 33.71,-33.89 -1.58,-34.38 3.79,-75.17 28.43,-93.4 16.5,-22.91 50.53,0.17 49.25,-40.95 13.06,-40.76 36.12,-73.83 58.47,-105.97 -23.56,7.7 -44.18,27.05 -68.69,30.77 -31.55,11.33 -65.97,16.94 -97.12,0.37 3.19,30.34 0.02,62.34 -13.74,87.58 -15.81,32.57 -33.14,65.86 -56.91,88.69 -17.21,-0.61 -25.88,-29.18 -37.15,-44.16 4.95,24.16 -5.38,29.81 -21.59,29.16 -13.32,16.19 -23.77,4.47 -34.39,-9.78 -1.89,21.05 17.87,63.9 -1.42,69.2 -32.15,3.15 -64.44,-6.47 -95.11,-18.73 -26.39,-12.06 -50.33,-31.93 -73.51,-52.31 -14.42,38.97 -42.9,63.9 -68.8,87.9 -13.547,10.74 -27.438,20.74 -41.799,29.41"
+           style="fill:#7c6969;fill-rule:evenodd"
+           id="path1352"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 64.498,636 c 31.274,-2.24 64.642,-0.91 92.032,21.71 15.5,36.76 39.6,-5.25 61.69,-4.89 27.24,-5.14 55.79,5.83 70.49,39.29 12.12,35.16 34.24,-20.26 54.31,-17.49 36.95,-13.33 77.59,2.29 107.33,33.05 -0.98,-44.7 29.7,-73.64 54.84,-95.15 11.52,-18.19 47.34,0.27 33.71,-33.89 -1.58,-34.38 3.79,-75.17 28.43,-93.4 16.49,-22.91 50.52,0.17 49.25,-40.95 13.06,-40.77 36.12,-73.83 58.47,-105.97 -23.57,7.7 -44.18,27.05 -68.69,30.77 -31.55,11.33 -65.98,16.94 -97.12,0.37 3.19,30.34 0.02,62.34 -13.75,87.58 -15.8,32.57 -33.13,65.86 -56.91,88.69 -17.2,-0.61 -25.87,-29.18 -37.14,-44.16 4.95,24.16 -5.38,29.81 -21.6,29.16 -13.31,16.19 -23.77,4.47 -34.38,-9.78 -1.89,21.05 17.87,63.9 -1.42,69.2 -32.15,3.15 -64.44,-6.47 -95.11,-18.73 C 222.54,559.35 198.6,539.48 175.42,519.1 161,558.07 132.52,583 106.62,607 93.072,617.74 79.18,627.74 64.819,636.41"
+           style="fill:#000000;fill-rule:evenodd"
+           id="path1898"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 66.47,623.36 c 31.004,-2.09 64.09,-0.85 91.23,20.21 15.38,34.22 39.27,-4.89 61.17,-4.56 27,-4.78 55.31,5.43 69.88,36.58 12.02,32.74 33.95,-18.85 53.84,-16.28 36.64,-12.4 76.93,2.13 106.41,30.77 -0.98,-41.61 29.44,-68.56 54.37,-88.58 11.42,-16.93 46.93,0.25 33.42,-31.54 -1.57,-32.02 3.76,-69.99 28.18,-86.96 16.35,-21.33 50.09,0.16 48.83,-38.12 12.94,-37.95 35.81,-68.73 57.96,-98.66 -23.36,7.17 -43.8,25.19 -68.1,28.65 -31.27,10.55 -65.4,15.77 -96.28,0.35 3.16,28.24 0.02,58.03 -13.63,81.53 -15.67,30.32 -32.85,61.31 -56.42,82.57 -17.05,-0.57 -25.64,-27.17 -36.82,-41.12 4.91,22.49 -5.33,27.75 -21.41,27.15 -13.2,15.07 -23.56,4.16 -34.09,-9.1 -1.88,19.59 17.72,59.48 -1.4,64.41 -31.88,2.94 -63.89,-6.02 -94.29,-17.43 -26.17,-11.23 -49.91,-29.73 -72.89,-48.7 -14.29,36.28 -42.53,59.49 -68.2,81.83 -13.433,10 -27.205,19.31 -41.442,27.38"
+           style="opacity:0.09345799;fill:url(#linearGradient4464);fill-rule:evenodd"
+           id="path1901"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(-4,-18)"
+           id="g6386">
+          <path
+             d="m 402.54,595.44 10,-5.17 12.43,-13.88 -14.84,-8.15 -7.59,27.2 z"
+             style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:2.97959995px"
+             sodipodi:nodetypes="ccccc"
+             id="path1338"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 402.54,595.44 10,-5.17 12.43,-13.88 -14.84,-8.15 -7.59,27.2 z"
+             style="opacity:0.48131002;fill:url(#radialGradient4466);fill-rule:evenodd"
+             sodipodi:nodetypes="ccccc"
+             id="path4588"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(-4,-14)"
+           id="g6390">
+          <path
+             d="m 393.78,595.94 -7.15,-10.41 -14.32,-10.4 -0.89,20.81 h 22.36 z"
+             style="fill:#ffff00;fill-rule:evenodd;stroke:#000000;stroke-width:2.97959995px"
+             sodipodi:nodetypes="ccccc"
+             id="path2795"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 393.78,595.94 -7.15,-10.41 -14.32,-10.4 -0.89,20.81 h 22.36 z"
+             style="opacity:0.48131002;fill:url(#radialGradient4468);fill-rule:evenodd"
+             sodipodi:nodetypes="ccccc"
+             id="path4590"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="318.28555"
+         y="156.75488"
+         id="text4446"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4448"
+           x="318.28555"
+           y="156.75488">『廣告 聽不見的聲音』</tspan><tspan
+           id="tspan3283"
+           sodipodi:role="line"
+           x="318.28555"
+           y="176.75488">SilverPush, Flurry,</tspan><tspan
+           id="tspan3285"
+           sodipodi:role="line"
+           x="318.28555"
+           y="196.75488">Drawbridge</tspan></text>
+    </g>
+    <g
+       id="g3478"
+       transform="matrix(0.0822093,0,0,0.0822093,108.39564,703.47306)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3275"
+         y="-67.000877"
+         x="1204.5612"
+         style="font-size:33.70169067px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="-67.000877"
+           x="1204.5612"
+           id="tspan3277"
+           sodipodi:role="line">『OpenSSL Heartbleed』</tspan><tspan
+           id="tspan3279"
+           y="-24.873764"
+           x="1204.5612"
+           sodipodi:role="line">『android Stagefright』</tspan><tspan
+           id="tspan3281"
+           y="17.253349"
+           x="1204.5612"
+           sodipodi:role="line">到底是安全漏洞還是...?</tspan></text>
+      <image
+         sodipodi:absref="../m/15/heartbleed.jpg"
+         xlink:href="../m/15/heartbleed.jpg"
+         width="277.89267"
+         height="157.0284"
+         id="image3345"
+         x="1109.3976"
+         y="-292.10764" />
+      <image
+         sodipodi:absref="../m/15/stagefright.jpg"
+         xlink:href="../m/15/stagefright.jpg"
+         width="231.97018"
+         height="151.94048"
+         id="image3475"
+         x="1440.9855"
+         y="-284.38763" />
+    </g>
+    <g
+       id="g3386"
+       transform="matrix(-1,0,0,-1,468.17317,1611.355)">
+      <image
+         sodipodi:absref="../m/13/guardian-project.png"
+         xlink:href="../m/13/guardian-project.png"
+         width="36.064747"
+         height="25.67321"
+         id="image3309"
+         x="215.33952"
+         y="787.38403" />
+      <image
+         sodipodi:absref="../m/13/eff-ssd.png"
+         xlink:href="../m/13/eff-ssd.png"
+         y="818.76593"
+         x="215.72154"
+         id="image3379"
+         height="5.2050614"
+         width="37.112091" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.26865959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="216.58424"
+         y="816.70575"
+         id="text3382"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3384"
+           x="216.58424"
+           y="816.70575">『Guardian Project』 『EFF SSD』</tspan></text>
+    </g>
+  </g>
+  <script
+     ns1:version="12.06-12110506"
+     id="sozi-script">function module(c,a){var b=this;c.split(&quot;.&quot;).forEach(function(d){if(typeof b[d]===&quot;undefined&quot;){b[d]={}}b=b[d]});a(b)}module(&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});module(&quot;sozi.framenumber&quot;,function(d){var f=this,g=f.document,i,j,b,c,e=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=j.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;b.setAttribute(&quot;r&quot;,n);i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function a(){i=g.createElementNS(e,&quot;g&quot;);j=g.createElementNS(e,&quot;text&quot;);b=g.createElementNS(e,&quot;circle&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);b.setAttribute(&quot;cx&quot;,0);b.setAttribute(&quot;cy&quot;,0);i.appendChild(b);c=g.createTextNode(sozi.location.getFrameIndex()+1);j.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);j.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);j.setAttribute(&quot;x&quot;,0);j.setAttribute(&quot;y&quot;,0);j.appendChild(c);i.appendChild(j);g.documentElement.appendChild(i);h()}function k(l){c.nodeValue=l+1}sozi.events.listen(&quot;displayready&quot;,a);sozi.events.listen(&quot;framechange&quot;,k)});module(&quot;sozi.framelist&quot;,function(v){var k=this,q=k.document,m,c,j=0,d=5,i,t,b,x,y,u,f=300,g=&quot;decelerate&quot;,a=&quot;http://www.w3.org/2000/svg&quot;;function p(B){var z=B.relatedTarget,A=q.documentElement;while(z!==m&amp;&amp;z!==A){z=z.parentNode}if(z===A){v.hide();sozi.player.restart();B.stopPropagation()}}function s(A){var z=c.getCTM().f;if(z&lt;=-k.innerHeight/2){z+=k.innerHeight/2}else{if(z&lt;0){z=0}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function e(A){var z=c.getCTM().f;if(z+j&gt;=k.innerHeight*3/2){z-=k.innerHeight/2}else{if(z+j&gt;k.innerHeight+2*d){z=k.innerHeight-j-4*d}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function r(z){var B=sozi.animation.profiles[g](z),A=1-B;y=x*B+b*A;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+y+&quot;,0)&quot;)}function w(){}function h(z){return function(A){sozi.player.previewFrame(z);A.stopPropagation()}}function l(z){z.stopPropagation()}function o(){var B=q.createElementNS(a,&quot;rect&quot;),A=q.createElementNS(a,&quot;path&quot;),C=q.createElementNS(a,&quot;path&quot;),D=0,E,z=sozi.location.getFrameIndex();m=q.createElementNS(a,&quot;g&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);q.documentElement.appendChild(m);c=q.createElementNS(a,&quot;g&quot;);m.appendChild(c);B.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);B.setAttribute(&quot;x&quot;,d);B.setAttribute(&quot;y&quot;,d);B.setAttribute(&quot;rx&quot;,d);B.setAttribute(&quot;ry&quot;,d);B.addEventListener(&quot;click&quot;,l,false);B.addEventListener(&quot;mousedown&quot;,l,false);B.addEventListener(&quot;mouseout&quot;,p,false);c.appendChild(B);sozi.document.frames.forEach(function(G,H){var F=q.createElementNS(a,&quot;text&quot;);F.appendChild(q.createTextNode(G.title));c.appendChild(F);if(H===z){F.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}E=F.getBBox().width;j+=F.getBBox().height;if(E&gt;D){D=E}F.setAttribute(&quot;x&quot;,2*d);F.setAttribute(&quot;y&quot;,j+d);F.addEventListener(&quot;click&quot;,h(H),false);F.addEventListener(&quot;mousedown&quot;,l,false)});A.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);A.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(5*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,-&quot;+(3*d)+&quot; z&quot;);A.addEventListener(&quot;click&quot;,s,false);A.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(A);C.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);C.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(7*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,&quot;+(3*d)+&quot; z&quot;);C.addEventListener(&quot;click&quot;,e,false);C.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(C);B.setAttribute(&quot;width&quot;,D+7*d);B.setAttribute(&quot;height&quot;,j+2*d);i=-D-9*d;t=0;y=x=i;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+i+&quot;,0)&quot;);u=new sozi.animation.Animator(r,w)}function n(z){var B=Array.prototype.slice.call(q.getElementsByClassName(&quot;sozi-toc-current&quot;)),A=c.getElementsByTagName(&quot;text&quot;);B.forEach(function(C){C.removeAttribute(&quot;class&quot;)});A[z].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}v.show=function(){b=y;x=t;u.start(f)};v.hide=function(){b=y;x=i;u.start(f)};v.isVisible=function(){return x===t};sozi.events.listen(&quot;displayready&quot;,o);sozi.events.listen(&quot;cleanup&quot;,v.hide);sozi.events.listen(&quot;framechange&quot;,n)});module(&quot;sozi.document&quot;,function(c){var e=this,g=e.document,b=&quot;http://sozi.baierouge.fr&quot;,d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};c.frames=[];c.idLayerList=[];function i(k,j){var l=k.getAttributeNS(b,j);return l===&quot;&quot;?d[j]:l}function h(n,o,j){var k=n.layers[o]=n.layers[o]||{idLayer:o,geometry:{clip:d.clip}},l=k.geometry.clip,m;if(typeof k.hide===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;hide&quot;)){k.hide=i(j,&quot;hide&quot;)===&quot;true&quot;}if(typeof k.transitionZoomPercent===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){k.transitionZoomPercent=parseInt(i(j,&quot;transition-zoom-percent&quot;),10)}if(typeof k.transitionProfile===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-profile&quot;)){k.transitionProfile=sozi.animation.profiles[i(j,&quot;transition-profile&quot;)||&quot;linear&quot;]}if(j.hasAttributeNS(b,&quot;refid&quot;)){m=g.getElementById(j.getAttributeNS(b,&quot;refid&quot;));if(m){if(k.hide){m.style.visibility=&quot;hidden&quot;}k.geometry=sozi.display.getElementGeometry(m);k.geometry.clip=l}}if(j.hasAttributeNS(b,&quot;clip&quot;)){k.geometry.clip=i(j,&quot;clip&quot;)===&quot;true&quot;}}function a(){var j,m,n,o,k=g.documentElement,l=&quot;http://www.w3.org/2000/svg&quot;;m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(p){var q=p.getAttributeNS(b,&quot;group&quot;);if(q&amp;&amp;c.idLayerList.indexOf(q)===-1&amp;&amp;g.getElementById(q)){c.idLayerList.push(q)}});j=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));if(j.some(function(p){return p.hasAttributeNS(b,&quot;refid&quot;)})){n=g.createElementNS(l,&quot;g&quot;);o=Array.prototype.slice.call(k.childNodes);o.forEach(function(q,p){if(!q.getAttribute){k.removeChild(q)}else{if(c.idLayerList.indexOf(q.getAttribute(&quot;id&quot;))===-1){k.removeChild(q);n.appendChild(q)}else{if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+p);c.idLayerList.push(&quot;sozi-wrapper-&quot;+p);k.insertBefore(n,q);n=g.createElementNS(l,&quot;g&quot;)}}}});if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+o.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+o.length);k.appendChild(n)}}j.forEach(function(q,p){var s,r={id:q.getAttribute(&quot;id&quot;),title:i(q,&quot;title&quot;),sequence:parseInt(i(q,&quot;sequence&quot;),10),timeoutEnable:i(q,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(i(q,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(i(q,&quot;transition-duration-ms&quot;),10),layers:{}};c.idLayerList.forEach(function(w){var t,u,v;if(p===0||w.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){h(r,w,q)}else{u=r.layers[w]={};v=c.frames[c.frames.length-1].layers[w];for(t in v){u[t]=v[t]}}});m=Array.prototype.slice.call(q.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(t){var u=t.getAttributeNS(b,&quot;group&quot;);if(u&amp;&amp;c.idLayerList.indexOf(u)!==-1){h(r,u,t)}});for(s in r.layers){if(r.layers.hasOwnProperty(s)){c.frames.push(r);break}}});c.frames.sort(function(q,p){return q.sequence-p.sequence})}function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;documentready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});module(&quot;sozi.animation&quot;,function(d){var g=this,i=40,j=[],b,h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;function e(l){var k;if(j.length&gt;0){if(h){h(e)}j.forEach(function(m){m.step(l)})}else{if(!h){g.clearInterval(b)}}}function c(){if(h){h(e)}else{b=g.setInterval(function(){e(Date.now())},i)}}function a(k){j.push(k);if(j.length===1){c()}}function f(k){j.splice(j.indexOf(k),1)}d.Animator=function(k,l){this.onStep=k;this.onDone=l;this.durationMs=0;this.data={};this.initialTime=0;this.started=false};d.Animator.prototype.start=function(k,l){this.durationMs=k;this.data=l;this.initialTime=Date.now();this.onStep(0,this.data);if(!this.started){this.started=true;a(this)}};d.Animator.prototype.stop=function(){if(this.started){f(this);this.started=false}};d.Animator.prototype.step=function(l){var k=l-this.initialTime;if(k&gt;=this.durationMs){this.stop();this.onStep(1,this.data);this.onDone()}else{this.onStep(k/this.durationMs,this.data)}};d.profiles={linear:function(k){return k},accelerate:function(k){return Math.pow(k,3)},&quot;strong-accelerate&quot;:function(k){return Math.pow(k,5)},decelerate:function(k){return 1-Math.pow(1-k,3)},&quot;strong-decelerate&quot;:function(k){return 1-Math.pow(1-k,5)},&quot;accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,3)/2;return k&lt;=0.5?m:1-m},&quot;strong-accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,5)/2;return k&lt;=0.5?m:1-m},&quot;decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,2))/2;return k&lt;=0.5?m:1-m},&quot;strong-decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,3))/2;return k&lt;=0.5?m:1-m}}});module(&quot;sozi.display&quot;,function(c){var f=this,a=f.document,g,b=&quot;http://www.w3.org/2000/svg&quot;;c.layers={};function e(){var j,k,l,i=a.documentElement;g=i.getBBox();i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);sozi.document.idLayerList.forEach(function(m){c.layers[m]={geometry:{cx:0,cy:0,width:1,height:1,rotate:0,clip:true},svgClipRect:a.createElementNS(b,&quot;rect&quot;),svgLayer:a.getElementById(m)};k=a.createElementNS(b,&quot;clipPath&quot;);k.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+m);k.appendChild(c.layers[m].svgClipRect);i.appendChild(k);j=a.createElementNS(b,&quot;g&quot;);j.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+m+&quot;)&quot;);i.insertBefore(j,c.layers[m].svgLayer);j.appendChild(c.layers[m].svgLayer)});sozi.events.fire(&quot;displayready&quot;)}function d(){var i=a.documentElement;i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);c.update()}function h(k){var j=c.layers[k].geometry,i={};i.scale=Math.min(f.innerWidth/j.width,f.innerHeight/j.height);i.width=j.width*i.scale;i.height=j.height*i.scale;i.x=(f.innerWidth-i.width)/2;i.y=(f.innerHeight-i.height)/2;return i}c.getElementGeometry=function(m){var p,l,q,j,n,k,o=m.getCTM(),i=Math.sqrt(o.a*o.a+o.b*o.b);if(m.nodeName===&quot;rect&quot;){p=m.x.baseVal.value;l=m.y.baseVal.value;q=m.width.baseVal.value;j=m.height.baseVal.value}else{n=m.getBBox();p=n.x;l=n.y;q=n.width;j=n.height}k=a.documentElement.createSVGPoint();k.x=p+q/2;k.y=l+j/2;k=k.matrixTransform(o);return{cx:k.x,cy:k.y,width:q*i,height:j*i,rotate:Math.atan2(o.b,o.a)*180/Math.PI}};c.getDocumentGeometry=function(){var k,i={layers:{}},j={geometry:{cx:g.x+g.width/2,cy:g.y+g.height/2,width:g.width,height:g.height,rotate:0,clip:false}};for(k in c.layers){if(c.layers.hasOwnProperty(k)){i.layers[k]=j}}return i};c.update=function(){var n,i,j,k,m,l;for(n in c.layers){if(c.layers.hasOwnProperty(n)){j=c.layers[n].geometry;i=h(n);k=c.layers[n].svgClipRect;k.setAttribute(&quot;x&quot;,j.clip?i.x:0);k.setAttribute(&quot;y&quot;,j.clip?i.y:0);k.setAttribute(&quot;width&quot;,j.clip?i.width:f.innerWidth);k.setAttribute(&quot;height&quot;,j.clip?i.height:f.innerHeight);m=-j.cx+j.width/2+i.x/i.scale;l=-j.cy+j.height/2+i.y/i.scale;c.layers[n].svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+i.scale+&quot;)translate(&quot;+m+&quot;,&quot;+l+&quot;)rotate(&quot;+(-j.rotate)+&quot;,&quot;+j.cx+&quot;,&quot;+j.cy+&quot;)&quot;)}}};c.showFrame=function(l){var m,k,j,i;for(m in l.layers){if(l.layers.hasOwnProperty(m)){j=l.layers[m].geometry;k=c.layers[m].geometry;for(i in j){if(j.hasOwnProperty(i)){k[i]=j[i]}}}}c.update()};c.drag=function(k,i){var n,l,j,m;for(n in c.layers){if(c.layers.hasOwnProperty(n)){l=c.layers[n].geometry;j=h(n);m=l.rotate*Math.PI/180;l.cx-=(k*Math.cos(m)-i*Math.sin(m))/j.scale;l.cy-=(k*Math.sin(m)+i*Math.cos(m))/j.scale;l.clip=false}}c.update()};c.zoom=function(l,j,n){var m,k=(1-l)*(j-f.innerWidth/2),i=(1-l)*(n-f.innerHeight/2);for(m in c.layers){if(c.layers.hasOwnProperty(m)){c.layers[m].geometry.width/=l;c.layers[m].geometry.height/=l}}c.drag(k,i)};c.rotate=function(i){var j;for(j in c.layers){if(c.layers.hasOwnProperty(j)){c.layers[j].geometry.rotate+=i;c.layers[j].geometry.rotate%=360}}c.update()};sozi.events.listen(&quot;documentready&quot;,e);f.addEventListener(&quot;resize&quot;,d,false)});module(&quot;sozi.player&quot;,function(q){var n=sozi.display,g=this,p,j,o=500,c=-10,l=&quot;linear&quot;,h=0,i=0,b=false,a=false;function m(v,x){var w,u,z,t,s,y;for(z in x){if(x.hasOwnProperty(z)){t=n.layers[z].geometry;w=x[z].profile(v);u=1-w;for(s in x[z].initialState){if(x[z].initialState.hasOwnProperty(s)){if(typeof x[z].initialState[s]===&quot;number&quot;&amp;&amp;typeof x[z].finalState[s]===&quot;number&quot;){t[s]=x[z].finalState[s]*w+x[z].initialState[s]*u}}}if(x[z].zoomWidth&amp;&amp;x[z].zoomWidth.k!==0){y=v-x[z].zoomWidth.ts;t.width=x[z].zoomWidth.k*y*y+x[z].zoomWidth.ss}if(x[z].zoomHeight&amp;&amp;x[z].zoomHeight.k!==0){y=v-x[z].zoomHeight.ts;t.height=x[z].zoomHeight.k*y*y+x[z].zoomHeight.ss}t.clip=x[z].finalState.clip}}n.update()}function f(){var s;if(sozi.document.frames[i].timeoutEnable){a=true;s=(i+1)%sozi.document.frames.length;j=g.setTimeout(function(){q.moveToFrame(s)},sozi.document.frames[i].timeoutMs)}}function r(){h=i;if(b){f()}}q.startFromIndex=function(s){b=true;a=false;h=s;i=s;n.showFrame(sozi.document.frames[s]);f()};q.restart=function(){q.startFromIndex(i)};q.stop=function(){p.stop();if(a){g.clearTimeout(j);a=false}b=false;h=i};function e(s,C,A){var D={ss:((s&lt;0)?Math.max(C,A):Math.min(C,A))*(100-s)/100,ts:0.5,k:0},y,x,w,t,B,z;if(s!==0){y=C-A;x=C-D.ss;w=A-D.ss;if(y!==0){t=Math.sqrt(x*w);B=(x-t)/y;z=(x+t)/y;D.ts=(B&gt;0&amp;&amp;B&lt;=1)?B:z}D.k=x/D.ts/D.ts}return D}q.jumpToFrame=function(s){q.stop();sozi.events.fire(&quot;cleanup&quot;);h=s;i=s;n.showFrame(sozi.document.frames[s]);sozi.events.fire(&quot;framechange&quot;,s)};function d(s,w,z,t){var u,y,x,v={};for(y in s.layers){if(s.layers.hasOwnProperty(y)){v[y]={initialState:{},finalState:{}};v[y].profile=t||w.layers[y].transitionProfile;for(u in s.layers[y].geometry){if(s.layers[y].geometry.hasOwnProperty(u)){v[y].initialState[u]=s.layers[y].geometry[u];if(w.layers.hasOwnProperty(y)){v[y].finalState[u]=w.layers[y].geometry[u]}else{v[y].finalState[u]=s.layers[y].geometry[u]}}}v[y].initialState.rotate=(v[y].initialState.rotate-180)%360+180;v[y].finalState.rotate=(v[y].finalState.rotate-180)%360+180;if(v[y].finalState.rotate-v[y].initialState.rotate&gt;180){v[y].finalState.rotate-=360}else{if(v[y].finalState.rotate-v[y].initialState.rotate&lt;-180){v[y].initialState.rotate-=360}}x=z||w.layers[y].transitionZoomPercent;if(x&amp;&amp;w.layers.hasOwnProperty(y)){v[y].zoomWidth=e(x,s.layers[y].geometry.width,w.layers[y].geometry.width);v[y].zoomHeight=e(x,s.layers[y].geometry.height,w.layers[y].geometry.height)}}}return v}q.previewFrame=function(s){i=s;p.start(o,d(n,sozi.document.frames[s],c,sozi.animation.profiles[l]));sozi.events.fire(&quot;framechange&quot;,s)};q.moveToFrame=function(t){var s,v,u;if(a){g.clearTimeout(j);a=false}if(t===(i+1)%sozi.document.frames.length){s=sozi.document.frames[t].transitionDurationMs;v=undefined;u=undefined}else{s=o;v=c;u=sozi.animation.profiles[l]}sozi.events.fire(&quot;cleanup&quot;);b=true;i=t;p.start(s,d(n,sozi.document.frames[t],v,u));sozi.events.fire(&quot;framechange&quot;,t)};q.moveToFirst=function(){q.moveToFrame(0)};q.jumpToPrevious=function(){var s=i;if(!p.started||h&lt;=i){s-=1}if(s&gt;=0){q.jumpToFrame(s)}};q.moveToPrevious=function(){var s,t;for(s=i-1;s&gt;=0;s-=1){t=sozi.document.frames[s];if(!t.timeoutEnable||t.timeoutMs!==0){q.moveToFrame(s);break}}};q.jumpToNext=function(){var s=i;if(!p.started||h&gt;=i){s+=1}if(s&lt;sozi.document.frames.length){q.jumpToFrame(s)}};q.moveToNext=function(){if(i&lt;sozi.document.frames.length-1||sozi.document.frames[i].timeoutEnable){q.moveToFrame((i+1)%sozi.document.frames.length)}};q.moveToLast=function(){q.moveToFrame(sozi.document.frames.length-1)};q.moveToCurrent=function(){q.moveToFrame(i)};q.showAll=function(){q.stop();sozi.events.fire(&quot;cleanup&quot;);p.start(o,d(n,n.getDocumentGeometry(),c,sozi.animation.profiles[l]))};function k(){q.startFromIndex(sozi.location.getFrameIndex());g.setTimeout(n.update,1)}p=new sozi.animation.Animator(m,r);sozi.events.listen(&quot;displayready&quot;,k)});module(&quot;sozi.location&quot;,function(a){var e=this,c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)});module(&quot;sozi.actions&quot;,function(z){var t=sozi.player,u=sozi.display,j=this,o=j.document,p=0,v=1,s=1.05,x=5,c=false,l=false,g=0,e=0;function a(B,A,C){t.stop();u.zoom(B&gt;0?s:1/s,A,C)}function w(A){t.stop();u.rotate(A&gt;0?x:-x)}function r(){if(sozi.framelist.isVisible()){sozi.framelist.hide();t.restart()}else{t.stop();sozi.framelist.show()}}function i(A){if(A.button===p){c=true;l=false;g=A.clientX;e=A.clientY}else{if(A.button===v){r()}}A.stopPropagation();A.preventDefault()}function m(A){if(c){t.stop();l=true;sozi.events.fire(&quot;cleanup&quot;);u.drag(A.clientX-g,A.clientY-e);g=A.clientX;e=A.clientY}A.stopPropagation()}function f(A){if(A.button===p){c=false}A.stopPropagation();A.preventDefault()}function q(A){t.moveToPrevious();A.stopPropagation();A.preventDefault()}function h(A){if(!l&amp;&amp;A.button!==v){t.moveToNext()}A.stopPropagation();A.preventDefault()}function k(A){var B=0;if(!A){A=j.event}if(A.wheelDelta){B=A.wheelDelta}else{if(A.detail){B=-A.detail}}if(B!==0){if(A.shiftKey){w(B)}else{a(B,A.clientX,A.clientY)}}A.stopPropagation();A.preventDefault()}function n(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.charCode||A.keyCode){case 43:a(1,j.innerWidth/2,j.innerHeight/2);break;case 45:a(-1,j.innerWidth/2,j.innerHeight/2);break;case 61:t.moveToCurrent();break;case 70:case 102:t.showAll();break;case 84:case 116:r();break;case 82:w(-1);break;case 114:w(1);break}A.stopPropagation();A.preventDefault()}function d(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.keyCode){case 36:t.moveToFirst();break;case 35:t.moveToLast();break;case 38:t.jumpToPrevious();break;case 33:case 37:t.moveToPrevious();break;case 40:t.jumpToNext();break;case 34:case 39:case 13:case 32:t.moveToNext();break}A.stopPropagation()}function y(A){A.stopPropagation()}function b(){var B=o.getElementsByTagName(&quot;a&quot;);for(var C=0;C&lt;B.length;C+=1){B[C].addEventListener(&quot;click&quot;,y,false);B[C].addEventListener(&quot;contextmenu&quot;,y,false)}var A=o.documentElement;A.addEventListener(&quot;click&quot;,h,false);A.addEventListener(&quot;mousedown&quot;,i,false);A.addEventListener(&quot;mouseup&quot;,f,false);A.addEventListener(&quot;mousemove&quot;,m,false);A.addEventListener(&quot;keypress&quot;,n,false);A.addEventListener(&quot;keydown&quot;,d,false);A.addEventListener(&quot;contextmenu&quot;,q,false);A.addEventListener(&quot;DOMMouseScroll&quot;,k,false);j.onmousewheel=k}j.addEventListener(&quot;load&quot;,b,false)});</script>
+  <style
+     ns1:version="12.06-12110506"
+     id="sozi-style">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="標題"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame1S"
+     ns1:sequence="1"
+     ns1:refid="g4166" />
+  <ns1:frame
+     ns1:refid="g3448"
+     ns1:sequence="2"
+     id="frame2"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="臉書"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="google"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame3"
+     ns1:sequence="3"
+     ns1:refid="g4285" />
+  <ns1:frame
+     ns1:refid="g4294"
+     ns1:sequence="4"
+     id="frame4"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="siri"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="amazon 1-button"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame5"
+     ns1:sequence="5"
+     ns1:refid="image3389" />
+  <ns1:frame
+     ns1:refid="g4646"
+     ns1:sequence="6"
+     id="frame6"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="三星智慧電視"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="spyfiles"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame7"
+     ns1:sequence="9"
+     ns1:refid="image4163" />
+  <ns1:frame
+     ns1:refid="image3932"
+     ns1:sequence="10"
+     id="frame8"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="美國國安局菱鏡計畫"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="surveillance + censorship 簡報"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame9"
+     ns1:sequence="11"
+     ns1:refid="text4299" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="homomorphic encryption"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame11"
+     ns1:sequence="13"
+     ns1:refid="image8261" />
+  <ns1:frame
+     ns1:refid="image8323"
+     ns1:sequence="14"
+     id="frame12"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="unhosted"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="wifi 加密"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame15"
+     ns1:sequence="15"
+     ns1:refid="g6492" />
+  <ns1:frame
+     ns1:refid="image5842"
+     ns1:sequence="16"
+     id="frame16"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="firefox 隱私外掛"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="otr"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame17"
+     ns1:sequence="22"
+     ns1:refid="image3941" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="f-droid"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame19"
+     ns1:sequence="19"
+     ns1:refid="g8654" />
+  <ns1:frame
+     ns1:refid="g8966"
+     ns1:sequence="25"
+     id="frame20"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="ssh tunnel"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="越獄及 root"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame21"
+     ns1:sequence="17"
+     ns1:refid="g5738" />
+  <ns1:frame
+     ns1:refid="g10231"
+     ns1:sequence="30"
+     id="frame23D"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="社交工程"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="資訊科技之外的其他隱私威脅"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame24"
+     ns1:sequence="32"
+     ns1:refid="g8167" />
+  <ns1:frame
+     ns1:refid="g12337"
+     ns1:sequence="34"
+     id="frame26"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="虹膜辨識"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="指紋"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame27"
+     ns1:sequence="35"
+     ns1:refid="g12330" />
+  <ns1:frame
+     ns1:refid="image4075"
+     ns1:sequence="38"
+     id="frame28"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="stylometry"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3221"
+     ns1:sequence="40"
+     id="frame30"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="人肉搜索"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="google 眼鏡"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame31"
+     ns1:sequence="41"
+     ns1:refid="image4270" />
+  <ns1:frame
+     ns1:refid="image5996"
+     ns1:sequence="42"
+     id="frame32"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="UTD anonymization ToolBox"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="text3171"
+     ns1:sequence="44"
+     id="frame34"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="法律建議"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="結論"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame35"
+     ns1:sequence="45"
+     ns1:refid="text3270" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="生物資訊"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame343"
+     ns1:sequence="33"
+     ns1:refid="g16067" />
+  <ns1:frame
+     ns1:refid="g9594"
+     ns1:sequence="26"
+     id="frame350"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="openbsd"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="rect3813"
+     ns1:sequence="47"
+     id="frame37"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="全貌"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="rect3813"
+     ns1:sequence="39"
+     id="frame38"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="全貌"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Use the Source, Luke!"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame38b"
+     ns1:sequence="29"
+     ns1:refid="image4398" />
+  <ns1:frame
+     ns1:refid="g3234"
+     ns1:sequence="28"
+     id="frame39"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="陽光是最好的消毒劑"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="LG 智慧電視偷窺你"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame40"
+     ns1:sequence="7"
+     ns1:refid="image3499" />
+  <ns1:frame
+     ns1:refid="g3241"
+     ns1:sequence="31"
+     id="frame41"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="雲端洩密典範： pdfonline"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Bruce Schneier"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame42"
+     ns1:sequence="46"
+     ns1:refid="g3261" />
+  <ns1:frame
+     ns1:refid="g3406"
+     ns1:sequence="18"
+     id="frame42X"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="CyanogenMod + Replicant"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="聲紋"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame43"
+     ns1:sequence="36"
+     ns1:refid="g3185" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="SecureDrop"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame43E"
+     ns1:sequence="43"
+     ns1:refid="image3714" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="AFWall+"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame44e"
+     ns1:sequence="21"
+     ns1:refid="g4672" />
+  <ns1:frame
+     ns1:refid="g3216"
+     ns1:sequence="24"
+     id="frame45"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="GPG"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3823"
+     ns1:sequence="23"
+     id="frame44"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="sip 加密電話"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="加州 新生兒 DNA"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame45I"
+     ns1:sequence="37"
+     ns1:refid="g4624" />
+  <ns1:frame
+     ns1:refid="g3478"
+     ns1:sequence="27"
+     id="frame46"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="heartbleed+stagefright"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="『廣告 聽不見的聲音』"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame47"
+     ns1:sequence="8"
+     ns1:refid="g4450" />
+  <ns1:frame
+     ns1:refid="g3284"
+     ns1:sequence="12"
+     id="frame48"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="EFF &quot;who has your back&quot;"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="guardian + EFF SSD"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame48D"
+     ns1:sequence="20"
+     ns1:refid="g3386" />
+</svg>

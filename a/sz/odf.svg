@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="odf.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4033447"
+     inkscape:cx="197.22822"
+     inkscape:cy="368.04802"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4596"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path2390"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path2387"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-6"
+       style="overflow:visible">
+      <path
+         id="path2390-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-1"
+       style="overflow:visible">
+      <path
+         id="path2387-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.8,-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3364"
+       style="overflow:visible">
+      <path
+         id="path3366"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3368"
+       style="overflow:visible">
+      <path
+         id="path3370"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.8,-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.9555559,-274.40665)">
+    <rect
+       ry="11.943308"
+       rx="12.2661"
+       y="273.65076"
+       x="6.9318776"
+       height="772.5354"
+       width="1028.0316"
+       id="rect3138"
+       style="fill:none;fill-opacity:0.87843137000000004;stroke:#000000;stroke-opacity:1" />
+    <g
+       id="g4582"
+       transform="translate(25.409781,-10.000666)">
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,-2.2783169,26.539773)"
+         id="g4462">
+        <rect
+           style="fill:#ffff80;fill-opacity:1;stroke:none"
+           id="rect3652"
+           width="145.13385"
+           height="66.519684"
+           x="57.448818"
+           y="332.59842"
+           transform="translate(9.9555559,274.40665)"
+           rx="12.2661"
+           ry="11.943308" />
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="83.149605"
+           y="376.44095"
+           id="text4458"
+           sodipodi:linespacing="125%"
+           transform="translate(9.9555559,274.40665)"><tspan
+             sodipodi:role="line"
+             id="tspan4460"
+             x="83.149605"
+             y="376.44095">多元選擇</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,127.69321,119.5301)"
+         id="g4479">
+        <image
+           sodipodi:absref="../m/15/unusual-mouse.jpg"
+           xlink:href="../m/15/unusual-mouse.jpg"
+           y="302.65073"
+           x="64.956505"
+           id="image3144"
+           height="126.44095"
+           width="134.25197" />
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="127.68503"
+           y="313.87781"
+           id="text4475"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4477"
+             x="127.68503"
+             y="313.87781">『unusual mouse』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,4.4839953,24.649313)"
+         id="g4488">
+        <image
+           sodipodi:absref="../m/15/lcd-store.jpg"
+           xlink:href="../m/15/lcd-store.jpg"
+           y="462.98538"
+           x="52.916199"
+           id="image3260"
+           height="108.13386"
+           width="160.49551" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="89.073067"
+           y="559.50732"
+           id="text4484"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4486"
+             x="89.073067"
+             y="559.50732">LCD 賣場</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4596"
+       transform="matrix(0.90913374,0,0,0.90913374,141.18912,-123.82236)">
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,53.300244,438.10788)"
+         id="g4467">
+        <rect
+           ry="11.943308"
+           rx="12.2661"
+           transform="translate(9.9555559,274.40665)"
+           y="332.59842"
+           x="57.448818"
+           height="68.031494"
+           width="152.6929"
+           id="rect4469"
+           style="fill:#ffff80;fill-opacity:1;stroke:none" />
+        <text
+           transform="translate(9.9555559,274.40665)"
+           sodipodi:linespacing="125%"
+           id="text4471"
+           y="376.44095"
+           x="83.149605"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="376.44095"
+             x="83.149605"
+             id="tspan4473"
+             sodipodi:role="line">相容危機?</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49502922,0,0,0.49502922,-100.24479,288.51726)"
+         id="g4501">
+        <image
+           sodipodi:absref="../m/15/airport-charging.jpg"
+           xlink:href="../m/15/airport-charging.jpg"
+           y="770.90894"
+           x="75.924057"
+           id="image3568"
+           height="205.74803"
+           width="137.16534" />
+        <text
+           xml:space="preserve"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="137.13052"
+           y="785.22162"
+           id="text4493"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="137.13052"
+             y="785.22162"
+             id="tspan4497">機場手機充電座</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,-76.802513,129.18851)"
+         id="g4510">
+        <image
+           sodipodi:absref="../m/15/designed-for-dump.jpg"
+           xlink:href="../m/15/designed-for-dump.jpg"
+           y="844.45392"
+           x="261.54611"
+           id="image3503"
+           height="135.1181"
+           width="180.15749" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="264.30548"
+           y="952.49316"
+           id="text4506"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4508"
+             x="264.30548"
+             y="952.49316">『電子產品的故事』</tspan></text>
+      </g>
+      <g
+         id="g3480">
+        <image
+           y="808.53729"
+           x="-66.286758"
+           id="image3649"
+           height="94.100769"
+           width="106.93269"
+           xlink:href="../m/15/iphone.jpg"
+           sodipodi:absref="../m/15/iphone.jpg" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.79958534px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="-8.8786383"
+           y="854.40869"
+           id="text3470"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3472"
+             x="-8.8786383"
+             y="854.40869">所以 iPhone</tspan><tspan
+             sodipodi:role="line"
+             x="-8.8786383"
+             y="865.4082"
+             id="tspan3474">比 Android 好?</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4611"
+       transform="translate(-126.99213,252.47244)">
+      <image
+         sodipodi:absref="../m/15/vga.jpg"
+         xlink:href="../m/15/vga.jpg"
+         width="120.34511"
+         height="80.292763"
+         id="image3422"
+         x="174.2059"
+         y="577.08221" />
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,48.811198,271.22254)"
+         id="g4686">
+        <image
+           sodipodi:absref="../m/15/one-mobile-charger.jpg"
+           xlink:href="../m/15/one-mobile-charger.jpg"
+           y="312.83624"
+           x="297.67386"
+           id="image4677"
+           height="101.61972"
+           width="176.72995" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="321.93289"
+           y="428.13251"
+           id="text4680"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4682"
+             x="321.93289"
+             y="428.13251">『european commission</tspan><tspan
+             sodipodi:role="line"
+             x="321.93289"
+             y="443.13251"
+             id="tspan4684">   mobile charger』</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/15/micro-mini-std-usb.jpg"
+         xlink:href="../m/15/micro-mini-std-usb.jpg"
+         width="123.48198"
+         height="60.506172"
+         id="image3206"
+         x="234.24236"
+         y="687.65845" />
+      <g
+         id="g3209"
+         transform="matrix(0.65263375,0,0,0.65263375,286.97928,191.37242)">
+        <rect
+           style="fill:#ffff80;fill-opacity:1;stroke:none"
+           id="rect3211"
+           width="152.6929"
+           height="98.267715"
+           x="57.448818"
+           y="332.59842"
+           transform="translate(9.9555559,274.40665)"
+           rx="12.2661"
+           ry="11.943308" />
+        <text
+           xml:space="preserve"
+           style="font-size:15.32252979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="77.049606"
+           y="632.66418"
+           id="text3213"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan3217"
+             sodipodi:role="line"
+             x="77.049606"
+             y="632.66418">允許不同 才是相容</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3133"
+           y="659.55237"
+           x="76.856171"
+           style="font-size:15.32252979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="659.55237"
+             x="76.856171"
+             sodipodi:role="line"
+             id="tspan3136">允許不同 才是相容</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:15.32252979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="77.24305"
+           y="687.21436"
+           id="text3138"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan3140"
+             sodipodi:role="line"
+             x="77.24305"
+             y="687.21436">允許不同 才是相容</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.39697604,0,0,0.39697604,230.1816,334.60986)"
+         id="g3294">
+        <image
+           sodipodi:absref="../a/audiojacks.jpg"
+           xlink:href="../a/audiojacks.jpg"
+           y="644.02081"
+           x="625.04218"
+           id="image3281"
+           height="186"
+           width="200" />
+        <text
+           xml:space="preserve"
+           style="font-size:9.86407757px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="592.50012"
+           y="657.51111"
+           id="text3284"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3286"
+             x="592.50012"
+             y="657.51111">/</tspan><tspan
+             id="tspan3302"
+             sodipodi:role="line"
+             x="592.50012"
+             y="669.84119">  forward compatibile</tspan><tspan
+             sodipodi:role="line"
+             x="592.50012"
+             y="682.17133"
+             id="tspan3290">  向上相容</tspan><tspan
+             sodipodi:role="line"
+             x="592.50012"
+             y="694.5014"
+             id="tspan3288">  backward compatible</tspan><tspan
+             sodipodi:role="line"
+             x="592.50012"
+             y="706.83148"
+             id="tspan3292">  向下相容</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.27806938,0,0,0.27806938,230.30274,485.69707)"
+         id="g3116">
+        <image
+           sodipodi:absref="../m/15/power-adapter.jpg"
+           xlink:href="../m/15/power-adapter.jpg"
+           y="691.21771"
+           x="738.19971"
+           id="image3109"
+           height="270"
+           width="270" />
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="804.28345"
+           y="641.00787"
+           id="text3112"
+           sodipodi:linespacing="125%"
+           transform="translate(9.9555559,274.40665)"><tspan
+             sodipodi:role="line"
+             id="tspan3114"
+             x="804.28345"
+             y="641.00787">Power Adapter</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.39380915,0,0,0.39380915,201.74928,355.93477)"
+         id="g3121">
+        <image
+           sodipodi:absref="../m/13/planned-obsolescence-1.jpg"
+           xlink:href="../m/13/planned-obsolescence-1.jpg"
+           y="306.40668"
+           x="507.75839"
+           id="image3106"
+           height="192"
+           width="288" />
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="795.49164"
+           y="476.98932"
+           id="text3109"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="795.49164"
+             y="476.98932"
+             id="tspan3113">『計畫報廢』</tspan><tspan
+             sodipodi:role="line"
+             x="795.49164"
+             y="491.98932"
+             id="tspan3119">『planned obsolescence』</tspan><tspan
+             sodipodi:role="line"
+             x="795.49164"
+             y="506.98932"
+             id="tspan3117" /></text>
+      </g>
+    </g>
+    <g
+       id="g3432"
+       transform="matrix(0.2825116,0,0,0.2825116,147.59409,431.98306)">
+      <image
+         sodipodi:absref="../m/13/turtle-doc.jpg"
+         xlink:href="../m/13/turtle-doc.jpg"
+         width="424"
+         height="343"
+         id="image3429"
+         x="1072.4122"
+         y="311.53656" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3305"
+         y="605.49329"
+         x="1163.4763"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ffff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           id="tspan3309"
+           y="605.49329"
+           x="1163.4763"
+           sodipodi:role="line">『數位遺產</tspan><tspan
+           y="645.49329"
+           x="1163.4763"
+           sodipodi:role="line"
+           id="tspan3313">兩大挑戰』</tspan></text>
+    </g>
+    <g
+       id="g4637"
+       transform="translate(406.67717,-52.913379)">
+      <g
+         transform="matrix(0.38458774,0,0,0.38458774,434.1017,664.9153)"
+         id="g3136">
+        <image
+           sodipodi:absref="../m/15/wrong-plug.jpg"
+           xlink:href="../m/15/wrong-plug.jpg"
+           width="314.23911"
+           height="248.24892"
+           id="image4126"
+           x="84.20504"
+           y="494.98407" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3140"
+           y="705.06927"
+           x="122.86095"
+           style="font-size:15.60112095000000032px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="705.06927"
+             x="122.86095"
+             sodipodi:role="line"
+             id="tspan3144">接頭規格比產品性能更重要</tspan><tspan
+             id="tspan3150"
+             y="724.57068"
+             x="122.86095"
+             sodipodi:role="line">檔案格式比軟體功能更重要</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.22038319,0,0,0.22038319,200.96498,739.21068)"
+         id="g3295">
+        <image
+           sodipodi:absref="../m/14/Scott-McNealy.jpg"
+           xlink:href="../m/14/Scott-McNealy.jpg"
+           y="539.1153"
+           x="480.14847"
+           id="image3281-6"
+           height="420"
+           width="517" />
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="496.7587"
+           y="614.56415"
+           id="text3285"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="496.7587"
+             y="614.56415"
+             id="tspan3289">Scott McNealy</tspan><tspan
+             sodipodi:role="line"
+             x="496.7587"
+             y="654.56415"
+             id="tspan3293">『下賊船的代價』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.42401203,0,0,0.42401203,-329.23,832.67878)"
+         id="g3507">
+        <image
+           sodipodi:absref="../m/15/conquered.png"
+           xlink:href="../m/15/conquered.png"
+           y="291.76883"
+           x="1044.4043"
+           id="image3500"
+           height="186"
+           width="350" />
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="1112.0659"
+           y="502.69012"
+           id="text3503"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3505"
+             x="1112.0659"
+             y="502.69012">『校長 籌碼 談判』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,-303.15669,567.07124)"
+         id="g3557">
+        <rect
+           ry="11.943308"
+           rx="12.2661"
+           y="637.24127"
+           x="1172.5383"
+           height="102.80319"
+           width="205.60617"
+           id="rect3545"
+           style="fill:#ffff80;fill-opacity:1;stroke:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3251"
+           y="663.83887"
+           x="1186.422"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             id="tspan3255"
+             y="663.83887"
+             x="1186.422"
+             sodipodi:role="line">既然他們都會盜版, 那就不如</tspan><tspan
+             id="tspan3169"
+             y="678.83887"
+             x="1186.422"
+             sodipodi:role="line">讓他們盜我們的軟體吧。</tspan><tspan
+             y="693.83887"
+             x="1186.422"
+             sodipodi:role="line"
+             id="tspan3335">先讓他們上癮; 而我們再來研究</tspan><tspan
+             id="tspan3171"
+             y="708.83887"
+             x="1186.422"
+             sodipodi:role="line">接下來十年如何向他們收錢。</tspan><tspan
+             y="723.83887"
+             x="1186.422"
+             sodipodi:role="line"
+             id="tspan3337">-- 比爾蓋茲 1998 @ 華盛頓大學</tspan></text>
+      </g>
+      <g
+         id="g3228"
+         transform="matrix(0.38458774,0,0,0.38458774,442.09851,528.41512)">
+        <rect
+           style="fill:#ffff80;fill-opacity:1;stroke:none"
+           id="rect3230"
+           width="330.78372"
+           height="141.81009"
+           x="54.425198"
+           y="306.89621"
+           transform="translate(9.9555559,274.40665)"
+           rx="12.2661"
+           ry="11.943308" />
+        <text
+           xml:space="preserve"
+           style="font-size:72.80522919px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="128.48409"
+           y="686.2265"
+           id="text3232"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="128.48409"
+             y="686.2265"
+             id="tspan3236">OOXML?</tspan></text>
+      </g>
+      <g
+         id="g3120"
+         transform="matrix(0.38458774,0,0,0.38458774,258.87758,750.01104)">
+        <rect
+           style="fill:#ffff80;fill-opacity:1;stroke:none"
+           id="rect3122"
+           width="421.19647"
+           height="173.25804"
+           x="54.425198"
+           y="326.55118"
+           transform="translate(9.9555559,274.40665)"
+           rx="12.2661"
+           ry="11.943308" />
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="83.149605"
+           y="376.44095"
+           id="text3124"
+           sodipodi:linespacing="125%"
+           transform="translate(9.9555559,274.40665)"><tspan
+             sodipodi:role="line"
+             x="83.149605"
+             y="376.44095"
+             id="tspan3128">就這樣被你征服　切斷了所有退路</tspan><tspan
+             sodipodi:role="line"
+             x="83.149605"
+             y="406.44095"
+             id="tspan3133">我的心情是堅固　我的決定是糊塗</tspan><tspan
+             sodipodi:role="line"
+             x="83.149605"
+             y="436.44095"
+             id="tspan3135">就這樣被你征服　喝下你藏好的毒</tspan><tspan
+             sodipodi:role="line"
+             x="83.149605"
+             y="466.44095"
+             id="tspan3137">我的劇情已落幕　我的愛恨已入土</tspan></text>
+      </g>
+      <g
+         transform="translate(-156.57923,1.7294355)"
+         id="g4058">
+        <image
+           sodipodi:absref="../m/13/ooxml-bribe.jpg"
+           xlink:href="../m/13/ooxml-bribe.jpg"
+           width="92.868965"
+           height="85.996658"
+           id="image3225"
+           x="467.5296"
+           y="725.64093" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4054"
+           y="828.63049"
+           x="458.29681"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="828.63049"
+             x="458.29681"
+             id="tspan4056"
+             sodipodi:role="line">『ooxml scandal』</tspan></text>
+      </g>
+      <g
+         id="g4429">
+        <image
+           sodipodi:absref="../m/15/my-sassy-girl.jpg"
+           xlink:href="../m/15/my-sassy-girl.jpg"
+           y="840.10742"
+           x="113.13666"
+           id="image3308"
+           height="89.007874"
+           width="118.67716" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3619"
+           y="925.53925"
+           x="142.582"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="925.53925"
+             x="142.582"
+             id="tspan3621"
+             sodipodi:role="line">我的野蠻 女友 工讀生</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           transform="translate(-396.72161,327.32003)"
+           inkscape:connector-curvature="0"
+           id="path3623"
+           d="m 574.87172,591.03553 19.97421,7.70934"
+           style="fill:#00ffff;stroke:#00ffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,-252.30519,129.38592)"
+         id="g3946">
+        <rect
+           style="fill:#ffff80;fill-opacity:0.87843137;stroke:none"
+           id="rect3140"
+           width="18.365355"
+           height="11.544967"
+           x="780.54651"
+           y="706.00854"
+           transform="translate(-396.72161,327.32003)"
+           rx="1.9998395"
+           ry="2.4543486" />
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="781.75543"
+           y="714.73157"
+           id="text3134"
+           sodipodi:linespacing="125%"
+           transform="translate(-396.72161,327.32003)"><tspan
+             sodipodi:role="line"
+             id="tspan3138"
+             x="781.75543"
+             y="714.73157">文件</tspan></text>
+      </g>
+      <g
+         id="g3465">
+        <image
+           sodipodi:absref="../m/15/odf-adoption.png"
+           xlink:href="../m/15/odf-adoption.png"
+           y="739.92407"
+           x="112.30124"
+           id="image3227"
+           height="57.665829"
+           width="130.68742" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3461"
+           y="819.01038"
+           x="122.86761"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="819.01038"
+             x="122.86761"
+             id="tspan3463"
+             sodipodi:role="line">『ODF adoption』</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4672"
+       transform="translate(-48.377948,9.0708645)">
+      <g
+         transform="matrix(0.22655413,0,0,0.22655413,629.38116,426.18132)"
+         id="g3188">
+        <image
+           sodipodi:absref="../m/15/mailroom.jpg"
+           xlink:href="../m/15/mailroom.jpg"
+           y="430.5405"
+           x="420.85318"
+           id="image3181"
+           height="362"
+           width="560" />
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="471.05789"
+           y="773.30432"
+           id="text3184"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3186"
+             x="471.05789"
+             y="773.30432">對外： 必要性? 替代方案? 共用遠端桌面</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.45984143,0,0,0.45984143,657.06428,110.84315)"
+         id="g3264">
+        <image
+           sodipodi:absref="../m/15/surprised-by-bill.jpg"
+           xlink:href="../m/15/surprised-by-bill.jpg"
+           y="513.07593"
+           x="618.99493"
+           id="image3255"
+           height="206"
+           width="200" />
+        <text
+           xml:space="preserve"
+           style="font-size:18.83341599px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="635.0177"
+           y="741.5249"
+           id="text3258"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="635.0177"
+             y="741.5249"
+             id="tspan3262">自己的office 自己買</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.5781018,0,0,0.5781018,501.02895,248.39333)"
+         id="g3375">
+        <image
+           sodipodi:absref="../m/15/gavel-books.jpg"
+           xlink:href="../m/15/gavel-books.jpg"
+           y="470.5011"
+           x="703.80591"
+           id="image3364"
+           height="129.08347"
+           width="242.03151" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="734.11304"
+           y="643.28857"
+           id="text3367"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="734.11304"
+             y="643.28857"
+             id="tspan3371">有意見? 請找/譯文獻</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.29920118,0,0,0.29920118,562.94707,206.98343)"
+         id="g3481">
+        <image
+           sodipodi:absref="../m/15/leadership.jpg"
+           xlink:href="../m/15/leadership.jpg"
+           y="476.56412"
+           x="475.38864"
+           id="image3474"
+           height="276"
+           width="460" />
+        <text
+           xml:space="preserve"
+           style="font-size:33.42232895px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="488.56717"
+           y="790.44415"
+           id="text3477"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3479"
+             x="488.56717"
+             y="790.44415">長官：您要的是報告還是 DM?</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.65263375,0,0,0.65263375,786.27094,53.472224)"
+         id="g3494">
+        <rect
+           ry="11.943308"
+           rx="12.2661"
+           transform="translate(9.9555559,274.40665)"
+           y="332.59842"
+           x="57.448818"
+           height="98.267715"
+           width="152.6929"
+           id="rect3496"
+           style="fill:#ffff80;fill-opacity:1;stroke:none" />
+        <text
+           transform="translate(9.9555559,274.40665)"
+           sodipodi:linespacing="125%"
+           id="text3498"
+           y="376.44095"
+           x="129.95428"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="376.44095"
+             x="129.95428"
+             sodipodi:role="line"
+             id="tspan3502">文件轉檔</tspan><tspan
+             id="tspan3506"
+             y="406.44095"
+             x="129.95428"
+             sodipodi:role="line">SOP</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3510"
+       transform="matrix(1.6170867,0,0,1.6170867,256.66816,-668.4851)">
+      <rect
+         style="fill:#ffff80;fill-opacity:1;stroke:none"
+         id="rect3512"
+         width="152.6929"
+         height="98.267715"
+         x="57.448818"
+         y="332.59842"
+         transform="translate(9.9555559,274.40665)"
+         rx="12.2661"
+         ry="11.943308" />
+      <text
+         xml:space="preserve"
+         style="font-size:24.51604843px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="97.554291"
+         y="650.26727"
+         id="text3514"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3518"
+           sodipodi:role="line"
+           x="97.554291"
+           y="650.26727">Why ODF?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9.19351768px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="101.36646"
+         y="683.30011"
+         id="text3522"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3524"
+           x="101.36646"
+           y="683.30011">軟體自由協會 洪朝貴</tspan></text>
+    </g>
+  </g>
+  <script
+     id="sozi-script"
+     ns1:version="12.06-12110506">function module(c,a){var b=this;c.split(&quot;.&quot;).forEach(function(d){if(typeof b[d]===&quot;undefined&quot;){b[d]={}}b=b[d]});a(b)}module(&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});module(&quot;sozi.framenumber&quot;,function(d){var f=this,g=f.document,i,j,b,c,e=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=j.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;b.setAttribute(&quot;r&quot;,n);i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function a(){i=g.createElementNS(e,&quot;g&quot;);j=g.createElementNS(e,&quot;text&quot;);b=g.createElementNS(e,&quot;circle&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);b.setAttribute(&quot;cx&quot;,0);b.setAttribute(&quot;cy&quot;,0);i.appendChild(b);c=g.createTextNode(sozi.location.getFrameIndex()+1);j.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);j.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);j.setAttribute(&quot;x&quot;,0);j.setAttribute(&quot;y&quot;,0);j.appendChild(c);i.appendChild(j);g.documentElement.appendChild(i);h()}function k(l){c.nodeValue=l+1}sozi.events.listen(&quot;displayready&quot;,a);sozi.events.listen(&quot;framechange&quot;,k)});module(&quot;sozi.framelist&quot;,function(v){var k=this,q=k.document,m,c,j=0,d=5,i,t,b,x,y,u,f=300,g=&quot;decelerate&quot;,a=&quot;http://www.w3.org/2000/svg&quot;;function p(B){var z=B.relatedTarget,A=q.documentElement;while(z!==m&amp;&amp;z!==A){z=z.parentNode}if(z===A){v.hide();sozi.player.restart();B.stopPropagation()}}function s(A){var z=c.getCTM().f;if(z&lt;=-k.innerHeight/2){z+=k.innerHeight/2}else{if(z&lt;0){z=0}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function e(A){var z=c.getCTM().f;if(z+j&gt;=k.innerHeight*3/2){z-=k.innerHeight/2}else{if(z+j&gt;k.innerHeight+2*d){z=k.innerHeight-j-4*d}}c.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+z+&quot;)&quot;);A.stopPropagation()}function r(z){var B=sozi.animation.profiles[g](z),A=1-B;y=x*B+b*A;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+y+&quot;,0)&quot;)}function w(){}function h(z){return function(A){sozi.player.previewFrame(z);A.stopPropagation()}}function l(z){z.stopPropagation()}function o(){var B=q.createElementNS(a,&quot;rect&quot;),A=q.createElementNS(a,&quot;path&quot;),C=q.createElementNS(a,&quot;path&quot;),D=0,E,z=sozi.location.getFrameIndex();m=q.createElementNS(a,&quot;g&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);q.documentElement.appendChild(m);c=q.createElementNS(a,&quot;g&quot;);m.appendChild(c);B.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);B.setAttribute(&quot;x&quot;,d);B.setAttribute(&quot;y&quot;,d);B.setAttribute(&quot;rx&quot;,d);B.setAttribute(&quot;ry&quot;,d);B.addEventListener(&quot;click&quot;,l,false);B.addEventListener(&quot;mousedown&quot;,l,false);B.addEventListener(&quot;mouseout&quot;,p,false);c.appendChild(B);sozi.document.frames.forEach(function(G,H){var F=q.createElementNS(a,&quot;text&quot;);F.appendChild(q.createTextNode(G.title));c.appendChild(F);if(H===z){F.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}E=F.getBBox().width;j+=F.getBBox().height;if(E&gt;D){D=E}F.setAttribute(&quot;x&quot;,2*d);F.setAttribute(&quot;y&quot;,j+d);F.addEventListener(&quot;click&quot;,h(H),false);F.addEventListener(&quot;mousedown&quot;,l,false)});A.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);A.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(5*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,-&quot;+(3*d)+&quot; z&quot;);A.addEventListener(&quot;click&quot;,s,false);A.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(A);C.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);C.setAttribute(&quot;d&quot;,&quot;M&quot;+(D+3*d)+&quot;,&quot;+(7*d)+&quot; l&quot;+(4*d)+&quot;,0 l-&quot;+(2*d)+&quot;,&quot;+(3*d)+&quot; z&quot;);C.addEventListener(&quot;click&quot;,e,false);C.addEventListener(&quot;mousedown&quot;,l,false);m.appendChild(C);B.setAttribute(&quot;width&quot;,D+7*d);B.setAttribute(&quot;height&quot;,j+2*d);i=-D-9*d;t=0;y=x=i;m.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+i+&quot;,0)&quot;);u=new sozi.animation.Animator(r,w)}function n(z){var B=Array.prototype.slice.call(q.getElementsByClassName(&quot;sozi-toc-current&quot;)),A=c.getElementsByTagName(&quot;text&quot;);B.forEach(function(C){C.removeAttribute(&quot;class&quot;)});A[z].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}v.show=function(){b=y;x=t;u.start(f)};v.hide=function(){b=y;x=i;u.start(f)};v.isVisible=function(){return x===t};sozi.events.listen(&quot;displayready&quot;,o);sozi.events.listen(&quot;cleanup&quot;,v.hide);sozi.events.listen(&quot;framechange&quot;,n)});module(&quot;sozi.document&quot;,function(c){var e=this,g=e.document,b=&quot;http://sozi.baierouge.fr&quot;,d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};c.frames=[];c.idLayerList=[];function i(k,j){var l=k.getAttributeNS(b,j);return l===&quot;&quot;?d[j]:l}function h(n,o,j){var k=n.layers[o]=n.layers[o]||{idLayer:o,geometry:{clip:d.clip}},l=k.geometry.clip,m;if(typeof k.hide===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;hide&quot;)){k.hide=i(j,&quot;hide&quot;)===&quot;true&quot;}if(typeof k.transitionZoomPercent===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){k.transitionZoomPercent=parseInt(i(j,&quot;transition-zoom-percent&quot;),10)}if(typeof k.transitionProfile===&quot;undefined&quot;||j.hasAttributeNS(b,&quot;transition-profile&quot;)){k.transitionProfile=sozi.animation.profiles[i(j,&quot;transition-profile&quot;)||&quot;linear&quot;]}if(j.hasAttributeNS(b,&quot;refid&quot;)){m=g.getElementById(j.getAttributeNS(b,&quot;refid&quot;));if(m){if(k.hide){m.style.visibility=&quot;hidden&quot;}k.geometry=sozi.display.getElementGeometry(m);k.geometry.clip=l}}if(j.hasAttributeNS(b,&quot;clip&quot;)){k.geometry.clip=i(j,&quot;clip&quot;)===&quot;true&quot;}}function a(){var j,m,n,o,k=g.documentElement,l=&quot;http://www.w3.org/2000/svg&quot;;m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(p){var q=p.getAttributeNS(b,&quot;group&quot;);if(q&amp;&amp;c.idLayerList.indexOf(q)===-1&amp;&amp;g.getElementById(q)){c.idLayerList.push(q)}});j=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));if(j.some(function(p){return p.hasAttributeNS(b,&quot;refid&quot;)})){n=g.createElementNS(l,&quot;g&quot;);o=Array.prototype.slice.call(k.childNodes);o.forEach(function(q,p){if(!q.getAttribute){k.removeChild(q)}else{if(c.idLayerList.indexOf(q.getAttribute(&quot;id&quot;))===-1){k.removeChild(q);n.appendChild(q)}else{if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+p);c.idLayerList.push(&quot;sozi-wrapper-&quot;+p);k.insertBefore(n,q);n=g.createElementNS(l,&quot;g&quot;)}}}});if(n.firstChild){n.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+o.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+o.length);k.appendChild(n)}}j.forEach(function(q,p){var s,r={id:q.getAttribute(&quot;id&quot;),title:i(q,&quot;title&quot;),sequence:parseInt(i(q,&quot;sequence&quot;),10),timeoutEnable:i(q,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(i(q,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(i(q,&quot;transition-duration-ms&quot;),10),layers:{}};c.idLayerList.forEach(function(w){var t,u,v;if(p===0||w.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){h(r,w,q)}else{u=r.layers[w]={};v=c.frames[c.frames.length-1].layers[w];for(t in v){u[t]=v[t]}}});m=Array.prototype.slice.call(q.getElementsByTagNameNS(b,&quot;layer&quot;));m.forEach(function(t){var u=t.getAttributeNS(b,&quot;group&quot;);if(u&amp;&amp;c.idLayerList.indexOf(u)!==-1){h(r,u,t)}});for(s in r.layers){if(r.layers.hasOwnProperty(s)){c.frames.push(r);break}}});c.frames.sort(function(q,p){return q.sequence-p.sequence})}function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;documentready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});module(&quot;sozi.animation&quot;,function(d){var g=this,i=40,j=[],b,h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;function e(l){var k;if(j.length&gt;0){if(h){h(e)}j.forEach(function(m){m.step(l)})}else{if(!h){g.clearInterval(b)}}}function c(){if(h){h(e)}else{b=g.setInterval(function(){e(Date.now())},i)}}function a(k){j.push(k);if(j.length===1){c()}}function f(k){j.splice(j.indexOf(k),1)}d.Animator=function(k,l){this.onStep=k;this.onDone=l;this.durationMs=0;this.data={};this.initialTime=0;this.started=false};d.Animator.prototype.start=function(k,l){this.durationMs=k;this.data=l;this.initialTime=Date.now();this.onStep(0,this.data);if(!this.started){this.started=true;a(this)}};d.Animator.prototype.stop=function(){if(this.started){f(this);this.started=false}};d.Animator.prototype.step=function(l){var k=l-this.initialTime;if(k&gt;=this.durationMs){this.stop();this.onStep(1,this.data);this.onDone()}else{this.onStep(k/this.durationMs,this.data)}};d.profiles={linear:function(k){return k},accelerate:function(k){return Math.pow(k,3)},&quot;strong-accelerate&quot;:function(k){return Math.pow(k,5)},decelerate:function(k){return 1-Math.pow(1-k,3)},&quot;strong-decelerate&quot;:function(k){return 1-Math.pow(1-k,5)},&quot;accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,3)/2;return k&lt;=0.5?m:1-m},&quot;strong-accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,5)/2;return k&lt;=0.5?m:1-m},&quot;decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,2))/2;return k&lt;=0.5?m:1-m},&quot;strong-decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,3))/2;return k&lt;=0.5?m:1-m}}});module(&quot;sozi.display&quot;,function(c){var f=this,a=f.document,g,b=&quot;http://www.w3.org/2000/svg&quot;;c.layers={};function e(){var j,k,l,i=a.documentElement;g=i.getBBox();i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);sozi.document.idLayerList.forEach(function(m){c.layers[m]={geometry:{cx:0,cy:0,width:1,height:1,rotate:0,clip:true},svgClipRect:a.createElementNS(b,&quot;rect&quot;),svgLayer:a.getElementById(m)};k=a.createElementNS(b,&quot;clipPath&quot;);k.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+m);k.appendChild(c.layers[m].svgClipRect);i.appendChild(k);j=a.createElementNS(b,&quot;g&quot;);j.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+m+&quot;)&quot;);i.insertBefore(j,c.layers[m].svgLayer);j.appendChild(c.layers[m].svgLayer)});sozi.events.fire(&quot;displayready&quot;)}function d(){var i=a.documentElement;i.setAttribute(&quot;width&quot;,f.innerWidth);i.setAttribute(&quot;height&quot;,f.innerHeight);c.update()}function h(k){var j=c.layers[k].geometry,i={};i.scale=Math.min(f.innerWidth/j.width,f.innerHeight/j.height);i.width=j.width*i.scale;i.height=j.height*i.scale;i.x=(f.innerWidth-i.width)/2;i.y=(f.innerHeight-i.height)/2;return i}c.getElementGeometry=function(m){var p,l,q,j,n,k,o=m.getCTM(),i=Math.sqrt(o.a*o.a+o.b*o.b);if(m.nodeName===&quot;rect&quot;){p=m.x.baseVal.value;l=m.y.baseVal.value;q=m.width.baseVal.value;j=m.height.baseVal.value}else{n=m.getBBox();p=n.x;l=n.y;q=n.width;j=n.height}k=a.documentElement.createSVGPoint();k.x=p+q/2;k.y=l+j/2;k=k.matrixTransform(o);return{cx:k.x,cy:k.y,width:q*i,height:j*i,rotate:Math.atan2(o.b,o.a)*180/Math.PI}};c.getDocumentGeometry=function(){var k,i={layers:{}},j={geometry:{cx:g.x+g.width/2,cy:g.y+g.height/2,width:g.width,height:g.height,rotate:0,clip:false}};for(k in c.layers){if(c.layers.hasOwnProperty(k)){i.layers[k]=j}}return i};c.update=function(){var n,i,j,k,m,l;for(n in c.layers){if(c.layers.hasOwnProperty(n)){j=c.layers[n].geometry;i=h(n);k=c.layers[n].svgClipRect;k.setAttribute(&quot;x&quot;,j.clip?i.x:0);k.setAttribute(&quot;y&quot;,j.clip?i.y:0);k.setAttribute(&quot;width&quot;,j.clip?i.width:f.innerWidth);k.setAttribute(&quot;height&quot;,j.clip?i.height:f.innerHeight);m=-j.cx+j.width/2+i.x/i.scale;l=-j.cy+j.height/2+i.y/i.scale;c.layers[n].svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+i.scale+&quot;)translate(&quot;+m+&quot;,&quot;+l+&quot;)rotate(&quot;+(-j.rotate)+&quot;,&quot;+j.cx+&quot;,&quot;+j.cy+&quot;)&quot;)}}};c.showFrame=function(l){var m,k,j,i;for(m in l.layers){if(l.layers.hasOwnProperty(m)){j=l.layers[m].geometry;k=c.layers[m].geometry;for(i in j){if(j.hasOwnProperty(i)){k[i]=j[i]}}}}c.update()};c.drag=function(k,i){var n,l,j,m;for(n in c.layers){if(c.layers.hasOwnProperty(n)){l=c.layers[n].geometry;j=h(n);m=l.rotate*Math.PI/180;l.cx-=(k*Math.cos(m)-i*Math.sin(m))/j.scale;l.cy-=(k*Math.sin(m)+i*Math.cos(m))/j.scale;l.clip=false}}c.update()};c.zoom=function(l,j,n){var m,k=(1-l)*(j-f.innerWidth/2),i=(1-l)*(n-f.innerHeight/2);for(m in c.layers){if(c.layers.hasOwnProperty(m)){c.layers[m].geometry.width/=l;c.layers[m].geometry.height/=l}}c.drag(k,i)};c.rotate=function(i){var j;for(j in c.layers){if(c.layers.hasOwnProperty(j)){c.layers[j].geometry.rotate+=i;c.layers[j].geometry.rotate%=360}}c.update()};sozi.events.listen(&quot;documentready&quot;,e);f.addEventListener(&quot;resize&quot;,d,false)});module(&quot;sozi.player&quot;,function(q){var n=sozi.display,g=this,p,j,o=500,c=-10,l=&quot;linear&quot;,h=0,i=0,b=false,a=false;function m(v,x){var w,u,z,t,s,y;for(z in x){if(x.hasOwnProperty(z)){t=n.layers[z].geometry;w=x[z].profile(v);u=1-w;for(s in x[z].initialState){if(x[z].initialState.hasOwnProperty(s)){if(typeof x[z].initialState[s]===&quot;number&quot;&amp;&amp;typeof x[z].finalState[s]===&quot;number&quot;){t[s]=x[z].finalState[s]*w+x[z].initialState[s]*u}}}if(x[z].zoomWidth&amp;&amp;x[z].zoomWidth.k!==0){y=v-x[z].zoomWidth.ts;t.width=x[z].zoomWidth.k*y*y+x[z].zoomWidth.ss}if(x[z].zoomHeight&amp;&amp;x[z].zoomHeight.k!==0){y=v-x[z].zoomHeight.ts;t.height=x[z].zoomHeight.k*y*y+x[z].zoomHeight.ss}t.clip=x[z].finalState.clip}}n.update()}function f(){var s;if(sozi.document.frames[i].timeoutEnable){a=true;s=(i+1)%sozi.document.frames.length;j=g.setTimeout(function(){q.moveToFrame(s)},sozi.document.frames[i].timeoutMs)}}function r(){h=i;if(b){f()}}q.startFromIndex=function(s){b=true;a=false;h=s;i=s;n.showFrame(sozi.document.frames[s]);f()};q.restart=function(){q.startFromIndex(i)};q.stop=function(){p.stop();if(a){g.clearTimeout(j);a=false}b=false;h=i};function e(s,C,A){var D={ss:((s&lt;0)?Math.max(C,A):Math.min(C,A))*(100-s)/100,ts:0.5,k:0},y,x,w,t,B,z;if(s!==0){y=C-A;x=C-D.ss;w=A-D.ss;if(y!==0){t=Math.sqrt(x*w);B=(x-t)/y;z=(x+t)/y;D.ts=(B&gt;0&amp;&amp;B&lt;=1)?B:z}D.k=x/D.ts/D.ts}return D}q.jumpToFrame=function(s){q.stop();sozi.events.fire(&quot;cleanup&quot;);h=s;i=s;n.showFrame(sozi.document.frames[s]);sozi.events.fire(&quot;framechange&quot;,s)};function d(s,w,z,t){var u,y,x,v={};for(y in s.layers){if(s.layers.hasOwnProperty(y)){v[y]={initialState:{},finalState:{}};v[y].profile=t||w.layers[y].transitionProfile;for(u in s.layers[y].geometry){if(s.layers[y].geometry.hasOwnProperty(u)){v[y].initialState[u]=s.layers[y].geometry[u];if(w.layers.hasOwnProperty(y)){v[y].finalState[u]=w.layers[y].geometry[u]}else{v[y].finalState[u]=s.layers[y].geometry[u]}}}v[y].initialState.rotate=(v[y].initialState.rotate-180)%360+180;v[y].finalState.rotate=(v[y].finalState.rotate-180)%360+180;if(v[y].finalState.rotate-v[y].initialState.rotate&gt;180){v[y].finalState.rotate-=360}else{if(v[y].finalState.rotate-v[y].initialState.rotate&lt;-180){v[y].initialState.rotate-=360}}x=z||w.layers[y].transitionZoomPercent;if(x&amp;&amp;w.layers.hasOwnProperty(y)){v[y].zoomWidth=e(x,s.layers[y].geometry.width,w.layers[y].geometry.width);v[y].zoomHeight=e(x,s.layers[y].geometry.height,w.layers[y].geometry.height)}}}return v}q.previewFrame=function(s){i=s;p.start(o,d(n,sozi.document.frames[s],c,sozi.animation.profiles[l]));sozi.events.fire(&quot;framechange&quot;,s)};q.moveToFrame=function(t){var s,v,u;if(a){g.clearTimeout(j);a=false}if(t===(i+1)%sozi.document.frames.length){s=sozi.document.frames[t].transitionDurationMs;v=undefined;u=undefined}else{s=o;v=c;u=sozi.animation.profiles[l]}sozi.events.fire(&quot;cleanup&quot;);b=true;i=t;p.start(s,d(n,sozi.document.frames[t],v,u));sozi.events.fire(&quot;framechange&quot;,t)};q.moveToFirst=function(){q.moveToFrame(0)};q.jumpToPrevious=function(){var s=i;if(!p.started||h&lt;=i){s-=1}if(s&gt;=0){q.jumpToFrame(s)}};q.moveToPrevious=function(){var s,t;for(s=i-1;s&gt;=0;s-=1){t=sozi.document.frames[s];if(!t.timeoutEnable||t.timeoutMs!==0){q.moveToFrame(s);break}}};q.jumpToNext=function(){var s=i;if(!p.started||h&gt;=i){s+=1}if(s&lt;sozi.document.frames.length){q.jumpToFrame(s)}};q.moveToNext=function(){if(i&lt;sozi.document.frames.length-1||sozi.document.frames[i].timeoutEnable){q.moveToFrame((i+1)%sozi.document.frames.length)}};q.moveToLast=function(){q.moveToFrame(sozi.document.frames.length-1)};q.moveToCurrent=function(){q.moveToFrame(i)};q.showAll=function(){q.stop();sozi.events.fire(&quot;cleanup&quot;);p.start(o,d(n,n.getDocumentGeometry(),c,sozi.animation.profiles[l]))};function k(){q.startFromIndex(sozi.location.getFrameIndex());g.setTimeout(n.update,1)}p=new sozi.animation.Animator(m,r);sozi.events.listen(&quot;displayready&quot;,k)});module(&quot;sozi.location&quot;,function(a){var e=this,c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)});module(&quot;sozi.actions&quot;,function(z){var t=sozi.player,u=sozi.display,j=this,o=j.document,p=0,v=1,s=1.05,x=5,c=false,l=false,g=0,e=0;function a(B,A,C){t.stop();u.zoom(B&gt;0?s:1/s,A,C)}function w(A){t.stop();u.rotate(A&gt;0?x:-x)}function r(){if(sozi.framelist.isVisible()){sozi.framelist.hide();t.restart()}else{t.stop();sozi.framelist.show()}}function i(A){if(A.button===p){c=true;l=false;g=A.clientX;e=A.clientY}else{if(A.button===v){r()}}A.stopPropagation();A.preventDefault()}function m(A){if(c){t.stop();l=true;sozi.events.fire(&quot;cleanup&quot;);u.drag(A.clientX-g,A.clientY-e);g=A.clientX;e=A.clientY}A.stopPropagation()}function f(A){if(A.button===p){c=false}A.stopPropagation();A.preventDefault()}function q(A){t.moveToPrevious();A.stopPropagation();A.preventDefault()}function h(A){if(!l&amp;&amp;A.button!==v){t.moveToNext()}A.stopPropagation();A.preventDefault()}function k(A){var B=0;if(!A){A=j.event}if(A.wheelDelta){B=A.wheelDelta}else{if(A.detail){B=-A.detail}}if(B!==0){if(A.shiftKey){w(B)}else{a(B,A.clientX,A.clientY)}}A.stopPropagation();A.preventDefault()}function n(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.charCode||A.keyCode){case 43:a(1,j.innerWidth/2,j.innerHeight/2);break;case 45:a(-1,j.innerWidth/2,j.innerHeight/2);break;case 61:t.moveToCurrent();break;case 70:case 102:t.showAll();break;case 84:case 116:r();break;case 82:w(-1);break;case 114:w(1);break}A.stopPropagation();A.preventDefault()}function d(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.keyCode){case 36:t.moveToFirst();break;case 35:t.moveToLast();break;case 38:t.jumpToPrevious();break;case 33:case 37:t.moveToPrevious();break;case 40:t.jumpToNext();break;case 34:case 39:case 13:case 32:t.moveToNext();break}A.stopPropagation()}function y(A){A.stopPropagation()}function b(){var B=o.getElementsByTagName(&quot;a&quot;);for(var C=0;C&lt;B.length;C+=1){B[C].addEventListener(&quot;click&quot;,y,false);B[C].addEventListener(&quot;contextmenu&quot;,y,false)}var A=o.documentElement;A.addEventListener(&quot;click&quot;,h,false);A.addEventListener(&quot;mousedown&quot;,i,false);A.addEventListener(&quot;mouseup&quot;,f,false);A.addEventListener(&quot;mousemove&quot;,m,false);A.addEventListener(&quot;keypress&quot;,n,false);A.addEventListener(&quot;keydown&quot;,d,false);A.addEventListener(&quot;contextmenu&quot;,q,false);A.addEventListener(&quot;DOMMouseScroll&quot;,k,false);j.onmousewheel=k}j.addEventListener(&quot;load&quot;,b,false)});</script>
+  <style
+     id="sozi-style"
+     ns1:version="12.06-12110506">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <ns1:frame
+     ns1:refid="g3510"
+     ns1:sequence="1"
+     id="frame1"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="標題"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="各式滑鼠"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame2"
+     ns1:sequence="2"
+     ns1:refid="g4479" />
+  <ns1:frame
+     ns1:refid="g4488"
+     ns1:sequence="3"
+     id="frame3"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="各式螢幕"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="多元選擇"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame4"
+     ns1:sequence="4"
+     ns1:refid="g4462" />
+  <ns1:frame
+     ns1:refid="g4501"
+     ns1:sequence="5"
+     id="frame5"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="機場充電器"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="不相容的眾多手機充電器"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame6"
+     ns1:sequence="6"
+     ns1:refid="g4510" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="歐盟統一手機充電規格"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame8"
+     ns1:sequence="9"
+     ns1:refid="g4686" />
+  <ns1:frame
+     ns1:refid="g3294"
+     ns1:sequence="11"
+     id="frame9"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="向上向下相容"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="電源轉接頭"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame10"
+     ns1:sequence="12"
+     ns1:refid="g3116" />
+  <ns1:frame
+     ns1:refid="image3206"
+     ns1:sequence="13"
+     id="frame11"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="各種 usb 接頭"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="d-sub vga 接頭"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame12"
+     ns1:sequence="14"
+     ns1:refid="image3422" />
+  <ns1:frame
+     ns1:refid="g3209"
+     ns1:sequence="15"
+     id="frame13"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="允許不同 才是相容"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="下賊船的代價"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame14"
+     ns1:sequence="16"
+     ns1:refid="g3295" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="計畫報廢"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame16"
+     ns1:sequence="10"
+     ns1:refid="g3121" />
+  <ns1:frame
+     ns1:refid="g3507"
+     ns1:sequence="18"
+     id="frame17"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="校長嫌 Office 太貴"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Bill Gates 上癮說"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame18"
+     ns1:sequence="20"
+     ns1:refid="g3557" />
+  <ns1:frame
+     ns1:refid="g3432"
+     ns1:sequence="25"
+     id="frame19"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="數位遺產"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="自己的 office 自己買"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame20"
+     ns1:sequence="26"
+     ns1:refid="g3264" />
+  <ns1:frame
+     ns1:refid="g3375"
+     ns1:sequence="27"
+     id="frame21"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="有意見? 請搜/譯文獻"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="對外交換?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame22"
+     ns1:sequence="28"
+     ns1:refid="g3188" />
+  <ns1:frame
+     ns1:refid="g3481"
+     ns1:sequence="29"
+     id="frame23"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="長官的的影響力"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="文件轉檔 SOP"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame24"
+     ns1:sequence="30"
+     ns1:refid="g3494" />
+  <ns1:frame
+     ns1:refid="rect3122"
+     ns1:sequence="19"
+     id="frame25"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="征服"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3136"
+     ns1:sequence="21"
+     id="frame26"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="接頭規格比產品性能更重要"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="ooxml?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame27"
+     ns1:sequence="22"
+     ns1:refid="g3228" />
+  <ns1:frame
+     ns1:refid="g4058"
+     ns1:sequence="23"
+     id="frame28"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="ooxml scandal"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g4429"
+     ns1:sequence="17"
+     id="frame28e"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="我的野蠻工讀生"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g4467"
+     ns1:sequence="7"
+     id="frame30"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="相容危機?"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3465"
+     ns1:sequence="24"
+     id="frame30z"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="odf adoption"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="全貌"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame31"
+     ns1:sequence="31"
+     ns1:refid="rect3138" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="iPhone 比 android 好?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame31x"
+     ns1:sequence="8"
+     ns1:refid="g3480" />
+</svg>

@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="free-software.svg"
+   inkscape:version="0.48.5 r10040"
+   version="1.1"
+   id="svg2"
+   height="768"
+   width="1024">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.66145833"
+     inkscape:cx="512"
+     inkscape:cy="384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-1"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective5875"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 384 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient6846">
+      <stop
+         id="stop6848"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1;" />
+      <stop
+         id="stop6850"
+         offset="1"
+         style="stop-color:#00ff00;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4202" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8,0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3264" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.8,-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3261" />
+    </marker>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="988.96307"
+       x2="452.62445"
+       y1="1030.1332"
+       x1="453.513"
+       id="linearGradient6852"
+       xlink:href="#linearGradient6846"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective16"
+       inkscape:persp3d-origin="100 : 100 : 1"
+       inkscape:vp_z="200 : 150 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 150 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.36218)">
+    <rect
+       transform="translate(0,284.36218)"
+       rx="20.48"
+       ry="23.893333"
+       y="-1.7066665"
+       x="-1.6530355e-07"
+       height="771.41333"
+       width="1025.7067"
+       id="rect12905"
+       style="fill:none;fill-opacity:0.75294117999999999;stroke:#00ffff;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3033"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+       transform="translate(-418.93625,-103.64987)"><flowRegion
+         id="flowRegion3035"><rect
+           id="rect3037"
+           width="66.652847"
+           height="52.725388"
+           x="410.86011"
+           y="70.632126" /></flowRegion><flowPara
+         id="flowPara3039" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+       x="149.06375"
+       y="384.71231"
+       id="text4885"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4887"
+         x="149.06375"
+         y="384.71231" /></text>
+    <g
+       id="g3186"
+       transform="matrix(1.230529,0,0,1.230529,119.27301,-65.038281)">
+      <path
+         sodipodi:type="star"
+         style="opacity:0.8;fill:none;stroke:#000000;stroke-width:1.00017071;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.00017068, 3.00051205;stroke-dashoffset:0"
+         id="path3054"
+         sodipodi:sides="6"
+         sodipodi:cx="700"
+         sodipodi:cy="500"
+         sodipodi:r1="227.74742"
+         sodipodi:r2="228.14487"
+         sodipodi:arg1="-0.24373327"
+         sodipodi:arg2="0.23515873"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 921.01607,445.03835 0.84965,108.1188 -63.75949,110.76756 -93.20881,54.79521 -127.80727,0.16644 -94.05845,-53.32358 -64.04777,-110.60113 -0.84965,-108.1188 63.75949,-110.76756 93.20881,-54.79521 127.80727,-0.16644 94.05845,53.32358 z"
+         transform="matrix(0.60234185,0,0,0.60234185,-271.00714,129.91444)" />
+      <image
+         sodipodi:absref="../s/inkscape.jpg"
+         xlink:href="../s/inkscape.jpg"
+         transform="matrix(0.00142583,-0.99999898,0.99999898,0.00142583,0,0)"
+         y="18.337549"
+         x="-455.43839"
+         id="image3144"
+         width="51.017826"
+         height="41.87281" />
+      <image
+         sodipodi:absref="../s/sweethome3d.jpg"
+         xlink:href="../s/sweethome3d.jpg"
+         transform="matrix(-0.52003033,-0.8541478,0.8541478,-0.52003033,0,0)"
+         y="-225.09906"
+         x="-468.13309"
+         id="image3174"
+         width="48.383762"
+         height="38.233685" />
+      <image
+         sodipodi:absref="../s/denemo.jpg"
+         xlink:href="../s/denemo.jpg"
+         transform="matrix(0.50217767,-0.86476447,0.86476447,0.50217767,0,0)"
+         y="215.92679"
+         x="-320.88361"
+         id="image3204"
+         width="52.256042"
+         height="34.019897" />
+      <image
+         sodipodi:absref="../b/mi/saturn.png"
+         xlink:href="../b/mi/saturn.png"
+         transform="matrix(-0.99999133,0.00416429,-0.00416429,-0.99999133,0,0)"
+         y="-562.3609"
+         x="-170.66797"
+         id="image3234"
+         width="43.702503"
+         height="35.777435" />
+      <image
+         sodipodi:absref="../s/melamine4.png"
+         xlink:href="../s/melamine4.png"
+         transform="matrix(-0.86030965,0.50977182,-0.50977182,-0.86030965,0,0)"
+         y="-579.68097"
+         x="71.61544"
+         id="image3264"
+         width="43.059803"
+         height="37.648193" />
+      <image
+         sodipodi:absref="../s/ksimus.jpg"
+         xlink:href="../s/ksimus.jpg"
+         transform="matrix(-0.86419864,-0.50315079,0.50315079,-0.86419864,0,0)"
+         y="-428.66272"
+         x="-376.6026"
+         id="image3294"
+         width="48.629238"
+         height="31.19047" />
+      <image
+         sodipodi:absref="../b/dg/accel_script.png"
+         xlink:href="../b/dg/accel_script.png"
+         transform="matrix(0.00663233,0.99997801,-0.99997801,0.00663233,0,0)"
+         y="-278.38312"
+         x="412.82556"
+         id="image3354"
+         width="48.209118"
+         height="33.833324" />
+      <image
+         sodipodi:absref="../m/12/search-alternative.png"
+         xlink:href="../m/12/search-alternative.png"
+         transform="matrix(0.86839374,-0.4958753,0.4958753,0.86839374,0,0)"
+         width="52.117374"
+         height="35.882885"
+         id="image3074"
+         x="-107.89293"
+         y="315.55835" />
+      <g
+         id="g3282"
+         transform="matrix(1.2032287,0,0,1.2032287,-34.696687,-47.931209)">
+        <image
+           sodipodi:absref="../m/12/ezgox.jpg"
+           xlink:href="../m/12/ezgox.jpg"
+           height="37.738274"
+           width="114.86142"
+           id="image3384"
+           x="92.137894"
+           y="405.15341" />
+        <image
+           sodipodi:absref="../m/12/linuxdistros.jpg"
+           xlink:href="../m/12/linuxdistros.jpg"
+           width="59.991573"
+           height="40.849518"
+           id="image3091"
+           x="144.42569"
+           y="356.15381" />
+        <g
+           id="layer1-25"
+           inkscape:label="Layer 1"
+           transform="matrix(0.1491715,0,0,0.1491715,100.76361,352.27209)">
+          <path
+             d="m 191.79361,150 c 0,54.18361 -41.0974,98.10811 -91.79361,98.10811 C 49.303789,248.10811 8.2063904,204.18361 8.2063904,150 8.2063904,95.816388 49.303789,51.891891 100,51.891891 c 50.69621,0 91.79361,43.924497 91.79361,98.108109 z"
+             sodipodi:ry="98.108109"
+             sodipodi:rx="91.79361"
+             sodipodi:cy="150"
+             sodipodi:cx="100"
+             id="path3134"
+             style="text-align:center;text-anchor:middle;fill:#00b0b0;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+             sodipodi:type="arc" />
+          <path
+             transform="translate(2.8095818,2.7678108)"
+             style="fill:#fdff83;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+             d="m 132.30958,70 c 0,20.286628 -16.70407,36.73219 -37.30958,36.73219 C 74.394487,106.73219 57.690418,90.286628 57.690418,70 57.690418,49.713372 74.394487,33.267811 95,33.267811 c 20.60551,0 37.30958,16.445561 37.30958,36.732189 z"
+             sodipodi:ry="36.732189"
+             sodipodi:rx="37.309582"
+             sodipodi:cy="70"
+             sodipodi:cx="95"
+             id="path2160"
+             sodipodi:type="arc" />
+          <path
+             d="m 191.79361,150 c 0,54.18361 -41.0974,98.10811 -91.79361,98.10811 C 49.303789,248.10811 8.2063904,204.18361 8.2063904,150 8.2063904,95.816388 49.303789,51.891891 100,51.891891 c 50.69621,0 91.79361,43.924497 91.79361,98.108109 z"
+             sodipodi:ry="98.108109"
+             sodipodi:rx="91.79361"
+             sodipodi:cy="150"
+             sodipodi:cx="100"
+             id="path3146"
+             style="fill:none;stroke:#ff0000;stroke-opacity:1"
+             sodipodi:type="arc" />
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             id="text3148"
+             y="80"
+             x="96.789062"
+             xml:space="preserve"><tspan
+               y="80"
+               x="96.789062"
+               id="tspan3150-2"
+               sodipodi:role="line">Windows</tspan></text>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             id="text3152"
+             y="160"
+             x="96.171875"
+             xml:space="preserve"><tspan
+               y="160"
+               x="96.171875"
+               id="tspan3154-5"
+               sodipodi:role="line">Linux</tspan></text>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             id="text3156"
+             y="265.35626"
+             x="102.457"
+             xml:space="preserve"><tspan
+               y="265.35626"
+               x="102.457"
+               id="tspan3158-7"
+               sodipodi:role="line">你知道青色的部分裡面</tspan><tspan
+               id="tspan2992"
+               y="280.35626"
+               x="102.457"
+               sodipodi:role="line">藏著什麼神奇的東西嗎?</tspan></text>
+        </g>
+      </g>
+      <image
+         sodipodi:absref="../b/ma/limit.jpg"
+         xlink:href="../b/ma/limit.jpg"
+         width="41.344208"
+         height="32.292133"
+         id="image3255"
+         x="130.21458"
+         y="300.57547" />
+      <image
+         sodipodi:absref="../b/cal/limit-sinc-0-proof.png"
+         xlink:href="../b/cal/limit-sinc-0-proof.png"
+         inkscape:transform-center-y="-11.224734"
+         inkscape:transform-center-x="6.5477832"
+         transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+         width="43.989773"
+         height="43.583088"
+         id="image3285"
+         x="329.37576"
+         y="164.82509" />
+      <image
+         sodipodi:absref="../m/13/maxima.jpg"
+         xlink:href="../m/13/maxima.jpg"
+         transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)"
+         width="51.411381"
+         height="32.880989"
+         id="image6428"
+         x="427.19357"
+         y="-43.339264" />
+      <image
+         sodipodi:absref="../m/13/moodle-match-5.jpg"
+         xlink:href="../m/13/moodle-match-5.jpg"
+         transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+         width="44.957008"
+         height="33.717758"
+         id="image6555"
+         x="275.58078"
+         y="-476.98877" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.51722573999999977px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+       x="903.26721"
+       y="231.14038"
+       id="text3992"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3994"
+         x="903.26721"
+         y="231.14038">『WGA phone home』</tspan><tspan
+         sodipodi:role="line"
+         x="903.26721"
+         y="240.55038"
+         id="tspan3996">『windows stealth update』</tspan><tspan
+         sodipodi:role="line"
+         x="903.26721"
+         y="249.96042"
+         id="tspan3998">『windows 7 盜版警察』</tspan><tspan
+         sodipodi:role="line"
+         x="903.26721"
+         y="259.37042"
+         id="tspan4000">『windows 8 開機鑰匙』</tspan><tspan
+         sodipodi:role="line"
+         x="903.26721"
+         y="268.78043"
+         id="tspan4002">『windows 8 電腦垃圾化』</tspan></text>
+    <g
+       id="g3928"
+       transform="matrix(0.91808051,0,0,0.87132084,387.31899,64.339221)">
+      <image
+         sodipodi:absref="../m/13/profit.jpg"
+         xlink:href="../m/13/profit.jpg"
+         y="546.25946"
+         x="440.20914"
+         id="image4751"
+         height="76.778908"
+         width="88.08287" />
+      <g
+         transform="matrix(0.64416273,0,0,0.64416273,-135.9589,50.841253)"
+         id="g3131">
+        <text
+           xml:space="preserve"
+           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="818.6026"
+           y="750.06079"
+           id="text4857"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="818.6026"
+             y="750.06079"
+             id="tspan4861">你我各有一個蘋果</tspan><tspan
+             sodipodi:role="line"
+             x="818.6026"
+             y="757.56079"
+             id="tspan4869">如果我們交換蘋果的話</tspan><tspan
+             id="tspan3127"
+             sodipodi:role="line"
+             x="818.6026"
+             y="765.06079">各自都還是只有一個蘋果。</tspan><tspan
+             sodipodi:role="line"
+             x="818.6026"
+             y="772.56079"
+             id="tspan4871">但當你和我各有一個點子時,</tspan><tspan
+             sodipodi:role="line"
+             x="818.6026"
+             y="780.06079"
+             id="tspan4873">如果我們交換點子的話</tspan><tspan
+             id="tspan3129"
+             sodipodi:role="line"
+             x="818.6026"
+             y="787.56079">就都各有兩個點子了。</tspan><tspan
+             sodipodi:role="line"
+             x="818.6026"
+             y="795.06079"
+             id="tspan4883">-- 蕭伯納</tspan><tspan
+             sodipodi:role="line"
+             x="818.6026"
+             y="802.56079"
+             id="tspan4863" /><tspan
+             sodipodi:role="line"
+             x="818.6026"
+             y="810.06079"
+             id="tspan4865" /></text>
+        <image
+           sodipodi:absref="../m/12/bernard-shaw.jpg"
+           xlink:href="../m/12/bernard-shaw.jpg"
+           y="742.66956"
+           x="782.59814"
+           id="image3120"
+           height="53.991295"
+           width="35.544266" />
+      </g>
+      <g
+         transform="matrix(0.21271055,0,0,0.21271055,354.63042,457.26)"
+         id="g3001">
+        <image
+           sodipodi:absref="../m/13/sun.jpg"
+           xlink:href="../m/13/sun.jpg"
+           width="286.59082"
+           height="214.94312"
+           id="image3229"
+           x="60.800007"
+           y="548.03192" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="72.146179"
+           y="594.04572"
+           id="text3232"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3234"
+             x="72.146179"
+             y="594.04572">Sunlight is the best disinfectant</tspan><tspan
+             sodipodi:role="line"
+             x="72.146179"
+             y="614.04572"
+             id="tspan3236">-- 美國大法官 Louis D. Brandeis</tspan></text>
+      </g>
+      <text
+         transform="scale(0.9742012,1.026482)"
+         sodipodi:linespacing="125%"
+         id="text3349"
+         y="522.93127"
+         x="473.61777"
+         style="font-size:6.7084446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="522.93127"
+           x="473.61777"
+           id="tspan3351"
+           sodipodi:role="line">有道者不察所召</tspan><tspan
+           id="tspan3353"
+           y="531.31683"
+           x="473.61777"
+           sodipodi:role="line">而察其召之者</tspan></text>
+    </g>
+    <g
+       id="g4906"
+       transform="matrix(0.54740165,0,0,0.54740165,278.60563,102.80631)">
+      <g
+         id="g3395">
+        <image
+           sodipodi:absref="../m/15/coin-bank.jpg"
+           xlink:href="../m/15/coin-bank.jpg"
+           y="1033.0421"
+           x="569.10791"
+           id="image3371"
+           height="161.04314"
+           width="212.50317" />
+        <text
+           xml:space="preserve"
+           style="font-size:7.42877817px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="631.54022"
+           y="1153.4778"
+           id="text3190"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan3293"
+             sodipodi:role="line"
+             x="631.54022"
+             y="1153.4778">『長線投資 電腦學習』</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/13/shared-objects.gif"
+         xlink:href="../m/13/shared-objects.gif"
+         y="1143.7657"
+         x="745.63898"
+         id="image4797"
+         height="80.62513"
+         width="103.7478" />
+      <g
+         transform="matrix(1.0494437,0,0,1.0494437,-47.715244,-51.45351)"
+         id="g3194">
+        <image
+           sodipodi:absref="../m/13/lego.jpg"
+           xlink:href="../m/13/lego.jpg"
+           width="110.03769"
+           height="73.72525"
+           id="image6780"
+           x="744.0741"
+           y="973.35651" />
+        <rect
+           rx="3.3366292"
+           ry="3.2571855"
+           transform="matrix(1.8268122,0,0,1.8268122,-139.4355,279.16928)"
+           y="400.49414"
+           x="491.91446"
+           height="13.42596"
+           width="42.5023"
+           id="rect3308"
+           style="opacity:0.5;fill:#ffff00;fill-opacity:0.87843137;stroke:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.30590057px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="760.66632"
+           y="1027.3235"
+           id="text3190-6"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan3293-3"
+             sodipodi:role="line"
+             x="760.66632"
+             y="1027.3235">『modular』</tspan></text>
+      </g>
+      <g
+         id="g5150"
+         transform="matrix(0.57106057,0,0,0.57106057,140.56648,512.36845)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4863"
+           y="1174.8342"
+           x="700.72437"
+           style="font-size:20.1548481px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="1174.8342"
+             x="700.72437"
+             id="tspan4866"
+             sodipodi:role="line">5 + 5 + 5</tspan><tspan
+             id="tspan4868"
+             y="1200.0278"
+             x="700.72437"
+             sodipodi:role="line">vs</tspan><tspan
+             id="tspan4870"
+             y="1225.2213"
+             x="700.72437"
+             sodipodi:role="line">5 * 5 * 5</tspan></text>
+        <image
+           sodipodi:absref="../a/ckcalc0.png"
+           xlink:href="../a/ckcalc0.png"
+           width="96.506805"
+           height="87.167442"
+           id="image4961"
+           x="654.21417"
+           y="1056.8021" />
+        <image
+           sodipodi:absref="../a/ckcalc1.png"
+           xlink:href="../a/ckcalc1.png"
+           width="96.506805"
+           height="86.544815"
+           id="image5042"
+           x="756.87567"
+           y="1058.2073" />
+        <image
+           sodipodi:absref="../a/ckcalc2.png"
+           xlink:href="../a/ckcalc2.png"
+           width="97.75206"
+           height="86.856133"
+           id="image5123"
+           x="757.66022"
+           y="1148.6532" />
+      </g>
+      <g
+         transform="matrix(0.91291099,0,0,0.91291099,40.604118,-63.384222)"
+         id="g5208">
+        <image
+           sodipodi:absref="../a/learning_curve.png"
+           xlink:href="../a/learning_curve.png"
+           width="123.76392"
+           height="96.858719"
+           id="image4903"
+           x="509.91837"
+           y="1140.3608" />
+      </g>
+      <g
+         id="g4791"
+         transform="translate(0,0.6340281)">
+        <image
+           sodipodi:absref="../m/15/mammal-dinosaur.jpg"
+           xlink:href="../m/15/mammal-dinosaur.jpg"
+           y="1051.2383"
+           x="784.44354"
+           id="image4778"
+           height="84.99575"
+           width="65.650688" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.88689613px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="788.6308"
+           y="1063.0009"
+           id="text4781"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="788.6308"
+             y="1063.0009"
+             id="tspan4785">自由軟體憑什麼竄起?</tspan><tspan
+             sodipodi:role="line"
+             x="788.6308"
+             y="1070.3595"
+             id="tspan4789">為什麼經常輕薄短小?</tspan></text>
+      </g>
+    </g>
+    <image
+       sodipodi:absref="../m/13/blame.jpg"
+       xlink:href="../m/13/blame.jpg"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"
+       width="61.547829"
+       height="55.262096"
+       id="image3366"
+       x="-279.12842"
+       y="879.88495" />
+    <image
+       sodipodi:absref="../m/13/hand-fixing-hand.jpg"
+       xlink:href="../m/13/hand-fixing-hand.jpg"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+       width="94.557076"
+       height="70.917809"
+       id="image3412"
+       x="523.14276"
+       y="691.46478" />
+    <image
+       sodipodi:absref="../m/13/spoon-feeding.jpg"
+       xlink:href="../m/13/spoon-feeding.jpg"
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"
+       width="75.317673"
+       height="49.975487"
+       id="image3648"
+       x="-326.26166"
+       y="951.22998" />
+    <image
+       sodipodi:absref="../m/13/baby-fixing-computer.jpg"
+       xlink:href="../m/13/baby-fixing-computer.jpg"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
+       width="81.096962"
+       height="60.82272"
+       id="image3694"
+       x="558.76862"
+       y="770.80542" />
+    <g
+       id="g3898"
+       transform="matrix(0.29147929,0,0,0.29341269,315.02397,294.24316)">
+      <g
+         id="g4125"
+         transform="translate(-115.86232,202.19666)">
+        <image
+           sodipodi:absref="../m/13/businessman.jpg"
+           xlink:href="../m/13/businessman.jpg"
+           width="242.83539"
+           height="194.26834"
+           id="image3839"
+           x="236.7224"
+           y="1263.3375" />
+        <text
+           xml:space="preserve"
+           style="font-size:11.04986095px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+           x="245.91888"
+           y="1407.0648"
+           id="text3888"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan4121"
+             sodipodi:role="line"
+             x="245.91888"
+             y="1407.0648">小王子問:「變得富有對你又有什麼好處呢？ 」</tspan><tspan
+             sodipodi:role="line"
+             x="245.91888"
+             y="1420.8772"
+             id="tspan3892">生意人說: 「那麼每當發現了新的星星，</tspan><tspan
+             sodipodi:role="line"
+             x="245.91888"
+             y="1434.6895"
+             id="tspan3894">我就可以買下更多的星星了啊！ 」 --</tspan><tspan
+             sodipodi:role="line"
+             x="245.91888"
+             y="1448.4819"
+             id="tspan3896">Antonine De Saint-Exupery in Little Prince</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/13/smell-flowers.jpg"
+         xlink:href="../m/13/smell-flowers.jpg"
+         width="233.72885"
+         height="185.31357"
+         id="image4042"
+         x="474.20712"
+         y="1215.2495" />
+      <g
+         id="g4133"
+         transform="matrix(2.3392033,0,0,2.3392033,142.07246,-1935.026)">
+        <image
+           sodipodi:absref="../m/13/olpc.jpg"
+           xlink:href="../m/13/olpc.jpg"
+           y="1450.4078"
+           x="140.32292"
+           id="image4088"
+           height="80.76857"
+           width="107.33366" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4091"
+           y="1463.1896"
+           x="138.45151"
+           style="font-size:6.21469736px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="1463.1896"
+             x="138.45151"
+             id="tspan4093"
+             sodipodi:role="line">OLPC 的價值:</tspan><tspan
+             id="tspan4095"
+             y="1470.958"
+             x="138.45151"
+             sodipodi:role="line">sale value</tspan><tspan
+             id="tspan4097"
+             y="1478.7263"
+             x="138.45151"
+             sodipodi:role="line">or</tspan><tspan
+             id="tspan4099"
+             y="1486.4948"
+             x="138.45151"
+             sodipodi:role="line">use value?</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.79941437,0,0,0.79941437,34.125463,240.90895)"
+         id="g3888">
+        <image
+           sodipodi:absref="../m/13/chasing-bus.jpg"
+           xlink:href="../m/13/chasing-bus.jpg"
+           width="149.97478"
+           height="226.27638"
+           id="image3885"
+           x="125.04043"
+           y="1200.0728" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3878"
+           y="1229.788"
+           x="281.98123"
+           style="font-size:27.90169907px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             id="tspan4268"
+             y="1229.788"
+             x="281.98123"
+             sodipodi:role="line">帳面 vs 效益</tspan><tspan
+             id="tspan4274"
+             y="1264.665"
+             x="281.98123"
+             sodipodi:role="line">追車 vs 抵達</tspan><tspan
+             id="tspan3886"
+             y="1299.5422"
+             x="281.98123"
+             sodipodi:role="line">文憑 vs 知識</tspan><tspan
+             id="tspan3882"
+             y="1334.4193"
+             x="281.98123"
+             sodipodi:role="line">證照 vs 實力</tspan><tspan
+             id="tspan3884"
+             y="1369.2965"
+             x="281.98123"
+             sodipodi:role="line">經濟 vs 生活品質</tspan><tspan
+             id="tspan4272"
+             y="1404.1736"
+             x="281.98123"
+             sodipodi:role="line">擁有 vs 使用</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3283"
+       transform="matrix(0.31791722,0,0,0.31791722,488.48947,386.46178)">
+      <image
+         sodipodi:absref="../m/13/turtle-doc.jpg"
+         xlink:href="../m/13/turtle-doc.jpg"
+         y="875.79883"
+         x="992.96057"
+         id="image3789"
+         height="83.506248"
+         width="103.22637" />
+      <image
+         sodipodi:absref="../m/13/word-formats.jpg"
+         xlink:href="../m/13/word-formats.jpg"
+         y="962.54895"
+         x="989.2561"
+         id="image3268"
+         height="99.962303"
+         width="220.71678" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3271"
+         y="897.49176"
+         x="1098.8262"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="897.49176"
+           x="1098.8262"
+           sodipodi:role="line"
+           id="tspan3311">『數位遺產</tspan><tspan
+           id="tspan5714"
+           y="917.49176"
+           x="1098.8262"
+           sodipodi:role="line">  兩大挑戰』</tspan></text>
+    </g>
+    <g
+       id="g4143"
+       transform="matrix(0.69486395,0,0,0.69486395,216.96627,-120.86349)">
+      <image
+         sodipodi:absref="../m/13/sustainability.jpg"
+         xlink:href="../m/13/sustainability.jpg"
+         y="674.22784"
+         x="431.38327"
+         id="image4705"
+         height="178.76514"
+         width="179.34744" />
+      <image
+         sodipodi:absref="../m/13/remote-usb.jpg"
+         xlink:href="../m/13/remote-usb.jpg"
+         y="619.8064"
+         x="537.4588"
+         id="image3218"
+         height="42.028362"
+         width="63.042534" />
+      <g
+         id="g3113"
+         transform="matrix(0.31619506,0,0,0.31619506,569.30972,552.0492)">
+        <image
+           sodipodi:absref="../m/13/russell.jpg"
+           xlink:href="../m/13/russell.jpg"
+           y="785.92767"
+           x="302.75015"
+           id="image3264-7"
+           height="97.862755"
+           width="97.862755" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3097"
+           y="800.97156"
+           x="175.37483"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             id="tspan3101"
+             y="800.97156"
+             x="175.37483"
+             sodipodi:role="line"
+             style="font-size:20px;fill:#ff0000">童軍精神</tspan><tspan
+             y="825.97156"
+             x="175.37483"
+             sodipodi:role="line"
+             id="tspan3140" /><tspan
+             y="846.97742"
+             x="175.37483"
+             sodipodi:role="line"
+             id="tspan3138">自立、 榮譽、</tspan><tspan
+             id="tspan3105"
+             y="866.97742"
+             x="175.37483"
+             sodipodi:role="line">合作、 助人、</tspan><tspan
+             id="tspan3109"
+             y="886.97742"
+             x="175.37483"
+             sodipodi:role="line">公共服務</tspan><tspan
+             y="906.97742"
+             x="175.37483"
+             sodipodi:role="line"
+             id="tspan3122">(哪一類軟體允許你這麼做?)</tspan><tspan
+             y="926.94867"
+             x="175.37483"
+             sodipodi:role="line"
+             id="tspan3126">&quot;Bit Prepared: A Missing Link?&quot;</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:2.92935991px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+         x="625.58057"
+         y="725.90344"
+         id="text3142"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3144"
+           x="625.58057"
+           y="725.90344"
+           style="font-size:3.66169953px;fill:#ff0000;-inkscape-font-specification:Sans Bold">老師的三難</tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="730.48059"
+           id="tspan3146" /><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="734.32642"
+           id="tspan3148">「老師, 這套軟體我可以拷回家練習嗎?」</tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="737.9881"
+           id="tspan3150" /><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="741.64984"
+           id="tspan3152"> 1.「尊重智慧財產權, 應該要自己購買合法的版本」</tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="745.31152"
+           id="tspan3154"> 2.「做人要有尊嚴, 我們沒錢就不要用非法的版本」</tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="748.97321"
+           id="tspan3156"> 3.「電腦教室裡發生什麼事我完全不知道啦 (眨眼)」</tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="752.63495"
+           id="tspan3158"> 4.「這套是自由軟體, 當然可以拷貝!」</tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="756.29663"
+           id="tspan3160" /><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="759.95831"
+           id="tspan3162"><tspan
+             style="fill:#0000ff"
+             id="tspan3168">句讀之不知, 惑之不解, 小學而大遺, 吾未見其明也!</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="763.62"
+           id="tspan3284"><tspan
+             style="fill:#0000ff"
+             id="tspan3286">-- 韓愈師說 </tspan></tspan><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="767.28174"
+           id="tspan3164" /><tspan
+           sodipodi:role="line"
+           x="625.58057"
+           y="770.94342"
+           id="tspan3166" /></text>
+      <g
+         transform="matrix(0.8698422,0,0,0.8698422,89.323749,85.923859)"
+         id="g5725">
+        <image
+           sodipodi:absref="../m/12/olpc.jpg"
+           xlink:href="../m/12/olpc.jpg"
+           width="58.00267"
+           height="73.663391"
+           id="image5932"
+           x="629.0979"
+           y="613.27472" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.63478374px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="605.96606"
+           y="624.97101"
+           id="text5717"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5719"
+             x="605.96606"
+             y="624.97101">Nicholas</tspan><tspan
+             sodipodi:role="line"
+             x="605.96606"
+             y="635.76447"
+             id="tspan5721">Negroponte</tspan><tspan
+             sodipodi:role="line"
+             x="605.96606"
+             y="646.55798"
+             id="tspan5723">OLPC</tspan></text>
+      </g>
+      <g
+         id="g3881"
+         transform="translate(-182.08348,-83.362031)">
+        <image
+           sodipodi:absref="../m/13/tux-usb.png"
+           xlink:href="../m/13/tux-usb.png"
+           width="66.71611"
+           height="50.037083"
+           id="image4651"
+           x="624.27637"
+           y="700.86194" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3875"
+           y="707.58868"
+           x="613.78168"
+           style="font-size:8.63478374px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="707.58868"
+             x="613.78168"
+             id="tspan3877"
+             sodipodi:role="line">『百毒不侵</tspan><tspan
+             id="tspan3879"
+             y="718.38214"
+             x="613.78168"
+             sodipodi:role="line">   救命碟』</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3271"
+       transform="matrix(1.015382,0,0,1.015382,332.71064,-48.812653)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3169"
+         y="612.73236"
+         x="287.69382"
+         style="font-size:4.73769474px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="612.73236"
+           x="287.69382"
+           id="tspan3172"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW">inkscape 或是 illustrator?</tspan><tspan
+           id="tspan3176"
+           y="618.65448"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW">linux 或是 windows?</tspan><tspan
+           id="tspan3178"
+           y="624.5766"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW">我們不只是在選擇<tspan
+   style="font-size:4.73769474px;fill:#ff0000;-inkscape-font-specification:AR PL UKai TW"
+   id="tspan3189">工具</tspan></tspan><tspan
+           id="tspan3174"
+           y="630.49872"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW">同時也是在選擇<tspan
+   style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-stretch:normal;fill:#ff0000;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+   id="tspan3175">文化</tspan>和<tspan
+   style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-stretch:normal;fill:#ff0000;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+   id="tspan3179">價值觀</tspan></tspan><tspan
+           id="tspan5968"
+           y="636.42084"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW" /><tspan
+           id="tspan5964"
+           y="642.34296"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW" /><tspan
+           id="tspan5966"
+           y="648.26508"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW" /><tspan
+           id="tspan5867"
+           y="654.18719"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW" /><tspan
+           id="tspan5869"
+           y="660.10931"
+           x="287.69382"
+           sodipodi:role="line"
+           style="font-size:4.73769474px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW">『open source government』</tspan></text>
+      <image
+         sodipodi:absref="../m/11/jake-eywa.jpg"
+         xlink:href="../m/11/jake-eywa.jpg"
+         y="633.22595"
+         x="299.81992"
+         id="image5961"
+         height="20.737415"
+         width="37.477257" />
+    </g>
+    <g
+       transform="matrix(1.7697102,0,0,1.7697102,-14.921748,-965.17707)"
+       id="g3161">
+      <image
+         sodipodi:absref="../m/13/pythagorean-theorem.gif"
+         xlink:href="../m/13/pythagorean-theorem.gif"
+         width="159.57698"
+         height="89.762047"
+         id="image3144-1"
+         x="34.572777"
+         y="914.53351" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.28155422px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans"
+         x="94.14344"
+         y="933.64087"
+         id="text3147"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3149"
+           x="94.14344"
+           y="933.64087">如果用『尺規財產權』保護數學定理...</tspan><tspan
+           sodipodi:role="line"
+           x="94.14344"
+           y="936.4928"
+           id="tspan3151">- &lt;使用&gt;數學的成本會提高還是降低?</tspan><tspan
+           sodipodi:role="line"
+           x="94.14344"
+           y="939.34473"
+           id="tspan3153">- 發明定理 vs 使用定理， 何者好賺?</tspan><tspan
+           sodipodi:role="line"
+           x="94.14344"
+           y="942.20081"
+           id="tspan3155">- 數學人才往哪裡走?</tspan><tspan
+           sodipodi:role="line"
+           x="94.14344"
+           y="945.05273"
+           id="tspan3159">- 如果沒人要買我的定理...</tspan><tspan
+           sodipodi:role="line"
+           x="94.14344"
+           y="947.90466"
+           id="tspan3157">- 還有法律人才...</tspan></text>
+      <g
+         transform="matrix(0.08207596,0,0,0.08207596,95.435206,953.88583)"
+         inkscape:label="Layer 1"
+         id="layer1-2">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#ffff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+           d="m 78.46448,74.37228 1.41421,160.09903 319.61227,0.29289"
+           id="path1307"
+           sodipodi:nodetypes="ccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+           x="277.32492"
+           y="-321.8952"
+           id="text1309"
+           sodipodi:linespacing="100%"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-321.8952"
+             id="tspan1333">education</tspan><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-297.8952"
+             id="tspan2451" /><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-273.8952"
+             id="tspan2453" /><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-249.8952"
+             id="tspan2457">science</tspan><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-225.8952"
+             id="tspan2459">ICT</tspan><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-201.8952"
+             id="tspan2463">engineering  </tspan><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-177.8952"
+             id="tspan2465" /><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-153.8952"
+             id="tspan5268" /><tspan
+             sodipodi:role="line"
+             x="277.32492"
+             y="-129.8952"
+             id="tspan2469">tourism</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+           x="232.22745"
+           y="337.14081"
+           id="text1337"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan1339"
+             x="232.22745"
+             y="337.14081">...   ...     ...   ..</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 84.5797,211.67841 28,10 24,-16 20,4 30,-14 16,8 14,-18 16,-108 18,104 22,20 20,-4 24,24 20,-8 17,7.55513"
+           id="path1341" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#00c0c0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 84.5797,161.14645 20.20101,-7.05826 10.46446,9.3201 11.73655,-67.704267 15.48024,68.597977 32.44869,-12.97056 21.31371,15.42641 11.75736,-42.18377 25,25 16.89949,-40.92893 27.03153,54 14.14214,-14.34314 21.2132,7.51471 13.71364,-52.65303 11.08536,62.79517 17.50043,2.25866"
+           id="path1343"
+           sodipodi:nodetypes="cccccccccccccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+           x="183.92"
+           y="262.08218"
+           id="text3327"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3329"
+             x="183.92"
+             y="262.08218">Industry</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+           x="92.947807"
+           y="-53.944"
+           id="text3331"
+           transform="matrix(0,1,-1,0,0,0)"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3333"
+             x="92.947807"
+             y="-53.944">Benefits</tspan><tspan
+             sodipodi:role="line"
+             x="92.947807"
+             y="-23.944"
+             id="tspan3335-9">from ICT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ff00ff;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
+           x="150.17912"
+           y="194.50262"
+           id="text3341"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3343"
+             x="150.17912"
+             y="194.50262">proprietary soft.</tspan><tspan
+             sodipodi:role="line"
+             x="150.17912"
+             y="217.00262"
+             id="tspan5099">(sale value)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#00c0c0;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
+           x="249.04541"
+           y="82.986031"
+           id="text3345"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3347"
+             x="249.04541"
+             y="82.986031">FLOSS (use value)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Courier"
+           x="112.33749"
+           y="45.570183"
+           id="text5095"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5097"
+             x="112.33749"
+             y="45.570183">Value of ICT</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3851"
+       transform="matrix(0.83119809,0,0,0.83119809,137.73147,535.20645)">
+      <g
+         transform="matrix(0.81478493,0,0,0.81478493,312.41796,-36.900843)"
+         id="g3987">
+        <image
+           sodipodi:absref="../m/13/privacy-hood.jpg"
+           xlink:href="../m/13/privacy-hood.jpg"
+           width="42.791149"
+           height="32.093365"
+           id="image3028"
+           x="565.09955"
+           y="557.48651" />
+        <image
+           sodipodi:absref="../m/13/pc-security.jpg"
+           xlink:href="../m/13/pc-security.jpg"
+           width="33.819798"
+           height="25.364843"
+           id="image3424"
+           x="569.31415"
+           y="597.35217" />
+        <image
+           sodipodi:absref="../m/13/eff-ssd.png"
+           xlink:href="../m/13/eff-ssd.png"
+           width="205.21811"
+           height="28.782345"
+           id="image3984"
+           x="489.17297"
+           y="632.10638" />
+        <image
+           sodipodi:absref="../m/13/guardian-project.png"
+           xlink:href="../m/13/guardian-project.png"
+           y="564.79492"
+           x="624.04309"
+           id="image4561"
+           height="49.919231"
+           width="70.124641" />
+        <g
+           id="g3465"
+           transform="matrix(1.1808294,0,0,1.1808294,-95.791254,-120.33512)">
+          <image
+             xlink:href="../m/13/f-droid-in-tibet.jpg"
+             y="579.88007"
+             x="491.69623"
+             id="image3458"
+             height="44.087658"
+             width="58.78355" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3461"
+             y="599.81958"
+             x="513.9823"
+             style="font-size:5.61358213px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+             xml:space="preserve"><tspan
+               y="599.81958"
+               x="513.9823"
+               id="tspan3463"
+               sodipodi:role="line">f-droid 市集</tspan></text>
+        </g>
+      </g>
+      <text
+         transform="matrix(0,1,-1,0,0,0)"
+         xml:space="preserve"
+         style="font-size:4.73423195px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="535.04865"
+         y="-988.99255"
+         id="text4139"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4141"
+           x="535.04865"
+           y="-988.99255">『Apple FBI』</tspan><tspan
+           sodipodi:role="line"
+           x="535.04865"
+           y="-983.07477"
+           id="tspan4143">『思科 吹哨』</tspan><tspan
+           sodipodi:role="line"
+           x="535.04865"
+           y="-977.15698"
+           id="tspan4145">『Skype FBI』</tspan><tspan
+           sodipodi:role="line"
+           x="535.04865"
+           y="-971.2392"
+           id="tspan4147">『反恐 維安劇場』</tspan><tspan
+           sodipodi:role="line"
+           x="535.04865"
+           y="-965.32141"
+           id="tspan4149">『Bitlocker backdoor』</tspan><tspan
+           sodipodi:role="line"
+           x="535.04865"
+           y="-959.40363"
+           id="tspan4151">『spyfiles』</tspan></text>
+      <image
+         sodipodi:absref="../m/12/spy-files.jpg"
+         xlink:href="../m/12/spy-files.jpg"
+         width="60.944866"
+         height="45.708641"
+         id="image4231"
+         x="-692.74365"
+         y="-582.77826"
+         transform="scale(-1,-1)" />
+      <g
+         id="g3372"
+         transform="matrix(-0.5478551,0,0,-0.5478551,1411.7275,893.2045)">
+        <image
+           sodipodi:absref="../m/13/finfisher-where.jpg"
+           xlink:href="../m/13/finfisher-where.jpg"
+           width="114.2513"
+           height="63.266663"
+           id="image3284"
+           x="875.79871"
+           y="562.04633" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3368"
+           y="639.95728"
+           x="900.96411"
+           style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="639.95728"
+             x="900.96411"
+             id="tspan3370"
+             sodipodi:role="line">『finfisher 竊聽』</tspan></text>
+      </g>
+      <g
+         id="g3381"
+         transform="matrix(-0.60239929,0,0,-0.60239929,1297.9339,923.44394)">
+        <image
+           sodipodi:absref="../m/13/carrier-iq.jpg"
+           xlink:href="../m/13/carrier-iq.jpg"
+           width="85.076546"
+           height="68.061234"
+           id="image3365"
+           x="740.97778"
+           y="565.10889" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3377"
+           y="583.25159"
+           x="743.96912"
+           style="font-size:4px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="583.25159"
+             x="743.96912"
+             id="tspan3379"
+             sodipodi:role="line">『Carrier IQ 隱私』</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/13/nsakey.jpg"
+         xlink:href="../m/13/nsakey.jpg"
+         width="104.55402"
+         height="74.681435"
+         id="image3283"
+         x="421.08582"
+         y="-993.95007"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <g
+         transform="matrix(1.9716355,0,0,1.9716355,-1127.941,-1082.0764)"
+         id="g3444">
+        <image
+           sodipodi:absref="../m/15/rogue-antivirus.jpg"
+           xlink:href="../m/15/rogue-antivirus.jpg"
+           y="708.32465"
+           x="863.30731"
+           id="image3437"
+           height="27.790722"
+           width="35.648216" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.83274841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="865.25677"
+           y="741.30133"
+           id="text3440"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3442"
+             x="865.25677"
+             y="741.30133">『流氓軟體 養蠱』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.34740942,0,0,0.34740942,515.17584,-58.852323)"
+         id="g3460">
+        <image
+           sodipodi:absref="../m/15/xcode.jpg"
+           xlink:href="../m/15/xcode.jpg"
+           y="1088.6561"
+           x="465.5155"
+           id="image3449"
+           height="106.90321"
+           width="244.35022" />
+        <text
+           xml:space="preserve"
+           style="font-size:19.96170044px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="501.23053"
+           y="1221.1423"
+           id="text3452"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3454"
+             x="501.23053"
+             y="1221.1423">『xcode 木馬』</tspan><tspan
+             sodipodi:role="line"
+             x="501.23053"
+             y="1246.0945"
+             id="tspan3456">『xcodeghost』</tspan><tspan
+             sodipodi:role="line"
+             x="501.23053"
+             y="1271.0466"
+             id="tspan3458">『xcode gfw 惹禍』</tspan></text>
+      </g>
+      <g
+         transform="matrix(1.5994753,0,0,1.5994753,-1065.6324,-842.63442)"
+         id="g4472">
+        <image
+           sodipodi:absref="../m/14/adobe-spying.jpg"
+           xlink:href="../m/14/adobe-spying.jpg"
+           width="55.720631"
+           height="38.001472"
+           id="image3444"
+           x="1162.8212"
+           y="729.05402" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.38887453px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="1165.322"
+           y="762.84094"
+           id="text4464"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="1165.322"
+             y="762.84094"
+             id="tspan4468">『adobe的文化 你的隱私』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.68041111,0.68041111,-0.68041111,0.68041111,550.68582,-538.51021)"
+         id="g3797">
+        <image
+           sodipodi:absref="../m/15/eye-in-keyhole.jpg"
+           xlink:href="../m/15/eye-in-keyhole.jpg"
+           width="97.175858"
+           height="54.661423"
+           id="image3784"
+           x="907.71649"
+           y="331.48819" />
+        <text
+           xml:space="preserve"
+           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="907.84717"
+           y="369.18646"
+           id="text3787"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3789"
+             x="907.84717"
+             y="369.18646">『wga phone home』</tspan><tspan
+             sodipodi:role="line"
+             x="907.84717"
+             y="374.18646"
+             id="tspan3793">『windows 7 盜版警察』</tspan><tspan
+             sodipodi:role="line"
+             x="907.84717"
+             y="379.18646"
+             id="tspan3795">『NSA windows 後門』</tspan><tspan
+             sodipodi:role="line"
+             x="907.84717"
+             y="384.18646"
+             id="tspan3791">『舊版 windows telemetry』</tspan></text>
+      </g>
+      <g
+         id="g4811"
+         transform="matrix(0,-0.14597412,0.14597412,0,380.56127,685.84504)">
+        <image
+           sodipodi:absref="../m/13/imessage-mitm-1.jpg"
+           xlink:href="../m/13/imessage-mitm-1.jpg"
+           y="1413.0363"
+           x="749.10461"
+           id="image3224"
+           height="112.04537"
+           width="149.39383" />
+        <image
+           sodipodi:absref="../m/13/imessage-mitm-2.jpg"
+           xlink:href="../m/13/imessage-mitm-2.jpg"
+           y="1413.6515"
+           x="906.92023"
+           id="image3321"
+           height="112.04537"
+           width="149.39383" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4807"
+           y="1393.4542"
+           x="759.41272"
+           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="1393.4542"
+             x="759.41272"
+             id="tspan4809"
+             sodipodi:role="line">『iMessage 後門』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0,-0.19475576,0.19475576,0,475.27845,580.62615)"
+         id="g5758">
+        <image
+           sodipodi:absref="../m/13/touchid.jpg"
+           xlink:href="../m/13/touchid.jpg"
+           width="192.78471"
+           height="108.35831"
+           id="image3227"
+           x="408.66806"
+           y="524.12439" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text5752"
+           y="548.88611"
+           x="411.09125"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="548.88611"
+             x="411.09125"
+             id="tspan5754"
+             sodipodi:role="line">『touchid hack』</tspan><tspan
+             id="tspan5756"
+             y="561.38611"
+             x="411.09125"
+             sodipodi:role="line">『指紋鎖 一輩子無法更改』</tspan></text>
+      </g>
+      <g
+         transform="matrix(0,-0.91909747,0.91909747,0,-102.89941,426.39518)"
+         id="g5381">
+        <image
+           sodipodi:absref="../m/13/iphone-safer-fallacy.jpg"
+           xlink:href="../m/13/iphone-safer-fallacy.jpg"
+           width="47.174938"
+           height="29.877459"
+           id="image4933"
+           x="-17.183792"
+           y="735.31873" />
+        <text
+           xml:space="preserve"
+           style="font-size:2.71777344px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="-11.073216"
+           y="740.13422"
+           id="text5377"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5379"
+             x="-11.073216"
+             y="740.13422">『行動裝置 資通安全 謊言』</tspan></text>
+      </g>
+      <g
+         transform="matrix(-0.76346904,0,0,-0.76346904,1359.1446,1002.973)"
+         id="g3844">
+        <image
+           sodipodi:absref="../m/13/prism-slide-5.jpg"
+           xlink:href="../m/13/prism-slide-5.jpg"
+           width="82.173225"
+           height="61.629925"
+           id="image3899"
+           x="762.69214"
+           y="553.01068" />
+        <text
+           transform="translate(0,284.36218)"
+           sodipodi:linespacing="125%"
+           id="text3836"
+           y="294.56308"
+           x="770.79419"
+           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             y="294.56308"
+             x="770.79419"
+             id="tspan3838"
+             sodipodi:role="line">『稜鏡計畫』</tspan><tspan
+             id="tspan3840"
+             y="299.56308"
+             x="770.79419"
+             sodipodi:role="line">『五眼聯盟』</tspan><tspan
+             id="tspan3842"
+             y="304.56308"
+             x="770.79419"
+             sodipodi:role="line">...</tspan></text>
+      </g>
+      <g
+         transform="matrix(0,-0.29315772,0.29315772,0,431.84295,722.60813)"
+         id="g4137">
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="733.11841"
+           y="826.03046"
+           id="text3310"
+           sodipodi:linespacing="125%"
+           transform="matrix(1.2030826,0,0,1.2030826,-165.70234,-301.78639)"><tspan
+             sodipodi:role="line"
+             id="tspan3312"
+             x="733.11841"
+             y="826.03046">棄權 =&gt; 安全?</tspan><tspan
+             sodipodi:role="line"
+             x="733.11841"
+             y="846.03046"
+             id="tspan3314">官方 =&gt; 安全?</tspan><tspan
+             sodipodi:role="line"
+             x="733.11841"
+             y="866.03046"
+             id="tspan3316">透明 =&gt; 很難有後門</tspan></text>
+        <g
+           id="g4131"
+           transform="translate(-4.0725686,3.4907731)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3318"
+             d="m 850.40353,672.2155 25.01721,16.29027"
+             style="fill:none;stroke:#ff0000;stroke-width:2.40616512;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3318-0"
+             d="m 875.42074,672.2155 -25.01721,16.29027"
+             style="fill:none;stroke:#ff0000;stroke-width:2.40616512;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g4131"
+           id="use4135"
+           transform="translate(2.3271821,23.853616)"
+           width="1024"
+           height="768" />
+      </g>
+      <g
+         transform="matrix(0,-0.073601,0.073601,0,576.00642,464.00074)"
+         id="g4283">
+        <image
+           sodipodi:absref="../m/15/stagefright.jpg"
+           xlink:href="../m/15/stagefright.jpg"
+           width="320.64581"
+           height="210.02299"
+           id="image4274"
+           x="261.1745"
+           y="802.29242" />
+        <image
+           sodipodi:absref="../m/15/heartbleed.jpg"
+           xlink:href="../m/15/heartbleed.jpg"
+           width="327.37405"
+           height="184.98875"
+           id="image4209"
+           x="504.56717"
+           y="681.45374" />
+        <text
+           xml:space="preserve"
+           style="font-size:44.2596283px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="267.03345"
+           y="734.88879"
+           id="text4277"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4279"
+             x="267.03345"
+             y="734.88879">自由軟體</tspan><tspan
+             sodipodi:role="line"
+             x="267.03345"
+             y="790.21332"
+             id="tspan4281">有後門嗎?</tspan></text>
+        <image
+           sodipodi:absref="../m/15/spy.png"
+           xlink:href="../m/15/spy.png"
+           y="897.11462"
+           x="579.61206"
+           id="image4462"
+           height="115.83484"
+           width="231.66968" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4290"
+           y="919.37958"
+           x="581.39746"
+           style="font-size:27.94594002px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             id="tspan4298"
+             y="919.37958"
+             x="581.39746"
+             sodipodi:role="line">要派誰    去放後門?</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6387"
+       transform="matrix(0.52953522,0,0,0.52953522,471.3968,195.61931)">
+      <image
+         sodipodi:absref="../m/14/Scott-McNealy.jpg"
+         xlink:href="../m/14/Scott-McNealy.jpg"
+         y="664.26709"
+         x="832.50775"
+         id="image6380"
+         height="130.34016"
+         width="160.44255" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6383"
+         y="679.37512"
+         x="840.86328"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="679.37512"
+           x="840.86328"
+           id="tspan6385"
+           sodipodi:role="line">『下賊船的代價』</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.21422086,0,0,0.21422086,608.38447,419.43707)"
+       id="g3171">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="97.233025"
+         y="153.60001"
+         id="text3031"
+         sodipodi:linespacing="125%"
+         transform="translate(0,284.36218)"><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="153.60001"
+           id="tspan3035">自由軟體 free software</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="173.60001"
+           id="tspan3039">代表作: firefox、 gnu/linux、 ,,,</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="193.60001"
+           id="tspan3057">創始人: Richard Stallman (rms)</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="213.60001"
+           id="tspan3065">始於: 1984</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="233.60001"
+           id="tspan3061">免費不是重點</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="253.60001"
+           id="tspan3045">四大自由:</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="273.60001"
+           id="tspan3163">使用、 研究、</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="293.60001"
+           id="tspan3165">散佈、 修改</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="313.60001"
+           id="tspan3053">Free as in Freedom</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="333.60001"
+           id="tspan3167">有些人稱之為 「開放原始碼軟體」</tspan><tspan
+           sodipodi:role="line"
+           x="97.233025"
+           y="353.60001"
+           id="tspan3041" /></text>
+      <image
+         sodipodi:absref="../m/13/rms.jpg"
+         xlink:href="../m/13/rms.jpg"
+         width="93.41581"
+         height="109.91927"
+         id="image3160"
+         x="250.26857"
+         y="489.39514" />
+    </g>
+    <g
+       id="g4838"
+       transform="matrix(0.94555514,0,0,0.94555514,99.444882,-226.74789)">
+      <image
+         sodipodi:absref="../m/13/planned-obsolescence-1.jpg"
+         xlink:href="../m/13/planned-obsolescence-1.jpg"
+         width="64.524384"
+         height="43.016251"
+         id="image4432"
+         x="816.82892"
+         y="555.8335" />
+      <image
+         sodipodi:absref="../m/11/trust-windows-8.jpg"
+         xlink:href="../m/11/trust-windows-8.jpg"
+         width="66.441605"
+         height="50.083637"
+         id="image4347"
+         x="660.27942"
+         y="660.87238" />
+      <g
+         id="g4628"
+         transform="matrix(0.48596115,0,0,0.48596115,560.7272,309.22531)">
+        <image
+           sodipodi:absref="../m/15/designed-for-dump.jpg"
+           xlink:href="../m/15/designed-for-dump.jpg"
+           y="511.12308"
+           x="693.78552"
+           id="image4617"
+           height="87.496063"
+           width="116.66142" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text4620"
+           y="580.9317"
+           x="694.63959"
+           style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           xml:space="preserve"><tspan
+             id="tspan4626"
+             y="580.9317"
+             x="694.63959"
+             sodipodi:role="line">『電子產品的故事』</tspan></text>
+      </g>
+      <image
+         sodipodi:absref="../m/11/ewaste1.jpg"
+         xlink:href="../m/11/ewaste1.jpg"
+         width="149.39175"
+         height="96.637794"
+         id="image4733"
+         x="660.91339"
+         y="555.79132" />
+      <image
+         sodipodi:absref="../m/11/ewaste2.jpg"
+         xlink:href="../m/11/ewaste2.jpg"
+         width="152.71175"
+         height="102.12598"
+         id="image4811"
+         x="813.01288"
+         y="655.09442" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g3881"
+         id="use4814"
+         transform="matrix(0.81234578,0,0,0.81234578,310.21671,212.68986)"
+         width="1024"
+         height="768" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="350.43756"
+         y="982.39056"
+         id="text4834"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4836"
+           x="350.43756"
+           y="982.39056">e-waste</tspan></text>
+      <g
+         transform="translate(-3.6354114,-0.6059019)"
+         id="g6168">
+        <image
+           sodipodi:absref="../m/13/planned-obsolescence-3.jpg"
+           xlink:href="../m/13/planned-obsolescence-3.jpg"
+           y="609.98474"
+           x="901.21503"
+           id="image4524"
+           height="38.758503"
+           width="61.336262" />
+        <text
+           xml:space="preserve"
+           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="922.6604"
+           y="626.13611"
+           id="text4620-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="922.6604"
+             y="626.13611"
+             id="tspan4626-3">『計畫性報廢』</tspan></text>
+      </g>
+      <g
+         id="g3434">
+        <image
+           sodipodi:absref="../m/09/ub-z9100.jpg"
+           xlink:href="../m/09/ub-z9100.jpg"
+           y="707.54443"
+           x="738.15009"
+           id="image3427"
+           height="49.12114"
+           width="65.49485" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.34547901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+           x="751.00775"
+           y="752.63684"
+           id="text3430"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3432"
+             x="751.00775"
+             y="752.63684">『z9100 lohas』</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4215"
+       transform="translate(151.18111,350.74016)">
+      <image
+         sodipodi:absref="../m/15/my-sassy-girl.jpg"
+         xlink:href="../m/15/my-sassy-girl.jpg"
+         y="309.96851"
+         x="754.77167"
+         id="image4206"
+         height="66.330711"
+         width="88.440941" />
+      <text
+         xml:space="preserve"
+         style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="768.15668"
+         y="373.25583"
+         id="text4209"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4211"
+           x="768.15668"
+           y="373.25583">我的野蠻 女友 工讀生</tspan></text>
+      <path
+         style="fill:none;stroke:#00ffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;stroke-dasharray:none"
+         d="M 807.72004,83.801324 797.5354,90.199365"
+         id="path4213"
+         inkscape:connector-curvature="0"
+         transform="translate(0,284.36218)" />
+    </g>
+    <g
+       transform="matrix(0.92020356,0,0,0.92020356,28.89255,38.50461)"
+       id="g4760">
+      <image
+         sodipodi:absref="../m/12/o07-search.jpg"
+         xlink:href="../m/12/o07-search.jpg"
+         y="834.50116"
+         x="385.38245"
+         id="image3248"
+         height="115.78599"
+         width="132.62091" />
+      <rect
+         y="927.95514"
+         x="391.17688"
+         height="4.7491474"
+         width="53.903652"
+         id="rect3968"
+         style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:0.38261992;stroke-miterlimit:2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="opacity:0.5;fill:none;stroke:#ff0000;stroke-width:0.38261992;stroke-miterlimit:2;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4758"
+         width="49.029358"
+         height="4.7491474"
+         x="451.13947"
+         y="918.97626" />
+    </g>
+    <g
+       transform="translate(18.301883,-15.506917)"
+       id="g6835">
+      <image
+         sodipodi:absref="../m/15/insult.jpg"
+         xlink:href="../m/15/insult.jpg"
+         y="945.27899"
+         x="362.97885"
+         id="image6832"
+         height="97.850792"
+         width="95.927429" />
+      <g
+         id="g3300"
+         transform="translate(29.427082,-16.920927)">
+        <rect
+           ry="0"
+           rx="0"
+           y="987.96759"
+           x="411.15817"
+           height="42.272354"
+           width="84.117271"
+           id="rect3341"
+           style="fill:url(#linearGradient6852);fill-opacity:1;stroke:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.24059057px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:AR PL UKai TW"
+           x="417.16498"
+           y="997.47937"
+           id="text3251"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="417.16498"
+             y="997.47937"
+             id="tspan3255">既然他們都會盜版, 那就不如</tspan><tspan
+             sodipodi:role="line"
+             x="417.16498"
+             y="1004.0301"
+             id="tspan3169">讓他們盜我們的軟體吧。</tspan><tspan
+             id="tspan3335"
+             sodipodi:role="line"
+             x="417.16498"
+             y="1010.5809">先讓他們上癮; 而我們再來研究</tspan><tspan
+             sodipodi:role="line"
+             x="417.16498"
+             y="1017.1316"
+             id="tspan3171">接下來十年如何向他們收錢。</tspan><tspan
+             id="tspan3337"
+             sodipodi:role="line"
+             x="417.16498"
+             y="1023.6823">-- 比爾蓋茲 1998 @ 華盛頓大學</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0507993,0,0,1.0507993,131.97829,-56.411877)"
+       id="g3500">
+      <image
+         sodipodi:absref="../m/15/linux-stat.png"
+         xlink:href="../m/15/linux-stat.png"
+         width="58.694481"
+         height="60.718422"
+         id="image3462"
+         x="358.78363"
+         y="565.8233" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.39079213px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         x="385.71765"
+         y="613.29333"
+         id="text3465"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3467"
+           x="385.71765"
+           y="613.29333">『lnux adopters』</tspan><tspan
+           sodipodi:role="line"
+           x="385.71765"
+           y="617.5318"
+           id="tspan3469">『linux countries』</tspan><tspan
+           sodipodi:role="line"
+           x="385.71765"
+           y="621.77032"
+           id="tspan3471">『odf adoption』</tspan></text>
+    </g>
+    <g
+       id="g3527">
+      <image
+         sodipodi:absref="../m/14/osmand/1.jpg"
+         xlink:href="../m/14/osmand/1.jpg"
+         width="41.57481"
+         height="69.291351"
+         id="image3419"
+         x="26.20439"
+         y="296.67725" />
+      <image
+         sodipodi:absref="../m/15/sip/enc/caller-2.jpg"
+         xlink:href="../m/15/sip/enc/caller-2.jpg"
+         width="39.212605"
+         height="69.711304"
+         id="image3516"
+         x="79.228355"
+         y="297.04462" />
+      <text
+         transform="translate(0,284.36218)"
+         sodipodi:linespacing="125%"
+         id="text3519"
+         y="94.215546"
+         x="28.268757"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL UKai TW;-inkscape-font-specification:AR PL UKai TW"
+         xml:space="preserve"><tspan
+           y="94.215546"
+           x="28.268757"
+           id="tspan3521"
+           sodipodi:role="line">『osmand 離線地圖』</tspan><tspan
+           id="tspan3523"
+           y="104.21555"
+           x="28.268757"
+           sodipodi:role="line">『sip 加密電話』</tspan><tspan
+           id="tspan3525"
+           y="114.21555"
+           x="28.268757"
+           sodipodi:role="line">『sip 省錢電話』</tspan></text>
+    </g>
+  </g>
+  <style
+     id="sozi-style"
+     ns1:version="12.06-12110506">#sozi-toc text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}#sozi-toc text:hover{fill:#0cf;cursor:pointer}#sozi-toc text.sozi-toc-current{fill:#fa4}#sozi-toc-background{stroke:#222;stroke-opacity:.1;stroke-width:10;fill:#222;fill-opacity:.9}.sozi-toc-arrow{fill:#eff;fill-opacity:.75;stroke:none}.sozi-toc-arrow:hover{fill:#0cf}#sozi-framenumber circle{stroke:#222;stroke-opacity:.1;stroke-width:4;fill:#222;fill-opacity:.9}#sozi-framenumber text{fill:#eff;font-family:Verdana,sans-serif;font-size:12pt}</style>
+  <script
+     id="sozi-script"
+     ns1:version="12.06-12110506">function namespace(b,d,a){var c=b;d.split(&quot;.&quot;).forEach(function(e){if(typeof c[e]===&quot;undefined&quot;){c[e]={}}c=c[e]});a(c,b)}namespace(this,&quot;sozi.events&quot;,function(b){var a={};b.listen=function(c,d){if(!a.hasOwnProperty(c)){a[c]=[]}a[c].push(d)};b.fire=function(d){var c=Array.prototype.slice.call(arguments,1);if(a.hasOwnProperty(d)){a[d].forEach(function(e){e.apply(null,c)})}}});namespace(this,&quot;sozi.framenumber&quot;,function(b,d){var g=d.document;var e;var k,i;var f;var c=&quot;http://www.w3.org/2000/svg&quot;;function h(){var m=k.getBBox(),n=Math.max(m.width,m.height)*0.75,l=n*1.25;f.setAttribute(&quot;r&quot;,n);e.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+l+&quot;,&quot;+l+&quot;)&quot;)}function a(){e=g.createElementNS(c,&quot;g&quot;);k=g.createElementNS(c,&quot;text&quot;);f=g.createElementNS(c,&quot;circle&quot;);e.setAttribute(&quot;id&quot;,&quot;sozi-framenumber&quot;);f.setAttribute(&quot;cx&quot;,0);f.setAttribute(&quot;cy&quot;,0);e.appendChild(f);i=g.createTextNode(sozi.location.getFrameIndex()+1);k.setAttribute(&quot;text-anchor&quot;,&quot;middle&quot;);k.setAttribute(&quot;dominant-baseline&quot;,&quot;central&quot;);k.setAttribute(&quot;x&quot;,0);k.setAttribute(&quot;y&quot;,0);k.appendChild(i);e.appendChild(k);g.documentElement.appendChild(e);h()}function j(l){i.nodeValue=l+1}sozi.events.listen(&quot;sozi.display.ready&quot;,a);sozi.events.listen(&quot;sozi.player.framechange&quot;,j)});namespace(this,&quot;sozi.framelist&quot;,function(u,k){var o=k.document;var c=5;var i;var p;var j=0;var h;var s;var b;var v;var w;var t;var e=300;var f=&quot;decelerate&quot;;var a=&quot;http://www.w3.org/2000/svg&quot;;function n(z){var x=z.relatedTarget,y=o.documentElement;while(x&amp;&amp;x!==i&amp;&amp;x!==y){x=x.parentNode}if(x!==i){u.hide();sozi.player.restart();z.stopPropagation()}}function r(y){var x=p.getCTM().f;if(x&lt;=-k.innerHeight/2){x+=k.innerHeight/2}else{if(x&lt;0){x=0}}p.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+x+&quot;)&quot;);y.stopPropagation()}function d(y){var x=p.getCTM().f;if(x+j&gt;=k.innerHeight*3/2){x-=k.innerHeight/2}else{if(x+j&gt;k.innerHeight+2*c){x=k.innerHeight-j-4*c}}p.setAttribute(&quot;transform&quot;,&quot;translate(0,&quot;+x+&quot;)&quot;);y.stopPropagation()}function g(x){return function(y){sozi.player.previewFrame(x);y.stopPropagation()}}function l(x){x.stopPropagation()}function q(){i=o.createElementNS(a,&quot;g&quot;);i.setAttribute(&quot;id&quot;,&quot;sozi-toc&quot;);o.documentElement.appendChild(i);p=o.createElementNS(a,&quot;g&quot;);i.appendChild(p);var z=o.createElementNS(a,&quot;rect&quot;);z.setAttribute(&quot;id&quot;,&quot;sozi-toc-background&quot;);z.setAttribute(&quot;x&quot;,c);z.setAttribute(&quot;y&quot;,c);z.setAttribute(&quot;rx&quot;,c);z.setAttribute(&quot;ry&quot;,c);z.addEventListener(&quot;click&quot;,l,false);z.addEventListener(&quot;mousedown&quot;,l,false);z.addEventListener(&quot;mouseout&quot;,n,false);p.appendChild(z);var B=0;var y=sozi.location.getFrameIndex();sozi.document.frames.forEach(function(E,F){var D=o.createElementNS(a,&quot;text&quot;);D.appendChild(o.createTextNode(E.title));p.appendChild(D);if(F===y){D.setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}var C=D.getBBox().width;j+=D.getBBox().height;if(C&gt;B){B=C}D.setAttribute(&quot;x&quot;,2*c);D.setAttribute(&quot;y&quot;,j+c);D.addEventListener(&quot;click&quot;,g(F),false);D.addEventListener(&quot;mousedown&quot;,l,false)});var x=o.createElementNS(a,&quot;path&quot;);x.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);x.setAttribute(&quot;d&quot;,&quot;M&quot;+(B+3*c)+&quot;,&quot;+(5*c)+&quot; l&quot;+(4*c)+&quot;,0 l-&quot;+(2*c)+&quot;,-&quot;+(3*c)+&quot; z&quot;);x.addEventListener(&quot;click&quot;,r,false);x.addEventListener(&quot;mousedown&quot;,l,false);i.appendChild(x);var A=o.createElementNS(a,&quot;path&quot;);A.setAttribute(&quot;class&quot;,&quot;sozi-toc-arrow&quot;);A.setAttribute(&quot;d&quot;,&quot;M&quot;+(B+3*c)+&quot;,&quot;+(7*c)+&quot; l&quot;+(4*c)+&quot;,0 l-&quot;+(2*c)+&quot;,&quot;+(3*c)+&quot; z&quot;);A.addEventListener(&quot;click&quot;,d,false);A.addEventListener(&quot;mousedown&quot;,l,false);i.appendChild(A);z.setAttribute(&quot;width&quot;,B+7*c);z.setAttribute(&quot;height&quot;,j+2*c);h=-B-9*c;s=0;w=v=h;i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+h+&quot;,0)&quot;);t=sozi.animation.Animator.instance().augment({onStep:function(C){var E=sozi.animation.profiles[f](C),D=1-E;w=v*E+b*D;i.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+w+&quot;,0)&quot;)}})}function m(x){var z=Array.prototype.slice.call(o.getElementsByClassName(&quot;sozi-toc-current&quot;));z.forEach(function(A){A.removeAttribute(&quot;class&quot;)});var y=p.getElementsByTagName(&quot;text&quot;);y[x].setAttribute(&quot;class&quot;,&quot;sozi-toc-current&quot;)}u.show=function(){b=w;v=s;t.start(e)};u.hide=function(){b=w;v=h;t.start(e)};u.isVisible=function(){return v===s};sozi.events.listen(&quot;sozi.player.ready&quot;,q);sozi.events.listen(&quot;sozi.player.cleanup&quot;,u.hide);sozi.events.listen(&quot;sozi.player.framechange&quot;,m)});namespace(this,&quot;sozi.proto&quot;,function(a){a.Object={installConstructors:function(){function b(){}b.prototype=this;this.instance=function(){var c=new b();c.construct.apply(c,arguments);return c};this.subtype=function(d){var c=new b();c.augment(d);c.installConstructors();return c}},construct:function(){},augment:function(c){for(var b in c){if(c.hasOwnProperty(b)){this[b]=c[b]}}return this},bind:function(c){var b=this;return function(){return c.apply(b,arguments)}}};a.Object.installConstructors()});namespace(this,&quot;sozi.animation&quot;,function(d,g){var h=g.mozRequestAnimationFrame||g.webkitRequestAnimationFrame||g.msRequestAnimationFrame||g.oRequestAnimationFrame;var i=40;var b;var j=[];function e(k){if(j.length&gt;0){if(h){h(e)}j.forEach(function(l){l.step(k)})}else{if(!h){g.clearInterval(b)}}}function c(){if(h){h(e)}else{b=g.setInterval(function(){e(Date.now())},i)}}function a(k){j.push(k);if(j.length===1){c()}}function f(k){j.splice(j.indexOf(k),1)}d.Animator=sozi.proto.Object.subtype({construct:function(){this.durationMs=0;this.data=null;this.initialTime=0;this.started=false},start:function(k,l){this.durationMs=k;this.data=l;this.initialTime=Date.now();this.onStep(0);if(!this.started){this.started=true;a(this)}},stop:function(){if(this.started){f(this);this.started=false}},step:function(l){var k=l-this.initialTime;if(k&gt;=this.durationMs){this.stop();this.onStep(1);this.onDone()}else{this.onStep(k/this.durationMs)}},onStep:function(k){},onDone:function(){}});d.profiles={linear:function(k){return k},accelerate:function(k){return Math.pow(k,3)},&quot;strong-accelerate&quot;:function(k){return Math.pow(k,5)},decelerate:function(k){return 1-Math.pow(1-k,3)},&quot;strong-decelerate&quot;:function(k){return 1-Math.pow(1-k,5)},&quot;accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,3)/2;return k&lt;=0.5?m:1-m},&quot;strong-accelerate-decelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=Math.pow(2*l,5)/2;return k&lt;=0.5?m:1-m},&quot;decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,2))/2;return k&lt;=0.5?m:1-m},&quot;strong-decelerate-accelerate&quot;:function(k){var l=k&lt;=0.5?k:1-k,m=(1-Math.pow(1-2*l,3))/2;return k&lt;=0.5?m:1-m}}});namespace(this,&quot;sozi.display&quot;,function(c,g){var f=&quot;http://www.w3.org/2000/svg&quot;;var b=&quot;http://www.w3.org/1999/xlink&quot;;var i=g.document;var k;var h;var j;c.viewPorts={};var e;c.CameraState=sozi.proto.Object.subtype({construct:function(){this.cx=this.cy=0;this.width=this.height=1;this.angle=0;this.clipped=true;this.transitionZoomPercent=0;this.transitionProfile=sozi.animation.profiles.linear},setCenter:function(l,m){this.cx=l;this.cy=m;return this},setSize:function(m,l){this.width=m;this.height=l;return this},setClipped:function(l){this.clipped=l;return this},setAngle:function(l){this.angle=(l+180)%360-180;return this},setRawAngle:function(l){this.angle=l;return this},setTransitionZoomPercent:function(l){this.transitionZoomPercent=l;return this},setTransitionProfile:function(l){this.transitionProfile=l;return this},setAtElement:function(p){var s,o,t,m;if(p.nodeName===&quot;rect&quot;){s=p.x.baseVal.value;o=p.y.baseVal.value;t=p.width.baseVal.value;m=p.height.baseVal.value}else{var q=p.getBBox();s=q.x;o=q.y;t=q.width;m=q.height}var n=i.documentElement.createSVGPoint();n.x=s+t/2;n.y=o+m/2;var r=p.getCTM();n=n.matrixTransform(r);var l=Math.sqrt(r.a*r.a+r.b*r.b);return this.setCenter(n.x,n.y).setSize(t*l,m*l).setAngle(Math.atan2(r.b,r.a)*180/Math.PI)},setAtState:function(l){return this.setCenter(l.cx,l.cy).setSize(l.width,l.height).setAngle(l.angle).setClipped(l.clipped).setTransitionZoomPercent(l.transitionZoomPercent).setTransitionProfile(l.transitionProfile)},interpolatableAttributes:[&quot;cx&quot;,&quot;cy&quot;,&quot;width&quot;,&quot;height&quot;,&quot;angle&quot;],interpolate:function(m,q,p){var o=1-p;for(var n=0;n&lt;this.interpolatableAttributes.length;n+=1){var l=this.interpolatableAttributes[n];this[l]=q[l]*p+m[l]*o}}});c.Camera=c.CameraState.subtype({construct:function(n,o){c.CameraState.construct.call(this);this.viewPort=n;this.svgClipRect=i.createElementNS(f,&quot;rect&quot;);var m=i.createElementNS(f,&quot;clipPath&quot;);m.setAttribute(&quot;id&quot;,&quot;sozi-clip-path-&quot;+n.id+&quot;-&quot;+o);m.appendChild(this.svgClipRect);n.svgGroup.appendChild(m);var l=i.createElementNS(f,&quot;g&quot;);l.setAttribute(&quot;clip-path&quot;,&quot;url(#sozi-clip-path-&quot;+n.id+&quot;-&quot;+o+&quot;)&quot;);n.svgGroup.appendChild(l);if(n.isPrimary){this.svgLayer=i.createElementNS(f,&quot;g&quot;);this.svgLayer.appendChild(i.getElementById(o))}else{this.svgLayer=i.createElementNS(f,&quot;use&quot;);this.svgLayer.setAttributeNS(b,&quot;href&quot;,&quot;#&quot;+o)}l.appendChild(this.svgLayer)},setAtState:function(l){return c.CameraState.setAtState.call(this,l).update()},getScale:function(){return Math.min(this.viewPort.width/this.width,this.viewPort.height/this.height)},rotate:function(l){return this.setAngle(this.angle+l).update()},zoom:function(m,l,n){return this.setSize(this.width/m,this.height/m).drag((1-m)*(l-this.viewPort.width/2),(1-m)*(n-this.viewPort.height/2))},drag:function(m,l){var q=this.getScale();var o=this.angle*Math.PI/180;var n=Math.sin(o);var p=Math.cos(o);return this.setCenter(this.cx-(m*p-l*n)/q,this.cy-(m*n+l*p)/q).setClipped(false).update()},update:function(){var q=this.getScale();var n=this.width*q;var m=this.height*q;var l=(this.viewPort.width-n)/2;var r=(this.viewPort.height-m)/2;this.svgClipRect.setAttribute(&quot;x&quot;,this.clipped?l:0);this.svgClipRect.setAttribute(&quot;y&quot;,this.clipped?r:0);this.svgClipRect.setAttribute(&quot;width&quot;,this.clipped?n:this.viewPort.width);this.svgClipRect.setAttribute(&quot;height&quot;,this.clipped?m:this.viewPort.height);var p=-this.cx+this.width/2+l/q;var o=-this.cy+this.height/2+r/q;this.svgLayer.setAttribute(&quot;transform&quot;,&quot;scale(&quot;+q+&quot;)translate(&quot;+p+&quot;,&quot;+o+&quot;)rotate(&quot;+(-this.angle)+&quot;,&quot;+this.cx+&quot;,&quot;+this.cy+&quot;)&quot;);return this}});c.ViewPort=sozi.proto.Object.subtype({construct:function(n,m,l){this.id=n;c.viewPorts[n]=this;this.isPrimary=!!l;if(this.isPrimary){if(e){throw&quot;Failed to create a primary viewport. A primary viewport already exists.&quot;}else{e=this}}this.svgGroup=i.createElementNS(f,&quot;g&quot;);this.svgGroup.setAttribute(&quot;class&quot;,&quot;sozi-viewport&quot;);this.svgGroup.setAttribute(&quot;id&quot;,&quot;sozi-viewport-&quot;+n);i.documentElement.appendChild(this.svgGroup);this.setLocation(0,0).setSize(g.innerWidth,g.innerHeight);this.cameras={};m.forEach(function(o){this.cameras[o]=c.Camera.instance(this,o)},this)},setSize:function(m,l){this.width=m;this.height=l;return this},setLocation:function(l,m){this.x=l;this.y=m;return this},contains:function(l,m){return l&gt;=this.x&amp;&amp;l&lt;this.x+this.width&amp;&amp;m&gt;=this.y&amp;&amp;m&lt;this.y+this.height},getDocumentState:function(){var m=c.CameraState.instance().setCenter(k.x+k.width/2,k.y+k.height/2).setSize(k.width,k.height).setClipped(false);var l={};for(var n in this.cameras){l[n]=m}return l},update:function(){this.svgGroup.setAttribute(&quot;transform&quot;,&quot;translate(&quot;+this.x+&quot;,&quot;+this.y+&quot;)&quot;);for(var l in this.cameras){this.cameras[l].update()}return this},showFrame:function(l){for(var m in l.states){this.cameras[m].setAtState(l.states[m])}return this},drag:function(m,l){for(var n in this.cameras){this.cameras[n].drag(m,l)}return this},zoom:function(m,l,o){for(var n in this.cameras){this.cameras[n].zoom(m,l,o)}return this},rotate:function(l){for(var m in this.cameras){this.cameras[m].rotate(l)}return this},onWindowResize:function(m,l){this.setLocation(this.x*m,this.y*l).setSize(this.width*m,this.height*l).update()}});function d(){var l=i.documentElement;k=l.getBBox();h=g.innerWidth;j=g.innerHeight;l.setAttribute(&quot;width&quot;,h);l.setAttribute(&quot;height&quot;,j);sozi.events.fire(&quot;sozi.display.ready&quot;)}function a(){var l=i.documentElement;l.setAttribute(&quot;width&quot;,g.innerWidth);l.setAttribute(&quot;height&quot;,g.innerHeight);for(var m in c.viewPorts){c.viewPorts[m].onWindowResize(g.innerWidth/h,g.innerHeight/j)}h=g.innerWidth;j=g.innerHeight}sozi.events.listen(&quot;sozi.document.ready&quot;,d);g.addEventListener(&quot;resize&quot;,a,false)});namespace(this,&quot;sozi.player&quot;,function(d,h){var j=sozi.display;var o;var c;var l;var e=500;var q=-10;var k=&quot;linear&quot;;var g=0;var m=0;var n=false;var p=false;function i(){if(sozi.document.frames[m].timeoutEnable){p=true;var r=(m+1)%sozi.document.frames.length;l=h.setTimeout(function(){d.moveToFrame(r)},sozi.document.frames[m].timeoutMs)}}d.startFromIndex=function(r){n=true;p=false;g=r;m=r;o.showFrame(sozi.document.frames[r]);i()};d.restart=function(){d.startFromIndex(m)};d.stop=function(){c.stop();if(p){h.clearTimeout(l);p=false}n=false;g=m};function b(r,B,z){var C={ss:((r&lt;0)?Math.max(B,z):Math.min(B,z))*(100-r)/100,ts:0.5,k:0};if(r!==0){var x=B-z;var w=B-C.ss;var t=z-C.ss;if(x!==0){var s=Math.sqrt(w*t);var A=(w-s)/x;var y=(w+s)/x;C.ts=(A&gt;0&amp;&amp;A&lt;=1)?A:y}C.k=w/C.ts/C.ts}return C}d.jumpToFrame=function(r){d.stop();sozi.events.fire(&quot;sozi.player.cleanup&quot;);g=r;m=r;o.showFrame(sozi.document.frames[r]);sozi.events.fire(&quot;sozi.player.framechange&quot;,r)};function f(r,u,x,s){var t={};for(var w in r){t[w]={initialState:sozi.display.CameraState.instance(),finalState:sozi.display.CameraState.instance()};t[w].profile=s||u[w].transitionProfile;t[w].initialState.setAtState(r[w]);if(u.hasOwnProperty(w)){t[w].finalState.setAtState(u[w])}else{t[w].finalState.setAtState(r[w])}if(t[w].finalState.angle-t[w].initialState.angle&gt;180){t[w].finalState.setRawAngle(t[w].finalState.angle-360)}else{if(t[w].finalState.angle-t[w].initialState.angle&lt;-180){t[w].initialState.setRawAngle(t[w].initialState.angle-360)}}var v=x||u[w].transitionZoomPercent;if(v&amp;&amp;u.hasOwnProperty(w)){t[w].zoomWidth=b(v,r[w].width,u[w].width);t[w].zoomHeight=b(v,r[w].height,u[w].height)}}return t}d.previewFrame=function(r){m=r;c.start(e,f(o.cameras,sozi.document.frames[r].states,q,sozi.animation.profiles[k]));sozi.events.fire(&quot;sozi.player.framechange&quot;,r)};d.moveToFrame=function(s){if(p){h.clearTimeout(l);p=false}var r,u,t;if(s===(m+1)%sozi.document.frames.length){r=sozi.document.frames[s].transitionDurationMs;u=undefined;t=undefined}else{r=e;u=q;t=sozi.animation.profiles[k]}sozi.events.fire(&quot;sozi.player.cleanup&quot;);n=true;m=s;c.start(r,f(o.cameras,sozi.document.frames[s].states,u,t));sozi.events.fire(&quot;sozi.player.framechange&quot;,s)};d.moveToFirst=function(){d.moveToFrame(0)};d.jumpToPrevious=function(){var r=m;if(!c.started||g&lt;=m){r-=1}if(r&gt;=0){d.jumpToFrame(r)}};d.moveToPrevious=function(){for(var r=m-1;r&gt;=0;r-=1){var s=sozi.document.frames[r];if(!s.timeoutEnable||s.timeoutMs!==0){d.moveToFrame(r);break}}};d.jumpToNext=function(){var r=m;if(!c.started||g&gt;=m){r+=1}if(r&lt;sozi.document.frames.length){d.jumpToFrame(r)}};d.moveToNext=function(){if(m&lt;sozi.document.frames.length-1||sozi.document.frames[m].timeoutEnable){d.moveToFrame((m+1)%sozi.document.frames.length)}};d.moveToLast=function(){d.moveToFrame(sozi.document.frames.length-1)};d.moveToCurrent=function(){d.moveToFrame(m)};d.showAll=function(){d.stop();sozi.events.fire(&quot;sozi.player.cleanup&quot;);c.start(e,f(o.cameras,o.getDocumentState(),q,sozi.animation.profiles[k]))};function a(){o=j.ViewPort.instance(&quot;player&quot;,sozi.document.idLayerList,true);d.startFromIndex(sozi.location.getFrameIndex());h.setTimeout(o.bind(o.update),1);sozi.events.fire(&quot;sozi.player.ready&quot;)}c=sozi.animation.Animator.instance().augment({onStep:function(r){for(var u in this.data){var s=o.cameras[u];s.interpolate(this.data[u].initialState,this.data[u].finalState,this.data[u].profile(r));var t;if(this.data[u].zoomWidth&amp;&amp;this.data[u].zoomWidth.k!==0){t=r-this.data[u].zoomWidth.ts;s.width=this.data[u].zoomWidth.k*t*t+this.data[u].zoomWidth.ss}if(this.data[u].zoomHeight&amp;&amp;this.data[u].zoomHeight.k!==0){t=r-this.data[u].zoomHeight.ts;s.height=this.data[u].zoomHeight.k*t*t+this.data[u].zoomHeight.ss}s.setClipped(this.data[u].finalState.clipped)}o.update()},onDone:function(){g=m;if(n){i()}}});sozi.events.listen(&quot;sozi.display.ready&quot;,a)});namespace(this,&quot;sozi.actions&quot;,function(z,g){var t=sozi.player;var u=sozi.display;var m=g.document;var n=0;var v=1;var s=1.05;var x=5;var q=false;var i=0;var h=0;function a(B,A,C){t.stop();u.viewPorts.player.zoom(B&gt;0?s:1/s,A,C)}function w(A){t.stop();u.viewPorts.player.rotate(A&gt;0?x:-x)}function r(){if(sozi.framelist.isVisible()){sozi.framelist.hide();t.restart()}else{t.stop();sozi.framelist.show()}}function d(A){return u.viewPorts.player.contains(A.clientX,A.clientY)}function f(A){if(!d(A)){return}if(A.button===n){m.documentElement.addEventListener(&quot;mousemove&quot;,p,false);q=false;i=A.clientX;h=A.clientY}else{if(A.button===v){r()}}A.stopPropagation();A.preventDefault()}function p(A){if(!d(A)){return}t.stop();q=true;sozi.events.fire(&quot;sozi.player.cleanup&quot;);u.viewPorts.player.drag(A.clientX-i,A.clientY-h);i=A.clientX;h=A.clientY;A.stopPropagation()}function c(A){if(!d(A)){return}if(A.button===n){m.documentElement.removeEventListener(&quot;mousemove&quot;,p,false)}A.stopPropagation();A.preventDefault()}function o(A){if(!d(A)){return}t.moveToPrevious();A.stopPropagation();A.preventDefault()}function e(A){if(!d(A)){return}if(!q&amp;&amp;A.button!==v){t.moveToNext()}A.stopPropagation();A.preventDefault()}function j(A){if(!d(A)){return}if(!A){A=g.event}var B=0;if(A.wheelDelta){B=A.wheelDelta}else{if(A.detail){B=-A.detail}}if(B!==0){if(A.shiftKey){w(B)}else{a(B,A.clientX,A.clientY)}}A.stopPropagation();A.preventDefault()}function l(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.charCode||A.which){case 43:a(1,g.innerWidth/2,g.innerHeight/2);break;case 45:a(-1,g.innerWidth/2,g.innerHeight/2);break;case 61:t.moveToCurrent();break;case 70:case 102:t.showAll();break;case 84:case 116:r();break;case 82:w(-1);break;case 114:w(1);break;default:return}A.stopPropagation();A.preventDefault()}function b(A){if(A.altKey||A.ctrlKey||A.metaKey){return}switch(A.keyCode){case 36:t.moveToFirst();break;case 35:t.moveToLast();break;case 38:t.jumpToPrevious();break;case 33:case 37:t.moveToPrevious();break;case 40:t.jumpToNext();break;case 34:case 39:case 13:case 32:t.moveToNext();break;default:return}A.stopPropagation()}function y(A){A.stopPropagation()}function k(){var B=m.getElementsByTagName(&quot;a&quot;);for(var C=0;C&lt;B.length;C+=1){B[C].addEventListener(&quot;click&quot;,y,false);B[C].addEventListener(&quot;contextmenu&quot;,y,false)}var A=m.documentElement;A.addEventListener(&quot;click&quot;,e,false);A.addEventListener(&quot;mousedown&quot;,f,false);A.addEventListener(&quot;mouseup&quot;,c,false);A.addEventListener(&quot;contextmenu&quot;,o,false);A.addEventListener(&quot;DOMMouseScroll&quot;,j,false);g.onmousewheel=j;A.addEventListener(&quot;keypress&quot;,l,false);A.addEventListener(&quot;keydown&quot;,b,false)}sozi.events.listen(&quot;sozi.display.ready&quot;,k)});namespace(this,&quot;sozi.document&quot;,function(c,e){var g=e.document;var b=&quot;http://sozi.baierouge.fr&quot;;var d={title:&quot;Untitled&quot;,sequence:&quot;0&quot;,hide:&quot;true&quot;,clip:&quot;true&quot;,&quot;timeout-enable&quot;:&quot;false&quot;,&quot;timeout-ms&quot;:&quot;5000&quot;,&quot;transition-duration-ms&quot;:&quot;1000&quot;,&quot;transition-zoom-percent&quot;:&quot;0&quot;,&quot;transition-profile&quot;:&quot;linear&quot;};var h=[&quot;g&quot;,&quot;image&quot;,&quot;path&quot;,&quot;rect&quot;,&quot;circle&quot;,&quot;ellipse&quot;,&quot;line&quot;,&quot;polyline&quot;,&quot;polygon&quot;,&quot;text&quot;,&quot;clippath&quot;];c.frames=[];c.idLayerList=[];function j(l,k){var m=l.getAttributeNS(b,k);return m===&quot;&quot;?d[k]:m}function i(n,o,k){var l=n.states[o]=n.states[o]||sozi.display.CameraState.instance();if(typeof l.hide===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;hide&quot;)){l.hide=j(k,&quot;hide&quot;)===&quot;true&quot;}if(typeof l.transitionZoomPercent===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;transition-zoom-percent&quot;)){l.setTransitionZoomPercent(parseInt(j(k,&quot;transition-zoom-percent&quot;),10))}if(typeof l.transitionProfile===&quot;undefined&quot;||k.hasAttributeNS(b,&quot;transition-profile&quot;)){l.setTransitionProfile(sozi.animation.profiles[j(k,&quot;transition-profile&quot;)||&quot;linear&quot;])}if(k.hasAttributeNS(b,&quot;refid&quot;)){var m=g.getElementById(k.getAttributeNS(b,&quot;refid&quot;));if(m){if(l.hide){m.style.visibility=&quot;hidden&quot;}l.setAtElement(m)}}if(k.hasAttributeNS(b,&quot;clip&quot;)){l.setClipped(j(k,&quot;clip&quot;)===&quot;true&quot;)}}function a(){var l=[];var p=g.getElementsByTagNameNS(b,&quot;layer&quot;);for(var n=0;n&lt;p.length;n+=1){var s=p[n].getAttributeNS(b,&quot;group&quot;);if(s&amp;&amp;l.indexOf(s)===-1){l.push(s)}}var r=g.documentElement;var o=&quot;http://www.w3.org/2000/svg&quot;;var q=g.createElementNS(o,&quot;g&quot;);var k=Array.prototype.slice.call(r.childNodes);k.forEach(function(u,t){if(!u.getAttribute){r.removeChild(u)}else{if(l.indexOf(u.getAttribute(&quot;id&quot;))!==-1){if(q.firstChild){q.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+t);c.idLayerList.push(&quot;sozi-wrapper-&quot;+t);r.insertBefore(q,u);q=g.createElementNS(o,&quot;g&quot;)}c.idLayerList.push(u.getAttribute(&quot;id&quot;))}else{if(h.indexOf(u.localName.toLowerCase())!==-1){r.removeChild(u);q.appendChild(u)}}}});if(q.firstChild){q.setAttribute(&quot;id&quot;,&quot;sozi-wrapper-&quot;+k.length);c.idLayerList.push(&quot;sozi-wrapper-&quot;+k.length);r.appendChild(q)}var m=Array.prototype.slice.call(g.getElementsByTagNameNS(b,&quot;frame&quot;));m.sort(function(u,t){seqA=parseInt(j(u,&quot;sequence&quot;),10);seqB=parseInt(j(t,&quot;sequence&quot;),10);return seqA-seqB});m.forEach(function(v,u){var x={id:v.getAttribute(&quot;id&quot;),title:j(v,&quot;title&quot;),sequence:parseInt(j(v,&quot;sequence&quot;),10),timeoutEnable:j(v,&quot;timeout-enable&quot;)===&quot;true&quot;,timeoutMs:parseInt(j(v,&quot;timeout-ms&quot;),10),transitionDurationMs:parseInt(j(v,&quot;transition-duration-ms&quot;),10),states:{}};c.idLayerList.forEach(function(A){if(u===0||A.search(&quot;sozi-wrapper-[0-9]+&quot;)!==-1){i(x,A,v)}else{var z=x.states[A]=sozi.display.CameraState.instance();var y=c.frames[c.frames.length-1].states[A];z.setAtState(y)}});var t=Array.prototype.slice.call(v.getElementsByTagNameNS(b,&quot;layer&quot;));t.forEach(function(y){var z=y.getAttributeNS(b,&quot;group&quot;);if(z&amp;&amp;c.idLayerList.indexOf(z)!==-1){i(x,z,y)}});for(var w in x.states){if(x.states.hasOwnProperty(w)){c.frames.push(x);break}}})}function f(){g.documentElement.removeAttribute(&quot;viewBox&quot;);a();sozi.events.fire(&quot;sozi.document.ready&quot;)}e.addEventListener(&quot;load&quot;,f,false)});namespace(this,&quot;sozi.location&quot;,function(a,e){var c=false;a.getFrameIndex=function(){var g=e.location.hash?parseInt(e.location.hash.slice(1),10)-1:0;if(isNaN(g)||g&lt;0){return 0}else{if(g&gt;=sozi.document.frames.length){return sozi.document.frames.length-1}else{return g}}};function f(){var g=a.getFrameIndex();if(!c){sozi.player.moveToFrame(g)}c=false}function d(g){c=true;e.location.hash=&quot;#&quot;+(g+1)}function b(){sozi.events.listen(&quot;sozi.player.framechange&quot;,d)}e.addEventListener(&quot;hashchange&quot;,f,false);e.addEventListener(&quot;load&quot;,b,false)});</script>
+  <ns1:frame
+     id="frame2"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="13"
+     ns1:title="denemo"
+     ns1:refid="image3204" />
+  <ns1:frame
+     ns1:refid="image3174"
+     ns1:title="sweethome3d"
+     ns1:sequence="11"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame3" />
+  <ns1:frame
+     id="frame4"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="12"
+     ns1:title="inkscape"
+     ns1:refid="image3144" />
+  <ns1:frame
+     ns1:refid="image3234"
+     ns1:title="celestia"
+     ns1:sequence="9"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame5" />
+  <ns1:frame
+     id="frame6"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="8"
+     ns1:title="ghemical"
+     ns1:refid="image3264" />
+  <ns1:frame
+     ns1:refid="image3294"
+     ns1:title="ksimus"
+     ns1:sequence="10"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame7" />
+  <ns1:frame
+     ns1:refid="image3354"
+     ns1:title="drgeo - 牛頓力學"
+     ns1:sequence="6"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame9" />
+  <ns1:frame
+     id="frame10"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="14"
+     ns1:title="搜尋 「alternative」"
+     ns1:refid="image3074" />
+  <ns1:frame
+     ns1:refid="g3186"
+     ns1:title="教育軟體全貌"
+     ns1:sequence="15"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame13" />
+  <ns1:frame
+     id="frame16"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="25"
+     ns1:title="自由軟體運動"
+     ns1:refid="g3171" />
+  <ns1:frame
+     ns1:refid="g3131"
+     ns1:title="FS 特性: 分享"
+     ns1:sequence="26"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame17" />
+  <ns1:frame
+     id="frame18"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="27"
+     ns1:title="FS 特性: 透明"
+     ns1:refid="g3001" />
+  <ns1:frame
+     ns1:refid="rect12905"
+     ns1:title="全貌"
+     ns1:sequence="1"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame67" />
+  <ns1:frame
+     id="frame74"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="3"
+     ns1:title="gnuplot"
+     ns1:refid="image3255" />
+  <ns1:frame
+     ns1:refid="image3285"
+     ns1:title="drgeo - lim(sin(x)/x)"
+     ns1:sequence="4"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame72S" />
+  <ns1:frame
+     id="frame73C"
+     ns1:transition-profile="decelerate"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:sequence="5"
+     ns1:title="maxima"
+     ns1:refid="image6428" />
+  <ns1:frame
+     ns1:refid="image6555"
+     ns1:title="moodle - 中翻英配合題"
+     ns1:sequence="7"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="1000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate"
+     id="frame74b" />
+  <ns1:frame
+     ns1:refid="g4143"
+     ns1:sequence="18"
+     id="frame39"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="教育觀點"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="教師的三難"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame39A"
+     ns1:sequence="22"
+     ns1:refid="text3142" />
+  <ns1:frame
+     ns1:refid="g3113"
+     ns1:sequence="23"
+     id="frame40"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="童子軍精神"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="OLPC"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame41"
+     ns1:sequence="21"
+     ns1:refid="g5725" />
+  <ns1:frame
+     ns1:refid="g3881"
+     ns1:sequence="19"
+     id="frame42"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="救命碟"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="偏鄉教育宅急便"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame43"
+     ns1:sequence="20"
+     ns1:refid="image3218" />
+  <ns1:frame
+     ns1:refid="g4143"
+     ns1:sequence="24"
+     id="frame44"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="教育觀點"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="數位遺產挑戰"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame45"
+     ns1:sequence="32"
+     ns1:refid="g3283" />
+  <ns1:frame
+     ns1:refid="g6387"
+     ns1:sequence="30"
+     id="frame46"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="下賊船的代價"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="商業利益考量"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame47"
+     ns1:sequence="29"
+     ns1:refid="image4751" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="iphone"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame49"
+     ns1:sequence="35"
+     ns1:refid="image4432" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="兩種文化/價值觀"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame31"
+     ns1:sequence="28"
+     ns1:refid="g3928" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="ezgo &amp; 各種版本 linux"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame33"
+     ns1:sequence="17"
+     ns1:refid="g3282" />
+  <ns1:frame
+     ns1:refid="image4751"
+     ns1:sequence="33"
+     id="frame32"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="商業利益考量"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="電子廢棄物"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame32Y"
+     ns1:sequence="34"
+     ns1:refid="g4838" />
+  <ns1:frame
+     ns1:refid="g4628"
+     ns1:sequence="36"
+     id="frame33r"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="電子產品的故事"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="電子廢棄物堆當中的兒童"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame34"
+     ns1:sequence="38"
+     ns1:refid="image4811" />
+  <ns1:frame
+     ns1:refid="g6168"
+     ns1:sequence="37"
+     id="frame35"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="計畫性報廢"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="百毒不侵救命碟"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame36"
+     ns1:sequence="40"
+     ns1:refid="use4814" />
+  <ns1:frame
+     ns1:refid="image4347"
+     ns1:sequence="41"
+     id="frame37"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="開機鑰匙不在你家"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="電子廢棄物"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame38"
+     ns1:sequence="42"
+     ns1:refid="g4838" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="商業利益考量"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame39z"
+     ns1:sequence="43"
+     ns1:refid="image4751" />
+  <ns1:frame
+     ns1:refid="g3987"
+     ns1:sequence="62"
+     id="frame409"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="EFF SSD 及 Guardian Project"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="流氓軟件"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame41o"
+     ns1:sequence="47"
+     ns1:refid="g3444" />
+  <ns1:frame
+     ns1:refid="g3460"
+     ns1:sequence="48"
+     id="frame42C"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="xcode 木馬"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="adobe 的文化 你的隱私"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame43k"
+     ns1:sequence="49"
+     ns1:refid="g4472" />
+  <ns1:frame
+     ns1:refid="g3797"
+     ns1:sequence="50"
+     id="frame440"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="微軟侵犯隱私的歷史"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="藏在 windows 的 NSA 後門"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame45O"
+     ns1:sequence="51"
+     ns1:refid="image3283" />
+  <ns1:frame
+     ns1:refid="text4139"
+     ns1:sequence="52"
+     id="frame46t"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="更多案例"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="FinFisher 竊聽"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame47N"
+     ns1:sequence="53"
+     ns1:refid="g3372" />
+  <ns1:frame
+     ns1:refid="g3381"
+     ns1:sequence="54"
+     id="frame48"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="Carrier IQ 隱私"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="美國 NSA 稜鏡計畫"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame49Q"
+     ns1:sequence="55"
+     ns1:refid="g3844" />
+  <ns1:frame
+     ns1:refid="image4231"
+     ns1:sequence="56"
+     id="frame50"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="維基解密 The Spyfiles"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="iMessage 後門"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame51"
+     ns1:sequence="57"
+     ns1:refid="g4811" />
+  <ns1:frame
+     ns1:refid="g5758"
+     ns1:sequence="58"
+     id="frame52"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="指紋解鎖"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="行政院行動裝置資通安全"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame53"
+     ns1:sequence="59"
+     ns1:refid="g5381" />
+  <ns1:frame
+     ns1:refid="g3851"
+     ns1:sequence="44"
+     id="frame54"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="資安與隱私"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="我的野蠻工讀生"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame55"
+     ns1:sequence="31"
+     ns1:refid="g4215" />
+  <ns1:frame
+     ns1:refid="g3194"
+     ns1:sequence="66"
+     id="frame56"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="模組化"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="函式庫的模組化"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame57"
+     ns1:sequence="68"
+     ns1:refid="image4797" />
+  <ns1:frame
+     ns1:refid="g5150"
+     ns1:sequence="69"
+     id="frame58"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="CK 牌計算機"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="學習成效曲線"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame59"
+     ns1:sequence="70"
+     ns1:refid="g5208" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="長線學習投資"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame61"
+     ns1:sequence="65"
+     ns1:refid="g3395" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="哺乳動物 vs 恐龍"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame62"
+     ns1:sequence="67"
+     ns1:refid="g4791" />
+  <ns1:frame
+     ns1:refid="g3928"
+     ns1:sequence="72"
+     id="frame625"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="兩種文化/價值觀"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3395"
+     ns1:sequence="71"
+     id="frame63"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="長線學習投資"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="搜尋 office 2007"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame64"
+     ns1:sequence="73"
+     ns1:refid="image3248" />
+  <ns1:frame
+     ns1:refid="rect3968"
+     ns1:sequence="74"
+     id="frame65"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="臺灣的推薦搜尋關鍵詞"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="馬來西亞的推薦搜尋關鍵詞"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame66"
+     ns1:sequence="75"
+     ns1:refid="rect4758" />
+  <ns1:frame
+     ns1:refid="g3300"
+     ns1:sequence="76"
+     id="frame67s"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="比爾蓋茲談盜版"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="羞辱 &amp; 征服"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame68"
+     ns1:sequence="77"
+     ns1:refid="g6835" />
+  <ns1:frame
+     ns1:refid="image3648"
+     ns1:sequence="78"
+     id="frame69"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="被餵食"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="自己解決問題"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame70"
+     ns1:sequence="79"
+     ns1:refid="image3694" />
+  <ns1:frame
+     ns1:refid="image3366"
+     ns1:sequence="80"
+     id="frame71"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="互相指責"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="互相修復"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame72"
+     ns1:sequence="81"
+     ns1:refid="image3412" />
+  <ns1:frame
+     ns1:refid="g4133"
+     ns1:sequence="87"
+     id="frame73"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="OLPC： 使用價值或販售價值?"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="小王子 vs 生意人"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame74s"
+     ns1:sequence="88"
+     ns1:refid="g4125" />
+  <ns1:frame
+     ns1:refid="g3888"
+     ns1:sequence="89"
+     id="frame75"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="追公車的故事"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="小狗懂得使用價值"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame76"
+     ns1:sequence="90"
+     ns1:refid="image4042" />
+  <ns1:frame
+     ns1:refid="g3161"
+     ns1:sequence="82"
+     id="frame77"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="如果數學定理被施以智慧財產權"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="會發生什麼事?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame78"
+     ns1:sequence="83"
+     ns1:refid="text3147" />
+  <ns1:frame
+     ns1:refid="layer1-2"
+     ns1:sequence="84"
+     id="frame79"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="「產值」受到自由軟體的影響"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="文;化 &amp; 價值觀"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame80"
+     ns1:sequence="92"
+     ns1:refid="g3271" />
+  <ns1:frame
+     ns1:refid="rect12905"
+     ns1:sequence="93"
+     id="frame81"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="全貌"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="z9100 lohas"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame82"
+     ns1:sequence="39"
+     ns1:refid="g3434" />
+  <ns1:frame
+     ns1:refid="layer1-25"
+     ns1:sequence="16"
+     id="frame83"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="差集"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="自由軟體有後門嗎?"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame84"
+     ns1:sequence="60"
+     ns1:refid="g4283" />
+  <ns1:frame
+     ns1:refid="g4137"
+     ns1:sequence="61"
+     id="frame85"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="棄權 != 安全"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="資安與隱私"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame86"
+     ns1:sequence="63"
+     ns1:refid="g3851" />
+  <ns1:frame
+     ns1:refid="g3928"
+     ns1:sequence="64"
+     id="frame87a"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="兩種文化/價值觀"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:refid="g3928"
+     ns1:sequence="86"
+     id="frame88"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="兩種文化/價值觀"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="linux adoptiers"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame89"
+     ns1:sequence="91"
+     ns1:refid="g3500" />
+  <ns1:frame
+     ns1:refid="g3527"
+     ns1:sequence="2"
+     id="frame90"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="好用 apps"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="如果數學定理被施以智慧財產權"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame91"
+     ns1:sequence="85"
+     ns1:refid="g3161" />
+  <ns1:frame
+     ns1:refid="image3028"
+     ns1:sequence="45"
+     id="frame92"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="false"
+     ns1:clip="false"
+     ns1:title="穩私"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="decelerate" />
+  <ns1:frame
+     ns1:transition-profile="decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="資訊安全"
+     ns1:clip="false"
+     ns1:hide="false"
+     ns1:transition-duration-ms="1000.0"
+     id="frame93"
+     ns1:sequence="46"
+     ns1:refid="image3424" />
+</svg>
