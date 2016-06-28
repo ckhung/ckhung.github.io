@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5-alpha7 -->
+<!-- CreationDate: Sat Oct 20 17:52:22 2007 -->
+<!-- Magnification: 1.000 -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="240"
+   viewBox="-12 219 6419 3136"
+   id="svg2299"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="govvp.svg"
+   sodipodi:docbase="/home/ckhung/public_html/a"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/ckhung/public_html/a/govvp.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   version="1.0">
+  <metadata
+     id="metadata2382">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2380" />
+  <sodipodi:namedview
+     inkscape:window-height="692"
+     inkscape:window-width="1016"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.4297693"
+     inkscape:cx="238.50002"
+     inkscape:cy="115.99412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2299"
+     width="480px"
+     height="240px" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2202"
+     width="6428.4121"
+     height="3153.0278"
+     x="-12"
+     y="217.85565"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <circle
+     sodipodi:ry="75"
+     sodipodi:rx="75"
+     sodipodi:cy="675"
+     sodipodi:cx="1650"
+     id="circle2303"
+     style="fill:none;stroke:#000000;stroke-width:7"
+     r="75"
+     cy="675"
+     cx="1650" />
+  <ellipse
+     sodipodi:ry="450"
+     sodipodi:rx="900"
+     sodipodi:cy="0"
+     sodipodi:cx="0"
+     cy="0"
+     cx="0"
+     id="ellipse2305"
+     style="fill:none;stroke:#000000;stroke-width:7"
+     ry="450"
+     rx="900"
+     transform="translate(900,1650)" />
+  <circle
+     sodipodi:ry="300"
+     sodipodi:rx="300"
+     sodipodi:cy="1200"
+     sodipodi:cx="2400"
+     id="circle2307"
+     style="fill:none;stroke:#000000;stroke-width:7"
+     r="300"
+     cy="1200"
+     cx="2400" />
+  <polyline
+     id="polyline2309"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="4200,2250 3600,1500 3900,1350 4500,1350 4800,1800 " />
+  <polyline
+     id="polyline2311"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="4500,1350 4800,900 5400,900 5400,1500 " />
+  <polyline
+     id="polyline2313"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="5400,900 5700,600 6000,600 " />
+  <polyline
+     id="polyline2315"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="4800,2400 5400,1800 6000,1800 " />
+  <polyline
+     id="polyline2317"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="1575,750 1500,900 1500,1275 " />
+  <polyline
+     id="polyline2319"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="1575,825 1650,900 1800,825 " />
+  <polygon
+     id="polygon2321"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="2175,975 1800,825 1800,900 2175,1050 2175,975 " />
+  <polyline
+     id="polyline2323"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="2700,1350 2400,1050 2100,1350 " />
+  <polyline
+     id="polyline2325"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="0,1800 3825,1800 " />
+  <polygon
+     id="polygon2327"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter"
+     points="2400,1575 1800,2175 1950,3000 2400,3300 3300,3000 3600,2400 3000,1650 2475,1650 2400,1575 " />
+  <polyline
+     id="polyline2329"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:50, 50"
+     points="3600,2550 2409,1210 " />
+  <polyline
+     id="polyline2331"
+     style="fill:none;stroke:#000000;stroke-width:7"
+     points="2513 1281 2411 1212 2468 1321 " />
+  <polyline
+     id="polyline2333"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:50, 50"
+     points="3600,2775 2560,1735 " />
+  <polyline
+     id="polyline2335"
+     style="fill:none;stroke:#000000;stroke-width:7"
+     points="2668 1800 2562 1737 2625 1843 " />
+  <polyline
+     id="polyline2337"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:50, 50"
+     points="3600,3000 2712,2408 " />
+  <polyline
+     id="polyline2339"
+     style="fill:none;stroke:#000000;stroke-width:7"
+     points="2830 2450 2714 2409 2797 2500 " />
+  <polyline
+     id="polyline2341"
+     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:50, 50"
+     points="900,2400 900,1964 " />
+  <polyline
+     id="polyline2343"
+     style="fill:none;stroke:#000000;stroke-width:7"
+     points="930 2087 900 1967 870 2087 " />
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2345"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="2700"
+     x="2700"
+     xml:space="preserve">free software</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2347"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="1650"
+     x="4200"
+     xml:space="preserve">free</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2349"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="1950"
+     x="4200"
+     xml:space="preserve">music</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2351"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="1200"
+     x="4950"
+     xml:space="preserve">free</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2353"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="1500"
+     x="4950"
+     xml:space="preserve">books</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2355"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="2100"
+     x="5700"
+     xml:space="preserve">forgotten</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2357"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="2325"
+     x="5700"
+     xml:space="preserve">virtues</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2359"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="2550"
+     x="5700"
+     xml:space="preserve">in humanity</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2361"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="900"
+     x="900"
+     xml:space="preserve">gov.tw</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2363"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="2625"
+     x="3675"
+     xml:space="preserve">sale value</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2365"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="2850"
+     x="3675"
+     xml:space="preserve">use value</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2367"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="2700"
+     x="300"
+     xml:space="preserve">software ind.</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2369"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="3000"
+     x="300"
+     xml:space="preserve">IP. ind.</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2371"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="3300"
+     x="300"
+     xml:space="preserve">labor dist.</text>
+  <text
+     style="font-size:192px;font-style:italic;font-weight:bold;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Helvetica"
+     id="text2373"
+     font-size="192"
+     font-weight="bold"
+     font-style="italic"
+     y="450"
+     x="3000"
+     xml:space="preserve">Focusing on sale value alone is unwise</text>
+  <text
+     style="font-size:192px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.025in;font-family:Times"
+     id="text2375"
+     font-size="192"
+     font-weight="normal"
+     font-style="normal"
+     y="3075"
+     x="3675"
+     xml:space="preserve">edu&amp;soc&amp;marketing value</text>
+  <text
+     style="font-size:120px;font-style:normal;font-weight:bold;text-anchor:end;fill:#0000ff;stroke:none;stroke-width:0.025in;font-family:Courier"
+     id="text2377"
+     font-size="120"
+     font-weight="bold"
+     font-style="normal"
+     y="3300"
+     x="6000"
+     xml:space="preserve">http://people.ofset.org/~ckhung/</text>
+</svg>
