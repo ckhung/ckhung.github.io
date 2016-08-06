@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $('img')
-    .wrap('<span style="display:inline-block"></span>')
+    .wrap('<span"></span>')
     .css('display', 'block')
     .parent()
     .zoom();
