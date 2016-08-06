@@ -1,6 +1,8 @@
 $(document).ready(function(){
-  $('img')
-    .wrap('<span style="float:right"></span>')
-    .parent()
-    .zoom();
+  $('img').each(function() {
+    $(this).wrap('<a style="float:right" href="' + $(this).attr('src') + '" title="' + $(this).attr('alt') + '">').parent().zoom().fancybox({
+	openEffect	: 'elastic',
+	closeEffect	: 'elastic'
+    });
+  });
 });
