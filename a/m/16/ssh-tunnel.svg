@@ -1884,8 +1884,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.03625"
-     inkscape:cx="245.1146"
+     inkscape:zoom="1.245"
+     inkscape:cx="400"
      inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -3655,19 +3655,19 @@
            sodipodi:role="line">筆電</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-         x="622.48993"
-         y="483.68738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="659.43774"
+         y="490.11307"
          id="text6078"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan6080"
-           x="622.48993"
-           y="483.68738">ssh 伺服器</tspan><tspan
+           x="659.43774"
+           y="490.11307">ssh 伺服器</tspan><tspan
            id="tspan6082"
            sodipodi:role="line"
-           x="622.48993"
-           y="511.81238">penguin.tw</tspan></text>
+           x="659.43774"
+           y="518.2381">penguin.tw</tspan></text>
     </g>
     <use
        x="0"
@@ -3677,25 +3677,6 @@
        transform="translate(-2.7423402,369.73968)"
        width="100%"
        height="100%" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="51.638004"
-       y="716.5954"
-       id="text8237"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8239"
-         x="51.638004"
-         y="716.5954">ssh -fNL 5508:localhost:3306 ckhung@penguin.tw</tspan><tspan
-         sodipodi:role="line"
-         x="51.638004"
-         y="754.0954"
-         id="tspan8247" /><tspan
-         sodipodi:role="line"
-         x="51.638004"
-         y="791.5954"
-         id="tspan8245">ssh -fNR 4380:localhost:80 ckhung@penguin.tw</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8241"
@@ -3709,18 +3690,18 @@
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="188.08098"
-       y="560.74017"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.36487"
+       y="621.24719"
        id="text4367"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4369"
-         x="188.08098"
-         y="560.74017">特權入口</tspan><tspan
+         x="172.36487"
+         y="621.24719">特權入口</tspan><tspan
          sodipodi:role="line"
-         x="188.08098"
-         y="588.86517"
+         x="172.36487"
+         y="649.37219"
          id="tspan4371">5508</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -3743,61 +3724,42 @@
          sodipodi:role="line">3306</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="181.21558"
-       y="902.65051"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="179.60915"
+       y="898.63446"
        id="text4758"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4760"
-         x="181.21558"
-         y="902.65051">想要出名</tspan><tspan
+         x="179.60915"
+         y="898.63446"
+         id="tspan4067">只有我看到</tspan><tspan
          id="tspan4762"
          sodipodi:role="line"
-         x="181.21558"
-         y="930.77551">的服務</tspan><tspan
+         x="179.60915"
+         y="926.75946">的服務</tspan><tspan
          sodipodi:role="line"
-         x="181.21558"
-         y="958.90051"
+         x="179.60915"
+         y="954.88446"
          id="tspan4764">80</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4766"
-       y="933.32007"
-       x="609.50525"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       y="974.28394"
+       x="598.26031"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="933.32007"
-         x="609.50525"
+         y="974.28394"
+         x="598.26031"
          id="tspan4768"
-         sodipodi:role="line">展示櫥窗</tspan><tspan
+         sodipodi:role="line">向朋友展示</tspan><tspan
+         y="1002.4089"
+         x="598.26031"
+         sodipodi:role="line"
+         id="tspan4070">的櫥窗</tspan><tspan
          id="tspan4770"
-         y="961.44507"
-         x="609.50525"
+         y="1030.5339"
+         x="598.26031"
          sodipodi:role="line">4380</tspan></text>
-    <g
-       transform="translate(-111.55615,-52.424805)"
-       inkscape:label="Layer 1"
-       id="layer1-6">
-      <g
-         transform="translate(84.183,-380.96)"
-         id="g7152">
-        <path
-           style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
-           d="m 212.97125,968.68801 38.44652,-48.89316 322.26657,0 13.12926,21.62285 7.87583,-4.01668 2.77745,25.32818 -25.0156,-11.42857 7.41313,-5.25096 -11.42857,-18.22393 -313.31151,-0.30888 -35.6666,46.16972 0.35273,-6.88188 z"
-           id="path4990"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccccccc" />
-      </g>
-    </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#layer1-6"
-       id="use5456"
-       transform="matrix(-1,0,0,1,764.02866,348.37153)"
-       width="100%"
-       height="100%" />
     <g
        transform="matrix(0.17316162,0,0,0.17316162,447.8315,487.15294)"
        inkscape:label="Layer 1"
@@ -5463,5 +5425,149 @@
        transform="matrix(-1,0,0,1,780.723,358.02171)"
        width="100%"
        height="100%" />
+    <g
+       id="g4168"
+       transform="matrix(0.15531197,0,0,0.15531197,299.06635,490.24537)">
+      <g
+         id="g4128" />
+      <g
+         id="g4132" />
+      <g
+         id="g4134" />
+      <g
+         id="g4136" />
+      <g
+         id="g4138" />
+      <g
+         id="g4140" />
+      <g
+         id="g4142" />
+      <g
+         id="g4144" />
+      <g
+         id="g4146" />
+      <g
+         id="g4148" />
+      <g
+         id="g4150" />
+      <g
+         id="g4152" />
+      <g
+         id="g4154" />
+      <g
+         id="g4156" />
+      <g
+         id="g4158" />
+      <g
+         id="g4160" />
+    </g>
+    <g
+       id="g5014">
+      <g
+         id="layer1-6"
+         inkscape:label="Layer 1"
+         transform="translate(-111.55615,-52.424805)">
+        <g
+           id="g7152"
+           transform="translate(84.183,-380.96)" />
+      </g>
+      <path
+         style="fill:#800080;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 340.38976,546.94308 0,-16.88732 c 0,-0.93839 -0.76069,-1.69915 -1.69914,-1.69915 l -16.87862,0 c -0.93839,0 -1.69909,0.76076 -1.69909,1.69915 l 0,16.88738 c 0,0.3128 0.25353,0.56638 0.56639,0.56638 l 19.14408,0 c 0.31286,0 0.56638,-0.25358 0.56638,-0.56644 z m -13.63001,5.78523 c 0,1.94631 1.57787,3.52411 3.52412,3.52411 1.94624,0 3.52411,-1.5778 3.52411,-3.52411 0,-1.94638 -1.57787,-3.52412 -3.52411,-3.52412 -1.94625,0 -3.52412,1.57774 -3.52412,3.52412 z m 1.76213,0 c 0,-0.97316 0.7889,-1.76206 1.76205,-1.76206 0.97315,0 1.76212,0.7889 1.76212,1.76206 0,0.97315 -0.78897,1.76212 -1.76212,1.76212 -0.97315,0 -1.76205,-0.78897 -1.76205,-1.76212 z m 4.79728,-3.52418 7.89693,0 c 0.3128,0 0.56638,0.25358 0.56638,0.56638 l 0,1.71834 c 0,0.3128 -0.25358,0.56638 -0.56638,0.56638 l -6.32977,0 c -0.16525,-1.13392 -0.7376,-2.13555 -1.56716,-2.8511 z m -24.99806,3.52418 c 0,1.94631 1.57787,3.52411 3.52412,3.52411 1.9463,0 3.52411,-1.5778 3.52411,-3.52411 0,-1.94638 -1.57781,-3.52412 -3.52411,-3.52412 -1.94625,-6e-5 -3.52412,1.57774 -3.52412,3.52412 z m 1.76199,0 c 0,-0.97316 0.78897,-1.76206 1.76213,-1.76206 0.97321,0 1.76206,0.7889 1.76206,1.76206 0,0.97315 -0.78891,1.76212 -1.76206,1.76212 -0.97316,0 -1.76213,-0.78897 -1.76213,-1.76212 z m -7.99213,-2.9578 0,1.71834 c 0,0.3128 0.25358,0.56638 0.56638,0.56638 l 4.58555,0 c 0.32796,-2.24937 2.26384,-3.98386 4.60219,-3.98386 2.33882,0 4.27475,1.73455 4.60272,3.98386 l 9.23359,0 c 0.16533,-1.13386 0.73761,-2.13555 1.56717,-2.8511 l -8.75508,0 0,-16.20029 c 0,-0.6256 -0.50717,-1.13278 -1.13276,-1.13278 l -5.347,0 c -1.50557,0 -2.91274,0.74785 -3.75514,1.9956 l -3.44706,5.10549 c -0.50562,0.74889 -0.7758,1.63183 -0.7758,2.53546 l 0,7.69652 -1.37838,0 c -0.3128,0 -0.56638,0.25358 -0.56638,0.56638 z m 5.74567,-10.66762 2.75641,-3.9168 c 0.10612,-0.15073 0.27888,-0.24043 0.4632,-0.24043 l 4.29959,0 c 0.31274,0 0.56639,0.25359 0.56639,0.56639 l 0,3.91681 c 0,0.31286 -0.25359,0.56638 -0.56639,0.56638 l -7.05612,0 c -0.45879,0 -0.72717,-0.51709 -0.46308,-0.89235 z"
+         id="path4130-3" />
+      <path
+         style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:#800080;stroke-width:1.11950254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 169.26642,500.70853 27.75273,37.34749 2.66768,-1.98234 -1.13766,7.71901 -7.90504,-1.16508 2.45427,-1.82375 -27.67343,-37.24078 z"
+         id="path4087"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path4087"
+         id="use4901"
+         transform="matrix(0.90487889,-0.42566914,0.42566914,0.90487889,-220.84758,146.21673)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path4087"
+         id="use4905"
+         transform="matrix(-0.18829832,-0.98211187,0.98211187,-0.18829832,-307.13536,858.49857)"
+         width="100%"
+         height="100%" />
+      <path
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 195.27274,497.49609 -5.10774,3.92903 19.25223,21.60965 347.32615,0.3929 11.78708,-22.78836 -5.10774,-3.14322 -10.60838,19.64514 -339.86098,-0.78581 z"
+         id="path4969"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path4969"
+         id="use4983"
+         transform="matrix(1,0,0,-1,1.1787086,1095.6362)"
+         width="100%"
+         height="100%" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path4985"
+         d="m 200.05545,558.88186 233.70529,-0.58136 0,-4.85702 28.78517,7.87661 -28.49517,6.28035 0,-3.39879 -233.99529,0 z"
+         style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:#800080;stroke-width:2.65061784px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5014"
+       id="use5020"
+       transform="matrix(-1,0,0,1,766.19741,353.41365)"
+       width="100%"
+       height="100%" />
+    <g
+       id="g4077"
+       transform="translate(-4.0160643,0.80321285)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text8237"
+         y="711.77612"
+         x="119.91109"
+         style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="711.77612"
+           x="119.91109"
+           id="tspan8239"
+           sodipodi:role="line">ssh -fNL 5508:localhost:3306 ckhung@penguin.tw</tspan><tspan
+           id="tspan8247"
+           y="746.15112"
+           x="119.91109"
+           sodipodi:role="line" /><tspan
+           id="tspan8245"
+           y="780.52612"
+           x="119.91109"
+           sodipodi:role="line">ssh -fNR 4380:localhost:80 ckhung@penguin.tw</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4068"
+         y="714.70306"
+         x="28.11245"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="714.70306"
+           x="28.11245"
+           id="tspan4071"
+           sodipodi:role="line">正向：</tspan><tspan
+           id="tspan4073"
+           y="749.07806"
+           x="28.11245"
+           sodipodi:role="line" /><tspan
+           id="tspan4075"
+           y="783.45306"
+           x="28.11245"
+           sodipodi:role="line">反向：</tspan></text>
+    </g>
   </g>
 </svg>
