@@ -1,0 +1,763 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app12.us.archive.org";archive_analytics.values.server_ms=400;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta name="keywords" content="關鍵字搜尋;搜尋;熱門關鍵字;找網頁;找圖片;找影音;找商家;找地圖;搜尋" /><meta name="description" content="關鍵字 - iSearch" /><title>
+	Bing 繽紛搜尋
+</title><link href="favicon.ico" rel="icon" /><meta name="description" content="Bing 繽紛搜尋" />
+<script src="scripts/iSearch.js" type="text/javascript"></script>
+
+<script src="scripts/iepng.js" type="text/javascript"></script>
+<link href="base.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+    function correctPNG() {
+        for (var i = 0; i < document.images.length; i++) {
+            var img = document.images[i]
+            var imgName = img.src.toUpperCase()
+            if (imgName.substring(imgName.length - 3, imgName.length) == "PNG") {
+                var imgID = (img.id) ? "id='" + img.id + "' " : ""
+                var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+                var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+                var imgStyle = "display:inline-block;" + img.style.cssText
+                if (img.align == "left") imgStyle = "float:left;" + imgStyle
+                if (img.align == "right") imgStyle = "float:right;" + imgStyle
+                if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+                var strNewHTML = "<span " + imgID + imgClass + imgTitle
++ " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
++ "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
++ "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>"
+                img.outerHTML = strNewHTML
+                i = i - 1
+            }
+        }
+    }
+    window.attachEvent("onload", correctPNG);
+
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+    function CreateBookmarkLink() {
+        title = "bing 繽紛搜尋";
+        url = "/web/20111228192407/http://isearch.msn.com.tw";
+        if (document.all)
+            window.external.AddFavorite(url, title);
+        else if (window.sidebar)
+            window.sidebar.addPanel(title, url, "")
+    }
+    function setHomepage() {
+        if (document.all) {
+            document.body.style.behavior = 'url(#default#homepage)';
+            document.body.setHomePage('/web/20111228192407/http://isearch.msn.com.tw');
+
+        }
+        else if (window.sidebar) {
+            if (window.netscape) {
+                try {
+                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                }
+                catch (e) {
+
+                }
+            }
+            var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+            prefs.setCharPref('browser.startup.homepage', '/web/20111228192407/http://isearch.msn.com.tw');
+        }
+    }
+</script>
+<script type="text/javascript">
+    function setkey(){
+        
+        }
+    function clearText(thefield) {
+        if (getkey() == thefield.value)
+            thefield.value = "";
+    } 
+</script>
+</head>
+<body onload='setkey()'>
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(imgWidth,imgHeight,yearImgWidth,monthImgWidth){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://blog.ofset.org/public/ckhung/09/isearch/saving-usb.html";
+
+var firstYear = 1996;
+var displayDay = "28";
+var displayMonth = "Dec";
+var displayYear = "2011";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})(525, 27, 25, 2);//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://blog.ofset.org/public/ckhung/09/isearch/saving-usb.html" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20111228192407" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20111128063308/http://blog.ofset.org/public/ckhung/09/isearch/saving-usb.html" title="28 Nov 2011">NOV</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 19:24:07 Dec 28, 2011">DEC</td>
+		<td class="f" nowrap="nowrap">
+		
+		    Jan
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20111128063308/http://blog.ofset.org/public/ckhung/09/isearch/saving-usb.html" title="6:33:08 Nov 28, 2011"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 19:24:07 Dec 28, 2011">28</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   <img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0"/>
+               
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20090612015942/http://blog.ofset.org/public/ckhung/09/isearch/saving-usb.html" title="12 Jun 2009"><strong>2009</strong></a>
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 19:24:07 Dec 28, 2011">2011</td>
+	       <td class="f" nowrap="nowrap">
+               
+                   2012
+               
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20111228192407*/http://blog.ofset.org/public/ckhung/09/isearch/saving-usb.html" title="See a list of every capture for this URL">3 captures</a>
+           <div class="r" title="Timespan for captures of this URL">12 Jun 09 - 28 Dec 11</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="525"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=525_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000001000000_2010:-1:000000000000_2011:11:000000000011_2012:-1:000000000000_2013:-1:000000000000_2014:-1:000000000000_2015:-1:000000000000_2016:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+    <form name="form1" method="post" action="Default.aspx?q=%u6551%u547d%u789f" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM2OTQ2OTkxNWQYAwUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFDFNlYXJjaDMkaUJ0bgUMRm9vdGVyMSRpQnRuBRpQZXJmb3JtZXJTZWFyY2gxJExpc3RWaWV3MQ8UKwAKZGRkAgJkZGQ8KwAKAAIKZGQFFEhvdFNlYXJjaDEkTGlzdFZpZXcxDzwrAAoCBzwrAAkACAIJZMm7ZjxUxMWKHDjz+M8MCAO5Hu+N" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLNyIjcBgKG1KmIBgKsms/+BAL58PTcCgLDlKdbWwfB7cQ/LIsY4tonIVjxwsy7rzo=" />
+</div>
+<!--========== header ============-->
+  <div id="header" style="background-image: url('header_img/main_2.jpg')">
+
+    <div id="search">
+      <div id="logo"><img src="images/search4.png" alt="bing" /></div>
+      <div id="search_form">
+        <input name="Search3$txtSearch" type="text" value="救命碟" id="Search3_txtSearch" class="form_text" onclick="clearText(this);" />
+         <input type="image" name="Search3$iBtn" id="Search3_iBtn" alt="搜尋" align="absmiddle" class="search_button" src="images/icon_search.gif" style="border-width:0px;" /></div>
+      <div id="logo2"><img src="images/search5.png" alt="繽紛搜尋" /></div>
+    </div>
+    
+    
+    
+    
+<!--========== edn of menu ============-->
+
+   <div id="menu">
+      <div id="menu_1"><img src="images/m_1.png" alt="網頁" align="absmiddle" />　<span class="t13_white"><a href="#goweb">網　頁</a></span></div>
+     <div id="menu_line"><img src="images/menu_line.png" /></div>
+      <div id="menu_1"><img src="images/m_2.png" alt="新聞" align="absmiddle" />　<span class="t13_white"><a href="#gonews">新　聞</a></span></div>
+     <div id="menu_line"><img src="images/menu_line.png" /></div>
+      <div id="menu_1"><img src="images/m_3.png" alt="圖片" align="absmiddle" />　<span class="t13_white"><a href="#goimg">圖　片</a></span></div>
+     <div id="menu_line"><img src="images/menu_line.png" /></div>
+      <div id="menu_1"><img src="images/m_4.png" alt="地圖" align="absmiddle" />　<span class="t13_white"><a href="#golive">地　圖</a></span></div>
+     <div id="menu_line"><img src="images/menu_line.png" /></div>
+      <div id="menu_1"><img src="images/m_5.png" alt="分類" align="absmiddle" />　<span class="t13_white"><a href="#godir">分　類</a></span></div>
+  </div>
+<!--========== edn of menu ============-->
+</div>
+<!--========== edn of header ============-->
+<!--========== All ============-->
+<div id="all">
+
+<!--========== 熱門關鍵字 ============-->
+  
+  <div id="hotbar">
+  <div id="hotsearch">
+    <span class="t13_blue"><a href="/web/20111228192407/http://promotion.msn.com.tw/event/search" target="_blank">搜尋榜</a>：</span> 
+        
+            
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl0_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/Default.aspx?q=%e5%8f%b0%e7%81%a3%e5%be%ae%e8%bb%9f" target="_blank">台灣微軟</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl2_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u65B0%u578B%u6D41%u611F" target="_blank">新型流感</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl4_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=E3%20%u96FB%u73A9%u5C55" target="_blank">E3 電玩展</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl6_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u8B8A%u5F62%u91D1%u525B%202" target="_blank">變形金剛 2</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl8_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u5F35%u82B8%u4EAC" target="_blank">張芸京</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl10_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u96FB%u8166%u5C55" target="_blank">電腦展</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl12_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u91D1%u66F2%u734E" target="_blank">金曲獎</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl14_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u738B%u5EFA%u6C11" target="_blank">王建民</a></span>
+            
+        
+            <span class="t11_gray"> │ </span>
+        
+            <span class="t13_gray"><a id="HotSearch1_ListView1_ctrl16_hypTilte" href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u6298%u758A%u8ECA" target="_blank">折疊車</a></span>
+            
+        
+        
+  </div>
+  <div id="righrmode3">
+      <div class="t12_black" id="button1"><a href="#" onClick="this.style.behavior='url(#default#homepage)'; this.setHomePage('/web/20111228192407/http://isearch.msn.com.tw');">設為首頁</a></div>
+      <div class="t12_black" id="button2"><a href="javascript:CreateBookmarkLink();">我的最愛</a></div>
+    
+    </div> 
+  </div>
+  <div class="clear"></div>
+<!--========== left ============-->
+  <div id="left">
+  <!--========== sponsored ============-->
+    
+   <!--========== end of sponsored ============-->
+   <!--  web  -->
+   
+<div id="leftmodel">
+     <div id="web"><a name="goweb" id="goweb"></a>
+      <div class="t11_gray3" id="pagenext">
+         <div align="right"><img src="images/icon_1.gif" align="absmiddle" /> <span class="t11_gray4"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBRE&amp;filt=all" target="_blank">1</a></span> <a href="/web/20111228192407/http://search.live.com/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBRE&amp;filt=all&amp;first=11" target="_blank">2</a> <a href="/web/20111228192407/http://search.live.com/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBRE&amp;filt=all&amp;first=21" target="_blank">3</a> <a href="/web/20111228192407/http://search.live.com/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBRE&amp;filt=all&amp;first=31" target="_blank">4</a> <a href="/web/20111228192407/http://search.live.com/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBRE&amp;filt=all&amp;first=41" target="_blank">5</a> <a href="/web/20111228192407/http://search.live.com/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBRE&amp;filt=all" target="_blank">更多</a>
+         </div>
+       </div>
+     </div>
+    
+    <div id="web_text"><span class="t15_green" ><a id="WebSearch1_Repeater1_ctl00_hypTitle" href="/web/20111228192407/http://people.ofset.org/~ckhung/b/mi/vf-20g-nb.php" target="_blank">百毒不侵<strong>救命</strong><strong>碟</strong>」 使用入門</a></span><br />
+       <span class="t12_gray">取得您的 20 公克筆電 對於電腦中毒當機厭煩了嗎? 希望您管理/您經常使用的公用電腦 不要有中毒/洩漏隱私/盜版/還原的煩惱 嗎? 如果可以帶著一部 20 公克筆電 上山, 出國, 到任何地方, 都能用自己熟悉的中文桌面上網, 不必 「同步」 就可以隨時打開自己的即時通好友清單, 這樣的東西, 您有興趣嗎? </span><br /><span class="t11_org">http://people.ofset.org/~ckhung/b/mi/vf-20g-nb.php</span><span class="t11_gray2">‧<a id="WebSearch1_Repeater1_ctl00_hypMore" href="/web/20111228192407/http://people.ofset.org/~ckhung/b/mi/vf-20g-nb.php" target="_blank">庫存頁面</a> <br />
+      </span>
+        <div class="line"></div></div>
+    
+    <div id="web_text"><span class="t15_green" ><a id="WebSearch1_Repeater1_ctl01_hypTitle" href="/web/20111228192407/http://irw.ncut.edu.tw/peterju/webslide/mkbootusb" target="_blank">製作百毒不侵<strong>救命</strong><strong>碟</strong></a></span><br />
+       <span class="t12_gray">何謂百毒不侵<strong>救命</strong><strong>碟</strong> 20公克的筆記型電腦 可開機的USB隨身碟 BIOS支援USB裝置開機 勇於嘗試的使用者(Linux) 朝陽科大洪朝貴老師的製作程式 </span><br /><span class="t11_org">http://irw.ncut.edu.tw/peterju/webslide/mkbootusb</span><span class="t11_gray2">‧<a id="WebSearch1_Repeater1_ctl01_hypMore" href="/web/20111228192407/http://irw.ncut.edu.tw/peterju/webslide/mkbootusb" target="_blank">庫存頁面</a> <br />
+      </span>
+        <div class="line"></div></div>
+    
+    <div id="web_text"><span class="t15_green" ><a id="WebSearch1_Repeater1_ctl02_hypTitle" href="/web/20111228192407/http://ufws.net/usb_stick" target="_blank">百毒不侵<strong>救命</strong><strong>碟</strong>-線上訂購系統</a></span><br />
+       <span class="t12_gray"> </span><br /><span class="t11_org">http://ufws.net/usb_stick</span><span class="t11_gray2">‧<a id="WebSearch1_Repeater1_ctl02_hypMore" href="/web/20111228192407/http://ufws.net/usb_stick" target="_blank">庫存頁面</a> <br />
+      </span>
+        <div class="line"></div></div>
+    
+    <div id="web_text"><span class="t15_green" ><a id="WebSearch1_Repeater1_ctl03_hypTitle" href="/web/20111228192407/http://www.phil.ccu.edu.tw/computer/harddisk" target="_blank">百毒不侵<strong>救命</strong><strong>碟</strong>」使用入門 | 中正大學哲學系電腦 ... </a></span><br />
+       <span class="t12_gray">以下內容轉自 洪朝貴老師部落格文章 ： 注意: <strong>救命</strong><strong>碟</strong>並不是掃毒軟體。 在 Windows 醒著的時候使用這顆隨身碟, 一樣有中毒的風險! 這種用法, 它就不能算是百毒不侵。 確定要這樣用嗎? 請隨時提高警覺, 留意中毒的危險! </span><br /><span class="t11_org">http://www.phil.ccu.edu.tw/computer/harddisk</span><span class="t11_gray2">‧<a id="WebSearch1_Repeater1_ctl03_hypMore" href="/web/20111228192407/http://www.phil.ccu.edu.tw/computer/harddisk" target="_blank">庫存頁面</a> <br />
+      </span>
+        <div class="line"></div></div>
+    
+    <div id="web_text"><span class="t15_green" ><a id="WebSearch1_Repeater1_ctl04_hypTitle" href="/web/20111228192407/http://blog.ofset.org/ckhung/index.php?post/087-usb4npo" target="_blank">您的公共議題 請讓「<strong>救命</strong><strong>碟</strong>」幫您行銷 - Chao-Kuei's ... </a></span><br />
+       <span class="t12_gray">npo/ngo 的朋友, 您有公共議題要推廣嗎? 偏鄉教育? 外勞權益? 健康的單車生活? ... 或許 20 公克的筆記電腦可以幫得上一點忙。 * * * * * </span><br /><span class="t11_org">http://blog.ofset.org/ckhung/index.php?post/087-usb4npo</span><span class="t11_gray2">‧<a id="WebSearch1_Repeater1_ctl04_hypMore" href="/web/20111228192407/http://blog.ofset.org/ckhung/index.php?post/087-usb4npo" target="_blank">庫存頁面</a> <br />
+      </span>
+        <div class="line"></div></div>
+    
+    <div id="web_text"><span class="t15_green" ><a id="WebSearch1_Repeater1_ctl05_hypTitle" href="/web/20111228192407/http://blog.ofset.org/ckhung/index.php?post/084-virus-free-20g-nb" target="_blank">百毒不侵<strong>救命</strong><strong>碟</strong>」 免費製作 - Chao-Kuei's Notes | 資訊 ... </a></span><br />
+       <span class="t12_gray">請想像一種新的電腦生活: 隨身帶 著 20 公克的筆記電腦, 具備上網等等基本功能, 容量小, 不會中毒, 不怕洩漏隱私, 不論走到天涯海角那個語言不通的國家, 打開借來的電腦, 看到的都還是自己熟悉的中文環境, 都還是自己的即時通好友。 </span><br /><span class="t11_org">http://blog.ofset.org/ckhung/index.php?post/084-virus-free-20g-nb</span><span class="t11_gray2">‧<a id="WebSearch1_Repeater1_ctl05_hypMore" href="/web/20111228192407/http://blog.ofset.org/ckhung/index.php?post/084-virus-free-20g-nb" target="_blank">庫存頁面</a> <br />
+      </span>
+        <div class="line"></div></div>
+    
+    <div id="web_text"><span class="t15_green" ><a id="WebSearch1_Repeater1_ctl06_hypTitle" href="/web/20111228192407/http://www.phil.ccu.edu.tw/english/node/5346" target="_blank">百毒不侵<strong>救命</strong><strong>碟</strong>」使用入門 | 中正大學哲學系暨 ... </a></span><br />
+       <span class="t12_gray">以下內容轉自 洪朝貴老師部落格文章 ： 注意: <strong>救命</strong><strong>碟</strong>並不是掃毒軟體。 在 Windows 醒著的時候使用這顆隨身碟, 一樣有中毒的風險! 這種用法, 它就不能算是百毒不侵。 確定要這樣用嗎? 請隨時提高警覺, 留意中毒的危險! </span><br /><span class="t11_org">http://www.phil.ccu.edu.tw/english/node/5346</span><span class="t11_gray2">‧<a id="WebSearch1_Repeater1_ctl06_hypMore" href="/web/20111228192407/http://www.phil.ccu.edu.tw/english/node/5346" target="_blank">庫存頁面</a> <br />
+      </span>
+        </div>
+    
+
+     <div id="web_bottom"></div>
+   </div>
+   <!--  end of web  -->
+<!--  news  -->
+   
+   <!--  end of news  -->
+<!-- 生活搜尋  -->
+   
+<div id="leftmodel">
+     <div id="life"><a name="golive" id="golive"></a>
+     <div class="t11_gray3" id="pagenext">
+         
+       <div align="right"><img src="images/icon_1.gif" align="absmiddle" /> <a href="/web/20111228192407/http://www.livepages.com.tw/" target="_blank">搜尋商家</a> │ <a href="/web/20111228192407/http://www.livepages.com.tw/main_map.htm" target="_blank">搜尋地圖</a></div>
+       </div>
+     </div>
+     <div id="web_text"><IFRAME WIDTH="600"
+HEIGHT="290"
+MARGINWIDTH="0"
+MARGINHEIGHT=0
+HSPACE=0
+VSPACE=0
+FRAMEBORDER=0
+SCROLLING="no"
+allowtransparency= "true"
+src="/web/20111228192407if_/http://www.livepages.com.tw/cgi-bin/search.cgi?biz=%e6%95%91%e5%91%bd%e7%a2%9f&amp;compact=1" name="data">
+</IFRAME></div>
+     <div id="web_bottom"></div>
+   </div>
+   <!--  end of 生活搜尋  -->
+<!--========== sponsored ============-->
+    
+   <!--========== end of sponsored ============-->
+<!-- 熱門影片  -->
+   
+<div id="leftmodel">
+     <div id="video"></div>
+     <div id="video_text">
+	   <div class="wrap">
+           
+           <div id="name2"><div id="images3" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/videos/search?q=%E7%97%9E%E5%AD%90%E8%8B%B1%E9%9B%84&amp;form=QBVR' target='_blank'><img src='images/vic_0602_1.jpg' width="120" height="90"/></a></div><div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/videos/search?q=%E7%97%9E%E5%AD%90%E8%8B%B1%E9%9B%84&amp;form=QBVR' target='_blank'>痞子英雄精彩片段</a></div></div>
+           
+           <div id="name2"><div id="images3" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/videos/search?q=Susan+Boyle&amp;form=QBVR' target='_blank'><img src='images/vic_0602_2.jpg' width="120" height="90"/></a></div><div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/videos/search?q=Susan+Boyle&amp;form=QBVR' target='_blank'>蘇珊大嬸</a></div></div>
+           
+           <div id="name2"><div id="images3" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/videos/search?q=%E6%95%97%E7%8A%AC%E5%A5%B3%E7%8E%8B&amp;form=QBVR' target='_blank'><img src='images/vic_0602_3.jpg' width="120" height="90"/></a></div><div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/videos/search?q=%E6%95%97%E7%8A%AC%E5%A5%B3%E7%8E%8B&amp;form=QBVR' target='_blank'>敗犬女王完結篇</a></div></div>
+           
+           <div id="name2"><div id="images3" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/videos/search?q=%E8%B6%85%E7%B4%9A%E5%81%B6%E5%83%8F&amp;form=QBVR' target='_blank'><img src='images/vic_0602_4.jpg' width="120" height="90"/></a></div><div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/videos/search?q=%E8%B6%85%E7%B4%9A%E5%81%B6%E5%83%8F&amp;form=QBVR' target='_blank'>超級偶像激烈選秀實況</a></div></div>
+           
+
+	   </div>
+		<div class="clear"></div>
+	 </div>
+     <div id="video_bottom"></div>
+   </div>
+   <!--  end of 熱門影片  -->
+<!--========== 分類 ============-->
+    
+<div id="leftmodel">
+      <div id="directory"><a name="godir" id="godir"></a></div>
+      <div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 休閒娛樂</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%81%B7%E6%A3%92&amp;form=QBNO" target="_blank">職棒</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%81%B7%E7%B1%83&amp;form=QBRE" target="_blank">職籃</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%97%85%E9%81%8A&amp;form=QBRE" target="_blank">旅遊</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%9B%BB%E7%8E%A9&amp;form=QBRE" target="_blank">電玩</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%98%9F%E5%BA%A7%E7%AE%97%E5%91%BD&amp;form=QBRE" target="_blank">星座算命</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%8B%95%E6%BC%AB&amp;form=QBLH" target="_blank">動漫</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%97%9D%E6%96%87%E6%B4%BB%E5%8B%95&amp;form=QBRE" target="_blank">藝文活動</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%A3%AF%E5%BA%97%E8%A8%82%E6%88%BF&amp;go=&amp;form=QBRE" target="_blank">飯店訂房</a></div>
+      <br />
+      <div class="line"></div></div>
+		<div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 影劇媒體</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%9C%8B%E5%85%A7%E6%98%8E%E6%98%9F&amp;form=QBRE" target="_blank">國內明星</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%AD%90%E7%BE%8E%E6%98%8E%E6%98%9F&amp;form=QBRE" target="_blank">歐美明星</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%97%A5%E9%9F%93%E6%98%8E%E6%98%9F&amp;form=QBRE" target="_blank">日韓明星</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%9F%B3%E6%A8%82&amp;form=QBRE" target="_blank">音樂</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%9B%BB%E5%BD%B1&amp;form=QBRE" target="_blank">電影</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%BB%A3%E6%92%AD&amp;form=QBRE" target="_blank">廣播</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%81%B6%E5%83%8F%E5%8A%87&amp;form=QBRE" target="_blank">偶像劇</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%98%8E%E6%98%9F%E5%AF%AB%E7%9C%9F&amp;form=QBRE" target="_blank">明星寫真</a></div>
+      <br />
+        <div class="line"></div></div>
+		<div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 民生消費</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E7%BE%8E%E9%A3%9F&amp;form=QBRE" target="_blank">美食</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%B5%81%E8%A1%8C%E6%99%82%E5%B0%9A&amp;form=QBRE" target="_blank">流行時尚</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E7%BE%8E%E5%AE%B9%E5%BD%A9%E5%A6%9D&amp;form=QBRE" target="_blank">美容彩妝</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%BA%97%E5%AE%B6%E8%B3%87%E8%A8%8A&amp;form=QBRE" target="_blank">店家資訊</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%BD%A9%E5%88%B8&amp;form=QBRE" target="_blank">彩券</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E4%BA%A4%E9%80%9A&amp;form=QBRE" target="_blank">交通</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%B3%BC%E7%89%A9&amp;form=QBRE" target="_blank">購物</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%9C%B0%E5%9C%96&amp;form=QBRE" target="_blank">地圖</a></div>
+      <br />
+        <div class="line"></div></div>
+		<div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 新聞時事</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%9B%BB%E5%AD%90%E5%A0%B1&amp;form=QBRE" target="_blank">電子報</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%9C%8B%E5%85%A7%E6%96%B0%E8%81%9E&amp;form=QBRE" target="_blank">國內新聞</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%9C%8B%E5%A4%96%E6%96%B0%E8%81%9E&amp;form=QBRE" target="_blank">國外新聞</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E7%A4%BE%E8%AB%96&amp;form=QBRE" target="_blank">社論</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%A4%A9%E6%B0%A3&amp;form=QBRE" target="_blank">天氣</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%85%A9%E5%B2%B8%E4%BA%A4%E6%B5%81&amp;form=QBRE" target="_blank">兩岸交流</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%BB%8D%E4%BA%8B%E5%9C%8B%E9%98%B2&amp;form=QBRE" target="_blank">軍事國防</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%A8%8E%E8%AB%96%E5%8D%80&amp;form=QBRE" target="_blank">討論區</a></div>
+      <br /><div class="line"></div></div><div class="clear"></div>
+	  <div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 文化教育</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%AB%98%E8%80%83&amp;go=&amp;form=QBRE" target="_blank">高考</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%99%AE%E8%80%83&amp;go=&amp;form=QBRE" target="_blank">普考</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E7%95%99%E5%AD%B8%E8%B3%87%E8%A8%8A&amp;go=&amp;form=QBRE" target="_blank">留學資訊</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%9F%BA%E6%9C%AC%E5%AD%B8%E6%B8%AC&amp;go=&amp;form=QBRE" target="_blank">基本學測</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%B1%95%E8%A6%BD&amp;go=&amp;form=QBRE" target="_blank">展覽</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%87%BA%E7%89%88%E7%A4%BE&amp;go=&amp;form=QBRE" target="_blank">出版社</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%A6%AA%E5%AD%90%E6%95%99%E8%82%B2&amp;go=&amp;form=QBRE" target="_blank">親子教育</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E4%BD%9C%E5%AE%B6&amp;go=&amp;form=QBRE" target="_blank">作家</a></div>
+      <br /><div class="line"></div></div>
+	  <div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 財政經濟</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%82%A1%E7%A5%A8%E6%9C%9F%E8%B2%A8&amp;go=&amp;form=QBRE" target="_blank">股票期貨</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%88%BF%E5%9C%B0%E7%94%A2&amp;go=&amp;form=QBRE" target="_blank">房地產</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%8C%AF%E7%8E%87&amp;go=&amp;form=QBRE" target="_blank">匯率</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%A0%B1%E7%A8%85&amp;go=&amp;form=QBRE" target="_blank">報稅</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%B1%82%E8%81%B7&amp;go=&amp;form=QBRE" target="_blank">求職</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%8A%80%E8%A1%8C&amp;go=&amp;form=QBRE" target="_blank">銀行</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99&amp;go=&amp;form=QBRE" target="_blank">電子商務</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%94%BF%E5%BA%9C%E6%A9%9F%E9%97%9C&amp;go=&amp;form=QBRE" target="_blank">政府機關</a></div>
+      <br />
+      <div class="line"></div></div>
+	   <div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 3C 資訊</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%9B%BB%E8%85%A6%E7%A1%AC%E9%AB%94&amp;go=&amp;form=QBRE" target="_blank">電腦硬體</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%AF%A6%E7%94%A8%E8%BB%9F%E9%AB%94&amp;go=&amp;form=QBRE" target="_blank">實用軟體</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%89%8B%E6%A9%9F&amp;go=&amp;form=QBRE" target="_blank">手機</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%A1%9B%E6%98%9F%E5%B0%8E%E8%88%AA&amp;go=&amp;form=QBRE" target="_blank">衛星導航</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88&amp;go=&amp;form=QBRE" target="_blank">程式設計</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%85%8D%E8%B2%BB%E4%B8%8B%E8%BC%89&amp;go=&amp;form=QBRE" target="_blank">免費下載</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%B3%87%E8%A8%8A%E5%B1%95&amp;go=&amp;form=QBRE" target="_blank">資訊展</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E7%B7%9A%E4%B8%8A%E9%81%8A%E6%88%B2&amp;go=&amp;form=QBRE" target="_blank">線上遊戲</a></div>
+      <br /><div class="line"></div></div>
+	  <div id="sponsored_text"><div class="t12_green" id="directory_title"><img src="images/icon_2.gif" align="absmiddle" /> 醫療保健</div>
+      <div class="t12_gray2" id="directory_list"><a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%86%AB%E9%99%A2&amp;go=&amp;form=QBRE" target="_blank">醫院</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%B8%9B%E8%82%A5%E7%98%A6%E8%BA%AB&amp;go=&amp;form=QBRE" target="_blank">減肥瘦身</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%81%A5%E5%BA%B7%E9%A3%9F%E5%93%81&amp;go=&amp;form=QBRE" target="_blank">健康食品</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E5%BF%83%E8%87%9F%E7%97%85&amp;go=&amp;form=QBRE" target="_blank">心臟病</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%AB%98%E8%A1%80%E5%A3%93&amp;go=&amp;form=QBRE" target="_blank">高血壓</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E9%98%B2%E7%99%8C&amp;go=&amp;form=QBRE" target="_blank">防癌</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E6%86%82%E9%AC%B1%E7%97%87&amp;go=&amp;form=QBRE" target="_blank">憂鬱症</a>　<a href="/web/20111228192407/http://search.live.com/results.aspx?q=%E8%80%81%E5%B9%B4%E8%AD%B7%E7%90%86&amp;go=&amp;form=QBRE" target="_blank">老年護理</a></div>
+      <br /><div class="line"></div></div>
+		
+		<div class="clear"></div>
+     
+
+		
+      <div id="sponsored_bottom"></div>
+    </div>
+   <!--========== end of 分類 ============-->
+  </div>
+<!--========== right ============-->
+  <div id="right">
+<!-- button -->
+
+<!-- sponsored -->
+    
+<!-- end of sponsored -->
+<!-- 圖片搜尋 -->
+    
+<div id="righrmodel">
+      <div id="searchimages"><a name="goimg" id="goimg"></a>
+        <div class="t11_gray3" id="pagenext">
+         <div align="right"><img src="images/icon_1.gif" align="absmiddle" /> <span class="t11_gray4"><a href="/web/20111228192407/http://search.live.com/images/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBLH&amp;scope=images&amp;filt=all" target="_blank">1</a></span> <a href="/web/20111228192407/http://search.live.com/images/results.aspx?q=%e6%95%91%e5%91%bd%e7%a2%9f&amp;form=QBLH&amp;scope=images&amp;filt=all" target="_blank">更多</a>
+         </div>
+       </div></div>
+      <div id="searchimages_text">
+        <div class="wrap">
+            
+            <div id="images" align="center"><span></span><a href="/web/20111228192407/http://ufws.net/usb_stick" target="_blank"><img src="/web/20111228192407im_/http://ts3.images.live.com/images/thumbnail.aspx?q=871414958190&amp;id=ca1909bf9d401d5cbca9bc68967618df" width="100" height="39" /></a></div>
+            
+            <div id="images" align="center"><span></span><a href="/web/20111228192407/http://163.17.8.20:920/13/t-1.html" target="_blank"><img src="/web/20111228192407im_/http://ts1.images.live.com/images/thumbnail.aspx?q=855870214496&amp;id=0e84732199c0b61959120f05aa23f639" width="100" height="66" /></a></div>
+            
+            <div id="images" align="center"><span></span><a href="/web/20111228192407/http://163.17.8.20:920/13/t-1.html" target="_blank"><img src="/web/20111228192407im_/http://ts4.images.live.com/images/thumbnail.aspx?q=693731011627&amp;id=0ee56a79526ec2543e74b027409a05ba" width="100" height="66" /></a></div>
+            
+            <div id="images" align="center"><span></span><a href="/web/20111228192407/http://www.hddvd.net.cn/hd/html/2008-11/10/200811104672372585628_1.html" target="_blank"><img src="/web/20111228192407im_/http://ts4.images.live.com/images/thumbnail.aspx?q=817228420699&amp;id=3469e4dc4083d34eeb767650c2962552" width="100" height="56" /></a></div>
+            
+            <div id="images" align="center"><span></span><a href="/web/20111228192407/http://www.cyut.edu.tw/%7Eckhung/s/wall.php" target="_blank"><img src="/web/20111228192407im_/http://ts3.images.live.com/images/thumbnail.aspx?q=960387484234&amp;id=aa89f1dfc2b315e827f1cea5142b89cc" width="100" height="53" /></a></div>
+            
+            <div id="images" align="center"><span></span><a href="/web/20111228192407/http://www.cyut.edu.tw/%7Eckhung/s/wall.php" target="_blank"><img src="/web/20111228192407im_/http://ts1.images.live.com/images/thumbnail.aspx?q=960345151884&amp;id=c11bed93d8a78c101132a15d561a7021" width="100" height="75" /></a></div>
+            
+
+        </div>
+        <div class="clear"></div>
+      </div>
+      <div id="searchimages_bottom"></div>
+    </div>
+<!-- end of 圖片搜尋 -->
+<!-- 名人圖片 -->
+    
+<div id="righrmodel">
+      <div id="peopleimg"></div>
+      <div id="searchimages_text">
+        <div class="wrap">
+            
+                
+                
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E6%A5%8A%E8%AC%B9%E8%8F%AF&amp;form=QBLH&amp;scope=images&amp;filt=all#' target="_blank" ><img src='images/img_0602_1.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E6%A5%8A%E8%AC%B9%E8%8F%AF&amp;form=QBLH&amp;scope=images&amp;filt=all#' target="_blank">楊謹華</a></div>
+                </div>               
+            
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E6%9E%97%E5%BF%97%E7%8E%B2&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_2.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E6%9E%97%E5%BF%97%E7%8E%B2&amp;form=QBIR#' target="_blank">林志玲</a></div>
+                </div>               
+            
+            
+                <div class="clear" id="name_line"></div>
+            
+                
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E9%98%AE%E7%B6%93%E5%A4%A9&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_3.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E9%98%AE%E7%B6%93%E5%A4%A9&amp;form=QBIR#' target="_blank">阮經天</a></div>
+                </div>               
+            
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E8%A8%B1%E6%85%A7%E6%AC%A3&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_4.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E8%A8%B1%E6%85%A7%E6%AC%A3&amp;form=QBIR#' target="_blank">許慧欣</a></div>
+                </div>               
+            
+            
+                <div class="clear" id="name_line"></div>
+            
+                
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E7%99%BD%E6%AD%86%E6%83%A0&amp;go=&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_5.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E7%99%BD%E6%AD%86%E6%83%A0&amp;go=&amp;form=QBIR#' target="_blank">白歆惠</a></div>
+                </div>               
+            
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E9%9A%8B%E6%A3%A0&amp;go=&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_6.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E9%9A%8B%E6%A3%A0&amp;go=&amp;form=QBIR#' target="_blank">隋棠</a></div>
+                </div>               
+            
+            
+                <div class="clear" id="name_line"></div>
+            
+                
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E7%91%A4%E7%91%A4&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_7.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E7%91%A4%E7%91%A4&amp;form=QBIR#' target="_blank">瑤瑤</a></div>
+                </div>               
+            
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E8%B6%99%E5%8F%88%E5%BB%B7&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_8.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E8%B6%99%E5%8F%88%E5%BB%B7&amp;form=QBIR#' target="_blank">趙又廷</a></div>
+                </div>               
+            
+            
+                <div class="clear" id="name_line"></div>
+            
+                
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E9%83%AD%E9%87%87%E6%BD%94&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_9.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E9%83%AD%E9%87%87%E6%BD%94&amp;form=QBIR#' target="_blank">郭采潔</a></div>
+                </div>               
+            
+                <div id="name"><div id="images2" align="center"><span></span><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E8%97%8D%E6%AD%A3%E9%BE%8D&amp;form=QBIR#' target="_blank" ><img src='images/img_0602_10.jpg'width="108" height="80" /></a></div>
+                <div align="center" class="t12_black"><a href='/web/20111228192407/http://www.bing.com/images/search?q=%E8%97%8D%E6%AD%A3%E9%BE%8D&amp;form=QBIR#' target="_blank">藍正龍</a></div>
+                </div>               
+            
+            
+            
+
+        </div>
+        <div class="clear"></div>
+      </div>
+      
+      <div id="searchimages_bottom"></div>
+    </div>
+<!-- end of 名人圖片 -->
+<!-- 貼紙 -->
+ 
+   <div id="righrmodel2">
+      <iframe src="/web/20111228192407if_/http://promotion.msn.com.tw/event/searchpane/if/b_3.htm" marginwidth="0" marginheight="0" scrolling="no" width="270" align="center" frameborder="0" height="55"></iframe>
+    </div>
+<!-- end of 貼紙 -->
+<!-- 影視搜尋 -->
+
+    <div id="righrmodel">
+      <div id="searchvideo"></div>
+      <div id="searchvideo_text"><span class="k_t1"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E7%99%BE%E8%90%AC%E5%A4%A7%E6%AD%8C%E6%98%9F&amp;go=&amp;form=QBVR" target="_blank">百萬大歌星</a></span> <span class="k_t0">|</span> <span class="k_t2"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=American+Idol&amp;form=QBVR" target="_blank">American Idol</a></span> <span class="k_t0">|</span> <span class="k_t3"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E5%A4%A7%E5%AD%B8%E7%94%9F%E4%BA%86%E6%B2%92&amp;form=QBVR" target="_blank">大學生了沒</a></span> <span class="k_t0">|</span> <span class="k_t4"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E9%A3%9F%E5%B0%9A%E7%8E%A9%E5%AE%B6&amp;form=QBVR" target="_blank">食尚玩家</a></span> <span class="k_t0">|</span> <span class="k_t5"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E7%A6%8F%E6%B0%A3%E5%8F%88%E5%AE%89%E5%BA%B7&amp;go=&amp;form=QBVR" target="_blank">福氣又安康</a></span> <span class="k_t0">|</span> <span class="k_t6"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E6%B3%A2%E9%BA%97%E5%A3%AB%E5%A4%A7%E4%BA%BA&amp;go=&amp;form=QBVR" target="_blank">波麗士大人</a></span> <span class="k_t0">|</span> <span class="k_t7"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E7%99%BE%E8%90%AC%E5%B0%8F%E5%AD%B8%E5%A0%82&amp;go=&amp;form=QBVR" target="_blank">百萬小學堂</a></span> <span class="k_t0">|</span> <span class="k_t8"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E7%B5%82%E6%A5%B5%E4%B8%89%E5%9C%8B&amp;go=&amp;form=QBVR" target="_blank">終極三國</a></span> <span class="k_t0">|</span> <span class="k_t9"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E5%BA%B7%E7%86%99%E4%BE%86%E4%BA%86&amp;go=&amp;form=QBVR" target="_blank">康熙來了</a></span> <span class="k_t0">|</span> <span class="k_t10"><a href="/web/20111228192407/http://www.bing.com/videos/search?q=%E5%A5%B3%E4%BA%BA%E6%88%91%E6%9C%80%E5%A4%A7&amp;go=&amp;form=QBVR" target="_blank">女人我最大</a></span>
+        </div>
+      
+      <div id="searchimages_bottom"></div>
+    </div>
+<!-- end of 影視搜尋 -->
+<!-- 影視搜尋 -->
+
+    <div id="righrmodel">
+      <div id="useful"></div>
+      <div id="searchvideo_text"><span class="k_t6"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u5403%u5230%u98FD%u9910%u5EF3" target="_blank">吃到飽餐廳</a></span>&nbsp;<span class="k_t0">|</span> <span class="k_t2"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u90F5%u905E%u5340%u865F" target="_blank">郵遞區號</a></span> <span class="k_t0">|</span> <span class="k_t3"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u7DDA%u4E0A%u5B57%u5178" target="_blank">線上字典</a></span> <span class="k_t0">|</span> <a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u904A%u6A02%u5712%20" target="_blank"><span class="k_t5"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u904A%u6A02%u5712%20" target="_blank">遊樂園</a></span> </a><span class="k_t0">|</span> <span class="k_t6"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u4EBA%u529B%u9280%u884C" target="_blank">人力銀行</a></span> <span class="k_t0">|</span> <span class="k_t7"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u5F69%u5238%u734E" target="_blank">彩券獎</a></span> <span class="k_t0">|</span> <span class="k_t8"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u7D71%u4E00%u767C%u7968" target="_blank">統一發票</a></span> <span class="k_t0">|</span> <span class="k_t9"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u9AD8%u9435%u6642%u523B%u8868" target="_blank">高鐵時刻表</a></span> <span class="k_t0">|</span> <span class="k_t10"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u96FB%u5F71%u6642%u523B%u8868" target="_blank">電影時刻表</a></span> <span class="k_t0">|</span> <span class="k_t11"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u7DB2%u8DEF%u5730%u5716%20" target="_blank">網路地圖</a></span> <span class="k_t0">|</span> <span class="k_t1"><a href="/web/20111228192407/http://isearch.msn.com.tw/default.aspx?q=%u9322%u6AC3%u6392%u884C%u699C" target="_blank">錢櫃排行榜</a></span>&nbsp;<span class="k_t0">|</span> </div>
+      
+      <div id="searchimages_bottom"></div>
+    </div>
+<!-- end of 影視搜尋 -->
+<!-- Window Live 服務 -->
+
+<div id="righrmodel">
+      <div id="xselling"></div>
+      <div id="xselling_text">
+	    <div id="xselling_left">
+		  <div class="t12b_gray" id="x_bg">通訊</div><div class="t12b_gray" id="x_bg">社交分享</div>
+		  <div class="t11_blue" id="x_text"><a href="/web/20111228192407/http://mail.live.com/" target="_blank">Hotmail</a><br />
+		    <a href="/web/20111228192407/http://3c.msn.com.tw/messenger/msncentral/home/" target="_blank">即時通訊</a><br />
+	        <a href="/web/20111228192407/http://3c.msn.com.tw/mobile/" target="_blank">行動上網</a><br />
+            <a href="/web/20111228192407/http://livecall.spaces.live.com/?mkt=zh-tw" target="_blank">網路電話</a><br />
+            <a href="/web/20111228192407/http://webmsn.msn.com.tw/" target="_blank">網頁即時通</a> </div>
+		  <div class="t11_blue" id="x_text"><a href="/web/20111228192407/http://home.live.com/" target="_blank">好友動向</a><br />
+		    <a href="/web/20111228192407/http://skydrive.live.com/" target="_blank">網路硬碟</a><br />
+		    <a href="/web/20111228192407/http://spaces.live.com/?mkt=zh-tw" target="_blank">部落格</a><br />
+	        <a href="/web/20111228192407/http://photos.live.com/" target="_blank">線上相簿</a><br />
+	      <a href="/web/20111228192407/http://groups.live.com/" target="_blank">線上群組</a> </div>
+		  <div class="t12b_gray" id="x_bg">MSN</div><div class="t12b_gray" id="x_bg">軟體下載</div>
+		  <div class="t11_blue" id="x_text"><a href="/web/20111228192407/http://news.msn.com.tw/" target="_blank">新聞</a><br />
+		    <a href="/web/20111228192407/http://soapbox.msn.com.tw/theme_index.aspx" target="_blank">肥皂盒</a><br />
+	        <a href="/web/20111228192407/http://3c.msn.com.tw/" target="_blank">3C 情報</a><br />
+            <a href="/web/20111228192407/http://lifestyle.msn.com.tw/" target="_blank">美食休閒</a><br />
+            <a href="/web/20111228192407/http://fashion.msn.com.tw/" target="_blank">女性時尚</a> </div>
+		  <div class="t11_blue" id="x_text"><a href="/web/20111228192407/http://download.live.com/photogallery" target="_blank">影像中心</a><br />
+		    <a href="/web/20111228192407/http://download.live.com/wlmail" target="_blank">郵件軟體</a><br />
+		    <a href="/web/20111228192407/http://download.live.com/writer" target="_blank">Writer</a><br />
+		    <a href="/web/20111228192407/http://download.live.com/toolbar" target="_blank">工具列</a><br />
+		    <span class="t10_blue"><a href="/web/20111228192407/http://download.live.com/moviemaker" target="_blank">Movie Maker</a></span> 
+		     </div>
+		</div>
+		<div id="xselling_right">
+		  <div class="t12_blue" id="x_but1"><a href="/web/20111228192407/http://3c.msn.com.tw/messenger/msncentral/home/" target="_blank">即時通訊</a></div>
+		  <div class="t11b_blue" id="x_but2"><a href="/web/20111228192407/http://mail.live.com/" target="_blank">Hotmail</a></div>
+		  <div class="t12_blue" id="x_but3"><a href="/web/20111228192407/http://windowslivesharing.spaces.live.com/?mkt=zh-tw" target="_blank">社交分享</a></div>
+		  <div class="t12_blue" id="x_but4"><a href="/web/20111228192407/http://3c.msn.com.tw/mobile/" target="_blank">行動上網</a></div>
+		  <div class="t12_blue" id="x_but5"><a href="/web/20111228192407/http://www.msn.com/worldwide.aspx" target="_blank">世界 MSN</a></div>
+		</div>
+		<div class="clear"></div>
+	  </div>
+      <div class="clear"></div>
+      <div id="xselling_bottom"></div>
+    </div>
+<!-- Window Live 服務 -->
+  </div>
+
+
+<div class="clear"></div>
+<!--  footer-->
+
+ <div id="footer">
+    <div id="search2">
+      <div id="logo"><img src="images/search4.png" alt="bing" /></div>
+      <div id="search_form">
+        <input name="Footer1$txtSearch" type="text" value="救命碟" id="Footer1_txtSearch" class="form_text" onclick="clearText(this);" />
+		<input type="image" name="Footer1$iBtn" id="Footer1_iBtn" alt="搜尋" align="absmiddle" class="search_button" src="images/icon_search.gif" style="border-width:0px;" /></div>
+      <div id="logo2"><img src="images/search5.png" alt="繽紛搜尋" /></div>
+    </div>
+  </div>
+  <div id="footer_text"><div class="t11_gray3" style="float:left ; padding-top: 7px;"><a href="/web/20111228192407/http://privacy.microsoft.com/zh-tw/default.mspx" target="_blank">隱私權聲明</a>  |  <a href="/web/20111228192407/http://help.live.com/help.aspx?project=tou&amp;mkt=zh-tw" target="_blank">使用規定</a>  |  <a href="/web/20111228192407/http://advertising.microsoft.com/taiwan/home" target="_blank">廣告刊登</a>  |  <a href="/web/20111228192407/http://ccc01.opinionlab.com/o.asp?id=lnQWrjct" target="_blank">您的意見</a></div>
+  <div style="float:right"><img src="images/logo.gif" /></div>
+  <div class="clear"></div>
+  </div>
+</div>
+
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+/web/20111228192407/http://www.omniture.com -->
+<script language="JavaScript">    var s_account = 'msnportaltwpromotion';</script>
+<script language="JavaScript" 
+src="/web/20111228192407js_/http://stj.msn.com/br/om/js/s_code.js"></script>
+<script language="JavaScript">
+<!--
+s.linkInternalFilters="javascript:,.msn.";
+s.trackExternalLinks=true;
+s.channel=”iSearch"
+s.pageName="DSQ"
+s.server=""
+s.pageType=""
+s.prop1=""
+s. prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+//--></script><noscript><img
+src=/web/20111228192407im_/http:// msnportaltwpromotion.112.2O7.net/b/ss/ msnportaltwpromotion /1/H.1--NS/0 
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+
+<!--  end of all-->
+    </form>
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 19:24:07 Dec 28, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:52:20 Oct 26, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
