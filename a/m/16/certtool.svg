@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="certtool.svg"
-   inkscape:export-filename="/home/ckhung/public_html/m/16/certtool.png"
+   inkscape:export-filename="https://ckhung.github.io/a/m/16/certtool.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -219,7 +219,7 @@
      inkscape:cx="512"
      inkscape:cy="384"
      inkscape:document-units="px"
-     inkscape:current-layer="g4408"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1123"
@@ -245,57 +245,161 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-284.36216)">
-    <image
-       sodipodi:absref="/home/ckhung/public_html/m/16/hp/filius-flitwick.jpg"
-       xlink:href="hp/filius-flitwick.jpg"
-       width="141.10648"
-       height="105.82986"
-       preserveAspectRatio="none"
-       id="image3458"
-       x="5.549686"
-       y="297.36725" />
-    <image
-       sodipodi:absref="/home/ckhung/public_html/m/16/hp/filius-flitwick-sig.png"
-       xlink:href="hp/filius-flitwick-sig.png"
-       width="168.50394"
-       height="35.079998"
-       preserveAspectRatio="none"
-       id="image3520"
-       x="174.87831"
-       y="313.76749" />
-    <image
-       sodipodi:absref="/home/ckhung/public_html/m/16/hp/harry-potter.jpg"
-       xlink:href="hp/harry-potter.jpg"
-       width="172.8"
-       height="108"
-       preserveAspectRatio="none"
-       id="image3582"
-       x="13.385871"
-       y="726.05621" />
-    <image
-       sodipodi:absref="/home/ckhung/public_html/m/16/hp/harry-potter-sig.png"
-       xlink:href="hp/harry-potter-sig.png"
-       width="134.58476"
-       height="37.254135"
-       preserveAspectRatio="none"
-       id="image3644"
-       x="37.615753"
-       y="990.52893" />
     <g
-       id="g4326">
-      <image
-         sodipodi:absref="/home/ckhung/public_html/m/16/hp/hogwarts-certificate.jpg"
-         xlink:href="hp/hogwarts-certificate.jpg"
-         y="509.59653"
-         x="207.81967"
-         id="image3706"
-         preserveAspectRatio="none"
-         height="198.88225"
-         width="265.17636" />
+       id="g3637">
       <use
          height="100%"
          width="100%"
-         transform="matrix(0.20362631,0,0,0.20362631,267.48289,552.42125)"
+         transform="translate(455.66197,13.521127)"
+         id="use3617"
+         xlink:href="#g3612"
+         y="0"
+         x="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#image3458"
+         id="use3421-3"
+         transform="matrix(0.28084876,0,0,0.28084876,846.19134,867.80399)"
+         width="100%"
+         height="100%" />
+      <image
+         sodipodi:absref="https://ckhung.github.io/a/m/16/hp/albus-dumbledore-sig-head.png"
+         y="966.47046"
+         x="891.47809"
+         id="image3497-6"
+         xlink:href="https://ckhung.github.io/a/m/16/hp/albus-dumbledore-sig-head.png"
+         preserveAspectRatio="none"
+         height="10.289177"
+         width="76.558456" />
+    </g>
+    <g
+       id="g3541">
+      <use
+         height="100%"
+         width="100%"
+         id="use3505"
+         xlink:href="#g3500"
+         y="0"
+         x="0"
+         transform="matrix(0.89122306,0,0,0.89122306,568.73335,79.60193)" />
+      <use
+         height="100%"
+         width="100%"
+         transform="matrix(0.26845668,0,0,0.26845668,646.91286,529.37445)"
+         id="use3537"
+         xlink:href="#image3513"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         transform="matrix(0.59227682,0,0,0.59227682,418.19302,429.79544)"
+         id="use3539"
+         xlink:href="#image3575"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       id="g3612">
+      <image
+         width="234.93684"
+         height="181.48871"
+         preserveAspectRatio="none"
+         xlink:href="https://ckhung.github.io/a/m/16/hp/hogwarts-certificate.jpg"
+         id="image3605"
+         x="282.66989"
+         y="791.42322"
+         sodipodi:absref="https://ckhung.github.io/a/m/16/hp/hogwarts-certificate.jpg" />
+      <use
+         height="100%"
+         width="100%"
+         transform="matrix(0.30008627,0,0,0.30008627,317.54636,647.08267)"
+         id="use3608"
+         xlink:href="#image3582"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         transform="matrix(0.70518007,0,0,0.70518007,389.68936,172.82698)"
+         id="use3610"
+         xlink:href="#image3644"
+         y="0"
+         x="0" />
+    </g>
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/hp/albus-dumbledore.jpg"
+       xlink:href="hp/albus-dumbledore.jpg"
+       y="297.36725"
+       x="5.549686"
+       id="image3458"
+       preserveAspectRatio="none"
+       height="105.82986"
+       width="141.10648" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/hp/albus-dumbledore-sig.png"
+       xlink:href="hp/albus-dumbledore-sig.png"
+       y="313.76749"
+       x="174.87831"
+       id="image3520"
+       preserveAspectRatio="none"
+       height="35.079998"
+       width="168.50394" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/hp/harry-potter.jpg"
+       xlink:href="hp/harry-potter.jpg"
+       y="726.05621"
+       x="13.385871"
+       id="image3582"
+       preserveAspectRatio="none"
+       height="108"
+       width="172.8" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/hp/harry-potter-sig.png"
+       xlink:href="hp/harry-potter-sig.png"
+       y="990.52893"
+       x="37.615753"
+       id="image3644"
+       preserveAspectRatio="none"
+       height="37.254135"
+       width="134.58476" />
+    <g
+       id="g4326"
+       transform="matrix(0.89122306,0,0,0.89122306,61.366549,62.192916)">
+      <g
+         id="g3500">
+        <image
+           sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/hp/hogwarts-certificate.jpg"
+           xlink:href="hp/hogwarts-certificate.jpg"
+           y="509.59653"
+           x="207.81967"
+           id="image3706"
+           preserveAspectRatio="none"
+           height="198.88225"
+           width="265.17636" />
+        <use
+           height="100%"
+           width="100%"
+           transform="matrix(0.31512735,0,0,0.31512735,325.63748,576.42749)"
+           id="use3421"
+           xlink:href="#image3458"
+           y="0"
+           x="0" />
+        <image
+           width="85.902687"
+           height="11.545008"
+           preserveAspectRatio="none"
+           xlink:href="https://ckhung.github.io/a/m/16/hp/albus-dumbledore-sig-head.png"
+           id="image3497"
+           x="376.4516"
+           y="687.13654"
+           sodipodi:absref="https://ckhung.github.io/a/m/16/hp/albus-dumbledore-sig-head.png" />
+      </g>
+      <use
+         height="100%"
+         width="100%"
+         transform="matrix(0.3492031,0,0,0.3492031,260.72252,485.32164)"
          id="use4937"
          xlink:href="#image3458"
          y="0"
@@ -303,15 +407,7 @@
       <use
          height="100%"
          width="100%"
-         transform="matrix(1.1615947,0,0,1.1615947,46.710186,285.17293)"
-         id="use4939"
-         xlink:href="#image3520"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(0.51786004,0,0,0.51786004,238.7134,453.48607)"
+         transform="matrix(0.63942083,0,0,0.63942083,244.59128,396.89903)"
          id="use3406"
          xlink:href="#image3520"
          y="0"
@@ -432,56 +528,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="423.73358"
-       y="576.67609"
+       x="449.42374"
+       y="575.32397"
        id="text3380"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3382"
-         x="423.73358"
-         y="576.67609">--load-ca-certificate</tspan></text>
+         x="449.42374"
+         y="575.32397">--load-ca-certificate</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6253)"
        d="m 180.11944,524.31708 95.92789,43.80845"
        id="path3717"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g4408">
-      <use
-         height="100%"
-         width="100%"
-         transform="translate(533.05694,24.169578)"
-         id="use4387"
-         xlink:href="#image3706"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(0.27230027,0,0,0.27230027,641.58855,558.37494)"
-         id="use4404"
-         xlink:href="#image3513"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(0.63253589,0,0,0.63253589,378.85552,437.45032)"
-         id="use4406"
-         xlink:href="#image3575"
-         y="0"
-         x="0" />
-      <image
-         sodipodi:absref="/home/ckhung/public_html/m/16/hp/filius-flitwick-sig.png"
-         xlink:href="hp/filius-flitwick-sig.png"
-         width="168.50394"
-         height="35.079998"
-         preserveAspectRatio="none"
-         id="image3420"
-         x="792.05334"
-         y="684.625" />
-    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -489,23 +549,23 @@
        d="m 656.0631,533.78188 109.44901,54.62535"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)" />
     <image
-       sodipodi:absref="/home/ckhung/public_html/m/16/hp/hermione-granger.jpg"
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/hp/hermione-granger.jpg"
        xlink:href="hp/hermione-granger.jpg"
-       width="187.09694"
-       height="111.79041"
-       preserveAspectRatio="none"
-       id="image3513"
+       y="287.93451"
        x="550.93121"
-       y="287.93451" />
-    <image
-       sodipodi:absref="/home/ckhung/public_html/m/16/hp/hermione-granger-sig.png"
-       xlink:href="hp/hermione-granger-sig.png"
-       width="172.83501"
-       height="44.15493"
+       id="image3513"
        preserveAspectRatio="none"
-       id="image3575"
+       height="111.79041"
+       width="187.09694" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/hp/hermione-granger-sig.png"
+       xlink:href="hp/hermione-granger-sig.png"
+       y="318.39737"
        x="773.42963"
-       y="318.39737" />
+       id="image3575"
+       preserveAspectRatio="none"
+       height="44.15493"
+       width="172.83501" />
     <text
        sodipodi:linespacing="125%"
        id="text3384"
@@ -541,33 +601,6 @@
        d="m 316.29694,385.78864 c 0,0 31.93349,112.39158 73.13127,167.05802 41.19778,54.66645 148.84958,152.1848 148.84958,152.1848"
        id="path3415"
        inkscape:connector-curvature="0" />
-    <g
-       id="g4332">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#image3706"
-         id="use3411"
-         transform="translate(101.40845,251.49295)"
-         width="100%"
-         height="100%" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(0.28169015,0,0,0.28169015,355.75606,658.94178)"
-         id="use4317"
-         xlink:href="#image3582"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="matrix(0.56446842,0,0,0.56446842,422.01665,309.71648)"
-         id="use4319"
-         xlink:href="#image3644"
-         y="0"
-         x="0" />
-    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 483.64168,804.94358 71.42761,-49.88394"
@@ -580,25 +613,6 @@
        id="path3419"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g4383">
-      <use
-         height="100%"
-         width="100%"
-         transform="translate(416.45071,74.366198)"
-         id="use4337"
-         xlink:href="#g4332"
-         y="0"
-         x="0" />
-      <use
-         height="100%"
-         width="100%"
-         transform="translate(607.09859,666.59155)"
-         id="use4381"
-         xlink:href="#image3520"
-         y="0"
-         x="0" />
-    </g>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
