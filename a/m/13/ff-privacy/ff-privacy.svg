@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="360"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ff-privacy.svg"
+   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/ff-privacy.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2333333"
+     inkscape:cx="240"
+     inkscape:cy="180"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1011"
+     inkscape:window-height="672"
+     inkscape:window-x="155"
+     inkscape:window-y="171"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.382973,-673.52234)">
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/adblock-plus.png"
+       xlink:href="adblock-plus.png"
+       width="67.976189"
+       height="67.976189"
+       id="image3063"
+       x="377.23016"
+       y="903.08521" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/better-privacy.png"
+       xlink:href="better-privacy.png"
+       width="69.188538"
+       height="69.188538"
+       id="image3125"
+       x="26.482168"
+       y="749.74976" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/cookie-monster.png"
+       xlink:href="cookie-monster.png"
+       width="48.239342"
+       height="48.239342"
+       id="image3249"
+       x="139.33989"
+       y="756.63501" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/noscript.png"
+       xlink:href="noscript.png"
+       width="58.475357"
+       height="58.475357"
+       id="image3373"
+       x="38.167377"
+       y="889.49152" />
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/https-everywhere.jpg"
+       xlink:href="https-everywhere.jpg"
+       width="87.331306"
+       height="75.444542"
+       id="image4031"
+       x="242.44604"
+       y="745.44556" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="215"
+           height="21"
+           x="167"
+           y="214" /></flowRegion><flowPara
+         id="flowPara2999" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="130.29147"
+       y="844.40637"
+       id="text2997"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2999"
+         x="130.29147"
+         y="844.40637">cookie</tspan><tspan
+         sodipodi:role="line"
+         x="130.29147"
+         y="867.24829"
+         id="tspan3001">monster</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="31.614321"
+       y="846.2337"
+       id="text3000"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3002"
+         x="31.614321"
+         y="846.2337">Better</tspan><tspan
+         sodipodi:role="line"
+         x="31.614321"
+         y="869.07562"
+         id="tspan3004">Privacy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="235.36438"
+       y="841.66534"
+       id="text3006"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3008"
+         x="235.36438"
+         y="841.66534">https</tspan><tspan
+         sodipodi:role="line"
+         x="235.36438"
+         y="864.50726"
+         id="tspan3010">everywhere</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="369.56088"
+       y="1002.4019"
+       id="text3012"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3014"
+         x="369.56088"
+         y="1002.4019">AdBlockPlus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="29.839235"
+       y="975.00159"
+       id="text3016"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3018"
+         x="29.839235"
+         y="975.00159">NoScript</tspan></text>
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/disconnect.png"
+       xlink:href="disconnect.png"
+       width="59.389034"
+       height="89.833946"
+       id="image3139"
+       x="146.63074"
+       y="889.48615" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="135.20979"
+       y="999.87781"
+       id="text3142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3144"
+         x="135.20979"
+         y="999.87781">Disconnect</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="13.826591"
+       y="725.07422"
+       id="text3146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3148"
+         x="13.826591"
+         y="725.07422">『firefox privacy (extensions/addons)』</tspan></text>
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/html5-video-everywhere.png"
+       xlink:href="html5-video-everywhere.png"
+       width="73.094193"
+       height="73.094193"
+       preserveAspectRatio="none"
+       id="image3438"
+       x="374.8262"
+       y="749.7226" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="359.23898"
+       y="842.08026"
+       id="text3006-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3008-6"
+         x="359.23898"
+         y="842.08026">html5 video</tspan><tspan
+         sodipodi:role="line"
+         x="359.23898"
+         y="864.92218"
+         id="tspan3010-7">everywhere</tspan><tspan
+         sodipodi:role="line"
+         x="359.23898"
+         y="887.76416"
+         id="tspan3462">『flash 勒贖』</tspan></text>
+    <image
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/privacy-badger.png"
+       xlink:href="privacy-badger.png"
+       width="88.893349"
+       height="64.656685"
+       preserveAspectRatio="none"
+       id="image3523"
+       x="238.58072"
+       y="885.25647" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="263.55753"
+       y="978.38324"
+       id="text3012-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3014-0"
+         x="263.55753"
+         y="978.38324">privacy</tspan><tspan
+         sodipodi:role="line"
+         x="263.55753"
+         y="1001.2252"
+         id="tspan3544">badger</tspan></text>
+  </g>
+</svg>
