@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="port-forward.svg">
+   sodipodi:docname="port-forwarding.svg">
   <defs
      id="defs4">
     <marker
@@ -153,7 +153,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="409.00955"
@@ -214,7 +214,7 @@
            y="564.59833"
            x="335.02109"
            id="tspan4144"
-           sodipodi:role="line">192.168.99.7</tspan></text>
+           sodipodi:role="line">192.168.79.5</tspan></text>
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -248,7 +248,7 @@
            sodipodi:role="line"
            id="tspan4166"
            x="335.02109"
-           y="564.59833">192.168.99.8</tspan></text>
+           y="564.59833">192.168.79.6</tspan></text>
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -270,7 +270,7 @@
          sodipodi:role="line"
          id="tspan4174"
          x="1.8027262e-06"
-         y="597.50964">門神:9372</tspan></text>
+         y="597.50964">門神:7952</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4176"
@@ -281,7 +281,7 @@
          y="622.82611"
          x="0.84388363"
          id="tspan4178"
-         sodipodi:role="line">門神:9378</tspan></text>
+         sodipodi:role="line">門神:7958</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -292,7 +292,7 @@
          sodipodi:role="line"
          id="tspan4182"
          x="1.6877655"
-         y="648.14258">門神:9382</tspan></text>
+         y="648.14258">門神:7962</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4184"
@@ -303,7 +303,7 @@
          y="671.77124"
          x="1.6877655"
          id="tspan4186"
-         sodipodi:role="line">門神:9388</tspan></text>
+         sodipodi:role="line">門神:7968</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 56.540089,530.84303 -0.84389,44.72575"
@@ -504,10 +504,10 @@
          y="470.50961"
          x="114.00002"
          id="tspan4943"
-         sodipodi:role="line">port-forward set 192.168.99.7 9372:22 9378:80</tspan><tspan
+         sodipodi:role="line">forward-port set 192.168.79.5 7952:22 7958:80</tspan><tspan
          y="495.50961"
          x="114.00002"
          sodipodi:role="line"
-         id="tspan4955">port-forward set 192.168.99.8 9382:22 9388:80</tspan></text>
+         id="tspan4955">forward-port set 192.168.79.6 7962:22 7968:80</tspan></text>
   </g>
 </svg>
