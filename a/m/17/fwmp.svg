@@ -504,10 +504,10 @@
          y="470.50961"
          x="114.00002"
          id="tspan4943"
-         sodipodi:role="line">forward-port set 192.168.43.56 43562:22 43568:80</tspan><tspan
+         sodipodi:role="line">fwmp set 192.168.43.56 43562:22 43568:80</tspan><tspan
          y="495.50961"
          x="114.00002"
          sodipodi:role="line"
-         id="tspan4955">forward-port set 192.168.43.57 43572:22 43578:80</tspan></text>
+         id="tspan4955">fwmp set 192.168.43.57 43572:22 43578:80</tspan></text>
   </g>
 </svg>
