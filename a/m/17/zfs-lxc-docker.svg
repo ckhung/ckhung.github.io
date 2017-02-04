@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 800.00001 600.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="zfs-lxc-docker.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.245"
+     inkscape:cx="416.69186"
+     inkscape:cy="300"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36216)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="329.31726"
+       y="730.2738"
+       id="text4148"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4150"
+         x="329.31726"
+         y="730.2738" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="513.25299"
+       y="869.22961"
+       id="text4164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="513.25299"
+         y="869.22961">DI = Docker Instance</tspan></text>
+    <rect
+       style="fill:none;stroke:#800000;stroke-opacity:1"
+       id="rect4173"
+       width="307.63058"
+       height="148.5943"
+       x="126.10442"
+       y="583.28589" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="367.0683"
+       y="622.64325"
+       id="text4175"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4177"
+         x="367.0683"
+         y="622.64325">lxc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.13654"
+       y="666.01678"
+       id="text4193"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4195"
+         x="134.13654"
+         y="666.01678">/var/lib/docker</tspan></text>
+    <rect
+       y="735.89624"
+       x="126.10442"
+       height="130.12044"
+       width="372.69073"
+       id="rect4211"
+       style="fill:#ffffc0;stroke:#000000;stroke-opacity:1;fill-opacity:1" />
+    <rect
+       style="fill:none;stroke:#800000;stroke-opacity:1"
+       id="rect4213"
+       width="383.93573"
+       height="337.3494"
+       x="120.48193"
+       y="533.48663" />
+    <rect
+       style="fill:#ffffc0;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect4179"
+       width="187.14861"
+       height="105.2208"
+       x="129.31728"
+       y="710.99658" />
+    <rect
+       style="fill:#ffffc0;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect4205"
+       width="158.23288"
+       height="27.309237"
+       x="131.7269"
+       y="715.01276" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="344.57831"
+       y="564.81195"
+       id="text4215"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4217"
+         x="344.57831"
+         y="564.81195">proxmox host</tspan></text>
+    <rect
+       y="712.60303"
+       x="320.48193"
+       height="102.81116"
+       width="109.23696"
+       id="rect4219"
+       style="fill:#ffffc0;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="227.60889"
+       y="776.05688"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="227.60889"
+         y="776.05688"
+         id="tspan4156">ext4 partition</tspan><tspan
+         sodipodi:role="line"
+         x="227.60889"
+         y="801.05688"
+         id="tspan4160">in a zfs volume</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="196.78712"
+       y="736.69952"
+       id="text4207"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4209"
+         x="196.78712"
+         y="736.69952">aufs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="347.79117"
+       y="732.68347"
+       id="text4221"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4223"
+         x="347.79117"
+         y="732.68347">a zfs</tspan><tspan
+         sodipodi:role="line"
+         x="347.79117"
+         y="757.68347"
+         id="tspan4225">file</tspan><tspan
+         sodipodi:role="line"
+         x="347.79117"
+         y="782.68347"
+         id="tspan4227">system</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="269.87952"
+       y="849.14935"
+       id="text4229"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4231"
+         x="269.87952"
+         y="849.14935">zfs pool</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8, 8;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3367"
+       width="151.80721"
+       height="87.550255"
+       x="134.13655"
+       y="640.3139" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="510.84335"
+       y="710.19354"
+       id="text4173"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4175"
+         x="510.84335"
+         y="710.19354">圖例：</tspan></text>
+    <rect
+       style="fill:none;stroke:#800000;stroke-opacity:1"
+       id="rect4213-8"
+       width="106.82731"
+       height="34.538189"
+       x="514.05621"
+       y="722.2417" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="517.22998"
+       y="745.58234"
+       id="text4215-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4217-0"
+         x="517.22998"
+         y="745.58234">虛擬機/實體機</tspan></text>
+    <rect
+       y="764.81201"
+       x="515.6626"
+       height="36.144505"
+       width="106.82738"
+       id="rect4219-5"
+       style="fill:#ffffc0;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#800000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4283"
+       width="32.931736"
+       height="24.096415"
+       x="171.88756"
+       y="610.59509"
+       inkscape:tile-cx="149.79921"
+       inkscape:tile-cy="170.28114"
+       inkscape:tile-w="33.931736"
+       inkscape:tile-h="25.096415"
+       inkscape:tile-x0="132.83334"
+       inkscape:tile-y0="157.73293" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect4283"
+       xlink:href="#rect4283"
+       id="use4289"
+       transform="translate(-39.35743,-0.80321213)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect4283"
+       xlink:href="#rect4283"
+       transform="translate(37.32491,0)"
+       id="use4291"
+       width="100%"
+       height="100%" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4293"
+       y="628.26575"
+       x="135.74297"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         y="628.26575"
+         x="135.74297"
+         id="tspan4295"
+         sodipodi:role="line">DI 1</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4293-2"
+       y="628.14081"
+       x="175.29193"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="628.14081"
+         x="175.29193"
+         id="tspan4295-8"
+         sodipodi:role="line">DI 2</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4293-29"
+       y="628.14075"
+       x="212.23973"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="628.14075"
+         x="212.23973"
+         id="tspan4295-9"
+         sodipodi:role="line">DI 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="542.97186"
+       y="779.26978"
+       id="text4359"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4361"
+         x="542.97186"
+         y="779.26978">檔案系統</tspan><tspan
+         sodipodi:role="line"
+         x="542.97186"
+         y="794.89478"
+         id="tspan4402">驅動程式</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.85553581;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.84428658, 6.84428658;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3367-8"
+       width="108.57817"
+       height="31.469795"
+       x="515.18884"
+       y="810.12128" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="547.89032"
+       y="834.23743"
+       id="text4193-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4195-86"
+         x="547.89032"
+         y="834.23743">目錄</tspan></text>
+  </g>
+</svg>
