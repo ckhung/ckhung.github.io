@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800"
-   height="600"
-   viewBox="0 0 800.00001 600.00001"
+   width="600"
+   height="400"
+   viewBox="0 0 600.00001 400.00001"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.245"
-     inkscape:cx="416.69186"
-     inkscape:cy="300"
+     inkscape:cx="278.9995"
+     inkscape:cy="149.97387"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,11 @@
      inkscape:window-height="975"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="31"
+     fit-margin-left="34"
+     fit-margin-right="34"
+     fit-margin-bottom="31" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -46,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +58,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-452.36216)">
+     transform="translate(-85.981934,-502.33603)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -69,14 +73,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="513.25299"
-       y="869.22961"
+       x="512.44977"
+       y="626.65936"
        id="text4164"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4166"
-         x="513.25299"
-         y="869.22961">DI = Docker Instance</tspan></text>
+         x="512.44977"
+         y="626.65936">DI = Docker Instance</tspan></text>
     <rect
        style="fill:none;stroke:#800000;stroke-opacity:1"
        id="rect4173"
@@ -86,7 +90,7 @@
        y="583.28589" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="367.0683"
        y="622.64325"
        id="text4175"
@@ -98,21 +102,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="134.13654"
-       y="666.01678"
+       x="134.93974"
+       y="690.11316"
        id="text4193"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4195"
-         x="134.13654"
-         y="666.01678">/var/lib/docker</tspan></text>
+         x="134.93974"
+         y="690.11316">/var/lib/docker</tspan></text>
     <rect
        y="735.89624"
        x="126.10442"
        height="130.12044"
        width="372.69073"
        id="rect4211"
-       style="fill:#ffffc0;stroke:#000000;stroke-opacity:1;fill-opacity:1" />
+       style="fill:#ffffc0;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
     <rect
        style="fill:none;stroke:#800000;stroke-opacity:1"
        id="rect4213"
@@ -136,7 +140,7 @@
        y="715.01276" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="344.57831"
        y="564.81195"
        id="text4215"
@@ -211,42 +215,42 @@
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8, 8;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3367"
-       width="151.80721"
-       height="87.550255"
-       x="134.13655"
-       y="640.3139" />
+       width="153.41364"
+       height="61.044209"
+       x="132.53012"
+       y="666.81995" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="510.84335"
-       y="710.19354"
+       x="510.04013"
+       y="556.77991"
        id="text4173"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4175"
-         x="510.84335"
-         y="710.19354">圖例：</tspan></text>
+         x="510.04013"
+         y="556.77991">圖例：</tspan></text>
     <rect
        style="fill:none;stroke:#800000;stroke-opacity:1"
        id="rect4213-8"
        width="106.82731"
        height="34.538189"
-       x="514.05621"
-       y="722.2417" />
+       x="513.25299"
+       y="568.82806" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="517.22998"
-       y="745.58234"
+       x="516.42676"
+       y="592.1687"
        id="text4215-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4217-0"
-         x="517.22998"
-         y="745.58234">虛擬機/實體機</tspan></text>
+         x="516.42676"
+         y="592.1687">虛擬機/實體機</tspan></text>
     <rect
-       y="764.81201"
-       x="515.6626"
+       y="681.27789"
+       x="514.85938"
        height="36.144505"
        width="106.82738"
        id="rect4219-5"
@@ -256,8 +260,8 @@
        id="rect4283"
        width="32.931736"
        height="24.096415"
-       x="171.88756"
-       y="610.59509"
+       x="171.08435"
+       y="639.51074"
        inkscape:tile-cx="149.79921"
        inkscape:tile-cy="170.28114"
        inkscape:tile-w="33.931736"
@@ -270,7 +274,7 @@
        inkscape:tiled-clone-of="#rect4283"
        xlink:href="#rect4283"
        id="use4289"
-       transform="translate(-39.35743,-0.80321213)"
+       transform="translate(-39.35743,-0.80321165)"
        width="100%"
        height="100%" />
     <use
@@ -278,57 +282,57 @@
        y="0"
        inkscape:tiled-clone-of="#rect4283"
        xlink:href="#rect4283"
-       transform="translate(37.32491,0)"
+       transform="translate(37.32491,3.4939763e-7)"
        id="use4291"
        width="100%"
        height="100%" />
     <text
        sodipodi:linespacing="125%"
        id="text4293"
-       y="628.26575"
-       x="135.74297"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       y="657.1814"
+       x="134.93976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="628.26575"
-         x="135.74297"
+         y="657.1814"
+         x="134.93976"
          id="tspan4295"
-         sodipodi:role="line">DI 1</tspan></text>
+         sodipodi:role="line">DI1</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4293-2"
-       y="628.14081"
-       x="175.29193"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="657.05646"
+       x="174.48872"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="628.14081"
-         x="175.29193"
+         y="657.05646"
+         x="174.48872"
          id="tspan4295-8"
-         sodipodi:role="line">DI 2</tspan></text>
+         sodipodi:role="line">DI2</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4293-29"
-       y="628.14075"
-       x="212.23973"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="657.0564"
+       x="211.43652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="628.14075"
-         x="212.23973"
+         y="657.0564"
+         x="211.43652"
          id="tspan4295-9"
-         sodipodi:role="line">DI 3</tspan></text>
+         sodipodi:role="line">DI3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="542.97186"
-       y="779.26978"
+       x="542.16864"
+       y="695.73566"
        id="text4359"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4361"
-         x="542.97186"
-         y="779.26978">檔案系統</tspan><tspan
+         x="542.16864"
+         y="695.73566">檔案系統</tspan><tspan
          sodipodi:role="line"
-         x="542.97186"
-         y="794.89478"
+         x="542.16864"
+         y="711.36066"
          id="tspan4402">驅動程式</tspan></text>
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.85553581;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.84428658, 6.84428658;stroke-dashoffset:0;stroke-opacity:1"
@@ -336,17 +340,17 @@
        width="108.57817"
        height="31.469795"
        x="515.18884"
-       y="810.12128" />
+       y="635.8241" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="547.89032"
-       y="834.23743"
+       y="659.94025"
        id="text4193-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4195-86"
          x="547.89032"
-         y="834.23743">目錄</tspan></text>
+         y="659.94025">目錄</tspan></text>
   </g>
 </svg>
