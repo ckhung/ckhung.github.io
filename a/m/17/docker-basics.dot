@@ -1,0 +1,33 @@
+// dot -Tsvg docker-basics.dot -o docker-basics.svg
+
+digraph "Docker 常用指令" {
+
+    rankdir = BT;
+    overlap = scale;
+
+    source [ label="原始碼\ndocker file"; shape=house; ];
+    image [ label="映像檔\nimage"; shape=box3d; ];
+    attached [ label="前景執行中\nup, attached"; ];
+    detached [ label="背景執行中\nup, detached"; ];
+    exited [ label="收工了\nexited"; ];
+    removed [ label="X"; shape=none; ];
+    { rank = same; attached; detached; }
+    { rank = same; source; image; }
+
+    source -> image [ label="build"; ];
+    image -> removed [ label="rmi"; ];
+    image -> attached [ label="run -ti"; ];
+    image -> detached [ label="run"; ];
+    attached -> detached [ xlabel="^p ^q"; fontcolor="red"; ];
+    attached -> exited [ xlabel="^d"; fontcolor="red"; ];
+    detached -> attached [ xlabel="attach"; ];
+    detached -> exited [ xlabel="stop"; ];
+    exited -> attached:n [ label="start -ai"; ];
+    exited -> detached:e [ label="start"; ];
+    exited -> removed [ label="rm"; ];
+    exited -> image [ label="commit"; ];
+
+//    html -> graphic [ label="cutycapt" ];
+//    { text html csv } -> { dot gpt } [ label="RE" ];
+}
+
