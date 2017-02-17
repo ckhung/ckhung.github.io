@@ -7,8 +7,8 @@ digraph "不求甚解工程師的 「機器學習」 學習捷徑地圖" {
     docker [ label="docker"; ];
     jupyter [ label="jupyter notebook"; ];
     mat_mul [ label="矩陣乘法"; ];
-    cs231n [ label="史丹佛大學 cs231n"; ];
-    keras [ label="keras"; ];
+    cs231n [ label="史丹佛大學 cs231n"; color="red"; fontcolor="red"; ];
+    keras [ label="keras"; color="red"; fontcolor="red"; ];
     numpy [ label="numpy"; ];
     advanced [ label="?"; ];
 

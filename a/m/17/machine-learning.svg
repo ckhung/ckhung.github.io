@@ -26,8 +26,8 @@
 </g>
 <!-- cs231n -->
 <g id="node5" class="node"><title>cs231n</title>
-<ellipse fill="none" stroke="black" cx="102.096" cy="-162" rx="84.485" ry="18"/>
-<text text-anchor="middle" x="102.096" y="-158.3" font-family="Times,serif" font-size="14.00">史丹佛大學 cs231n</text>
+<ellipse fill="none" stroke="red" cx="102.096" cy="-162" rx="84.485" ry="18"/>
+<text text-anchor="middle" x="102.096" y="-158.3" font-family="Times,serif" font-size="14.00" fill="red">史丹佛大學 cs231n</text>
 </g>
 <!-- python&#45;&gt;cs231n -->
 <g id="edge6" class="edge"><title>python&#45;&gt;cs231n</title>
@@ -36,8 +36,8 @@
 </g>
 <!-- keras -->
 <g id="node6" class="node"><title>keras</title>
-<ellipse fill="none" stroke="black" cx="252.096" cy="-234" rx="29.4969" ry="18"/>
-<text text-anchor="middle" x="252.096" y="-230.3" font-family="Times,serif" font-size="14.00">keras</text>
+<ellipse fill="none" stroke="red" cx="252.096" cy="-234" rx="29.4969" ry="18"/>
+<text text-anchor="middle" x="252.096" y="-230.3" font-family="Times,serif" font-size="14.00" fill="red">keras</text>
 </g>
 <!-- python&#45;&gt;keras -->
 <g id="edge2" class="edge"><title>python&#45;&gt;keras</title>
