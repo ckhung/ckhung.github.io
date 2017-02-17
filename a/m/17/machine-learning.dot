@@ -1,0 +1,23 @@
+digraph "不求甚解工程師的 「機器學習」 學習捷徑地圖" {
+
+    rankdir = BT;
+    overlap = scale;
+
+    python [ label="python"; ];
+    docker [ label="docker"; ];
+    jupyter [ label="jupyter notebook"; ];
+    mat_mul [ label="矩陣乘法"; ];
+    cs231n [ label="史丹佛大學 cs231n"; ];
+    keras [ label="keras"; ];
+    numpy [ label="numpy"; ];
+    advanced [ label="?"; ];
+
+    python -> { numpy jupyter keras };
+    numpy -> { cs231n keras } [ style="dashed" ];
+    { mat_mul python } -> cs231n;
+    { jupyter cs231n keras } -> advanced;
+
+    docker -> { keras jupyter} [ style="dashed" ];
+    { cs231n jupyter } -> keras [ style="dashed" ];
+}
+
