@@ -1,0 +1,161 @@
+
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+</head>
+<body><div id="content" class="mw-body" role="main">
+			<a id="top"/>
+
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">UDEV</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From CyanogenMod</div>
+								<div id="contentSub"/>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" dir="ltr" class="mw-content-ltr" lang="en"><div class="mw-pt-translate-header noprint nomobile" dir="ltr" lang="en">This page contains <span class="plainlinks"><a rel="nofollow" target="_blank" class="external text" href="https://web.archive.org/web/20161224194519/https://wiki.cyanogenmod.org/index.php?title=UDEV&amp;oldid=34594&amp;diff=38092">changes</a></span> which are not marked for translation.</div><hr/><div class="mw-pt-languages noprint" dir="ltr" lang="en"><div class="mw-pt-languages-label">Other languages:</div><div class="mw-pt-languages-list autonym"><span class="mw-pt-languages-ui mw-pt-languages-selected mw-pt-progress mw-pt-progress--complete">English</span> • ‎<a href="https://web.archive.org/web/20161224194519/https://wiki.cyanogenmod.org/w/UDEV/zh-cn" title="UDEV (100% translated)" class="mw-pt-progress mw-pt-progress--complete">中文（中国大陆）‎</a></div></div>
+<p>To access devices connected to USB via <code>adb</code> or <code>fastboot</code> on linux, you need to configure udev rules. For detailed information about udev, take a look at <a rel="nofollow" target="_blank" class="external text" href="https://web.archive.org/web/20161224194519/https://wiki.archlinux.org/index.php/Udev">udev - Arch Linux</a>
+ from the ArchLinux wiki (note that UDEV rules are not exclusive to 
+Arch; udev is used in numerous distributions). You can follow the method
+ below to add rules for any user that is part of the <code>plugdev</code> group, or you can follow <a rel="nofollow" target="_blank" class="external text" href="https://web.archive.org/web/20161224194519/https://source.android.com/source/initializing.html#configuring-usb-access">Google Android's instructions</a> to add rules only for your username.
+</p><p>Follow these steps to setup the correct rules:
+</p>
+<ol><li>Verify your username is included in the plugdev group. Type<br/><code>groups</code><br/>from a terminal and look for <code>plugdev</code> in the listed groups. <b>If</b> you do not see <code>plugdev</code> listed, you can add your username to the group with:<br/><code>sudo gpasswd -a username plugdev</code><br/>where <code>username</code> should be replaced with your linux username.</li>
+<li>Copy the set of rules listed below these steps to a text file and save it as <code>/etc/udev/rules.d/51-android.rules</code>. You will need sudo/su to write to that directory. So, for instance:<br/><code>sudo nano /etc/udev/rules.d/51-android.rules</code><br/>These rules cover all vendors <a rel="nofollow" target="_blank" class="external text" href="https://web.archive.org/web/20161224194519/https://developer.android.com/tools/device.html#VendorIds">listed by Google</a>. Optionally, you can add just the vendor corresponding to the device(s) you plan to connect to your computer.</li>
+<li>Restart your computer and then test plugging in your device to the computer with USB debugging enabled.</li></ol><pre>#Acer
+SUBSYSTEM=="usb", ATTR{idVendor}=="0502", MODE="0664", GROUP="plugdev"
+#ASUS
+SUBSYSTEM=="usb", ATTR{idVendor}=="0b05", MODE="0664", GROUP="plugdev"
+#Dell
+SUBSYSTEM=="usb", ATTR{idVendor}=="413c", MODE="0664", GROUP="plugdev"
+#Foxconn
+SUBSYSTEM=="usb", ATTR{idVendor}=="0489", MODE="0664", GROUP="plugdev"
+#Fujitsu &amp; Fujitsu Toshiba
+SUBSYSTEM=="usb", ATTR{idVendor}=="04c5", MODE="0664", GROUP="plugdev"
+#Garmin-Asus
+SUBSYSTEM=="usb", ATTR{idVendor}=="091e", MODE="0664", GROUP="plugdev"
+#Google
+SUBSYSTEM=="usb", ATTR{idVendor}=="18d1", MODE="0664", GROUP="plugdev"
+#Haier
+SUBSYSTEM=="usb", ATTR{idVendor}=="201e", MODE="0664", GROUP="plugdev"
+#Hisense
+SUBSYSTEM=="usb", ATTR{idVendor}=="109b", MODE="0664", GROUP="plugdev"
+#HTC
+SUBSYSTEM=="usb", ATTR{idVendor}=="0bb4", MODE="0664", GROUP="plugdev"
+#Huawei
+SUBSYSTEM=="usb", ATTR{idVendor}=="12d1", MODE="0664", GROUP="plugdev"
+#Intel
+SUBSYSTEM=="usb", ATTR{idVendor}=="8087", MODE="0664", GROUP="plugdev"
+#K-Touch
+SUBSYSTEM=="usb", ATTR{idVendor}=="24e3", MODE="0664", GROUP="plugdev"
+#KT Tech
+SUBSYSTEM=="usb", ATTR{idVendor}=="2116", MODE="0664", GROUP="plugdev"
+#Kyocera
+SUBSYSTEM=="usb", ATTR{idVendor}=="0482", MODE="0664", GROUP="plugdev"
+#Lenovo
+SUBSYSTEM=="usb", ATTR{idVendor}=="17ef", MODE="0664", GROUP="plugdev"
+#LG
+SUBSYSTEM=="usb", ATTR{idVendor}=="1004", MODE="0664", GROUP="plugdev"
+#Motorola
+SUBSYSTEM=="usb", ATTR{idVendor}=="22b8", MODE="0664", GROUP="plugdev"
+#MTK
+SUBSYSTEM=="usb", ATTR{idVendor}=="0e8d", MODE="0664", GROUP="plugdev"
+#NEC
+SUBSYSTEM=="usb", ATTR{idVendor}=="0409", MODE="0664", GROUP="plugdev"
+#Nook
+SUBSYSTEM=="usb", ATTR{idVendor}=="2080", MODE="0664", GROUP="plugdev"
+#Nvidia
+SUBSYSTEM=="usb", ATTR{idVendor}=="0955", MODE="0664", GROUP="plugdev"
+#OTGV
+SUBSYSTEM=="usb", ATTR{idVendor}=="2257", MODE="0664", GROUP="plugdev"
+#Pantech
+SUBSYSTEM=="usb", ATTR{idVendor}=="10a9", MODE="0664", GROUP="plugdev"
+#Pegatron
+SUBSYSTEM=="usb", ATTR{idVendor}=="1d4d", MODE="0664", GROUP="plugdev"
+#Philips
+SUBSYSTEM=="usb", ATTR{idVendor}=="0471", MODE="0664", GROUP="plugdev"
+#PMC-Sierra
+SUBSYSTEM=="usb", ATTR{idVendor}=="04da", MODE="0664", GROUP="plugdev"
+#Qualcomm
+SUBSYSTEM=="usb", ATTR{idVendor}=="05c6", MODE="0664", GROUP="plugdev"
+#SK Telesys
+SUBSYSTEM=="usb", ATTR{idVendor}=="1f53", MODE="0664", GROUP="plugdev"
+#Samsung
+SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", MODE="0664", GROUP="plugdev"
+#Sharp
+SUBSYSTEM=="usb", ATTR{idVendor}=="04dd", MODE="0664", GROUP="plugdev"
+#Sony
+SUBSYSTEM=="usb", ATTR{idVendor}=="054c", MODE="0664", GROUP="plugdev"
+#Sony Ericsson
+SUBSYSTEM=="usb", ATTR{idVendor}=="0fce", MODE="0664", GROUP="plugdev"
+#Teleepoch
+SUBSYSTEM=="usb", ATTR{idVendor}=="2340", MODE="0664", GROUP="plugdev"
+#Toshiba
+SUBSYSTEM=="usb", ATTR{idVendor}=="0930", MODE="0664", GROUP="plugdev"
+#Wileyfox
+SUBSYSTEM=="usb", ATTR{idVendor}=="2970", MODE="0664", GROUP="plugdev"
+#YU
+SUBSYSTEM=="usb", ATTR{idVendor}=="1ebf", MODE="0664", GROUP="plugdev"
+#ZTE
+SUBSYSTEM=="usb", ATTR{idVendor}=="19d2", MODE="0664", GROUP="plugdev"
+#ZUK
+SUBSYSTEM=="usb", ATTR{idVendor}=="2b4c", MODE="0664", GROUP="plugdev"
+</pre>
+<h2><span class="mw-headline" id="Troubleshooting">Troubleshooting</span></h2>
+<p>1. Make sure your device is connected and accessible via usb. <code>lsusb</code> should show a list of connected devices. The section after 'ID' in the output should match one of the <code>idVendor</code> numbers from the udev rules. For example, a Nexus One with idVendor <code>18d1</code> should return something like:
+</p>
+<pre>Bus 001 Device 005: ID 17ef:480d Lenovo Integrated Webcam [R5U877]
+Bus 002 Device 002: ID 0bda:0119 Realtek Semiconductor Corp. 
+Bus 002 Device 009: ID 18d1:4e12 Google Inc. Nexus One (debug)
+Bus 004 Device 003: ID 0a5c:2145 Broadcom Corp. Bluetooth with Enhanced Data Rate II
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+</pre>
+<p>2. If the device is detected in <code>lsusb</code>, try running <code>adb devices</code>. If you get <code>???????????? device</code>, try <a rel="nofollow" target="_blank" class="external text" href="https://web.archive.org/web/20161224194519/https://askubuntu.com/questions/82470/what-is-the-correct-way-to-restart-udev-in-ubuntu">reloading the udev rules</a>:
+</p>
+<pre> <code>sudo sh -c "(udevadm control --reload-rules &amp;&amp; udevadm trigger --action=change)"</code>
+</pre>
+<p>You can also try disconnecting and reconnecting the usb cable to your device.
+</p><p>3. If you cannot access your device via adb, even after adding 
+your linux user to the plugdev group and restarting the computer, you 
+can try starting the <code>adb</code> service as root. This is dangerous and not recommended:
+</p>
+<pre><code>adb kill-server
+sudo $(which adb) start-server
+adb devices</code>
+</pre>
+<p>Similarly, if <code>fastboot devices</code> returns <code>no permissions</code>, try running <code>fastboot</code> as root:
+</p>
+<pre><code>sudo $(which fastboot) devices</code>
+</pre>
+<!-- 
+NewPP limit report
+Cached time: 20161218042016
+Cache expiry: 1209600
+Dynamic content: false
+CPU time usage: 0.095 seconds
+Real time usage: 0.110 seconds
+Preprocessor visited node count: 26/1000000
+Preprocessor generated node count: 72/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
+
+<!-- Saved in parser cache with key mediawiki-cmw_:pcache:idhash:1274-0!*!*!*!en!*!* and timestamp 20161218042016 and revision id 38092
+ -->
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://web.archive.org/web/20161224194519/https://wiki.cyanogenmod.org/index.php?title=UDEV&amp;oldid=38092">https://wiki.cyanogenmod.org/index.php?title=UDEV&amp;oldid=38092</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden"/>				<div class="visualClear"/>
+							</div>
+		</div>
+</body>
+</html>
