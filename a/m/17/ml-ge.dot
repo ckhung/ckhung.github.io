@@ -1,0 +1,57 @@
+// dot -Tsvg study-map.dot > study-map.svg
+digraph "javascript 學習地圖" {
+
+    rankdir = LR;
+    overlap = scale;
+
+//    subgraph cluster0 {
+//	label="『javascript 第二語言急上手』";
+//	nodejs [ label="把 js 當成計算機" ];
+//	console [ label="瀏覽器的 console 招術" ];
+//	jshint [ label="風格工具 jshint/jscs" ];
+//
+//	nodejs -> { jshint console };
+//
+//	graph[ style=dotted ];
+//    };
+
+    basics [ label="基礎概念" ];
+    neural_network [ label="神經網路 (neural network)" ];
+    training [ label="訓練 (training)" ];
+    network_types [ label="常見神經網路類別" ];
+    applications [ label="應用領域" ];
+    image_labeling [ label="圖形辨識" ];
+    text_analysis  [ label="文本分析" ];
+    speech_recognition [ label="語音辨識" ];
+    fully_connected_network [ label="全連接網路" ];
+    convolutional_network [ label="卷積網路" ];
+    recurrent_network [ label="遞歸網路/回饋式網路" ];
+    lstm_network [ label="長短期記憶網路" ];
+    gru_network [ label="Gated Recurrent Network" ];
+    t_sne [ label="t-SNE 資料視覺化" ];
+
+    basics -> neural_network -> training;
+    neural_network -> applications -> {
+	image_labeling
+	text_analysis
+	speech_recognition
+	t_sne
+    };
+    neural_network -> network_types -> {
+	fully_connected_network
+	convolutional_network
+	recurrent_network
+    };
+    recurrent_network -> {
+	lstm_network
+	gru_network
+    }
+    python -> { keras tflearn };
+    tflearn -> tensorflow;
+    keras -> { tensorflow theano };
+    eg001 [ label="實作範例： 圖像識別"; ];
+    { docker keras convolutional_network image_labeling } -> eg001;
+    eg002 [ label="實作範例： 語音辨識"; ];
+    { docker tflearn lstm image_labeling } -> eg002;
+}
+
