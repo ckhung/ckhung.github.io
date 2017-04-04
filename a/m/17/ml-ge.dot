@@ -16,10 +16,13 @@ digraph "javascript 學習地圖" {
 //    };
 
     basics [ label="基礎概念" ];
-    neural_network [ label="神經網路 (neural network)" ];
+    neural_network [ label="類神經網路 (neural network)" ];
     training [ label="訓練 (training)" ];
-    network_types [ label="常見神經網路類別" ];
+    network_types [ label="常見類神經網路類別" ];
     applications [ label="應用領域" ];
+
+    {rank = same; basics; neural_network; training; network_types; applications; };
+
     image_labeling [ label="圖形辨識" ];
     text_analysis  [ label="文本分析" ];
     speech_recognition [ label="語音辨識" ];
@@ -46,12 +49,14 @@ digraph "javascript 學習地圖" {
 	lstm_network
 	gru_network
     }
-    python -> { keras tflearn };
+    { docker python } -> { keras tflearn };
     tflearn -> tensorflow;
     keras -> { tensorflow theano };
     eg001 [ label="實作範例： 圖像識別"; ];
     { docker keras convolutional_network image_labeling } -> eg001;
     eg002 [ label="實作範例： 語音辨識"; ];
-    { docker tflearn lstm image_labeling } -> eg002;
+    { docker tflearn lstm_network speech_recognition } -> eg002;
+    eg003 [ label="實作範例： 文字生成器"; ];
+    { docker lstm_network text_analysis } -> eg003;
 }
 
