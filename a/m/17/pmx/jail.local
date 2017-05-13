@@ -1,0 +1,28 @@
+# see https://newtoypia.blogspot.tw/2016/04/fail2ban.html
+
+[DEFAULT]
+ignoreip = 127.0.0.1/8 999.999.999.999/24
+# If your system uses systemd, then uncomment
+# the following line, and comment all "logpath" lines:
+# backend = systemd
+# 如果你的系統採用 systemd， 請刪掉上面那句的 #
+# 並且把後面所有的 logpath 列全部註解掉。
+
+[ssh]
+
+enabled  = true
+filter   = sshd
+logpath  = /var/log/auth.log
+maxretry = 5
+findtime = 600
+bantime  = 86400
+
+[proxmox]
+enabled = true
+port = https,http,8006
+filter = proxmox
+logpath = /var/log/daemon.log
+maxretry = 5
+findtime = 600
+bantime = 86400
+
