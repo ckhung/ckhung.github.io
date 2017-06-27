@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,45 +61,45 @@
      id="layer1"
      transform="translate(-12.382973,-673.52234)">
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/adblock-plus.png"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/adblock-plus.png"
        xlink:href="adblock-plus.png"
-       width="67.976189"
-       height="67.976189"
-       id="image3063"
+       y="903.08521"
        x="377.23016"
-       y="903.08521" />
+       id="image3063"
+       height="67.976189"
+       width="67.976189" />
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/better-privacy.png"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/better-privacy.png"
        xlink:href="better-privacy.png"
-       width="69.188538"
-       height="69.188538"
-       id="image3125"
+       y="749.74976"
        x="26.482168"
-       y="749.74976" />
+       id="image3125"
+       height="69.188538"
+       width="69.188538" />
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/cookie-monster.png"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/cookie-monster.png"
        xlink:href="cookie-monster.png"
-       width="48.239342"
-       height="48.239342"
-       id="image3249"
+       y="756.63501"
        x="139.33989"
-       y="756.63501" />
+       id="image3249"
+       height="48.239342"
+       width="48.239342" />
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/noscript.png"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/noscript.png"
        xlink:href="noscript.png"
-       width="58.475357"
-       height="58.475357"
-       id="image3373"
+       y="889.49152"
        x="38.167377"
-       y="889.49152" />
+       id="image3373"
+       height="58.475357"
+       width="58.475357" />
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/https-everywhere.jpg"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/https-everywhere.jpg"
        xlink:href="https-everywhere.jpg"
-       width="87.331306"
-       height="75.444542"
-       id="image4031"
+       y="745.44556"
        x="242.44604"
-       y="745.44556" />
+       id="image4031"
+       height="75.444542"
+       width="87.331306" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2993"
@@ -178,13 +178,13 @@
          x="29.839235"
          y="975.00159">NoScript</tspan></text>
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/disconnect.png"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/disconnect.png"
        xlink:href="disconnect.png"
-       width="59.389034"
-       height="89.833946"
-       id="image3139"
+       y="889.48615"
        x="146.63074"
-       y="889.48615" />
+       id="image3139"
+       height="89.833946"
+       width="59.389034" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -208,42 +208,42 @@
          x="13.826591"
          y="725.07422">『firefox privacy (extensions/addons)』</tspan></text>
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/html5-video-everywhere.png"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/html5-video-everywhere.png"
        xlink:href="html5-video-everywhere.png"
-       width="73.094193"
-       height="73.094193"
-       preserveAspectRatio="none"
-       id="image3438"
+       y="749.7226"
        x="374.8262"
-       y="749.7226" />
+       id="image3438"
+       preserveAspectRatio="none"
+       height="73.094193"
+       width="73.094193" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="359.23898"
-       y="842.08026"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="413.60104"
+       y="839.64783"
        id="text3006-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3008-6"
-         x="359.23898"
-         y="842.08026">html5 video</tspan><tspan
+         x="413.60104"
+         y="839.64783">html5 video</tspan><tspan
          sodipodi:role="line"
-         x="359.23898"
-         y="864.92218"
+         x="413.60104"
+         y="862.48975"
          id="tspan3010-7">everywhere</tspan><tspan
          sodipodi:role="line"
-         x="359.23898"
-         y="887.76416"
-         id="tspan3462">『flash 勒贖』</tspan></text>
+         x="413.60104"
+         y="885.33173"
+         id="tspan3462">『flash 教授勒贖』</tspan></text>
     <image
-       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/13/ff-privacy/privacy-badger.png"
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/privacy-badger.png"
        xlink:href="privacy-badger.png"
-       width="88.893349"
-       height="64.656685"
-       preserveAspectRatio="none"
-       id="image3523"
+       y="885.25647"
        x="238.58072"
-       y="885.25647" />
+       id="image3523"
+       preserveAspectRatio="none"
+       height="64.656685"
+       width="88.893349" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
