@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="360"
+   viewBox="0 0 719.99998 360"
+   id="svg3667"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bus-gps-2.svg">
+  <defs
+     id="defs3669">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker30251"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path30253" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7931"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7933"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7881"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path7883" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7835"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7837"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4225"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4227" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4696"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5002855"
+     inkscape:cx="368.69878"
+     inkscape:cy="224.36844"
+     inkscape:document-units="px"
+     inkscape:current-layer="graph0-3"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3672">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-100.86809,-271.09248)">
+    <g
+       transform="matrix(0.48055635,0,0,0.48055635,74.920011,498.26589)"
+       class="graph"
+       id="graph0-3">
+      <title
+         id="title4573">bus apps: inefficient</title>
+      <!-- Taipei_app -->
+      <!-- Taipei_rtdata -->
+      <!-- Taipei_app&#45;&gt;Taipei_rtdata -->
+      <!-- Kaohsiung_app -->
+      <!-- Kaohsiung_rtdata -->
+      <!-- Kaohsiung_app&#45;&gt;Kaohsiung_rtdata -->
+      <!-- Vancouver_app -->
+      <!-- Vancouver_rtdata -->
+      <!-- Vancouver_app&#45;&gt;Vancouver_rtdata -->
+      <!-- Bangkok_app -->
+      <!-- Bangkok_rtdata -->
+      <!-- Bangkok_app&#45;&gt;Bangkok_rtdata -->
+      <!-- Hanoi_app -->
+      <!-- Hanoi_rtdata -->
+      <!-- Hanoi_app&#45;&gt;Hanoi_rtdata -->
+      <g
+         id="g5029"
+         transform="translate(59.799808,-134.06641)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-3"
+           y="269.40472"
+           x="221.20432"
+           style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="269.40472"
+             x="221.20432"
+             id="tspan3827-6"
+             sodipodi:role="line">臺中市公車</tspan><tspan
+             id="tspan3831-5"
+             y="321.42776"
+             x="221.20432"
+             sodipodi:role="line">GPS 即時資訊</tspan></text>
+        <g
+           inkscape:tile-y0="391.98557"
+           inkscape:tile-x0="108.12406"
+           inkscape:tile-h="164.22654"
+           inkscape:tile-w="141.28186"
+           inkscape:tile-cy="474.09884"
+           inkscape:tile-cx="178.76499"
+           id="g5016">
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.08092141;stroke-opacity:1"
+             id="rect3873-3"
+             width="291.91553"
+             height="132.96359"
+             x="78.457581"
+             y="212.66125"
+             ry="17.52702"
+             rx="23.57082" />
+        </g>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g5016"
+           id="use7991"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#g5016"
+         xlink:href="#g5016"
+         id="use5021"
+         transform="translate(405.26265,-136.99405)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#g5016"
+         xlink:href="#g5016"
+         transform="translate(755.16234,-134.06641)"
+         id="use5025"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#g5016"
+         xlink:href="#g5016"
+         transform="translate(1083.8138,-134.06641)"
+         id="use5027"
+         width="100%"
+         height="100%" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="464.37335"
+         y="-317.52921"
+         id="text3825-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="464.37335"
+           y="-317.52921"
+           id="tspan3831-2">公車終結者</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1129.3185"
+         y="-311.91583"
+         id="text3825-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1129.3185"
+           y="-311.91583"
+           id="tspan3831-27">窄頻公車 族</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="805.77386"
+         y="-314.3782"
+         id="text3825-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="805.77386"
+           y="-314.3782"
+           id="tspan3831-3">potluckmap</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3825-3-2"
+         y="131.58887"
+         x="631.58087"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="131.58887"
+           x="631.58087"
+           id="tspan3827-6-0"
+           sodipodi:role="line">高雄市公車</tspan><tspan
+           id="tspan3831-5-2"
+           y="183.61191"
+           x="631.58087"
+           sodipodi:role="line">GPS 即時資訊</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3825-3-3"
+         y="133.69035"
+         x="982.87268"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="133.69035"
+           x="982.87268"
+           id="tspan3827-6-7"
+           sodipodi:role="line">溫哥華公車</tspan><tspan
+           id="tspan3831-5-5"
+           y="185.71339"
+           x="982.87268"
+           sodipodi:role="line">GPS 即時資訊</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3825-3-9"
+         y="135.07736"
+         x="1311.8878"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="135.07736"
+           x="1311.8878"
+           id="tspan3827-6-2"
+           sodipodi:role="line">曼谷公車</tspan><tspan
+           id="tspan3831-5-28"
+           y="187.1004"
+           x="1311.8878"
+           sodipodi:role="line">GPS 即時資訊</tspan></text>
+      <g
+         id="g3379"
+         transform="translate(59.641729,-66.576814)">
+        <rect
+           ry="36.472309"
+           rx="49.048985"
+           y="-88.858063"
+           x="435.44342"
+           height="144.24976"
+           width="628.31866"
+           id="rect3377"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.08092141;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3371"
+           y="-30.603378"
+           x="747.2525"
+           style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-30.603378"
+             x="747.2525"
+             id="tspan3373"
+             sodipodi:role="line">公開網址、易處理的文字格式</tspan><tspan
+             id="tspan3375"
+             y="21.419655"
+             x="747.2525"
+             sodipodi:role="line">(RESTful API, geojson format)</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.08092141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker30251)"
+         d="M 267.61435,76.19695 601.88545,-8.4110926"
+         id="path3385"
+         inkscape:connector-curvature="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path3385"
+         id="use4373"
+         transform="matrix(-1,0,0,1,1573.3595,1.3870126)"
+         width="100%"
+         height="100%" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.08092141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7835)"
+         d="M 631.0128,73.42291 735.03908,-8.4110886"
+         id="path6927"
+         inkscape:connector-curvature="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path6927"
+         id="use7401"
+         transform="matrix(-1,0,0,1,1605.5651,-3.9148809e-7)"
+         width="100%"
+         height="100%" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.08092141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7881)"
+         d="M 722.55592,-156.8219 532.53461,-259.46116"
+         id="path7879"
+         inkscape:connector-curvature="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path7879"
+         id="use7927"
+         transform="matrix(-1,0,0,1,1612.8771,-1.3870174)"
+         width="100%"
+         height="100%" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.08092141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7931)"
+         d="m 803.00291,-156.8219 0,-94.31715"
+         id="path7929"
+         inkscape:connector-curvature="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use7991"
+         id="use3389"
+         transform="translate(238.76841,-610.03557)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use7991"
+         id="use3391"
+         transform="translate(905.92357,-611.4226)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use7991"
+         id="use3393"
+         transform="translate(578.58756,-607.26155)"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="240"
+   viewBox="0 0 719.99998 240"
+   id="svg3667"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bus-gps-1.svg">
+  <defs
+     id="defs3669">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4699"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4696"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5002855"
+     inkscape:cx="493.28768"
+     inkscape:cy="149.48806"
+     inkscape:document-units="px"
+     inkscape:current-layer="graph0-3"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3672">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.2204,-316.21209)">
+    <g
+       transform="matrix(0.48055635,0,0,0.48055635,74.920011,498.26589)"
+       class="graph"
+       id="graph0-3">
+      <title
+         id="title4573">bus apps: inefficient</title>
+      <!-- Taipei_app -->
+      <!-- Taipei_rtdata -->
+      <!-- Taipei_app&#45;&gt;Taipei_rtdata -->
+      <!-- Kaohsiung_app -->
+      <!-- Kaohsiung_rtdata -->
+      <!-- Kaohsiung_app&#45;&gt;Kaohsiung_rtdata -->
+      <!-- Vancouver_app -->
+      <!-- Vancouver_rtdata -->
+      <!-- Vancouver_app&#45;&gt;Vancouver_rtdata -->
+      <!-- Bangkok_app -->
+      <!-- Bangkok_rtdata -->
+      <!-- Bangkok_app&#45;&gt;Bangkok_rtdata -->
+      <!-- Hanoi_app -->
+      <!-- Hanoi_rtdata -->
+      <!-- Hanoi_app&#45;&gt;Hanoi_rtdata -->
+      <g
+         id="g5029"
+         transform="translate(-23.421209,-70.263627)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="215.84352"
+           y="-168.74821"
+           id="text3825"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="215.84352"
+             y="-168.74821"
+             id="tspan3829">臺中市公車</tspan><tspan
+             sodipodi:role="line"
+             x="215.84352"
+             y="-116.72518"
+             id="tspan3831">動態網頁</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3825-3"
+           y="40.546928"
+           x="215.65625"
+           style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="40.546928"
+             x="215.65625"
+             id="tspan3827-6"
+             sodipodi:role="line">臺中市公車</tspan><tspan
+             id="tspan3831-5"
+             y="92.569962"
+             x="215.65625"
+             sodipodi:role="line">GPS 即時資訊</tspan></text>
+        <g
+           inkscape:tile-y0="391.98557"
+           inkscape:tile-x0="108.12406"
+           inkscape:tile-h="164.22654"
+           inkscape:tile-w="141.28186"
+           inkscape:tile-cy="474.09884"
+           inkscape:tile-cx="178.76499"
+           id="g5016">
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.08092141;stroke-opacity:1"
+             id="rect3873"
+             width="235.70819"
+             height="124.50227"
+             x="98.239143"
+             y="-220.12053"
+             ry="17.52702"
+             rx="23.57082" />
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.08092141;stroke-opacity:1"
+             id="rect3873-3"
+             width="291.91553"
+             height="132.96359"
+             x="70.135475"
+             y="-13.42251"
+             ry="17.52702"
+             rx="23.57082" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.08092141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+             d="m 216.09324,-15.840083 0,-76.756263"
+             id="path4690"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#g5016"
+         xlink:href="#g5016"
+         id="use5021"
+         transform="translate(322.04163,-73.191275)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#g5016"
+         xlink:href="#g5016"
+         transform="translate(671.94132,-70.263627)"
+         id="use5025"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         inkscape:tiled-clone-of="#g5016"
+         xlink:href="#g5016"
+         transform="translate(1000.5928,-70.263627)"
+         id="use5027"
+         width="100%"
+         height="100%" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="542.04633"
+         y="-239.85628"
+         id="text3825-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="542.04633"
+           y="-239.85628"
+           id="tspan3829-6">高雄市公車</tspan><tspan
+           sodipodi:role="line"
+           x="542.04633"
+           y="-187.83324"
+           id="tspan3831-2">動態網頁</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="885.20355"
+         y="-238.40395"
+         id="text3825-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="885.20355"
+           y="-238.40395"
+           id="tspan3829-1">溫哥華公車</tspan><tspan
+           sodipodi:role="line"
+           x="885.20355"
+           y="-186.38091"
+           id="tspan3831-27">動態網頁</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1214.9438"
+         y="-242.2533"
+         id="text3825-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1214.9438"
+           y="-242.2533"
+           id="tspan3829-9">曼谷公車</tspan><tspan
+           sodipodi:role="line"
+           x="1214.9438"
+           y="-190.23026"
+           id="tspan3831-3">動態網頁</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3825-3-2"
+         y="-30.692116"
+         x="531.71564"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-30.692116"
+           x="531.71564"
+           id="tspan3827-6-0"
+           sodipodi:role="line">高雄市公車</tspan><tspan
+           id="tspan3831-5-2"
+           y="21.330919"
+           x="531.71564"
+           sodipodi:role="line">GPS 即時資訊</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3825-3-3"
+         y="-29.977648"
+         x="884.39447"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-29.977648"
+           x="884.39447"
+           id="tspan3827-6-7"
+           sodipodi:role="line">溫哥華公車</tspan><tspan
+           id="tspan3831-5-5"
+           y="22.045385"
+           x="884.39447"
+           sodipodi:role="line">GPS 即時資訊</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3825-3-9"
+         y="-27.203613"
+         x="1220.3446"
+         style="font-style:normal;font-weight:normal;font-size:41.61842728px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-27.203613"
+           x="1220.3446"
+           id="tspan3827-6-2"
+           sodipodi:role="line">曼谷公車</tspan><tspan
+           id="tspan3831-5-28"
+           y="24.81942"
+           x="1220.3446"
+           sodipodi:role="line">GPS 即時資訊</tspan></text>
+    </g>
+  </g>
+</svg>
