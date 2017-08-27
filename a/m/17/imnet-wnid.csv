@@ -11760,7 +11760,7 @@ n03061893,449,N,cockscomb/coxcomb,a cap worn by court jesters; adorned with a st
 n03036469,449,N,civilian_clothing/civilian_dress/civilian_garb/plain_clothes,ordinary clothing as distinguished from uniforms work clothes clerical garb etc.
 n02866578,449,N,bomb,an explosive device fused to explode under specific conditions
 n02587479,449,N,mutton_snapper/muttonfish/Lutjanus_analis,similar to and often marketed as `red snapper'; 
-n12767648,448,N,varnish_tree/lacquer_tree/Toxicodendron_vernicifluum/Rhus_verniciflua,small Asiatic tree yielding a toxic exudate from which lacquer is obtained
+n12767648,448,N,varnish_tree/lacquer_tree/Chinese_lacquer_tree/Japanese_lacquer_tree/Japanese_varnish_tree/Japanese_sumac/Toxicodendron_vernicifluum/Rhus_verniciflua,small Asiatic tree yielding a toxic exudate from which lacquer is obtained
 n12295429,448,N,striped_gentian/Gentiana_villosa,a perennial marsh gentian of eastern North America
 n07864065,448,N,chicken_cordon_bleu,thin slices of chicken stuffed with cheese and ham and then sauteed
 n07861983,448,N,moo_goo_gai_pan,a Cantonese dish of chicken and sauteed vegetables
@@ -12085,7 +12085,7 @@ n01439808,417,N,domestic_carp/Cyprinus_carpio,large Old World freshwater bottom-
 n12130549,416,N,timothy/herd's_grass/Phleum_pratense,grass with long cylindrical spikes grown in northern United States and Europe for hay
 n11997969,416,N,daisybush/daisy-bush/daisy_bush,any of various mostly Australian attractively shaped shrubs of the genus Olearia grown for their handsome and sometimes fragrant evergreen foliage and profusion of daisy flowers with white or purple or blue rays
 n11843441,416,N,rattail_cactus/rat's-tail_cactus/Aporocactus_flagelliformis,commonly cultivated tropical American cactus having slender creeping stems and very large showy crimson flowers that bloom for several days
-n11823756,416,N,prince's-feather/Amaranthus_cruentus/Amaranthus_hybridus_erythrostachys,tall showy tropical American annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal
+n11823756,416,N,prince's-feather/gentleman's-cane/prince's-plume/red_amaranth/purple_amaranth/Amaranthus_cruentus/Amaranthus_hybridus_hypochondriacus/Amaranthus_hybridus_erythrostachys,tall showy tropical American annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal
 n09906704,416,N,champion/champ/title-holder,someone who has won first place in a competition
 n04438643,416,N,time-switch,a switch set to operate at a desired time
 n03684489,416,N,lockring/lock_ring/lock_washer,washer that prevents a nut from loosening
@@ -21592,7 +21592,6 @@ n12645530,1,N,bitter_almond/Prunus_dulcis_amara/Amygdalus_communis_amara,almond 
 n12603273,1,N,Himalayan_rhubarb/Indian_rhubarb/red-veined_pie_plant/Rheum_australe/Rheum_emodi,Asian herb (Himalayas)
 n12602434,1,N,umbrella_plant/Eriogonum_allenii,late blooming perennial plant of shale barrens of Virginia having flowers in flat-topped clusters
 n12562577,1,N,quira,any of several tropical American trees some yielding economically important timber
-n12453018,1�_Kopio.JPG,N,white_fritillary/Fritillaria_liliaceae,California herb with white conic or bell-shaped flowers usually tinged with green
 n12327528,1,N,anchovy_pear/anchovy_pear_tree/Grias_cauliflora,West Indian tree bearing edible fruit resembling mango
 n12325787,1,N,oleaster,any of several shrubs of the genus Elaeagnus having silver-white twigs and yellow flowers followed by olivelike fruits
 n12242123,1,N,minniebush/minnie_bush/Menziesia_pilosa,low shrub of the eastern United States with downy twigs
@@ -21658,6 +21657,7 @@ n04457638,1,N,torpedo_tube,a tube near the waterline of a vessel through which a
 n04444953,1,N,toehold,a small foothold used in climbing
 n04437380,1,N,time-delay_measuring_instrument/time-delay_measuring_system,chronoscope for measuring the time difference between two events
 n04406687,1,N,telpher/telfer,one of the conveyances (or cars) in a telpherage
+n04399382,1,Y,teddy/teddy_bear,plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)
 n04374907,1,N,synchrocyclotron,cyclotron that achieves relativistic velocities by modulating the frequency of the accelerating electric field
 n04359124,1,N,supper_club,usually a small luxurious nightclub
 n04339191,1,N,string_tie,a very narrow necktie usually tied in a bow
@@ -21840,4 +21840,3 @@ n01333483,1,N,vesiculovirus,an animal virus that causes vesicular stomatitis
 n00443917,1,N,gainer/full_gainer,a dive in which the diver throws the feet forward to complete a full backward somersault and enters the water feet first and facing away from the diving board
 n00443375,1,N,dead-man's_float/prone_float,a floating position with the face down and arms stretched forward
 n00006024,1,N,heterotroph,an organism that depends on complex organic substances for nutrition
-n04399382,1,N,teddy/teddy_bear,plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)
