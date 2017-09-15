@@ -8,16 +8,16 @@ digraph "不求甚解工程師的 「機器學習」 學習捷徑地圖" {
     jupyter [ label="jupyter notebook"; ];
     mat_mul [ label="矩陣乘法"; ];
     cs231n [ label="史丹佛大學 cs231n"; color="red"; fontcolor="red"; ];
-    keras [ label="keras"; color="red"; fontcolor="red"; ];
+    hilevel [ label="keras\ntflearn\ncaffe"; color="red"; fontcolor="red"; ];
     numpy [ label="numpy"; ];
     advanced [ label="?"; ];
 
-    python -> { numpy jupyter keras };
-    numpy -> { cs231n keras } [ style="dashed" ];
+    python -> { numpy jupyter hilevel };
+    numpy -> { cs231n hilevel } [ style="dashed" ];
     { mat_mul python } -> cs231n;
-    { jupyter cs231n keras } -> advanced;
+    { jupyter cs231n hilevel } -> advanced;
 
-    docker -> { keras jupyter} [ style="dashed" ];
-    { cs231n jupyter } -> keras [ style="dashed" ];
+    docker -> { hilevel jupyter} [ style="dashed" ];
+    { cs231n jupyter } -> hilevel [ style="dashed" ];
 }
 
