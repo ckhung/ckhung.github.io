@@ -659,14 +659,14 @@
              x="54.211769"
              y="585.53864">寄件人</tspan></text>
         <image
-           sodipodi:absref="/home/ckhung/public_html/m/13/shh.png"
-           y="608.42249"
-           x="47.272446"
-           id="image3802"
-           xlink:href="file:///home/ckhung/public_html/m/13/shh.png"
-           preserveAspectRatio="none"
+           sodipodi:absref="../13/shh.png"
+           xlink:href="../13/shh.png"
+           width="122.28621"
            height="119.43285"
-           width="122.28621" />
+           preserveAspectRatio="none"
+           id="image3802"
+           x="47.272446"
+           y="608.42249" />
       </g>
       <text
          sodipodi:linespacing="125%"
