@@ -229,15 +229,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.97395833"
-     inkscape:cx="303.57219"
+     inkscape:zoom="1.0052083"
+     inkscape:cx="512"
      inkscape:cy="384"
      inkscape:document-units="px"
-     inkscape:current-layer="g6712"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="976"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -659,14 +659,14 @@
              x="54.211769"
              y="585.53864">寄件人</tspan></text>
         <image
-           sodipodi:absref="../13/shh.png"
+           sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/16/../13/shh.png"
            xlink:href="../13/shh.png"
-           width="122.28621"
-           height="119.43285"
-           preserveAspectRatio="none"
-           id="image3802"
+           y="608.42249"
            x="47.272446"
-           y="608.42249" />
+           id="image3802"
+           preserveAspectRatio="none"
+           height="119.43285"
+           width="122.28621" />
       </g>
       <text
          sodipodi:linespacing="125%"
@@ -1097,5 +1097,10 @@
          y="851.22449"
          x="646.04559"
          sodipodi:role="line">非對稱式加解密</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 808.55614,621.64689 0,231.01605 -536.98393,0 0,179.67906 736.17109,0 0,-411.72184 z"
+       id="path3512"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
