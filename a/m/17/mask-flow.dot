@@ -3,11 +3,11 @@ digraph "遮罩上色流程" {
     rankdir = TB;
     overlap = scale;
 
-    orig [ label="原圖"; ];
-    gray [ label="黑白"; ];
-    semseg [ label="語義切割"; ];
-    mask [ label="遮罩"; ];
-    hilight [ label="選擇性著色"; ];
+    orig [ label="原圖\norig.jpg"; ];
+    gray [ label="黑白\ngray.jpg"; ];
+    semseg [ label="語義切割\nsemseg.png"; ];
+    mask [ label="遮罩\nmask.png"; ];
+    hilight [ label="選擇性著色\nhilight.jpg"; ];
 
     orig -> gray
     orig -> semseg
