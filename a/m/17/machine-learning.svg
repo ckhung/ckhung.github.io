@@ -78,13 +78,13 @@
 </g>
 <!-- advanced -->
 <g id="node8" class="node"><title>advanced</title>
-<ellipse fill="none" stroke="black" cx="252.096" cy="-344.953" rx="27" ry="18"/>
-<text text-anchor="middle" x="252.096" y="-341.253" font-family="Times,serif" font-size="14.00">?</text>
+<ellipse fill="none" stroke="black" cx="252.096" cy="-344.953" rx="57.3905" ry="18"/>
+<text text-anchor="middle" x="252.096" y="-341.253" font-family="Times,serif" font-size="14.00">好玩的東東</text>
 </g>
 <!-- jupyter&#45;&gt;advanced -->
 <g id="edge8" class="edge"><title>jupyter&#45;&gt;advanced</title>
-<path fill="none" stroke="black" d="M377.818,-179.939C361.096,-204.797 328.431,-252.388 298.096,-290.953 290.056,-301.174 280.724,-312.086 272.575,-321.335"/>
-<polygon fill="black" stroke="black" points="269.81,-319.177 265.78,-328.976 275.041,-323.829 269.81,-319.177"/>
+<path fill="none" stroke="black" d="M377.818,-179.939C361.096,-204.797 328.431,-252.388 298.096,-290.953 290.599,-300.485 281.978,-310.616 274.24,-319.44"/>
+<polygon fill="black" stroke="black" points="271.448,-317.314 267.44,-327.122 276.689,-321.954 271.448,-317.314"/>
 </g>
 <!-- mat_mul -->
 <g id="node4" class="node"><title>mat_mul</title>
@@ -103,8 +103,8 @@
 </g>
 <!-- cs231n&#45;&gt;advanced -->
 <g id="edge9" class="edge"><title>cs231n&#45;&gt;advanced</title>
-<path fill="none" stroke="black" d="M115.717,-180.115C135.423,-204.793 173.138,-251.717 206.096,-290.953 214.46,-300.911 223.846,-311.778 231.947,-321.066"/>
-<polygon fill="black" stroke="black" points="229.459,-323.537 238.678,-328.758 234.727,-318.928 229.459,-323.537"/>
+<path fill="none" stroke="black" d="M115.717,-180.115C135.423,-204.793 173.138,-251.717 206.096,-290.953 214.015,-300.382 222.851,-310.626 230.645,-319.572"/>
+<polygon fill="black" stroke="black" points="228.238,-322.137 237.454,-327.363 233.509,-317.53 228.238,-322.137"/>
 </g>
 <!-- hilevel&#45;&gt;advanced -->
 <g id="edge10" class="edge"><title>hilevel&#45;&gt;advanced</title>

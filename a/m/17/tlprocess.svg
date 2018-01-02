@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="602pt" height="608pt" viewBox="0.00 0.00 602.15 608.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 604)">
+<title>files needed in the process of caffe transfer learning</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-604 598.146,-604 598.146,4 -4,4"/>
+
+<g id="node1" class="node"><title>pics</title>
+<polygon fill="#e0e0e0" stroke="black" points="272.146,-600 269.146,-604 248.146,-604 245.146,-600 218.146,-600 218.146,-564 272.146,-564 272.146,-600"/>
+<text text-anchor="middle" x="245.146" y="-578.3" font-family="Times,serif" font-size="14.00">*.jpg</text>
+</g>
+
+<g id="node5" class="node"><title>lmdb</title>
+<polygon fill="#e0e0e0" stroke="black" points="272.146,-513 269.146,-517 248.146,-517 245.146,-513 218.146,-513 218.146,-477 272.146,-477 272.146,-513"/>
+<text text-anchor="middle" x="245.146" y="-491.3" font-family="Times,serif" font-size="14.00">*.mdb</text>
+</g>
+
+<g id="edge1" class="edge"><title>pics-&gt;lmdb</title>
+<path fill="none" stroke="black" d="M245.146,-563.799C245.146,-552.163 245.146,-536.548 245.146,-523.237"/>
+<polygon fill="black" stroke="black" points="248.646,-523.175 245.146,-513.175 241.646,-523.175 248.646,-523.175"/>
+<text text-anchor="middle" x="280.146" y="-534.8" font-family="Times,serif" font-size="14.00">pic2lmdb.py</text>
+</g>
+
+<g id="node2" class="node"><title>mean_bpt</title>
+<ellipse fill="none" stroke="black" cx="105.146" cy="-408" rx="73.387" ry="18"/>
+<text text-anchor="middle" x="105.146" y="-404.3" font-family="Times,serif" font-size="14.00">mean.binaryproto</text>
+</g>
+
+<g id="node3" class="node"><title>mean_npy</title>
+<ellipse fill="none" stroke="black" cx="46.1459" cy="-267" rx="46.2923" ry="18"/>
+<text text-anchor="middle" x="46.1459" y="-263.3" font-family="Times,serif" font-size="14.00">mean.npy</text>
+</g>
+
+<g id="edge8" class="edge"><title>mean_bpt-&gt;mean_npy</title>
+<path fill="none" stroke="black" d="M75.6189,-391.361C68.4474,-386.155 61.5766,-379.684 57.1459,-372 43.6616,-348.616 42.1294,-317.316 43.2147,-295.182"/>
+<polygon fill="black" stroke="black" points="46.7116,-295.347 43.9169,-285.127 39.7286,-294.859 46.7116,-295.347"/>
+<text text-anchor="middle" x="88.1459" y="-360.8" font-family="Times,serif" font-size="14.00">bpt2npy.py</text>
+</g>
+
+<g id="node6" class="node"><title>mod_train</title>
+<polygon fill="#c0ffff" stroke="black" points="188.146,-339 100.146,-339 100.146,-303 188.146,-303 188.146,-339"/>
+<text text-anchor="middle" x="144.146" y="-317.3" font-family="Times,serif" font-size="14.00">train.prototxt</text>
+</g>
+
+<g id="edge6" class="edge"><title>mean_bpt-&gt;mod_train</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M113.038,-389.799C118.483,-377.932 125.826,-361.928 132.011,-348.449"/>
+<polygon fill="black" stroke="black" points="135.276,-349.724 136.265,-339.175 128.914,-346.805 135.276,-349.724"/>
+<text text-anchor="middle" x="156.646" y="-360.8" font-family="Times,serif" font-size="14.00" fill="green">mean_file:</text>
+</g>
+
+<g id="node12" class="node"><title>result</title>
+<ellipse fill="none" stroke="black" cx="318.146" cy="-18" rx="64.9885" ry="18"/>
+<text text-anchor="middle" x="318.146" y="-14.3" font-family="Times,serif" font-size="14.00">result.{csv,txt}</text>
+</g>
+
+<g id="edge11" class="edge"><title>mean_npy-&gt;result</title>
+<path fill="none" stroke="black" d="M46.1369,-248.741C46.9887,-222.714 52.0841,-173.06 77.1459,-141 123.056,-82.2711 204.869,-49.4379 260.299,-32.9846"/>
+<polygon fill="black" stroke="black" points="261.343,-36.3263 269.984,-30.1961 259.406,-29.5995 261.343,-36.3263"/>
+</g>
+
+<g id="node4" class="node"><title>wnid</title>
+<polygon fill="#c0ffff" stroke="black" points="474.146,-600 412.146,-600 412.146,-564 474.146,-564 474.146,-600"/>
+<text text-anchor="middle" x="443.146" y="-578.3" font-family="Times,serif" font-size="14.00">wnid.txt</text>
+</g>
+
+<g id="edge2" class="edge"><title>wnid-&gt;lmdb</title>
+<path fill="none" stroke="black" d="M411.772,-567.531C376.437,-552.362 319.086,-527.742 281.739,-511.709"/>
+<polygon fill="black" stroke="black" points="282.806,-508.359 272.237,-507.63 280.045,-514.791 282.806,-508.359"/>
+</g>
+
+<g id="edge12" class="edge"><title>wnid-&gt;result</title>
+<path fill="none" stroke="black" d="M458.976,-563.893C472.283,-547.682 489.146,-522.008 489.146,-496 489.146,-496 489.146,-496 489.146,-104 489.146,-56.6444 435.909,-35.6718 388.844,-26.3835"/>
+<polygon fill="black" stroke="black" points="389.381,-22.9238 378.916,-24.5735 388.126,-29.8103 389.381,-22.9238"/>
+</g>
+
+<g id="edge3" class="edge"><title>lmdb-&gt;mean_bpt</title>
+<path fill="none" stroke="black" d="M218.138,-491.059C181.75,-486.483 119.935,-476.332 106.146,-459 101.053,-452.599 99.5732,-444.136 99.7372,-435.997"/>
+<polygon fill="black" stroke="black" points="103.222,-436.325 100.676,-426.04 96.2526,-435.668 103.222,-436.325"/>
+<text text-anchor="middle" x="168.646" y="-447.8" font-family="Times,serif" font-size="14.00">compute_image_mean</text>
+</g>
+
+<g id="edge7" class="edge"><title>lmdb-&gt;mod_train</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M241.684,-476.736C235.414,-448.99 219.974,-393.857 190.146,-357 186.914,-353.007 183.136,-349.212 179.159,-345.694"/>
+<polygon fill="black" stroke="black" points="181.308,-342.93 171.357,-339.294 176.869,-348.343 181.308,-342.93"/>
+<text text-anchor="middle" x="247.146" y="-404.3" font-family="Times,serif" font-size="14.00" fill="green">source:</text>
+</g>
+
+<g id="node7" class="node"><title>mod_solver</title>
+<polygon fill="#c0ffff" stroke="black" points="231.146,-231 135.146,-231 135.146,-195 231.146,-195 231.146,-231"/>
+<text text-anchor="middle" x="183.146" y="-209.3" font-family="Times,serif" font-size="14.00">solver.prototxt</text>
+</g>
+
+<g id="edge5" class="edge"><title>mod_train-&gt;mod_solver</title>
+<path fill="none" stroke="black" stroke-dasharray="5,2" d="M150.412,-302.969C156.573,-286.224 166.071,-260.41 173.252,-240.892"/>
+<polygon fill="black" stroke="black" points="176.598,-241.934 176.766,-231.341 170.028,-239.517 176.598,-241.934"/>
+<text text-anchor="middle" x="180.646" y="-263.3" font-family="Times,serif" font-size="14.00" fill="green">net:</text>
+</g>
+
+<g id="node8" class="node"><title>mod_deploy</title>
+<polygon fill="#c0ffff" stroke="black" points="186.146,-177 86.1459,-177 86.1459,-141 186.146,-141 186.146,-177"/>
+<text text-anchor="middle" x="136.146" y="-155.3" font-family="Times,serif" font-size="14.00">deploy.prototxt</text>
+</g>
+
+<g id="edge4" class="edge"><title>mod_train-&gt;mod_deploy</title>
+<path fill="none" stroke="black" stroke-dasharray="1,5" d="M138.524,-302.615C131.429,-278.475 120.763,-233.433 126.146,-195 126.97,-189.117 128.537,-182.835 130.19,-177.241"/>
+</g>
+
+<g id="node10" class="node"><title>weights_ape</title>
+<polygon fill="#ffc080" stroke="black" points="388.146,-123 252.146,-123 248.146,-119 248.146,-87 384.146,-87 388.146,-91 388.146,-123"/>
+<polyline fill="none" stroke="black" points="384.146,-119 248.146,-119 "/>
+<polyline fill="none" stroke="black" points="384.146,-119 384.146,-87 "/>
+<polyline fill="none" stroke="black" points="384.146,-119 388.146,-123 "/>
+<text text-anchor="middle" x="318.146" y="-101.3" font-family="Times,serif" font-size="14.00">_iter_4000.caffemodel</text>
+</g>
+
+<g id="edge9" class="edge"><title>mod_solver-&gt;weights_ape</title>
+<path fill="none" stroke="black" d="M204.836,-194.969C227.336,-177.303 262.694,-149.54 287.926,-129.729"/>
+<polygon fill="black" stroke="black" points="290.357,-132.269 296.061,-123.341 286.034,-126.763 290.357,-132.269"/>
+</g>
+
+<g id="edge13" class="edge"><title>mod_deploy-&gt;result</title>
+<path fill="none" stroke="black" d="M158.463,-140.956C191.24,-115.922 252.441,-69.1814 288.815,-41.4012"/>
+<polygon fill="black" stroke="black" points="291.234,-43.9576 297.057,-35.1064 286.985,-38.3945 291.234,-43.9576"/>
+</g>
+
+<g id="node9" class="node"><title>weights_orig</title>
+<polygon fill="#ffc080" stroke="black" points="461.146,-231 253.146,-231 249.146,-227 249.146,-195 457.146,-195 461.146,-199 461.146,-231"/>
+<polyline fill="none" stroke="black" points="457.146,-227 249.146,-227 "/>
+<polyline fill="none" stroke="black" points="457.146,-227 457.146,-195 "/>
+<polyline fill="none" stroke="black" points="457.146,-227 461.146,-231 "/>
+<text text-anchor="middle" x="355.146" y="-209.3" font-family="Times,serif" font-size="14.00">bvlc_reference_caffenet.caffemodel</text>
+</g>
+
+<g id="edge10" class="edge"><title>weights_orig-&gt;weights_ape</title>
+<path fill="none" stroke="black" d="M349.201,-194.969C343.356,-178.224 334.346,-152.41 327.533,-132.892"/>
+<polygon fill="black" stroke="black" points="330.799,-131.629 324.199,-123.341 324.19,-133.935 330.799,-131.629"/>
+<text text-anchor="middle" x="356.146" y="-155.3" font-family="Times,serif" font-size="14.00">caffe</text>
+</g>
+
+<g id="edge14" class="edge"><title>weights_ape-&gt;result</title>
+<path fill="none" stroke="black" d="M318.146,-86.799C318.146,-75.1626 318.146,-59.5479 318.146,-46.2368"/>
+<polygon fill="black" stroke="black" points="321.646,-46.1754 318.146,-36.1754 314.646,-46.1755 321.646,-46.1754"/>
+</g>
+
+<g id="node11" class="node"><title>test_pics</title>
+<ellipse fill="none" stroke="black" cx="546.146" cy="-105" rx="28.6953" ry="18"/>
+<text text-anchor="middle" x="546.146" y="-101.3" font-family="Times,serif" font-size="14.00">*.jpg</text>
+</g>
+
+<g id="edge15" class="edge"><title>test_pics-&gt;result</title>
+<path fill="none" stroke="black" d="M536.535,-87.9224C528.915,-76.6256 517.224,-62.131 503.146,-54 469.912,-34.8055 428.249,-25.8554 392.878,-21.7903"/>
+<polygon fill="black" stroke="black" points="392.91,-18.2749 382.602,-20.7242 392.188,-25.2375 392.91,-18.2749"/>
+<text text-anchor="middle" x="558.146" y="-57.8" font-family="Times,serif" font-size="14.00">cnclassify.py</text>
+</g>
+</g>
+</svg>

@@ -10,7 +10,7 @@ digraph "不求甚解工程師的 「機器學習」 學習捷徑地圖" {
     cs231n [ label="史丹佛大學 cs231n"; color="red"; fontcolor="red"; ];
     hilevel [ label="keras\ntflearn\ncaffe"; color="red"; fontcolor="red"; ];
     numpy [ label="numpy"; ];
-    advanced [ label="?"; ];
+    advanced [ label="好玩的東東"; ];
 
     python -> { numpy jupyter hilevel };
     numpy -> { cs231n hilevel } [ style="dashed" ];
