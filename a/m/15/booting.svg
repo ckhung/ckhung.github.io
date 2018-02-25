@@ -14,7 +14,7 @@
    height="480"
    id="svg3276"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="booting.svg"
    inkscape:export-filename="/home/ckhung/public_html/m/15/booting.png"
    inkscape:export-xdpi="90"
@@ -139,18 +139,18 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1166667"
-     inkscape:cx="400"
+     inkscape:cx="40.000015"
      inkscape:cy="240"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3281">
@@ -209,23 +209,25 @@
            style="opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none" />
         <text
            xml:space="preserve"
-           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
            x="799.22766"
            y="580.23334"
-           id="text4712"
-           sodipodi:linespacing="125%"><tspan
+           id="text4712"><tspan
              sodipodi:role="line"
              x="799.22766"
              y="580.23334"
-             id="tspan5503">BIOS</tspan><tspan
+             id="tspan5503"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">BIOS</tspan><tspan
              sodipodi:role="line"
              x="799.22766"
              y="602.73334"
-             id="tspan4051">(屬於韌體，</tspan><tspan
+             id="tspan4051"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">(屬於韌體，</tspan><tspan
              sodipodi:role="line"
              x="799.22766"
-             y="625.242"
-             id="tspan4053">位於主機板)</tspan></text>
+             y="625.23334"
+             id="tspan4053"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">位於主機板)</tspan></text>
       </g>
       <g
          id="g4055">
@@ -241,57 +243,59 @@
            style="opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none" />
         <text
            xml:space="preserve"
-           style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
            x="753.25708"
            y="839.3324"
-           id="text4845"
-           sodipodi:linespacing="125%"><tspan
+           id="text4845"><tspan
              id="tspan5653"
              sodipodi:role="line"
              x="753.25708"
-             y="839.3324">Boot Loader</tspan><tspan
+             y="839.3324"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">Boot Loader</tspan><tspan
              id="tspan5657"
              sodipodi:role="line"
              x="753.25708"
-             y="861.8324">(位於 Master</tspan><tspan
+             y="861.8324"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">(位於 Master</tspan><tspan
              id="tspan5659"
              sodipodi:role="line"
              x="753.25708"
-             y="884.34106">Boot Record)</tspan></text>
+             y="884.3324"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">Boot Record)</tspan></text>
       </g>
       <text
-         sodipodi:linespacing="125%"
          id="text4849"
          y="761.36664"
          x="699.53046"
-         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan4853"
            y="761.36664"
            x="699.53046"
-           sodipodi:role="line">Windows</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25;font-family:sans-serif">Windows</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4857"
          y="688.33246"
          x="698.38928"
-         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="688.33246"
            x="698.38928"
            id="tspan4859"
-           sodipodi:role="line">Linux</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25;font-family:sans-serif">Linux</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4861"
          y="718.00262"
          x="780.55273"
-         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="718.00262"
            x="780.55273"
            id="tspan4863"
-           sodipodi:role="line">Mac OS</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25;font-family:sans-serif">Mac OS</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4865"
