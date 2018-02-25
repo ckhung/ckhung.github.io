@@ -142,7 +142,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1166667"
-     inkscape:cx="40.000015"
+     inkscape:cx="289.10033"
      inkscape:cy="240"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
@@ -160,7 +160,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -217,7 +217,7 @@
              x="799.22766"
              y="580.23334"
              id="tspan5503"
-             style="font-size:18px;line-height:1.25;font-family:sans-serif">BIOS</tspan><tspan
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">BIOS/UEFI</tspan><tspan
              sodipodi:role="line"
              x="799.22766"
              y="602.73334"
