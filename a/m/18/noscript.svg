@@ -18,8 +18,8 @@
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="noscript.svg"
    inkscape:export-filename="/home/ckhung/public_html/m/18/noscript.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-xdpi="72.049408"
+   inkscape:export-ydpi="72.049408">
   <defs
      id="defs2">
     <marker
@@ -60,7 +60,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93951687"
-     inkscape:cx="640.38531"
+     inkscape:cx="742.15396"
      inkscape:cy="455.0211"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -82,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,15 +92,15 @@
      id="layer1"
      transform="translate(2.7175984,-146.37091)">
     <image
-       sodipodi:absref="/home/ckhung/public_html/m/18/noscript-ss.jpg"
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/18/noscript-ss.jpg"
        xlink:href="noscript-ss.jpg"
-       style=""
-       width="362.24472"
-       height="240.782"
-       preserveAspectRatio="none"
-       id="image877"
+       y="146.37091"
        x="-2.7175984"
-       y="146.37091" />
+       id="image877"
+       preserveAspectRatio="none"
+       height="240.782"
+       width="362.24472"
+       style="" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:vertical-lr;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -131,7 +131,7 @@
          x="299.2886"
          y="217.31566"
          style="font-size:8.46666622px;writing-mode:vertical-lr;fill:#00ffff;stroke-width:0.26458332"
-         id="tspan890">更多選項</tspan></text>
+         id="tspan890">更多選項（個別）</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:vertical-lr;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -140,19 +140,19 @@
        id="text882-3"><tspan
          sodipodi:role="line"
          id="tspan880-6"
-         x="225.18291"
-         y="55.745434"
+         x="188.57278"
+         y="92.35556"
          style="font-size:8.46666622px;writing-mode:vertical-lr;fill:#00ffff;stroke-width:0.26458332">取消</tspan><tspan
          sodipodi:role="line"
-         x="225.18291"
-         y="66.328773"
+         x="188.57278"
+         y="102.9389"
          style="font-size:8.46666622px;writing-mode:vertical-lr;fill:#00ffff;stroke-width:0.26458332"
          id="tspan4614">套用</tspan><tspan
          sodipodi:role="line"
-         x="225.18291"
-         y="76.912102"
+         x="188.57278"
+         y="113.52222"
          style="font-size:8.46666622px;writing-mode:vertical-lr;fill:#00ffff;stroke-width:0.26458332"
-         id="tspan890-5">更多選項</tspan></text>
+         id="tspan890-5">更多選項（全域）</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:vertical-lr;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -160,15 +160,15 @@
        y="285.73044"
        id="text882-3-6"><tspan
          sodipodi:role="line"
-         x="304.31711"
-         y="306.30402"
+         x="285.73044"
+         y="324.89069"
          style="font-size:8.46666622px;writing-mode:vertical-lr;fill:#00ffff;stroke-width:0.26458332"
-         id="tspan890-5-1">暫時信任本頁全部</tspan><tspan
+         id="tspan890-5-1">取消暫時信任</tspan><tspan
          sodipodi:role="line"
-         x="304.31711"
-         y="316.88736"
+         x="285.73044"
+         y="335.47403"
          style="font-size:8.46666622px;writing-mode:vertical-lr;fill:#00ffff;stroke-width:0.26458332"
-         id="tspan4652">取消暫時信任</tspan></text>
+         id="tspan4652">暫時信任本頁全部</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
