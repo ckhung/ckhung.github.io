@@ -60,7 +60,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.93951687"
-     inkscape:cx="742.15396"
+     inkscape:cx="527.14984"
      inkscape:cy="455.0211"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -94,13 +94,13 @@
     <image
        sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/18/noscript-ss.jpg"
        xlink:href="noscript-ss.jpg"
-       y="146.37091"
-       x="-2.7175984"
-       id="image877"
-       preserveAspectRatio="none"
-       height="240.782"
+       style=""
        width="362.24472"
-       style="" />
+       height="240.782"
+       preserveAspectRatio="none"
+       id="image877"
+       x="-2.7175984"
+       y="146.37091" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:vertical-lr;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -121,7 +121,7 @@
          x="299.2886"
          y="196.149"
          style="font-size:8.46666622px;writing-mode:vertical-lr;fill:#00ffff;stroke-width:0.26458332"
-         id="tspan886">信任</tspan><tspan
+         id="tspan886">永久信任</tspan><tspan
          sodipodi:role="line"
          x="299.2886"
          y="206.73233"
