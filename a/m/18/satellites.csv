@@ -1,4 +1,4 @@
-名稱, 星體半徑, 軌道半長軸, 公轉週期, 所屬行星
+name, radius, orbit_major, rev_cycle, planet
 Moon, 1737.10, 384399, 27.321582, Earth
 Phobos, 11.1, 9380, 0.319, Mars
 Deimos, 6.2, 23460, 1.262, Mars
