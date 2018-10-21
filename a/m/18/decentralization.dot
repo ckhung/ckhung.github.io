@@ -1,0 +1,20 @@
+graph "中心化 vs 去中心化" {
+
+    overlap = scale;
+    node[label=""];
+
+    center [ shape=rectangle; peripheries=2; ]
+    { A1 A2 A3 A4 } -- center;
+    center -- { A5 A6 A7 };
+
+    {A B} -- C;
+    C -- { D E F };
+    F -- B;
+    D -- { B F };
+    E -- { B G };
+    A -- H;
+    J -- G;
+    I -- { A E G H J };
+}
+
+
