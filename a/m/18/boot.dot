@@ -1,0 +1,16 @@
+// dot -Tsvg boot.dot > boot.svg
+digraph "linux 開機過程的重要檔案" {
+
+    rankdir = LR;
+    overlap = scale;
+
+    extlinux [ label="extlinux.conf" ];
+    vmlinuz [ label="vmlinuz\n(kernel)" ];
+    initrd [ label="initrd" ];
+    extlinux -> { vmlinuz initrd squashfs rootfs } [ style=dashed ];
+    vmlinuz -> initrd;
+    rootfs [ color="red"; shape="cylinder" ];
+    squashfs [ color="red" ];
+    initrd -> { squashfs rootfs };
+}
+
