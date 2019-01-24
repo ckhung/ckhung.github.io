@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="stocks.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.36"
+     inkscape:cx="347.05882"
+     inkscape:cy="300"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.24998)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.29220909;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="46.135075"
+       height="30.751244"
+       x="-68.945923"
+       y="209.25668"
+       transform="matrix(1,0,0.56885176,0.82244007,0,0)"
+       inkscape:tile-cx="81.904094"
+       inkscape:tile-cy="46.496627"
+       inkscape:tile-w="64.086404"
+       inkscape:tile-h="25.531379"
+       inkscape:tile-x0="49.860892"
+       inkscape:tile-y0="33.730938" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="101.74786"
+       y="175.21384"
+       id="text819"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="101.74786"
+         y="175.21384"
+         style="font-size:4.23333311px;stroke-width:0.26458332">台泥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="106.22242"
+       y="181.24478"
+       id="text823"><tspan
+         sodipodi:role="line"
+         id="tspan821"
+         x="106.22242"
+         y="181.24478"
+         style="font-size:4.23333311px;stroke-width:0.26458332">台塑</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.52973"
+       y="187.66481"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="109.52973"
+         y="187.66481"
+         style="font-size:4.23333311px;stroke-width:0.26458332">台積電</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.31159"
+       y="192.52847"
+       id="text831"><tspan
+         sodipodi:role="line"
+         id="tspan829"
+         x="117.31159"
+         y="192.52847"
+         style="stroke-width:0.26458332">...</tspan></text>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       id="use4536"
+       style="fill:#00ffff;fill-opacity:1" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       transform="translate(0.19454657,8.411281)"
+       id="use4538"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       transform="translate(0,17.406201)"
+       id="use4540"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       transform="translate(-0.19454657,26.790214)"
+       id="use4542"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       transform="translate(-0.19454657,35.396037)"
+       id="use4544"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
