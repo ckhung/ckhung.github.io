@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800"
-   height="600"
-   viewBox="0 0 211.66666 158.75"
+   width="600"
+   height="500"
+   viewBox="0 0 158.75 132.29166"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.36"
-     inkscape:cx="347.05882"
-     inkscape:cy="300"
+     inkscape:zoom="1"
+     inkscape:cx="37.5"
+     inkscape:cy="200"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,9 @@
      inkscape:window-height="1056"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-others="false"
+     inkscape:snap-nodes="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -46,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,14 +56,50 @@
      inkscape:label="圖層 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-138.24998)">
+     transform="translate(0,-164.70832)">
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       transform="translate(3.3647127,55.139383)"
+       id="use4544"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       transform="translate(2.6658169,26.571068)"
+       id="use4542"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       transform="translate(2.3696159,17.911514)"
+       id="use4540"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect815"
+       xlink:href="#rect815"
+       id="use4538"
+       width="100%"
+       height="100%"
+       transform="translate(1.4810096,9.251959)" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.29220909;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.44489554;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect815"
-       width="46.135075"
-       height="30.751244"
-       x="-68.945923"
-       y="209.25668"
+       width="70.241791"
+       height="46.819527"
+       x="-90.263489"
+       y="229.52742"
        transform="matrix(1,0,0.56885176,0.82244007,0,0)"
        inkscape:tile-cx="81.904094"
        inkscape:tile-cy="46.496627"
@@ -71,90 +109,113 @@
        inkscape:tile-y0="33.730938" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="101.74786"
-       y="175.21384"
+       style="font-style:normal;font-weight:normal;font-size:6.44535351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283459"
+       x="118.36137"
+       y="193.21562"
        id="text819"><tspan
          sodipodi:role="line"
          id="tspan817"
-         x="101.74786"
-         y="175.21384"
-         style="font-size:4.23333311px;stroke-width:0.26458332">台泥</tspan></text>
+         x="118.36137"
+         y="193.21562"
+         style="font-size:6.44535351px;stroke-width:0.40283459">台泥</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="106.22242"
-       y="181.24478"
+       style="font-style:normal;font-weight:normal;font-size:6.44535351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283459"
+       x="123.98917"
+       y="200.02827"
        id="text823"><tspan
          sodipodi:role="line"
          id="tspan821"
-         x="106.22242"
-         y="181.24478"
-         style="font-size:4.23333311px;stroke-width:0.26458332">台塑</tspan></text>
+         x="123.98917"
+         y="200.02827"
+         style="font-size:6.44535351px;stroke-width:0.40283459">台塑</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="109.52973"
-       y="187.66481"
+       style="font-style:normal;font-weight:normal;font-size:6.44535351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283459"
+       x="127.83985"
+       y="207.4333"
        id="text827"><tspan
          sodipodi:role="line"
          id="tspan825"
-         x="109.52973"
-         y="187.66481"
-         style="font-size:4.23333311px;stroke-width:0.26458332">台積電</tspan></text>
+         x="127.83985"
+         y="207.4333"
+         style="font-size:6.44535351px;stroke-width:0.40283459">台積電</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="117.31159"
-       y="192.52847"
+       style="font-style:normal;font-weight:normal;font-size:6.44535351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283459"
+       x="137.02208"
+       y="212.46873"
        id="text831"><tspan
          sodipodi:role="line"
          id="tspan829"
-         x="117.31159"
-         y="192.52847"
-         style="stroke-width:0.26458332">...</tspan></text>
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect815"
-       xlink:href="#rect815"
-       id="use4536"
-       style="fill:#00ffff;fill-opacity:1" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect815"
-       xlink:href="#rect815"
-       transform="translate(0.19454657,8.411281)"
-       id="use4538"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect815"
-       xlink:href="#rect815"
-       transform="translate(0,17.406201)"
-       id="use4540"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect815"
-       xlink:href="#rect815"
-       transform="translate(-0.19454657,26.790214)"
-       id="use4542"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect815"
-       xlink:href="#rect815"
-       transform="translate(-0.19454657,35.396037)"
-       id="use4544"
-       width="100%"
-       height="100%" />
+         x="137.02208"
+         y="212.46873"
+         style="stroke-width:0.40283459">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.44535351px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283459"
+       x="23.166063"
+       y="191.73462"
+       id="text828"><tspan
+         sodipodi:role="line"
+         id="tspan826"
+         x="23.166063"
+         y="191.73462"
+         style="text-align:center;text-anchor:middle;stroke-width:0.40283459">18/10/01</tspan><tspan
+         sodipodi:role="line"
+         x="23.166063"
+         y="199.79131"
+         style="text-align:center;text-anchor:middle;stroke-width:0.40283459"
+         id="tspan830">18/10/02</tspan><tspan
+         sodipodi:role="line"
+         x="23.166063"
+         y="207.84801"
+         style="text-align:center;text-anchor:middle;stroke-width:0.40283459"
+         id="tspan832">18/10/03</tspan><tspan
+         sodipodi:role="line"
+         x="23.166063"
+         y="215.90469"
+         style="text-align:center;text-anchor:middle;stroke-width:0.40283459"
+         id="tspan834">18/10/04</tspan><tspan
+         sodipodi:role="line"
+         x="23.166063"
+         y="223.96138"
+         style="text-align:center;text-anchor:middle;stroke-width:0.40283459"
+         id="tspan836">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.44535351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283459"
+       x="-114.45654"
+       y="185.35626"
+       id="text859"
+       transform="skewX(41.959878)"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="-114.45654"
+         y="185.35626"
+         style="stroke-width:0.40283459">量, 開, 高, 低, 收</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.44535351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40283459"
+       x="20.910927"
+       y="248.60538"
+       id="text863"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="20.910927"
+         y="248.60538"
+         style="stroke-width:0.40283459">今天</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="258.33194"
+       y="-103.05494"
+       id="text32"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="258.33194"
+         y="-103.05494"
+         style="font-size:8.46666622px;stroke-width:0.26458332">...</tspan></text>
   </g>
 </svg>
