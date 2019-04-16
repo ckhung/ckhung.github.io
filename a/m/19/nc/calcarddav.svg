@@ -17,8 +17,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="calcarddav.svg"
    inkscape:export-filename="/home/ckhung/git/ckhung.github.io/a/m/19/nc/calcarddav.png"
-   inkscape:export-xdpi="64.5"
-   inkscape:export-ydpi="64.5">
+   inkscape:export-xdpi="80"
+   inkscape:export-ydpi="80">
   <defs
      id="defs2">
     <marker
@@ -96,6 +96,21 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-97"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path843-53"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -105,7 +120,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.2666667"
-     inkscape:cx="240"
+     inkscape:cx="74.55883"
      inkscape:cy="192.42815"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -125,7 +140,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -190,7 +205,7 @@
          y="253.95851"
          style="stroke-width:0.26458332">vCard</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       style="fill:none;stroke:#000000;stroke-width:0.2648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.1184,2.1184;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-dashoffset:0"
        d="m 18.948836,247.53846 13.229167,-17.1201"
        id="path30"
        inkscape:connector-curvature="0" />
@@ -201,15 +216,15 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
-       d="m 86.366803,248.67423 -13.22917,-17.1201"
-       id="path30-4"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-4-3)"
        d="m 54.878574,253.37695 11.28371,-21.40011"
        id="path30-9-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.11839998, 2.11839998;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-97)"
+       d="M 86.74804,247.63912 73.518873,230.51902"
+       id="path30-8"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
