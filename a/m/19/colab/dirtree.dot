@@ -1,0 +1,23 @@
+graph {
+    "My Drive" [ shape=folder ];
+    "colab" [ shape=folder ];
+    "img" [ shape=folder ];
+    "Automatic-Image-Colorization" [ shape=folder peripheries=2 color="purple" ];
+    "summary" [ shape=folder ];
+    "test" [ shape=folder color="red" ];
+    "images" [ shape=folder color="red" ];
+    "vgg" [ shape=folder ];
+    "My Drive" -- "colab";
+    "aic.ipynb" [ color="red" ]
+    "colab" -- { "img" "aic.ipynb" "Automatic-Image-Colorization"  };
+    "img" -- { "img1.jpg" "img2.jpg" "img3.jpg" "..." };
+    "Automatic-Image-Colorization" -- { "summary" "vgg" };
+    "vgg" -- "vgg16.npy";
+    "summary" --  "test" -- "images" ;
+    "images" -- { "1_0.png" "1_1.png" "1_2.png" "... " } [ style=dashed ];
+
+    "img", "test", "images", "aic.ipynb" [ color="blue" ];
+    "summary", "vgg16.npy", "img1.jpg", "img2.jpg", "img3.jpg", "..." [ color="red" ];
+    "summary", "vgg16.npy" [ peripheries=2 ];
+    "1_0.png", "1_1.png", "1_2.png", "... " [ color="#00aa00" ];
+}
