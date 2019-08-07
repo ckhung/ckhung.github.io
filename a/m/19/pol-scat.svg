@@ -15,7 +15,7 @@
    viewBox="0 0 211.66666 158.75"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="pol-scat.svg">
   <defs
      id="defs2">
@@ -50,7 +50,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8"
-     inkscape:cx="513.03793"
+     inkscape:cx="304.28793"
      inkscape:cy="300"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -58,8 +58,8 @@
      units="px"
      inkscape:snap-nodes="false"
      inkscape:snap-global="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,6 +80,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-138.24998)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect860"
+       width="212.65884"
+       height="161.06511"
+       x="0"
+       y="138.24998" />
     <rect
        id="rect3699"
        width="169.9948"
