@@ -87,6 +87,30 @@
        height="161.06511"
        x="0"
        y="138.24998" />
+    <g
+       id="g4711"
+       transform="rotate(-34.216683,29.588313,265.03821)">
+      <rect
+         rx="6.6247573"
+         ry="1.5587662"
+         y="272.5817"
+         x="23.739044"
+         height="7.7938313"
+         width="192.50763"
+         id="rect4643"
+         style="fill:url(#linearGradient4664);fill-opacity:1;stroke:none;stroke-width:0.31224418;stroke-miterlimit:4;stroke-dasharray:1.87346523, 1.87346523;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4706"
+         y="278.47916"
+         x="103.51823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:4.93888903px;stroke-width:0.26458332"
+           y="278.47916"
+           x="103.51823"
+           id="tspan4704"
+           sodipodi:role="line">傳統藍綠光譜</tspan></text>
+    </g>
     <rect
        id="rect3699"
        width="169.9948"
@@ -235,24 +259,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="156.43489"
-       y="181.5755"
+       x="157.42708"
+       y="172.31508"
        id="text4562"><tspan
          sodipodi:role="line"
          id="tspan4560"
-         x="156.43489"
-         y="181.5755"
+         x="157.42708"
+         y="172.31508"
          style="stroke-width:0.26458332">韓粉</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="131.6302"
-       y="230.19269"
+       x="132.95312"
+       y="239.45311"
        id="text4566"><tspan
          sodipodi:role="line"
          id="tspan4564"
-         x="131.6302"
-         y="230.19269"
+         x="132.95312"
+         y="239.45311"
          style="stroke-width:0.26458332">柯粉</tspan></text>
     <text
        xml:space="preserve"
@@ -268,8 +292,8 @@
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572"
-       width="43.325523"
-       height="48.286457"
+       width="40.679691"
+       height="49.940098"
        x="32.080727"
        y="193.48175"
        ry="12.236979"
@@ -277,19 +301,19 @@
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:1.59000002, 1.59000002;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572-4"
-       width="106.4948"
-       height="56.223942"
-       x="85.824226"
-       y="191.99348"
+       width="120.0547"
+       height="74.414062"
+       x="76.233078"
+       y="176.77994"
        ry="12.236979"
        rx="14.221354" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:1.59000002, 1.59000002;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572-8"
-       width="75.736977"
-       height="37.041668"
-       x="121.21224"
-       y="163.22003"
+       width="100.54166"
+       height="62.507816"
+       x="95.415367"
+       y="162.22784"
        ry="12.236979"
        rx="14.221354" />
     <rect
@@ -313,46 +337,22 @@
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.21941249;stroke-miterlimit:4;stroke-dasharray:1.31647506, 1.31647506;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572-47"
-       width="85.373726"
-       height="52.631531"
-       x="65.626945"
-       y="166.66989"
-       ry="9.1473789"
-       rx="13.042158" />
+       width="102.90237"
+       height="56.600292"
+       x="54.712883"
+       y="163.36259"
+       ry="16.092697"
+       rx="22.302576" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="82.454918"
-       y="190.95169"
+       x="65.58773"
+       y="175.73814"
        id="text4570-9"><tspan
          sodipodi:role="line"
          id="tspan4568-3"
-         x="82.454918"
-         y="190.95169"
+         x="65.58773"
+         y="175.73814"
          style="stroke-width:0.26458332">知識藍</tspan></text>
-    <g
-       id="g4711"
-       transform="rotate(-34.216683,29.588313,265.03821)">
-      <rect
-         rx="6.6247573"
-         ry="1.5587662"
-         y="272.5817"
-         x="23.739044"
-         height="7.7938313"
-         width="192.50763"
-         id="rect4643"
-         style="fill:url(#linearGradient4664);fill-opacity:1;stroke:none;stroke-width:0.31224418;stroke-miterlimit:4;stroke-dasharray:1.87346523, 1.87346523;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text4706"
-         y="278.47916"
-         x="103.51823"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-size:4.93888903px;stroke-width:0.26458332"
-           y="278.47916"
-           x="103.51823"
-           id="tspan4704"
-           sodipodi:role="line">傳統藍綠光譜</tspan></text>
-    </g>
   </g>
 </svg>
