@@ -19,6 +19,20 @@
    sodipodi:docname="pol-scat.svg">
   <defs
      id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4587"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4662">
@@ -41,6 +55,36 @@
        y2="276.49476"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.17828,0,0,1.17828,-19.516719,-49.309651)" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4587-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4587-2-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,8 +94,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.8"
-     inkscape:cx="337.60458"
-     inkscape:cy="300"
+     inkscape:cx="335.70672"
+     inkscape:cy="311.91964"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,13 +124,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-138.24998)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect860"
-       width="212.65884"
-       height="161.06511"
-       x="0"
-       y="138.24998" />
     <g
        id="g4711"
        transform="rotate(-34.216683,29.588313,265.03821)">
@@ -258,39 +295,39 @@
          id="tspan4556">荷統</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="157.42708"
-       y="172.31508"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="157.89479"
+       y="218.94789"
        id="text4562"><tspan
          sodipodi:role="line"
          id="tspan4560"
-         x="157.42708"
-         y="172.31508"
-         style="stroke-width:0.26458332">韓粉</tspan></text>
+         x="157.89479"
+         y="218.94789"
+         style="fill:#800000;fill-opacity:1;stroke-width:0.26458332">韓粉</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="132.95312"
-       y="239.45311"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136.30176"
+       y="242.01625"
        id="text4566"><tspan
          sodipodi:role="line"
          id="tspan4564"
-         x="132.95312"
-         y="239.45311"
-         style="stroke-width:0.26458332">柯粉</tspan></text>
+         x="136.30176"
+         y="242.01625"
+         style="fill:#008000;fill-opacity:1;stroke-width:0.26458332">柯粉</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="38.033855"
-       y="179.92184"
+       x="35.388023"
+       y="172.97653"
        id="text4570"><tspan
          sodipodi:role="line"
          id="tspan4568"
-         x="38.033855"
-         y="179.92184"
+         x="35.388023"
+         y="172.97653"
          style="stroke-width:0.26458332">Z黨</tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:3.175,3.175;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572"
        width="40.679691"
        height="49.940098"
@@ -299,16 +336,16 @@
        ry="12.236979"
        rx="14.221354" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:1.59000002, 1.59000002;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#008000;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:3.175, 3.17499999999999982;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572-4"
-       width="120.0547"
-       height="74.414062"
-       x="76.233078"
-       y="176.77994"
+       width="118.73179"
+       height="53.578129"
+       x="77.555992"
+       y="197.61588"
        ry="12.236979"
        rx="14.221354" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:1.59000002, 1.59000002;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#800000;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:3.175,3.175;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572-8"
        width="100.54166"
        height="62.507816"
@@ -326,33 +363,86 @@
        ry="12.236979"
        rx="0.82682294" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:1.59000002, 1.59000002;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.52916667;stroke-miterlimit:4;stroke-dasharray:3.175,3.175;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572-0"
-       width="44.648438"
-       height="32.080723"
+       width="39.35677"
+       height="29.104172"
        x="31.915361"
        y="249.20961"
        ry="12.236979"
        rx="10.914063" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.21941249;stroke-miterlimit:4;stroke-dasharray:1.31647506, 1.31647506;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4572-47"
-       width="102.90237"
-       height="56.600292"
-       x="54.712883"
-       y="163.36259"
+       width="96.287781"
+       height="58.584671"
+       x="56.035801"
+       y="162.37041"
        ry="16.092697"
        rx="22.302576" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="65.58773"
-       y="175.73814"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="86.423676"
+       y="192.93607"
        id="text4570-9"><tspan
          sodipodi:role="line"
          id="tspan4568-3"
-         x="65.58773"
-         y="175.73814"
-         style="stroke-width:0.26458332">知識藍</tspan></text>
+         x="86.423676"
+         y="192.93607"
+         style="fill:#0000ff;stroke-width:0.26458332">知識藍</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:0.52916663, 1.58749991999999995;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:0.25098041"
+       id="rect4572-47-3-6-7"
+       width="140.93623"
+       height="16.912767"
+       x="53.389965"
+       y="160.71678"
+       ry="6.6373849"
+       rx="9.4041462" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-233.51544"
+       y="19.61087"
+       id="text4883"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4881"
+         x="-233.51544"
+         y="19.61087"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';fill:#ff0000;stroke-width:0.26458332">亡國焦慮</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.764961"
+       y="156.97739"
+       id="text4883-5"><tspan
+         sodipodi:role="line"
+         id="tspan4881-8"
+         x="43.764961"
+         y="156.97739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';fill:#ff0000;stroke-width:0.26458332">離華焦慮</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)"
+       d="m 78.671624,161.54691 -0.165363,-7.27604 -9.095051,-1e-5"
+       id="path4582-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.25098039;stroke:none;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:0.52916663, 1.58749994;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-47-3-6-7-4"
+       width="35.102894"
+       height="100.91798"
+       x="29.742821"
+       y="181.71809"
+       ry="6.6373849"
+       rx="9.4041471" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-7)"
+       d="m 29.956321,244.42289 -12.402342,0 0.165366,-8.59897"
+       id="path4582-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
