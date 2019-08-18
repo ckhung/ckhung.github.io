@@ -6,11 +6,15 @@ digraph "如何下載 html 表格？" {
     wget [ label="wget/lynx/curl\n(有時可能需要設\nuser agent)" ];
     batch [ label="需要大量\n批次處理？"];
     puppeteer [ label="puppeteer" ];
-    manual [ label="火狐的 console" ];
+    interactive [ label="互動後才產生？" ];
+    save_as [ label="另存新檔" ];
+    console [ label="火狐的 console" ];
 
     init -> wget [ label="Y" ];
     init -> batch [ label="N" ];
     batch -> puppeteer [ label="Y" ];
-    batch -> manual [ label="N" ];
+    batch -> interactive [ label="N" ];
+    interactive -> save_as [ label="N" ];
+    interactive -> console [ label="Y" ];
 }
 
