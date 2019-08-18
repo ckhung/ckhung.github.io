@@ -1,0 +1,16 @@
+digraph "如何下載 html 表格？" {
+
+    overlap = scale;
+
+    init [ label="靜態網頁？" ];
+    wget [ label="wget/lynx/curl\n(有時可能需要設\nuser agent)" ];
+    batch [ label="需要大量\n批次處理？"];
+    puppeteer [ label="puppeteer" ];
+    manual [ label="火狐的 console" ];
+
+    init -> wget [ label="Y" ];
+    init -> batch [ label="N" ];
+    batch -> puppeteer [ label="Y" ];
+    batch -> manual [ label="N" ];
+}
+
