@@ -8,13 +8,13 @@ digraph "如何下載 html 表格？" {
     puppeteer [ label="puppeteer" ];
     interactive [ label="互動後才產生？" ];
     save_as [ label="另存新檔" ];
-    console [ label="火狐的 console" ];
+    inspector [ label="火狐的 inspector"; style="filled"; fillcolor="cyan"; ];
 
     init -> wget [ label="Y" ];
     init -> batch [ label="N" ];
     batch -> puppeteer [ label="Y" ];
     batch -> interactive [ label="N" ];
     interactive -> save_as [ label="N" ];
-    interactive -> console [ label="Y" ];
+    interactive -> inspector [ label="Y" ];
 }
 
