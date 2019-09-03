@@ -5,17 +5,20 @@ digraph "不求甚解工程師的 「機器學習」 學習捷徑地圖" {
 
     python [ label="python"; ];
     docker [ label="docker"; ];
-    jupyter [ label="jupyter notebook"; ];
+    jupyter [ label="jupyter\nnotebook"; ];
+    colab [ label="google\ncolaboratory"; ];
     mat_mul [ label="矩陣乘法"; ];
-    cs231n [ label="史丹佛大學 cs231n"; color="red"; fontcolor="red"; ];
+    cs231n [ label="史丹佛大學\ncs231n"; color="red"; fontcolor="red"; ];
     hilevel [ label="keras\ntflearn\ncaffe"; color="red"; fontcolor="red"; ];
     numpy [ label="numpy"; ];
-    advanced [ label="好玩的東東"; ];
+    fun [ label="好玩的東東"; ];
 
     python -> { numpy jupyter hilevel };
     numpy -> { cs231n hilevel } [ style="dashed" ];
     { mat_mul python } -> cs231n;
-    { jupyter cs231n hilevel } -> advanced;
+    { cs231n hilevel } -> fun [ style="dashed" ];
+    jupyter -> { colab fun };
+    colab -> fun [ style="dashed" ];
 
     docker -> { hilevel jupyter} [ style="dashed" ];
     { cs231n jupyter } -> hilevel [ style="dashed" ];
