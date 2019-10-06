@@ -1,0 +1,24 @@
+digraph G {
+  rankdir = LR;
+  overlap = scale;
+  # http://www.graphviz.org/content/global-subgraph-style-statements
+  graph [shape="folder", style="rounded"];
+  node [shape="note", color="blue", fontcolor="blue"];
+  subgraph "cluster" {
+    label="/";
+    subgraph "cluster/boot" {
+      label="boot";
+      subgraph "cluster/boot/syslinux" {
+        label="syslinux";
+        "/boot/syslinux/extlinux.conf" [ label="extlinux.conf"];
+      }
+    }
+    subgraph "cluster/bionic-g19A" {
+      label="bionic-g19A";
+      "/bionic-g19A/vmlinuz-*-generic" [ label="vmlinuz-*-generic"];
+      "/bionic-g19A/initrd.img-*-generic" [ label="initrd.img-*-generic"];
+      "/bionic-g19A/root.squashfs" [ label="root.squashfs"];
+    }
+  }
+
+}

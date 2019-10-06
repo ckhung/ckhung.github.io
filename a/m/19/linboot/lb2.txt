@@ -1,0 +1,5 @@
+# https://github.com/ckhung/dirtree2dot
+/boot/syslinux/extlinux.conf
+/bionic-g19A/vmlinuz-*-generic
+/bionic-g19A/initrd.img-*-generic
+/bionic-g19A/root.squashfs

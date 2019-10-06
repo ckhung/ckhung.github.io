@@ -1,0 +1,10 @@
+# https://github.com/ckhung/dirtree2dot
+/vmlinuz-*-generic
+/initrd.img-*-generic
+/live/filesystem.module
+/live/root.squashfs
+/isolinux/autumn.jpg
+/isolinux/boot.cat
+/isolinux/cyut-bv.jpg
+/isolinux/[more-files]
+@"/isolinux/autumn.jpg" -> { "/vmlinuz-*-generic" "/initrd.img-*-generic" "/live/root.squashfs" } [style=invis];
