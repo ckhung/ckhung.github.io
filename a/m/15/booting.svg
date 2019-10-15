@@ -14,7 +14,7 @@
    height="480"
    id="svg3276"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="booting.svg"
    inkscape:export-filename="/home/ckhung/public_html/m/15/booting.png"
    inkscape:export-xdpi="90"
@@ -142,9 +142,9 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1166667"
-     inkscape:cx="289.10033"
+     inkscape:cx="131.04063"
      inkscape:cy="240"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5505"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1920"
@@ -247,21 +247,21 @@
            x="753.25708"
            y="839.3324"
            id="text4845"><tspan
-             id="tspan5653"
-             sodipodi:role="line"
-             x="753.25708"
-             y="839.3324"
-             style="font-size:18px;line-height:1.25;font-family:sans-serif">Boot Loader</tspan><tspan
-             id="tspan5657"
-             sodipodi:role="line"
-             x="753.25708"
-             y="861.8324"
-             style="font-size:18px;line-height:1.25;font-family:sans-serif">(位於 Master</tspan><tspan
              id="tspan5659"
              sodipodi:role="line"
              x="753.25708"
+             y="839.3324"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">Master Boot</tspan><tspan
+             sodipodi:role="line"
+             x="753.25708"
+             y="861.8324"
+             style="font-size:18px;line-height:1.25;font-family:sans-serif"
+             id="tspan911">Record =&gt;</tspan><tspan
+             sodipodi:role="line"
+             x="753.25708"
              y="884.3324"
-             style="font-size:18px;line-height:1.25;font-family:sans-serif">Boot Record)</tspan></text>
+             style="font-size:18px;line-height:1.25;font-family:sans-serif"
+             id="tspan913">Boot Loader</tspan></text>
       </g>
       <text
          id="text4849"
