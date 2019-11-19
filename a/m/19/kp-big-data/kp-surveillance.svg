@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="kp-surveillance.svg"
+   inkscape:export-filename="/home/ckhung/public_html/m/19/kp-big-data/kp-surveillance.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4483333"
+     inkscape:cx="146.26007"
+     inkscape:cy="300"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.24998)">
+    <image
+       sodipodi:absref="/home/ckhung/public_html/m/19/kp-big-data/big-data-watching.jpg"
+       xlink:href="big-data-watching.jpg"
+       width="105.83334"
+       height="70.643753"
+       preserveAspectRatio="none"
+       id="image72"
+       x="104.37188"
+       y="146.77159" />
+    <image
+       sodipodi:absref="/home/ckhung/public_html/m/19/kp-big-data/kp.jpg"
+       xlink:href="kp.jpg"
+       width="99.246422"
+       height="66.122925"
+       preserveAspectRatio="none"
+       id="image134"
+       x="-1.7214805"
+       y="227.13223" />
+    <image
+       sodipodi:absref="/home/ckhung/public_html/m/19/kp-big-data/street-light.jpg"
+       xlink:href="street-light.jpg"
+       width="107.84647"
+       height="69.596931"
+       preserveAspectRatio="none"
+       id="image258"
+       x="103.14676"
+       y="224.43594" />
+    <image
+       sodipodi:absref="/home/ckhung/public_html/m/19/kp-big-data/school-vending-machine.jpg"
+       xlink:href="school-vending-machine.jpg"
+       width="120.89054"
+       height="80.543327"
+       preserveAspectRatio="none"
+       id="image196"
+       x="-1.7214805"
+       y="146.58891" />
+  </g>
+</svg>
