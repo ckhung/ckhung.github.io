@@ -8,8 +8,8 @@ digraph "臺灣前途決策樹" {
     sameQ [ shape=diamond; color="red"; label="幾制?" ];
     regQ [ shape=diamond; color="red"; label="正常化?" ];
     democraticQ [ shape=diamond; color="red"; label="哪一制?" ];
-    octs [ label="一國兩制" ];
-    ccp [ label="共產黨\n統一兩岸；\n三民主義\n永久下架" ];
+    octs [ label="一國兩制\n(共匪版的\n九二共識)" ];
+    ccp [ label="中共統一兩岸；\n三民主義\n永久下架" ];
     demo [ label="中國民主化" ];
     quo [ label="維持現狀" ];
     taiwan [ label="修憲/入聯/正名\n(之類的)" ];
