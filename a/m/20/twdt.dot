@@ -1,0 +1,28 @@
+// dot -Tsvg boot.dot > boot.svg
+digraph "臺灣前途決策樹" {
+
+    rankdir = TB;
+    overlap = scale;
+
+    uniteQ [ shape=diamond; color="red"; label="跟中國\n變成一國?" ];
+    sameQ [ shape=diamond; color="red"; label="幾制?" ];
+    regQ [ shape=diamond; color="red"; label="正常化?" ];
+    democraticQ [ shape=diamond; color="red"; label="哪一制?" ];
+    octs [ label="一國兩制" ];
+    ccp [ label="共產黨\n統一兩岸" ];
+    demo [ label="中國民主化" ];
+    quo [ label="維持現狀" ];
+    taiwan [ label="修憲/入聯/正名\n(之類的)" ];
+
+    uniteQ -> regQ [ label="不要" ];
+    uniteQ -> sameQ [ label="要" ];
+    sameQ -> democraticQ [ label="一制" ];
+    sameQ -> octs [ label="兩制" ];
+    democraticQ -> ccp [ label="專制" ];
+    democraticQ -> demo [ label="民主制度" ];
+    octs -> ccp [ label="承諾時限\n的一半" ];
+    regQ -> quo [ label="不要" ];
+    regQ -> taiwan [ label="要" ];
+    taiwan -> demo [ label="有籌碼的立場"; dir=both; style=dashed ];
+}
+
