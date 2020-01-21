@@ -24,6 +24,6 @@ digraph "臺灣前途決策樹" {
     regQ -> quo [ label="不要" ];
     regQ -> taiwan [ label="要" ];
     taiwan -> demo [ label="有籌碼的立場"; dir=both; style=dashed ];
-    quo -> uniteQ;
+    quo -> uniteQ [ label="中共出招" ];
 }
 

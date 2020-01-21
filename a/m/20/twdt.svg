@@ -12,9 +12,9 @@
 <!-- uniteQ -->
 <g id="node1" class="node">
 <title>uniteQ</title>
-<polygon fill="none" stroke="#ff0000" points="351.0957,-429.9066 271.0957,-391.9066 351.0957,-353.9066 431.0957,-391.9066 351.0957,-429.9066"/>
-<text text-anchor="middle" x="351.0957" y="-395.7066" font-family="Times,serif" font-size="14.00" fill="#000000">跟中國</text>
-<text text-anchor="middle" x="351.0957" y="-380.7066" font-family="Times,serif" font-size="14.00" fill="#000000">變成一國?</text>
+<polygon fill="none" stroke="#ff0000" points="348.0957,-429.9066 268.0957,-391.9066 348.0957,-353.9066 428.0957,-391.9066 348.0957,-429.9066"/>
+<text text-anchor="middle" x="348.0957" y="-395.7066" font-family="Times,serif" font-size="14.00" fill="#000000">跟中國</text>
+<text text-anchor="middle" x="348.0957" y="-380.7066" font-family="Times,serif" font-size="14.00" fill="#000000">變成一國?</text>
 </g>
 <!-- sameQ -->
 <g id="node2" class="node">
@@ -25,22 +25,22 @@
 <!-- uniteQ&#45;&gt;sameQ -->
 <g id="edge2" class="edge">
 <title>uniteQ&#45;&gt;sameQ</title>
-<path fill="none" stroke="#000000" d="M315.7025,-370.5108C282.0574,-350.1716 232.1621,-320.0089 201.4612,-301.4496"/>
-<polygon fill="#000000" stroke="#000000" points="202.9574,-298.2643 192.5889,-296.0861 199.336,-304.2548 202.9574,-298.2643"/>
-<text text-anchor="middle" x="265.5957" y="-324.7066" font-family="Times,serif" font-size="14.00" fill="#000000">要</text>
+<path fill="none" stroke="#000000" d="M312.8842,-370.2536C279.7666,-349.8881 230.9073,-319.8425 200.8648,-301.3681"/>
+<polygon fill="#000000" stroke="#000000" points="202.5353,-298.2865 192.1836,-296.0296 198.8685,-304.2493 202.5353,-298.2865"/>
+<text text-anchor="middle" x="263.5957" y="-324.7066" font-family="Times,serif" font-size="14.00" fill="#000000">要</text>
 </g>
 <!-- regQ -->
 <g id="node3" class="node">
 <title>regQ</title>
-<polygon fill="none" stroke="#ff0000" points="351.0957,-302.9066 291.1043,-284.9066 351.0957,-266.9066 411.0872,-284.9066 351.0957,-302.9066"/>
-<text text-anchor="middle" x="351.0957" y="-281.2066" font-family="Times,serif" font-size="14.00" fill="#000000">正常化?</text>
+<polygon fill="none" stroke="#ff0000" points="348.0957,-302.9066 288.1043,-284.9066 348.0957,-266.9066 408.0872,-284.9066 348.0957,-302.9066"/>
+<text text-anchor="middle" x="348.0957" y="-281.2066" font-family="Times,serif" font-size="14.00" fill="#000000">正常化?</text>
 </g>
 <!-- uniteQ&#45;&gt;regQ -->
 <g id="edge1" class="edge">
 <title>uniteQ&#45;&gt;regQ</title>
-<path fill="none" stroke="#000000" d="M351.0957,-353.8812C351.0957,-340.501 351.0957,-325.7079 351.0957,-313.2639"/>
-<polygon fill="#000000" stroke="#000000" points="354.5958,-313.0274 351.0957,-303.0275 347.5958,-313.0275 354.5958,-313.0274"/>
-<text text-anchor="middle" x="365.5957" y="-324.7066" font-family="Times,serif" font-size="14.00" fill="#000000">不要</text>
+<path fill="none" stroke="#000000" d="M348.0957,-353.8812C348.0957,-340.501 348.0957,-325.7079 348.0957,-313.2639"/>
+<polygon fill="#000000" stroke="#000000" points="351.5958,-313.0274 348.0957,-303.0275 344.5958,-313.0275 351.5958,-313.0274"/>
+<text text-anchor="middle" x="362.5957" y="-324.7066" font-family="Times,serif" font-size="14.00" fill="#000000">不要</text>
 </g>
 <!-- democraticQ -->
 <g id="node4" class="node">
@@ -77,9 +77,9 @@
 <!-- regQ&#45;&gt;quo -->
 <g id="edge8" class="edge">
 <title>regQ&#45;&gt;quo</title>
-<path fill="none" stroke="#000000" d="M367.9405,-271.7773C387.7157,-256.3639 420.8557,-230.5335 444.8545,-211.8281"/>
-<polygon fill="#000000" stroke="#000000" points="447.1895,-214.4458 452.925,-205.5377 442.8862,-208.9247 447.1895,-214.4458"/>
-<text text-anchor="middle" x="430.5957" y="-237.7066" font-family="Times,serif" font-size="14.00" fill="#000000">不要</text>
+<path fill="none" stroke="#000000" d="M365.0887,-271.9772C385.4872,-256.4564 420.035,-230.17 444.7721,-211.3481"/>
+<polygon fill="#000000" stroke="#000000" points="446.9116,-214.1183 452.7505,-205.2776 442.6729,-208.5475 446.9116,-214.1183"/>
+<text text-anchor="middle" x="428.5957" y="-237.7066" font-family="Times,serif" font-size="14.00" fill="#000000">不要</text>
 </g>
 <!-- taiwan -->
 <g id="node9" class="node">
@@ -91,9 +91,9 @@
 <!-- regQ&#45;&gt;taiwan -->
 <g id="edge9" class="edge">
 <title>regQ&#45;&gt;taiwan</title>
-<path fill="none" stroke="#000000" d="M347.3414,-267.767C344.8161,-256.2387 341.3882,-240.5894 338.2537,-226.2796"/>
-<polygon fill="#000000" stroke="#000000" points="341.599,-225.1941 336.0402,-216.1746 334.7611,-226.692 341.599,-225.1941"/>
-<text text-anchor="middle" x="350.5957" y="-237.7066" font-family="Times,serif" font-size="14.00" fill="#000000">要</text>
+<path fill="none" stroke="#000000" d="M344.8777,-267.767C342.7132,-256.2387 339.775,-240.5894 337.0883,-226.2796"/>
+<polygon fill="#000000" stroke="#000000" points="340.4763,-225.357 335.191,-216.1746 333.5965,-226.6488 340.4763,-225.357"/>
+<text text-anchor="middle" x="349.5957" y="-237.7066" font-family="Times,serif" font-size="14.00" fill="#000000">要</text>
 </g>
 <!-- ccp -->
 <g id="node6" class="node">
@@ -135,8 +135,9 @@
 <!-- quo&#45;&gt;uniteQ -->
 <g id="edge11" class="edge">
 <title>quo&#45;&gt;uniteQ</title>
-<path fill="none" stroke="#000000" d="M467.1055,-207.0509C462.323,-219.0419 455.6788,-235.0744 449.0957,-248.9066 437.3889,-273.5049 434.9374,-280.0626 420.0957,-302.9066 408.1227,-321.3354 393.361,-340.7395 380.568,-356.7093"/>
-<polygon fill="#000000" stroke="#000000" points="377.6522,-354.7487 374.0827,-364.7242 383.0939,-359.1519 377.6522,-354.7487"/>
+<path fill="none" stroke="#000000" d="M466.4469,-207.0341C461.2399,-219.018 454.0547,-235.0488 447.0957,-248.9066 434.7749,-273.4418 432.2173,-279.9912 417.0957,-302.9066 404.9915,-321.2496 390.2139,-340.6432 377.4443,-356.6283"/>
+<polygon fill="#000000" stroke="#000000" points="374.5261,-354.6714 370.9744,-364.6532 379.9756,-359.065 374.5261,-354.6714"/>
+<text text-anchor="middle" x="466.0957" y="-281.2066" font-family="Times,serif" font-size="14.00" fill="#000000">中共出招</text>
 </g>
 <!-- taiwan&#45;&gt;demo -->
 <g id="edge10" class="edge">
