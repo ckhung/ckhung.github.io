@@ -143,7 +143,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4233333"
-     inkscape:cx="262.99766"
+     inkscape:cx="400.00001"
      inkscape:cy="300.00001"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -153,7 +153,8 @@
      inkscape:window-height="1049"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -173,7 +174,7 @@
      transform="translate(0,-138.24998)">
     <g
        id="layer1-3"
-       transform="matrix(1.0546024,0,0,1.0546024,129.98846,146.71735)">
+       transform="matrix(1.0546024,0,0,1.0546024,127.386,138.90997)">
       <path
          d="m 33.301,7.6358 c -2.264,0.019 -4.377,0.4725 -5.956,1.3843 L 12.059,17.849 c -0.353,0.204 -0.53,0.451 -0.535,0.713 v 7.726 c -0.004,0.343 0.285,0.711 0.857,1.041 l 13.348,7.707 c 1.011,0.584 2.23,0.658 3.042,0.189 l 15.292,-8.829 c 1.615,-0.932 2.401,-2.187 2.4,-3.526 v -7.775 c -0.027,-1.751 -1.392,-3.643 -4,-5.1486 C 39.785,8.4005 36.402,7.6097 33.301,7.6358 Z"
          style="fill:#999999;fill-rule:evenodd"
@@ -318,13 +319,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="143.50726"
-       y="150.44359"
+       x="105.39983"
+       y="151.18715"
        id="text3971"><tspan
          sodipodi:role="line"
          id="tspan3969"
-         x="143.50726"
-         y="150.44359"
+         x="105.39983"
+         y="151.18715"
          style="stroke-width:0.26458332">[你的隨身碟]</tspan></text>
     <text
        xml:space="preserve"
@@ -336,7 +337,7 @@
          id="tspan3973"
          x="16.634945"
          y="279.79126"
-         style="font-size:4.93888903px;stroke-width:0.26458332">live/root.squashfs</tspan></text>
+         style="font-size:4.93888903px;stroke-width:0.26458332;fill:#ff0000;fill-opacity:1">live/root.squashfs</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -347,56 +348,56 @@
          id="tspan3977"
          x="123.11124"
          y="207.55623"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1">boot/syslinux/  [子目錄下]</tspan><tspan
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1">boot/syslinux/  [子目錄下]</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="215.49373"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan902">        extlinux.conf</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="223.43123"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan904">        背景圖.jpg</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="231.36873"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan900">bionic-版本/  [子目錄下]</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="239.30623"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan894">        vmlinuz-*</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="247.24373"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan896">        initrd.img-*</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="255.18123"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan3981">        persistence-2G.img.gz</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="263.11874"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan898">        persistence-3G.img.gz</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="271.05624"
-         style="font-size:4.93888903px;stroke:#0600ff;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
          id="tspan2944" /><tspan
          sodipodi:role="line"
          x="123.11124"
          y="278.99374"
-         style="font-size:4.93888903px;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
          id="tspan1812">        root.squashfs</tspan><tspan
          sodipodi:role="line"
          x="123.11124"
          y="286.93124"
-         style="font-size:4.93888903px;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1"
+         style="font-size:4.93888903px;stroke:none;stroke-width:0.26458332;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
          id="tspan3985">        stux.img</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5112)"
@@ -443,21 +444,15 @@
        rx="8.7368269" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-width:0.26458332;stroke-opacity:1"
-       x="69.894615"
-       y="217.62498"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       x="157.82056"
+       y="193.08751"
        id="text2546"><tspan
          sodipodi:role="line"
-         x="69.894615"
-         y="217.62498"
-         style="stroke:#0000ff;stroke-width:0.26458332;stroke-opacity:1"
-         id="tspan2548">講者準備</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5112-7)"
-       d="m 89.278949,221.71455 22.869671,10.03806"
-       id="path3987-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+         x="157.82056"
+         y="193.08751"
+         style="font-size:8.46666622px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan2548">[講者準備]</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#ff0008;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:1.05833327, 1.05833327;stroke-dashoffset:0;stroke-opacity:1"
        id="rect911"
@@ -468,26 +463,46 @@
        ry="1.8588994"
        rx="2.7883489" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#ff0018;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5112-7-3)"
-       d="m 94.629573,197.97389 32.164177,14.49942"
+       style="fill:none;fill-opacity:1;stroke:#ff0018;stroke-width:0.79400009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.17600022, 3.17600022;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker5112-7-3)"
+       d="M 131.25511,215.07577 76.412357,247.42061"
        id="path3987-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#f80014;stroke-width:0.26458332;stroke-opacity:1;text-anchor:middle;text-align:center;"
-       x="83.293922"
-       y="192.64139"
+       style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       x="64.147255"
+       y="249.15193"
        id="text2546-5"><tspan
          sodipodi:role="line"
-         x="78.605835"
-         y="192.64139"
-         style="stroke:#f80014;stroke-width:0.26458332;stroke-opacity:1;text-anchor:middle;text-align:center;"
-         id="tspan2548-3">精確的路徑/檔名</tspan><tspan
+         x="64.147255"
+         y="249.15193"
+         style="text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan1574">請研究</tspan><tspan
          sodipodi:role="line"
-         x="78.605835"
-         y="198.82922"
-         style="stroke:#f80014;stroke-width:0.26458332;stroke-opacity:1;text-anchor:middle;text-align:center;"
-         id="tspan1574">請研究</tspan></text>
+         x="64.147255"
+         y="255.33977"
+         style="text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan1037">精確的路徑/檔名</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#f90000;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:4.76250005, 4.76250004999999987;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2536-3"
+       width="87.925941"
+       height="20.261992"
+       x="116.18121"
+       y="272.27661"
+       ry="7.8073769"
+       rx="8.7368279" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       x="14.667957"
+       y="228.49159"
+       id="text2546-6"><tspan
+         sodipodi:role="line"
+         x="14.667957"
+         y="228.49159"
+         style="font-size:8.46666622px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan2548-7">[聽眾自助]</tspan></text>
   </g>
 </svg>
