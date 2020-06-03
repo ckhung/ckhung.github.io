@@ -5,7 +5,8 @@ digraph "Docker 常用指令" {
     rankdir = BT;
     overlap = scale;
 
-    source [ label="A: 原始碼\ndocker file"; shape=rectangle; ];
+    source [ label="A1: 原始碼\nDockerfile"; shape=rectangle; ];
+    hub [ label="A2: 映像檔\n(位於 Dockerhub)"; shape=house; peripheries=2; ];
     image [ label="B: 映像檔\nimage"; shape=house; ];
     attached [ label="C: 前景執行中\nup, attached"; ];
     detached [ label="D: 背景執行中\nup, detached"; ];
@@ -15,9 +16,10 @@ digraph "Docker 常用指令" {
     { rank = same; source; image; }
 
     source -> image [ label="build"; ];
+    hub -> image [ label="pull"; ];
     image -> removed [ label="rmi"; ];
-    image -> attached [ label="run -ti"; ];
-    image -> detached [ label="run"; ];
+    image -> attached [ label="run -it"; ];
+    image -> detached [ label="run -d"; ];
     attached -> detached [ xlabel="^p ^q"; fontcolor="red"; ];
     attached -> exited [ xlabel="^d"; fontcolor="red"; ];
     detached -> attached [ xlabel="attach"; ];
