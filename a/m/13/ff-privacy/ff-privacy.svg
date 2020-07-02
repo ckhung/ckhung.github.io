@@ -14,13 +14,63 @@
    height="360"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="ff-privacy.svg"
-   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/m/13/ff-privacy.png"
+   inkscape:export-filename="/home/ckhung/public_html/m/13/ff-privacy.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient6915">
+      <stop
+         style="stop-color:#600000;stop-opacity:1;"
+         offset="0"
+         id="stop6917" />
+      <stop
+         style="stop-color:#700000;stop-opacity:1;"
+         offset="1"
+         id="stop6919" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6898">
+      <stop
+         id="stop6900"
+         offset="0"
+         style="stop-color:#90000f;stop-opacity:0.94117647;" />
+      <stop
+         id="stop6902"
+         offset="1"
+         style="stop-color:#800000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3770"
+       inkscape:collect="always">
+      <stop
+         id="stop3772"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop3774"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3995"
+       is_visible="true" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.2584318,0,-20.947238)"
+       r="22.573323"
+       fy="81.055197"
+       fx="82.145422"
+       cy="81.055197"
+       cx="82.145422"
+       id="radialGradient3776"
+       xlink:href="#linearGradient3770"
+       inkscape:collect="always" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,15 +79,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2333333"
-     inkscape:cx="240"
+     inkscape:cx="93.243239"
      inkscape:cy="180"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1011"
      inkscape:window-height="672"
-     inkscape:window-x="155"
-     inkscape:window-y="171"
+     inkscape:window-x="11"
+     inkscape:window-y="67"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -61,203 +111,265 @@
      id="layer1"
      transform="translate(-12.382973,-673.52234)">
     <image
-       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/adblock-plus.png"
-       xlink:href="adblock-plus.png"
-       y="903.08521"
-       x="377.23016"
-       id="image3063"
-       height="67.976189"
-       width="67.976189" />
-    <image
        sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/better-privacy.png"
        xlink:href="better-privacy.png"
-       y="749.74976"
-       x="26.482168"
-       id="image3125"
+       width="69.188538"
        height="69.188538"
-       width="69.188538" />
-    <image
-       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/cookie-monster.png"
-       xlink:href="cookie-monster.png"
-       y="756.63501"
-       x="139.33989"
-       id="image3249"
-       height="48.239342"
-       width="48.239342" />
+       id="image3125"
+       x="26.482168"
+       y="749.74976" />
     <image
        sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/noscript.png"
        xlink:href="noscript.png"
-       y="889.49152"
-       x="38.167377"
-       id="image3373"
+       width="58.475357"
        height="58.475357"
-       width="58.475357" />
+       id="image3373"
+       x="403.84308"
+       y="904.89691" />
     <image
        sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/https-everywhere.jpg"
        xlink:href="https-everywhere.jpg"
-       y="745.44556"
-       x="242.44604"
-       id="image4031"
+       width="87.331306"
        height="75.444542"
-       width="87.331306" />
+       id="image4031"
+       x="248.93253"
+       y="743.82391" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2993"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion2995"><rect
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion2995"
+         style="font-family:sans-serif"><rect
            id="rect2997"
            width="215"
            height="21"
            x="167"
-           y="214" /></flowRegion><flowPara
-         id="flowPara2999" /></flowRoot>    <text
+           y="214"
+           style="font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara2999"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="130.29147"
        y="844.40637"
-       id="text2997"
-       sodipodi:linespacing="125%"><tspan
+       id="text2997"><tspan
          sodipodi:role="line"
-         id="tspan2999"
          x="130.29147"
-         y="844.40637">cookie</tspan><tspan
+         y="844.40637"
+         style="font-size:18.27354813px;line-height:1.25"
+         id="tspan3848">facebook</tspan><tspan
          sodipodi:role="line"
          x="130.29147"
          y="867.24829"
-         id="tspan3001">monster</tspan></text>
+         style="font-size:18.27354813px;line-height:1.25"
+         id="tspan3850">container</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="31.614321"
        y="846.2337"
-       id="text3000"
-       sodipodi:linespacing="125%"><tspan
+       id="text3000"><tspan
          sodipodi:role="line"
          id="tspan3002"
          x="31.614321"
-         y="846.2337">Better</tspan><tspan
+         y="846.2337"
+         style="font-size:18.27354813px;line-height:1.25">Better</tspan><tspan
          sodipodi:role="line"
          x="31.614321"
          y="869.07562"
-         id="tspan3004">Privacy</tspan></text>
+         id="tspan3004"
+         style="font-size:18.27354813px;line-height:1.25">Privacy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="235.36438"
        y="841.66534"
-       id="text3006"
-       sodipodi:linespacing="125%"><tspan
+       id="text3006"><tspan
          sodipodi:role="line"
          id="tspan3008"
          x="235.36438"
-         y="841.66534">https</tspan><tspan
+         y="841.66534"
+         style="font-size:18.27354813px;line-height:1.25">https</tspan><tspan
          sodipodi:role="line"
          x="235.36438"
          y="864.50726"
-         id="tspan3010">everywhere</tspan></text>
+         id="tspan3010"
+         style="font-size:18.27354813px;line-height:1.25">everywhere</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="369.56088"
-       y="1002.4019"
-       id="text3012"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="154.696"
+       y="980.51001"
+       id="text3012"><tspan
          sodipodi:role="line"
          id="tspan3014"
-         x="369.56088"
-         y="1002.4019">AdBlockPlus</tspan></text>
+         x="154.696"
+         y="980.51001"
+         style="font-size:18.27354813px;line-height:1.25">ublock</tspan><tspan
+         sodipodi:role="line"
+         x="154.696"
+         y="1003.3519"
+         style="font-size:18.27354813px;line-height:1.25"
+         id="tspan3861">origin</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="29.839235"
-       y="975.00159"
-       id="text3016"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="393.08249"
+       y="1004.1908"
+       id="text3016"><tspan
          sodipodi:role="line"
          id="tspan3018"
-         x="29.839235"
-         y="975.00159">NoScript</tspan></text>
+         x="393.08249"
+         y="1004.1908"
+         style="font-size:18.27354813px;line-height:1.25">NoScript</tspan></text>
     <image
        sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/disconnect.png"
        xlink:href="disconnect.png"
-       y="889.48615"
-       x="146.63074"
-       id="image3139"
+       width="59.389034"
        height="89.833946"
-       width="59.389034" />
+       id="image3139"
+       x="36.360462"
+       y="884.62128" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="135.20979"
-       y="999.87781"
-       id="text3142"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="25.75033"
+       y="1007.9859"
+       id="text3142"><tspan
          sodipodi:role="line"
          id="tspan3144"
-         x="135.20979"
-         y="999.87781">Disconnect</tspan></text>
+         x="25.75033"
+         y="1007.9859"
+         style="font-size:18.27354813px;line-height:1.25">Disconnect</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="13.826591"
        y="725.07422"
-       id="text3146"
-       sodipodi:linespacing="125%"><tspan
+       id="text3146"><tspan
          sodipodi:role="line"
          id="tspan3148"
          x="13.826591"
-         y="725.07422">『firefox privacy (extensions/addons)』</tspan></text>
+         y="725.07422"
+         style="font-size:18.27354813px;line-height:1.25">『firefox privacy (extensions/addons)』</tspan></text>
     <image
        sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/html5-video-everywhere.png"
        xlink:href="html5-video-everywhere.png"
-       y="749.7226"
-       x="374.8262"
-       id="image3438"
-       preserveAspectRatio="none"
+       width="73.094193"
        height="73.094193"
-       width="73.094193" />
+       preserveAspectRatio="none"
+       id="image3438"
+       x="374.8262"
+       y="749.7226" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="413.60104"
        y="839.64783"
-       id="text3006-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text3006-3"><tspan
          sodipodi:role="line"
          id="tspan3008-6"
          x="413.60104"
-         y="839.64783">html5 video</tspan><tspan
+         y="839.64783"
+         style="font-size:18.27354813px;line-height:1.25">html5 video</tspan><tspan
          sodipodi:role="line"
          x="413.60104"
          y="862.48975"
-         id="tspan3010-7">everywhere</tspan><tspan
+         id="tspan3010-7"
+         style="font-size:18.27354813px;line-height:1.25">everywhere</tspan><tspan
          sodipodi:role="line"
          x="413.60104"
-         y="885.33173"
-         id="tspan3462">『flash 教授勒贖』</tspan></text>
+         y="885.38434"
+         id="tspan3462"
+         style="font-size:18.27354813px;line-height:1.25">『flash 教授勒贖』</tspan></text>
     <image
        sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/privacy-badger.png"
        xlink:href="privacy-badger.png"
-       y="885.25647"
-       x="238.58072"
-       id="image3523"
-       preserveAspectRatio="none"
+       width="88.893349"
        height="64.656685"
-       width="88.893349" />
+       preserveAspectRatio="none"
+       id="image3523"
+       x="250.74287"
+       y="888.49969" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.27354813px;line-height:125%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="263.55753"
-       y="978.38324"
-       id="text3012-8"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="267.61157"
+       y="983.24811"
+       id="text3012-8"><tspan
          sodipodi:role="line"
          id="tspan3014-0"
-         x="263.55753"
-         y="978.38324">privacy</tspan><tspan
+         x="267.61157"
+         y="983.24811"
+         style="font-size:18.27354813px;line-height:1.25">privacy</tspan><tspan
          sodipodi:role="line"
-         x="263.55753"
-         y="1001.2252"
-         id="tspan3544">badger</tspan></text>
+         x="267.61157"
+         y="1006.09"
+         id="tspan3544"
+         style="font-size:18.27354813px;line-height:1.25">badger</tspan></text>
+    <image
+       sodipodi:absref="/home/ckhung/public_html/m/13/ff-privacy/fb-container.jpg"
+       xlink:href="fb-container.jpg"
+       width="96.150322"
+       height="58.053024"
+       preserveAspectRatio="none"
+       id="image3843"
+       x="121.08571"
+       y="749.29694" />
+    <g
+       id="g4019"
+       transform="matrix(0.43371407,0,0,0.43371407,152.05771,894.67113)">
+      <g
+         style="display:inline;opacity:1"
+         inkscape:label="polygon 1"
+         id="layer3">
+        <g
+           inkscape:export-ydpi="26.719999"
+           inkscape:export-xdpi="26.719999"
+           inkscape:export-filename="/home/rhill/permahome/workshop/ublock/platform/chromium/img/browsericons/icon19-off.png"
+           style="display:inline;fill:#800000;fill-opacity:1;stroke:#ffffff;stroke-width:1.62100744;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.6778654,0,0,0.56141828,-241.07537,-247.27712)"
+           id="g5639" />
+        <g
+           id="g6907"
+           transform="matrix(-0.6945203,0,0,0.56109687,375.02964,-247.42947)"
+           style="display:inline;fill:#800000;fill-opacity:1;stroke:#ffffff;stroke-width:1.60191178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path6909"
+             d="m 447.83376,669.09921 c -80.63119,-57.03115 -80.63119,-57.03115 -80.63119,-199.60903 34.55623,0 46.07497,0 80.63119,-28.51558 m 0,228.12461 c 80.6312,-57.03115 80.6312,-57.03115 80.6312,-199.60903 -34.55623,0 -46.07497,0 -80.6312,-28.51558"
+             style="fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.60191178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         transform="translate(-17.872548,-17.32535)"
+         style="display:inline"
+         inkscape:label="text"
+         id="layer5">
+        <ellipse
+           id="path2996-3"
+           transform="matrix(1.3333335,0,0,1.3333334,-42.290862,-31.108461)"
+           ry="12"
+           rx="11.999999"
+           cy="81.325356"
+           cx="102.12254"
+           inkscape:export-ydpi="26.719999"
+           inkscape:export-xdpi="26.719999"
+           inkscape:export-filename="/home/rhill/permahome/workshop/ublock/platform/chromium/img/browsericons/path2996.png"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.21945953px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:none;stroke:#ffffff;stroke-width:5.99999952;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="text3778"
+           style="font-style:normal;font-weight:normal;font-size:73.20139313px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="scale(1.0018026,0.99820067)">
+          <path
+             sodipodi:nodetypes="ccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path3783"
+             d="m 81.72523,81.471945 c 0,11.019828 -4.991003,16.028841 -15.97121,16.028841 -10.980207,0 -15.97121,-5.009013 -15.97121,-16.028841 V 57.428683 h 7.985605 v 24.043262 c 0,7.012618 0.9982,8.014421 7.985605,8.014421 6.987404,0 7.985605,-1.001803 7.985605,-8.014421 V 57.428683 h 7.985605 z"
+             style="font-variant:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
