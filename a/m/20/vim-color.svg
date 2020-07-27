@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   viewBox="0 0 270.93333 203.20001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="vim-color.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path947"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path947-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path947-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0875"
+     inkscape:cx="465.84519"
+     inkscape:cy="380.05273"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1049"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="30"
+     fit-margin-left="30"
+     fit-margin-right="30"
+     fit-margin-bottom="30" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.5554714,-100.20613)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="63.596298"
+       y="132.2626"
+       id="text814"><tspan
+         sodipodi:role="line"
+         id="tspan812"
+         x="63.596298"
+         y="132.2626"
+         style="stroke-width:0.26458335">...</tspan><tspan
+         sodipodi:role="line"
+         x="63.596298"
+         y="142.84593"
+         style="stroke-width:0.26458335"
+         id="tspan822">hi Constant ctermfg=yellow</tspan><tspan
+         sodipodi:role="line"
+         x="63.596298"
+         y="153.42928"
+         style="stroke-width:0.26458335"
+         id="tspan824">...</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.95670998;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect816"
+       width="139.03159"
+       height="33.985497"
+       x="55.278172"
+       y="125.84577"
+       ry="6.4168425"
+       rx="5.9415207" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="91.640274"
+       y="120.37957"
+       id="text820"><tspan
+         sodipodi:role="line"
+         id="tspan818"
+         x="91.640274"
+         y="120.37957"
+         style="stroke-width:0.26458335">colors/industry.vim</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="31.987408"
+       y="200.94659"
+       id="text828"><tspan
+         sodipodi:role="line"
+         id="tspan826"
+         x="31.987408"
+         y="200.94659"
+         style="stroke-width:0.26458335">定義: </tspan><tspan
+         sodipodi:role="line"
+         x="31.987408"
+         y="211.52992"
+         style="stroke-width:0.26458335"
+         id="tspan855">Comment</tspan><tspan
+         sodipodi:role="line"
+         x="31.987408"
+         y="222.11327"
+         style="stroke-width:0.26458335"
+         id="tspan830">Constant	</tspan><tspan
+         sodipodi:role="line"
+         x="31.987408"
+         y="232.69659"
+         style="stroke-width:0.26458335"
+         id="tspan832">Identifier	</tspan><tspan
+         sodipodi:role="line"
+         x="31.987408"
+         y="243.27992"
+         style="stroke-width:0.26458335"
+         id="tspan834">Statement	</tspan><tspan
+         sodipodi:role="line"
+         x="31.987408"
+         y="253.86327"
+         style="stroke-width:0.26458335"
+         id="tspan836">PreProc	</tspan><tspan
+         sodipodi:role="line"
+         x="31.987408"
+         y="264.44662"
+         style="stroke-width:0.26458335"
+         id="tspan838">Type</tspan><tspan
+         sodipodi:role="line"
+         x="31.987408"
+         y="275.02994"
+         style="stroke-width:0.26458335"
+         id="tspan857">...</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.95670998;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect816-3"
+       width="78.428085"
+       height="94.82666"
+       x="15.707639"
+       y="188.58823"
+       ry="6.4168425"
+       rx="5.9415207" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="21.279018"
+       y="182.38072"
+       id="text820-6"><tspan
+         sodipodi:role="line"
+         id="tspan818-7"
+         x="21.279018"
+         y="182.38072"
+         style="stroke-width:0.26458335">syntax/html.vim</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0.95670998;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect816-5"
+       width="75.168442"
+       height="39.532642"
+       x="184.44684"
+       y="194.7674"
+       ry="6.4168425"
+       rx="5.9415207" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="192.8838"
+       y="206.65044"
+       id="text894"><tspan
+         sodipodi:role="line"
+         id="tspan892"
+         x="192.8838"
+         y="206.65044"
+         style="font-size:5.64444447px;stroke-width:0.26458335">...</tspan><tspan
+         sodipodi:role="line"
+         x="192.8838"
+         y="217.23376"
+         style="font-size:5.64444447px;stroke-width:0.26458335"
+         id="tspan898">255 255 255 0 yellow</tspan><tspan
+         sodipodi:role="line"
+         x="192.8838"
+         y="227.81711"
+         style="font-size:5.64444447px;stroke-width:0.26458335"
+         id="tspan896">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="206.15242"
+       y="185.22014"
+       id="text820-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan818-7-5"
+         x="206.15242"
+         y="185.22014"
+         style="stroke-width:0.26458335">rgb.txt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="122.25815"
+       y="184.98248"
+       id="text820-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan818-7-2"
+         x="122.25815"
+         y="184.98248"
+         style="stroke-width:0.26458335">ctermfg</tspan><tspan
+         sodipodi:role="line"
+         x="122.25815"
+         y="195.56581"
+         style="stroke-width:0.26458335"
+         id="tspan936">ctermbg</tspan><tspan
+         sodipodi:role="line"
+         x="122.25815"
+         y="206.14915"
+         style="stroke-width:0.26458335"
+         id="tspan938">guifg</tspan><tspan
+         sodipodi:role="line"
+         x="122.25815"
+         y="216.73248"
+         style="stroke-width:0.26458335"
+         id="tspan940">guibg</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 58.130099,172.66495 28.04398,-26.85567"
+       id="path942"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)"
+       d="m 135.81156,173.22584 -5.04414,-25.88249"
+       id="path942-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-7)"
+       d="M 202.61183,173.95572 174.56785,147.10005"
+       id="path942-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="129.10199"
+       y="259.75916"
+       id="text820-3"><tspan
+         sodipodi:role="line"
+         id="tspan818-6"
+         x="129.10199"
+         y="259.75916"
+         style="font-size:11.28888893px;stroke-width:0.26458335">上述檔案位於:</tspan><tspan
+         sodipodi:role="line"
+         x="129.10199"
+         y="273.87027"
+         style="font-size:11.28888893px;stroke-width:0.26458335"
+         id="tspan888">/usr/share/vim/vim版本/</tspan></text>
+  </g>
+</svg>
