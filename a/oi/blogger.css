@@ -39,7 +39,7 @@ table {
     border-collapse: collapse;
 }
 
-table.center-content td { text-align: center; }
+table.center-content th, table.center-content td { text-align: center; }
 th {
     font-family: helvetica;
     font-weight: bold;
