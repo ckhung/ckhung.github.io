@@ -1,0 +1,27 @@
+// dot -Tsvg boot.dot > boot.svg
+digraph "android modes" {
+
+    rankdir = LR;
+    overlap = scale;
+
+    blfb [ label="boot loader/\nfastboot" ];
+    recovery [ label="recovery"; peripheries="2" ];
+    normal [ label="normal"; peripheries="3" ];
+    blfb -> blfb [ label="fastboot reboot-bootloader" ];
+    blfb -> recovery [ style=dashed; label="fastboot reboot recovery" ];
+    blfb -> normal [ label="fastboot reboot" ];
+    recovery -> { normal recovery blfb } [ label="menu" ];
+    normal -> blfb [ label="adb reboot bootloader" ];
+    normal -> recovery [ label="adb reboot recovery" ];
+    normal -> normal [ label="adb reboot" ];
+
+/*
+    blfb2 [ label="boot loader/\nfastboot" ];
+    recovery2 [ label="recovery"; peripheries="2" ];
+    normal2 [ label="normal"; peripheries="3" ];
+    blfb2 -> blfb2 [ color="red"; fontcolor="red"; label="fastboot flash boot ...\nSuper Dangerous!!!" ];
+    blfb2 -> recovery2 [ color="red"; label="fastboot flash recovery ..." ];
+    blfb2 -> normal2 [ color="red"; label="fastboot flash system ..." ];
+*/
+}
+
