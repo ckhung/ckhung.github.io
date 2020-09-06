@@ -35,7 +35,8 @@
 <title>blfb&#45;&gt;recovery</title>
 <path fill="none" stroke="black" stroke-dasharray="5,2" d="M143.36,-47.25C156.77,-52.24 171.56,-56.98 185.62,-59.87 256.1,-74.37 338.83,-76.62 394.69,-76.03"/>
 <polygon fill="black" stroke="black" points="394.85,-79.53 404.8,-75.89 394.76,-72.53 394.85,-79.53"/>
-<text text-anchor="middle" x="274.12" y="-79.67" font-family="Times,serif" font-size="14.00">fastboot reboot recovery</text>
+<text text-anchor="middle" x="274.12" y="-94.67" font-family="Times,serif" font-size="14.00">fastboot reboot recovery</text>
+<text text-anchor="middle" x="274.12" y="-79.67" font-family="Times,serif" font-size="14.00">fastboot boot twrp.img</text>
 </g>
 <!-- normal -->
 <g id="node3" class="node">
