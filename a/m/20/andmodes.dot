@@ -10,7 +10,7 @@ digraph "android modes" {
     blfb -> blfb [ label="fastboot reboot-bootloader" ];
     blfb -> recovery [ style=dashed; label="fastboot reboot recovery\nfastboot boot twrp.img" ];
     blfb -> normal [ label="fastboot reboot" ];
-    recovery -> { normal recovery blfb } [ label="menu" ];
+    recovery -> { normal recovery blfb } [ label="(menu)" ];
     normal -> blfb [ label="adb reboot bootloader" ];
     normal -> recovery [ label="adb reboot recovery" ];
     normal -> normal [ label="adb reboot" ];

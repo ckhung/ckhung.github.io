@@ -58,21 +58,21 @@
 <title>recovery&#45;&gt;blfb</title>
 <path fill="none" stroke="black" d="M420.82,-58.04C403.37,-51.54 382.27,-44.67 362.62,-40.87 301.39,-29.03 230.85,-25.78 177.78,-25.35"/>
 <polygon fill="black" stroke="black" points="177.76,-21.85 167.75,-25.3 177.73,-28.85 177.76,-21.85"/>
-<text text-anchor="middle" x="274.12" y="-44.67" font-family="Times,serif" font-size="14.00">menu</text>
+<text text-anchor="middle" x="274.12" y="-44.67" font-family="Times,serif" font-size="14.00">(menu)</text>
 </g>
 <!-- recovery&#45;&gt;recovery -->
 <g id="edge5" class="edge">
 <title>recovery&#45;&gt;recovery</title>
 <path fill="none" stroke="black" d="M430,-92.8C423.85,-103.71 433.89,-113.87 460.12,-113.87 477.75,-113.87 488.06,-109.28 491.07,-102.97"/>
 <polygon fill="black" stroke="black" points="494.54,-102.49 490.25,-92.8 487.57,-103.05 494.54,-102.49"/>
-<text text-anchor="middle" x="460.12" y="-117.67" font-family="Times,serif" font-size="14.00">menu</text>
+<text text-anchor="middle" x="460.12" y="-117.67" font-family="Times,serif" font-size="14.00">(menu)</text>
 </g>
 <!-- recovery&#45;&gt;normal -->
 <g id="edge6" class="edge">
 <title>recovery&#45;&gt;normal</title>
 <path fill="none" stroke="black" d="M515.29,-76.68C564.85,-77.86 639.81,-76.13 702.62,-59.87 711.26,-57.63 720.12,-54.28 728.47,-50.55"/>
 <polygon fill="black" stroke="black" points="730.1,-53.65 737.65,-46.23 727.12,-47.32 730.1,-53.65"/>
-<text text-anchor="middle" x="630.12" y="-79.67" font-family="Times,serif" font-size="14.00">menu</text>
+<text text-anchor="middle" x="630.12" y="-79.67" font-family="Times,serif" font-size="14.00">(menu)</text>
 </g>
 <!-- normal&#45;&gt;blfb -->
 <g id="edge7" class="edge">
