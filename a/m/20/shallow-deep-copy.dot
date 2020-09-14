@@ -1,0 +1,40 @@
+digraph shallow_deep_copy {
+    rankdir = "LR"
+
+    fontsize = 24;
+    fontname = "times bold";
+    labelloc = "t";
+    label = "Python Shallow Copying";
+
+    node [ shape = "plaintext" ];
+    { "x" "y" "z" };
+
+    node [ shape = "record" ];
+    { "x" "y" } -> "n0":p0;
+    "n0" [ label = "<p0> | <p1>"; ]
+    "n1_0" [ label = "<p0> | <p1>"; ]
+    "n1_1" [ label = "<p0> | <p1>"; ]
+    "n2_00" [ label = "<p0> 1 | <p1> 2 "; ]
+    "n2_01" [ label = "<p0> 3 | <p1> 4 "; ]
+    "n2_10" [ label = "<p0> 5 | <p1> 6 "; ]
+    "n2_11" [ label = "<p0> 7 | <p1> 8 "; ]
+    "n0":p0 -> "n1_0":p0;
+    "n0":p1 -> "n1_1":p0;
+    "n1_0":p0 -> "n2_00":p0;
+    "n1_0":p1 -> "n2_01":p0;
+    "n1_1":p0 -> "n2_10":p0;
+    "n1_1":p1 -> "n2_11":p0;
+
+    "z" -> "m0":p0;
+    "m0" [ label = "<p0> | <p1>"; ]
+    "m0" -> "n1_0":p0;
+    "m0" -> "n1_1":p0;
+
+    {
+	rank = same;
+	node [ shape = "plaintext" ]
+	n1_0;
+	"\l\lx=[[[1,2],[3,4]], [[5,6],[7,8]]]\ly=x\lz=x[:]\l" [ fontcolor = "#004000"];
+    }
+}
+
