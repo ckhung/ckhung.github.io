@@ -762,24 +762,6 @@
            y="0"
            x="0" />
         <text
-           id="text3927-1-53"
-           y="751.87488"
-           x="893.50287"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;"
-           xml:space="preserve"><tspan
-             y="751.87488"
-             x="1003.0327"
-             sodipodi:role="line"
-             id="tspan3201"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif;text-anchor:middle;text-align:center;"><tspan
-   style="font-family:sans-serif;fill:#00ffff;text-anchor:middle;text-align:center"
-   id="tspan3203">block</tspan> </tspan><tspan
-             y="796.87488"
-             x="994.96869"
-             sodipodi:role="line"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif;text-anchor:middle;text-align:center;"
-             id="tspan238">visual mode</tspan></text>
-        <text
            id="text3937-3-1"
            y="717.09595"
            x="655.91559"
@@ -1086,11 +1068,11 @@
       <image
          sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/21/../logo/cc-by-sa.png"
          xlink:href="../logo/cc-by-sa.png"
-         y="308.68442"
-         x="914.57776"
-         id="image3281"
+         width="88"
          height="31"
-         width="88" />
+         id="image3281"
+         x="914.57776"
+         y="308.68442" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff60;fill-opacity:1;stroke:none"
@@ -1102,6 +1084,22 @@
            x="769.4223"
            y="325.60663"
            style="font-size:18px;line-height:1.25;font-family:sans-serif">by Greg ckhung</tspan></text>
+      <text
+         id="text3927-1-5-3"
+         y="749.55621"
+         x="889.41089"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="749.55621"
+           x="889.41089"
+           sodipodi:role="line"
+           id="tspan3197-6"
+           style="font-size:36px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#00ffff">block</tspan><tspan
+           y="794.55621"
+           x="889.41089"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+           id="tspan230-7">visual mode</tspan></text>
     </g>
   </g>
   <script
