@@ -351,14 +351,14 @@
                style="font-size:18px;line-height:1.25;font-family:sans-serif;fill:#ffff60"
                id="tspan3105"><tspan
    style="font-family:sans-serif;fill:#40c0c0;fill-opacity:1"
-   id="tspan3930">ma</tspan> bookmark "a"</tspan><tspan
+   id="tspan3930">ma</tspan> create &quot;bkmk a&quot;</tspan><tspan
                y="790.32086"
                x="486.84744"
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif;fill:#ffff60"
                id="tspan3107"><tspan
    style="font-family:sans-serif;fill:#40c0c0;fill-opacity:1"
-   id="tspan3936">'a</tspan> jump to bkmk "a"</tspan><tspan
+   id="tspan3936">'a</tspan> jump to &quot;bkmk a&quot;</tspan><tspan
                id="tspan3793"
                y="812.82086"
                x="486.84744"
@@ -411,14 +411,14 @@
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60"><tspan
    style="font-family:sans-serif;text-align:end;text-anchor:end;fill:#40c0c0"
-   id="tspan3051">yy</tspan> 複製一列</tspan><tspan
+   id="tspan3051">yy</tspan> copy 1 line</tspan><tspan
                id="tspan3906"
                y="310.13428"
                x="805.55743"
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60"><tspan
    style="font-family:sans-serif;text-align:end;text-anchor:end;fill:#40c0c0"
-   id="tspan3053">6yy</tspan> 複製六列</tspan><tspan
+   id="tspan3053">6yy</tspan> copy 6 lines</tspan><tspan
                id="tspan3908"
                y="332.63428"
                x="805.55743"
@@ -432,7 +432,7 @@
                y="355.13428"
                x="805.55743"
                sodipodi:role="line"
-               style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60">複製六個英文字</tspan><tspan
+               style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60">copy 6 chars</tspan><tspan
                style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#40c0c0"
                id="tspan3912"
                y="377.63428"
@@ -442,21 +442,21 @@
                y="400.13428"
                x="805.55743"
                sodipodi:role="line"
-               style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60">複製到&quot;&lt;div&gt;&quot;為止</tspan><tspan
+               style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60">copy til &quot;&lt;div&gt;&quot;</tspan><tspan
                y="422.63428"
                x="805.55743"
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60"
                id="tspan3095"><tspan
    style="font-family:sans-serif;text-align:end;text-anchor:end;fill:#40c0c0;fill-opacity:1"
-   id="tspan3895">&quot;ayy</tspan> 這一列複製到「暫存a」</tspan><tspan
+   id="tspan3895">&quot;ayy</tspan> copy line to &quot;buffer a&quot;</tspan><tspan
                y="445.13428"
                x="805.55743"
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif;text-align:end;text-anchor:end;fill:#ffff60"
                id="tspan3097"><tspan
    style="font-family:sans-serif;text-align:end;text-anchor:end;fill:#40c0c0;fill-opacity:1"
-   id="tspan3901">&quot;zyw</tspan> 這個字複製到「暫存z」</tspan></text>
+   id="tspan3901">&quot;zyw</tspan> copy word to &quot;buffer z&quot;</tspan></text>
         </g>
         <g
            transform="translate(45.144499,-103.46863)"
@@ -554,40 +554,40 @@
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif"><tspan
    id="tspan3869"
-   style="font-family:sans-serif;fill:#40c0c0">p</tspan> 貼上</tspan><tspan
+   style="font-family:sans-serif;fill:#40c0c0">p</tspan> paste</tspan><tspan
                id="tspan3867"
                y="770.34961"
                x="551.68237"
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif"><tspan
    id="tspan3871"
-   style="font-family:sans-serif;fill:#40c0c0">8p</tspan> 貼八次</tspan><tspan
+   style="font-family:sans-serif;fill:#40c0c0">8p</tspan> paste 8 times</tspan><tspan
                y="792.84961"
                x="551.68237"
                sodipodi:role="line"
                id="tspan3091"
                style="font-size:18px;line-height:1.25;font-family:sans-serif"><tspan
    style="font-family:sans-serif;fill:#40c0c0;fill-opacity:1"
-   id="tspan3913">&quot;ap</tspan> 把「暫存a」貼在這裡」</tspan><tspan
+   id="tspan3913">&quot;ap</tspan> paste tmp &quot;a&quot; here</tspan><tspan
                y="815.34961"
                x="551.68237"
                sodipodi:role="line"
                id="tspan3093"
                style="font-size:18px;line-height:1.25;font-family:sans-serif"><tspan
    style="font-family:sans-serif;fill:#40c0c0;fill-opacity:1"
-   id="tspan3919">&quot;zp</tspan> 把「暫存z」貼在這裡</tspan></text>
+   id="tspan3919">&quot;zp</tspan> paste tmp &quot;z&quot; here</tspan></text>
         </g>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
-           x="381.20786"
-           y="429.19113"
+           x="429.56342"
+           y="430.61334"
            id="text3927"><tspan
              sodipodi:role="line"
              id="tspan3929"
-             x="381.20786"
-             y="429.19113"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif">正常模式/normal mode</tspan></text>
+             x="429.56342"
+             y="430.61334"
+             style="font-size:36px;line-height:1.25;font-family:sans-serif">normal mode</tspan></text>
         <g
            id="g3960"
            transform="translate(29.437192,-30.697535)">
@@ -610,21 +610,21 @@
                x="442.89072"
                id="tspan3950"
                sodipodi:role="line"
-               style="font-size:18px;line-height:1.25;font-family:sans-serif;fill:#ffff60;fill-opacity:1">(其他進階指令)</tspan><tspan
+               style="font-size:18px;line-height:1.25;font-family:sans-serif;fill:#ffff60;fill-opacity:1">(Other advanced cmds)</tspan><tspan
                y="809.9765"
                x="442.89072"
                sodipodi:role="line"
                id="tspan3132"
                style="font-size:18px;line-height:1.25;font-family:sans-serif"><tspan
    style="font-family:sans-serif;fill:#40c0c0;fill-opacity:1"
-   id="tspan3134">qa</tspan> 錄製「巨集a」</tspan><tspan
+   id="tspan3134">qa</tspan> record &quot;macro a&quot;</tspan><tspan
                id="tspan3954"
                y="832.4765"
                x="442.89072"
                sodipodi:role="line"
                style="font-size:18px;line-height:1.25;font-family:sans-serif"><tspan
    style="font-family:sans-serif;fill:#40c0c0;fill-opacity:1"
-   id="tspan3972">@q</tspan> 播放「巨集a」</tspan></text>
+   id="tspan3972">@q</tspan> play &quot;macro a&quot;</tspan></text>
         </g>
         <path
            style="fill:none;stroke:#ffff60;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutL-4)"
@@ -673,7 +673,7 @@
              x="741.78162"
              id="tspan3835"
              sodipodi:role="line"
-             style="font-size:18px;line-height:1.25;font-family:sans-serif">移動類指令</tspan></text>
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">move cmds</tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path3066"
@@ -702,13 +702,13 @@
              sodipodi:role="line"
              id="tspan3117"
              style="font-size:18px;line-height:1.25;font-family:sans-serif"><tspan
-   style="font-size:18px;font-family:sans-serif"
-   id="tspan5278">複製類</tspan>指令</tspan><tspan
+               style="font-size:18px;font-family:sans-serif"
+               id="tspan5278">copy cmds</tspan></tspan><tspan
              id="tspan4846"
              y="474.19669"
              x="547.96039"
              sodipodi:role="line"
-             style="font-size:18px;line-height:1.25;font-family:sans-serif">刪除類指令</tspan></text>
+             style="font-size:18px;line-height:1.25;font-family:sans-serif">del cmds</tspan></text>
       </g>
       <g
          id="g3314">
@@ -723,24 +723,20 @@
            x="0" />
         <text
            id="text3927-1-5"
-           y="573.98724"
-           x="986.50116"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#00ff00;fill-opacity:1;stroke:none"
+           y="566.87616"
+           x="892.9024"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="573.98724"
-             x="986.50116"
-             id="tspan3929-0-1"
-             sodipodi:role="line"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif"><tspan
-   id="tspan4003"
-   style="font-family:sans-serif;text-align:end;text-anchor:end;fill:#ff0000;fill-opacity:1">列</tspan>視覺模式</tspan><tspan
-             y="618.98724"
-             x="986.50116"
+             y="566.87616"
+             x="892.9024"
              sodipodi:role="line"
              id="tspan3197"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif"><tspan
-   style="font-family:sans-serif;fill:#ff0000"
-   id="tspan3199">line</tspan> v.m.</tspan></text>
+             style="font-size:36px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#00ffff">line</tspan><tspan
+             y="611.87616"
+             x="892.9024"
+             sodipodi:role="line"
+             style="font-size:36px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle"
+             id="tspan230">visual mode</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -768,23 +764,21 @@
         <text
            id="text3927-1-53"
            y="751.87488"
-           x="994.96869"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#00ff00;fill-opacity:1;stroke:none"
+           x="893.50287"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none;"
            xml:space="preserve"><tspan
              y="751.87488"
-             x="994.96869"
-             id="tspan3929-0-6"
+             x="1003.0327"
              sodipodi:role="line"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif"><tspan
-   id="tspan4037"
-   style="font-family:sans-serif;text-align:end;text-anchor:end;fill:#ff0000;fill-opacity:1">方塊</tspan>視覺模式</tspan><tspan
+             id="tspan3201"
+             style="font-size:36px;line-height:1.25;font-family:sans-serif;text-anchor:middle;text-align:center;"><tspan
+   style="font-family:sans-serif;fill:#00ffff;text-anchor:middle;text-align:center"
+   id="tspan3203">block</tspan> </tspan><tspan
              y="796.87488"
              x="994.96869"
              sodipodi:role="line"
-             id="tspan3201"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif"><tspan
-   style="font-family:sans-serif;fill:#ff0000"
-   id="tspan3203">block</tspan> v.m.</tspan></text>
+             style="font-size:36px;line-height:1.25;font-family:sans-serif;text-anchor:middle;text-align:center;"
+             id="tspan238">visual mode</tspan></text>
         <text
            id="text3937-3-1"
            y="717.09595"
@@ -828,7 +822,7 @@
              x="382.93164"
              id="tspan3929-4"
              sodipodi:role="line"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif">命令列模式</tspan></text>
+             style="font-size:36px;line-height:1.25;font-family:sans-serif">cmd mode</tspan></text>
         <g
            transform="translate(327.11107,2.8444441)"
            id="g5756">
@@ -854,7 +848,7 @@
              id="tspan5321"
              y="948.87048"
              x="392.36298"
-             sodipodi:role="line">(冒號) </tspan></text>
+             sodipodi:role="line">(colon) </tspan></text>
         <g
            transform="translate(369.40311,2.8444441)"
            id="g5763">
@@ -900,17 +894,12 @@
            style="fill:none;stroke:#ffff60;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <text
            id="text3927-9-8-1"
-           y="957.08936"
-           x="886.72467"
+           y="984.11157"
+           x="885.30243"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00ff00;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="957.08936"
-             x="886.72467"
-             id="tspan3929-4-5-3"
-             sodipodi:role="line"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif">插入模式</tspan><tspan
-             y="1002.0894"
-             x="886.72467"
+             y="984.11157"
+             x="885.30243"
              sodipodi:role="line"
              id="tspan3193"
              style="font-size:36px;line-height:1.25;font-family:sans-serif">insert mode</tspan></text>
@@ -968,14 +957,14 @@
         <text
            id="text3927-9-8"
            y="1015.2773"
-           x="101.19303"
+           x="59.948586"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
              y="1015.2773"
-             x="101.19303"
+             x="59.948586"
              id="tspan3929-4-5"
              sodipodi:role="line"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif">搜尋模式</tspan></text>
+             style="font-size:36px;line-height:1.25;font-family:sans-serif">search mode</tspan></text>
         <text
            id="text3937-3-7-9"
            y="916.59094"
@@ -990,10 +979,10 @@
    style="font-family:sans-serif;fill:#ffff60;fill-opacity:1"
    id="tspan4132">or</tspan> ?</tspan><tspan
              id="tspan5355"
-             y="946.59094"
+             y="927.03094"
              x="81.389671"
              sodipodi:role="line"
-             style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffff60;fill-opacity:1">(斜線或問號)</tspan></text>
+             style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffff60;fill-opacity:1" /></text>
         <use
            height="768"
            width="1024"
@@ -1034,17 +1023,12 @@
            x="0" />
         <text
            id="text3927-1"
-           y="384.70074"
-           x="994.22894"
+           y="425.94519"
+           x="995.65118"
            style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#00ff00;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="384.70074"
-             x="994.22894"
-             id="tspan3929-0"
-             sodipodi:role="line"
-             style="font-size:36px;line-height:1.25;font-family:sans-serif">視覺模式</tspan><tspan
-             y="429.70074"
-             x="994.22894"
+             y="425.94519"
+             x="995.65118"
              sodipodi:role="line"
              id="tspan3195"
              style="font-size:36px;line-height:1.25;font-family:sans-serif">visual mode</tspan></text>
@@ -1062,7 +1046,7 @@
                id="tspan5368"
                style="font-family:sans-serif;fill:#80ffff;fill-opacity:1">V</tspan><tspan
                id="tspan3966"
-               style="font-size:24px;font-family:sans-serif;fill:#ffff60;fill-opacity:1">(大寫) </tspan></tspan></text>
+               style="font-size:24px;font-family:sans-serif;fill:#ffff60;fill-opacity:1">(capital) </tspan></tspan></text>
         <text
            id="text3937-3-0"
            y="353.20737"
@@ -1077,7 +1061,7 @@
                id="tspan5366"
                style="font-family:sans-serif;fill:#80ffff;fill-opacity:1">v </tspan><tspan
                id="tspan3966-3"
-               style="font-size:24px;font-family:sans-serif;fill:#ffff60;fill-opacity:1">(小寫)</tspan></tspan></text>
+               style="font-size:24px;font-family:sans-serif;fill:#ffff60;fill-opacity:1">(lower)</tspan></tspan></text>
         <rect
            ry="8.0175886"
            rx="12.026383"
@@ -1098,18 +1082,7 @@
            id="tspan3190"
            x="362.66666"
            y="325.60663"
-           style="font-size:36px;line-height:1.25;font-family:sans-serif">Vim 學習地圖</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff60;fill-opacity:1;stroke:none"
-         x="822.04449"
-         y="335.56219"
-         id="text3192"><tspan
-           sodipodi:role="line"
-           id="tspan3194"
-           x="822.04449"
-           y="335.56219"
-           style="font-size:18px;line-height:1.25;font-family:sans-serif">by 洪朝貴</tspan></text>
+           style="font-size:36px;line-height:1.25;font-family:sans-serif">Vim  Learning Map</tspan></text>
       <image
          sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/21/../logo/cc-by-sa.png"
          xlink:href="../logo/cc-by-sa.png"
@@ -1118,6 +1091,17 @@
          id="image3281"
          height="31"
          width="88" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff60;fill-opacity:1;stroke:none"
+         x="769.4223"
+         y="325.60663"
+         id="text3192"><tspan
+           sodipodi:role="line"
+           id="tspan3194"
+           x="769.4223"
+           y="325.60663"
+           style="font-size:18px;line-height:1.25;font-family:sans-serif">by Greg ckhung</tspan></text>
     </g>
   </g>
   <script
