@@ -1,17 +1,12 @@
 graph {
     "My Drive" [ shape=folder ];
-    "colab" [ shape=folder ];
-    "dog_behaviors" [ shape=folder ];
-    "quiz" [ shape=folder ];
-    "0_other" [ shape=folder ];
-    "1_jump" [ shape=folder ];
-    "2_sleep" [ shape=folder ];
-    "...f1" [ shape=plaintext label="..."];
-    "...1" [ shape=plaintext label="..." ];
-    "...2" [ shape=plaintext label="..." ];
-    "...3" [ shape=plaintext label="..." ];
-    "My Drive" -- { "colab" "dog_behaviors"};
-    "colab" -- { "km-transfer.ipynb"  "LICENSE"  "quiz"  "README.md" };
+    "colab" [ shape=folder; color="blue" ];
+    "keras-mobilenet", "dog_behaviors" [ shape=folder; color="red" ];
+    "quiz", "0_other", "1_jump", "2_sleep" [ shape=folder ];
+    "...f1", "...1", "...2", "...3" [ shape=plaintext; label="..."; fontsize=36 ];
+    "My Drive" -- "colab";
+    "colab" -- "keras-mobilenet";
+    "keras-mobilenet" -- { "km-transfer.ipynb"  "LICENSE"  "quiz"  "README.md" "dog_behaviors" };
     "quiz" -- { "0-german_shepherd.jpg" "0-labrador1.jpg" "...1" };
     "dog_behaviors" -- { "0_other"  "1_jump"  "2_sleep" "...f1" };
     "0_other" -- { "01.dog*.jpg" "02.corgi*.jpg" "...2" };
