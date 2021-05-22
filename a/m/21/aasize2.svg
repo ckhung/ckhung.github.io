@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="main-svg"
+   width="1010.04"
+   height="720"
+   style=""
+   viewBox="0 0 841.7 600"
+   version="1.1"
+   id="svg614"
+   sodipodi:docname="aasize2.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata618">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview616"
+     showgrid="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="1.1430556"
+     inkscape:cx="505.01999"
+     inkscape:cy="360"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg614" />
+  <rect
+     x="0"
+     y="0"
+     width="841.7"
+     height="600"
+     style="fill: rgb(255, 255, 255); fill-opacity: 1;"
+     id="rect2" />
+  <defs
+     id="defs-64ef60">
+    <g
+       class="clips"
+       id="g16">
+      <clipPath
+         id="clip64ef60xyplot"
+         class="plotclip">
+        <rect
+           width="682"
+           height="420"
+           id="rect4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip64ef60x">
+        <rect
+           x="80"
+           y="0"
+           width="682"
+           height="600"
+           id="rect7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip64ef60y">
+        <rect
+           x="0"
+           y="100"
+           width="841.7"
+           height="420"
+           id="rect10" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip64ef60xy">
+        <rect
+           x="80"
+           y="100"
+           width="682"
+           height="420"
+           id="rect13" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g18" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g21" />
+  <g
+     class="layer-below"
+     id="g27">
+    <g
+       class="imagelayer"
+       id="g23" />
+    <g
+       class="shapelayer"
+       id="g25" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g573">
+    <g
+       class="subplot xy"
+       id="g571">
+      <g
+         class="layer-subplot"
+         id="g33">
+        <g
+           class="shapelayer"
+           id="g29" />
+        <g
+           class="imagelayer"
+           id="g31" />
+      </g>
+      <g
+         class="gridlayer"
+         id="g109">
+        <g
+           class="x"
+           id="g75">
+          <path
+             class="xgrid crisp"
+             transform="translate(107.06,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path35" />
+          <path
+             class="xgrid crisp"
+             transform="translate(131.82999999999998,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path37" />
+          <path
+             class="xgrid crisp"
+             transform="translate(152.78,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path39" />
+          <path
+             class="xgrid crisp"
+             transform="translate(170.92000000000002,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path41" />
+          <path
+             class="xgrid crisp"
+             transform="translate(186.93,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path43" />
+          <path
+             class="xgrid crisp"
+             transform="translate(201.24,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path45" />
+          <path
+             class="xgrid crisp"
+             transform="translate(295.41999999999996,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path47" />
+          <path
+             class="xgrid crisp"
+             transform="translate(350.52,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path49" />
+          <path
+             class="xgrid crisp"
+             transform="translate(389.61,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path51" />
+          <path
+             class="xgrid crisp"
+             transform="translate(419.93,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path53" />
+          <path
+             class="xgrid crisp"
+             transform="translate(444.7,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path55" />
+          <path
+             class="xgrid crisp"
+             transform="translate(465.65,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path57" />
+          <path
+             class="xgrid crisp"
+             transform="translate(483.79,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path59" />
+          <path
+             class="xgrid crisp"
+             transform="translate(499.79,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path61" />
+          <path
+             class="xgrid crisp"
+             transform="translate(514.11,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path63" />
+          <path
+             class="xgrid crisp"
+             transform="translate(608.29,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path65" />
+          <path
+             class="xgrid crisp"
+             transform="translate(663.39,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path67" />
+          <path
+             class="xgrid crisp"
+             transform="translate(702.48,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path69" />
+          <path
+             class="xgrid crisp"
+             transform="translate(732.8,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path71" />
+          <path
+             class="xgrid crisp"
+             transform="translate(757.57,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path73" />
+        </g>
+        <g
+           class="y"
+           id="g107">
+          <path
+             class="ygrid crisp"
+             transform="translate(0,517.96)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path77" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,492.61)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path79" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,467.27)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path81" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,433.77)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path83" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,408.43)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path85" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,383.09)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path87" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,349.59000000000003)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path89" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,324.24)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path91" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,298.9)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path93" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,265.4)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path95" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,240.06)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path97" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,214.72)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path99" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,181.22)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path101" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,155.87)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path103" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,130.53)"
+             d="M80,0h682"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path105" />
+        </g>
+      </g>
+      <g
+         class="zerolinelayer"
+         id="g111" />
+      <path
+         class="xlines-below"
+         id="path113" />
+      <path
+         class="ylines-below"
+         id="path115" />
+      <g
+         class="overlines-below"
+         id="g117" />
+      <g
+         class="xaxislayer-below"
+         id="g119" />
+      <g
+         class="yaxislayer-below"
+         id="g121" />
+      <g
+         class="overaxes-below"
+         id="g123" />
+      <g
+         class="plot"
+         transform="translate(80,100)"
+         clip-path="url('#clip64ef60xyplot')"
+         id="g415">
+        <g
+           class="scatterlayer mlayer"
+           id="g413">
+          <g
+             class="trace scatter trace79003a"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g411">
+            <g
+               class="fills"
+               id="g125" />
+            <g
+               class="errorbars"
+               id="g127" />
+            <g
+               class="lines"
+               id="g129" />
+            <g
+               class="points"
+               id="g223">
+              <path
+                 class="point"
+                 transform="translate(42.14,319.17)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.43,0A6.43,6.43 0 1,1 0,-6.43A6.43,6.43 0 0,1 6.43,0Z"
+                 id="path131" />
+              <path
+                 class="point"
+                 transform="translate(84.87,161.75)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M21.47,0A21.47,21.47 0 1,1 0,-21.47A21.47,21.47 0 0,1 21.47,0Z"
+                 id="path133" />
+              <path
+                 class="point"
+                 transform="translate(90.7,88.85)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.67,0A6.67,6.67 0 1,1 0,-6.67A6.67,6.67 0 0,1 6.67,0Z"
+                 id="path135" />
+              <path
+                 class="point"
+                 transform="translate(136.22,337.25)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.14,0A6.14,6.14 0 1,1 0,-6.14A6.14,6.14 0 0,1 6.14,0Z"
+                 id="path137" />
+              <path
+                 class="point"
+                 transform="translate(154.7,377.41)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path139" />
+              <path
+                 class="point"
+                 transform="translate(157.62,256.01)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M11.26,0A11.26,11.26 0 1,1 0,-11.26A11.26,11.26 0 0,1 11.26,0Z"
+                 id="path141" />
+              <path
+                 class="point"
+                 transform="translate(161.15,339.28)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M5.59,0A5.59,5.59 0 1,1 0,-5.59A5.59,5.59 0 0,1 5.59,0Z"
+                 id="path143" />
+              <path
+                 class="point"
+                 transform="translate(177.62,351.1)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M5.32,0A5.32,5.32 0 1,1 0,-5.32A5.32,5.32 0 0,1 5.32,0Z"
+                 id="path145" />
+              <path
+                 class="point"
+                 transform="translate(183.56,334.4)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.32,0A6.32,6.32 0 1,1 0,-6.32A6.32,6.32 0 0,1 6.32,0Z"
+                 id="path147" />
+              <path
+                 class="point"
+                 transform="translate(187.03,394.8)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path149" />
+              <path
+                 class="point"
+                 transform="translate(217.94,94.19)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M33.78,0A33.78,33.78 0 1,1 0,-33.78A33.78,33.78 0 0,1 33.78,0Z"
+                 id="path151" />
+              <path
+                 class="point"
+                 transform="translate(218.84,365.68)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path153" />
+              <path
+                 class="point"
+                 transform="translate(238.79,174.47)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.11,0A6.11,6.11 0 1,1 0,-6.11A6.11,6.11 0 0,1 6.11,0Z"
+                 id="path155" />
+              <path
+                 class="point"
+                 transform="translate(264.62,242.32)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M5.61,0A5.61,5.61 0 1,1 0,-5.61A5.61,5.61 0 0,1 5.61,0Z"
+                 id="path157" />
+              <path
+                 class="point"
+                 transform="translate(283.63,136.37)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M25.6,0A25.6,25.6 0 1,1 0,-25.6A25.6,25.6 0 0,1 25.6,0Z"
+                 id="path159" />
+              <path
+                 class="point"
+                 transform="translate(286.05,306.55)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.51,0A6.51,6.51 0 1,1 0,-6.51A6.51,6.51 0 0,1 6.51,0Z"
+                 id="path161" />
+              <path
+                 class="point"
+                 transform="translate(288.46,267.49)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path163" />
+              <path
+                 class="point"
+                 transform="translate(291.86,385.08)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path165" />
+              <path
+                 class="point"
+                 transform="translate(291.86,248.78)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path167" />
+              <path
+                 class="point"
+                 transform="translate(291.86,387.6)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path169" />
+              <path
+                 class="point"
+                 transform="translate(291.86,281.21)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M5.79,0A5.79,5.79 0 1,1 0,-5.79A5.79,5.79 0 0,1 5.79,0Z"
+                 id="path171" />
+              <path
+                 class="point"
+                 transform="translate(291.86,263.65)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path173" />
+              <path
+                 class="point"
+                 transform="translate(291.88,390.31)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path175" />
+              <path
+                 class="point"
+                 transform="translate(291.88,390.31)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path177" />
+              <path
+                 class="point"
+                 transform="translate(291.88,330.36)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path179" />
+              <path
+                 class="point"
+                 transform="translate(291.88,378.42)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path181" />
+              <path
+                 class="point"
+                 transform="translate(291.89,382.72)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path183" />
+              <path
+                 class="point"
+                 transform="translate(291.89,328.76)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.62,0A6.62,6.62 0 1,1 0,-6.62A6.62,6.62 0 0,1 6.62,0Z"
+                 id="path185" />
+              <path
+                 class="point"
+                 transform="translate(291.89,317.6)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M5.72,0A5.72,5.72 0 1,1 0,-5.72A5.72,5.72 0 0,1 5.72,0Z"
+                 id="path187" />
+              <path
+                 class="point"
+                 transform="translate(291.96,311.9)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M7.28,0A7.28,7.28 0 1,1 0,-7.28A7.28,7.28 0 0,1 7.28,0Z"
+                 id="path189" />
+              <path
+                 class="point"
+                 transform="translate(305.82,242.03)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.94,0A6.94,6.94 0 1,1 0,-6.94A6.94,6.94 0 0,1 6.94,0Z"
+                 id="path191" />
+              <path
+                 class="point"
+                 transform="translate(307.51,347.88)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M5.47,0A5.47,5.47 0 1,1 0,-5.47A5.47,5.47 0 0,1 5.47,0Z"
+                 id="path193" />
+              <path
+                 class="point"
+                 transform="translate(312.31,163.62)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M20.88,0A20.88,20.88 0 1,1 0,-20.88A20.88,20.88 0 0,1 20.88,0Z"
+                 id="path195" />
+              <path
+                 class="point"
+                 transform="translate(329.65,207.51)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M15.67,0A15.67,15.67 0 1,1 0,-15.67A15.67,15.67 0 0,1 15.67,0Z"
+                 id="path197" />
+              <path
+                 class="point"
+                 transform="translate(339.34,121.86)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path199" />
+              <path
+                 class="point"
+                 transform="translate(402.69,163.52)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M20.48,0A20.48,20.48 0 1,1 0,-20.48A20.48,20.48 0 0,1 20.48,0Z"
+                 id="path201" />
+              <path
+                 class="point"
+                 transform="translate(420.46,149.72)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M10.74,0A10.74,10.74 0 1,1 0,-10.74A10.74,10.74 0 0,1 10.74,0Z"
+                 id="path203" />
+              <path
+                 class="point"
+                 transform="translate(421.31,195.99)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.92,0A6.92,6.92 0 1,1 0,-6.92A6.92,6.92 0 0,1 6.92,0Z"
+                 id="path205" />
+              <path
+                 class="point"
+                 transform="translate(429.84,272.85)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M7.02,0A7.02,7.02 0 1,1 0,-7.02A7.02,7.02 0 0,1 7.02,0Z"
+                 id="path207" />
+              <path
+                 class="point"
+                 transform="translate(430.24,280.3)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M7.2,0A7.2,7.2 0 1,1 0,-7.2A7.2,7.2 0 0,1 7.2,0Z"
+                 id="path209" />
+              <path
+                 class="point"
+                 transform="translate(471.23,71.09)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M7.49,0A7.49,7.49 0 1,1 0,-7.49A7.49,7.49 0 0,1 7.49,0Z"
+                 id="path211" />
+              <path
+                 class="point"
+                 transform="translate(476.68,70.59)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M39.67,0A39.67,39.67 0 1,1 0,-39.67A39.67,39.67 0 0,1 39.67,0Z"
+                 id="path213" />
+              <path
+                 class="point"
+                 transform="translate(558.65,66.47)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M31.82,0A31.82,31.82 0 1,1 0,-31.82A31.82,31.82 0 0,1 31.82,0Z"
+                 id="path215" />
+              <path
+                 class="point"
+                 transform="translate(577.18,378.42)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.36,0A3.36,3.36 0 1,1 0,-3.36A3.36,3.36 0 0,1 3.36,0Z"
+                 id="path217" />
+              <path
+                 class="point"
+                 transform="translate(606.27,144.05)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M23.35,0A23.35,23.35 0 1,1 0,-23.35A23.35,23.35 0 0,1 23.35,0Z"
+                 id="path219" />
+              <path
+                 class="point"
+                 transform="translate(630.98,125.07)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M13.54,0A13.54,13.54 0 1,1 0,-13.54A13.54,13.54 0 0,1 13.54,0Z"
+                 id="path221" />
+            </g>
+            <g
+               class="text"
+               id="g409">
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g227">
+                <text
+                   x="42.14"
+                   y="319.17"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text225">mather</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g231">
+                <text
+                   x="84.87"
+                   y="161.75"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text229">jumpgo</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g235">
+                <text
+                   x="90.7"
+                   y="88.85"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text233">quickdic</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g239">
+                <text
+                   x="136.22"
+                   y="337.25"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text237">binaryeye</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g243">
+                <text
+                   x="154.7"
+                   y="377.41"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text241">webview</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g247">
+                <text
+                   x="157.62"
+                   y="256.01"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text245">pro</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g251">
+                <text
+                   x="161.15"
+                   y="339.28"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text249">barcodescanner</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g255">
+                <text
+                   x="177.62"
+                   y="351.1"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text253">primftpd</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g259">
+                <text
+                   x="183.56"
+                   y="334.4"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text257">etar</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g263">
+                <text
+                   x="187.03"
+                   y="394.8"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text261">voicerecorder</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g267">
+                <text
+                   x="217.94"
+                   y="94.19"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text265">fdroid</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g271">
+                <text
+                   x="218.84"
+                   y="365.68"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text269">davdroid</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g275">
+                <text
+                   x="238.79"
+                   y="174.47"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text273">viewer</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g279">
+                <text
+                   x="264.62"
+                   y="242.32"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text277">alarm</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g283">
+                <text
+                   x="283.63"
+                   y="136.37"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text281">pro</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g287">
+                <text
+                   x="286.05"
+                   y="306.55"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text285">v1</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g291">
+                <text
+                   x="288.46"
+                   y="267.49"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text289">wellbeing</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g295">
+                <text
+                   x="291.86"
+                   y="385.08"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text293">blockednumber</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g299">
+                <text
+                   x="291.86"
+                   y="248.78"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text297">contacts</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g303">
+                <text
+                   x="291.86"
+                   y="387.6"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text301">downloads</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g307">
+                <text
+                   x="291.86"
+                   y="281.21"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text305">media</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g311">
+                <text
+                   x="291.86"
+                   y="263.65"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text309">telephony</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g315">
+                <text
+                   x="291.88"
+                   y="390.31"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text313">keychain</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g319">
+                <text
+                   x="291.88"
+                   y="390.31"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text317">mtp</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g323">
+                <text
+                   x="291.88"
+                   y="330.36"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text321">gsf</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g327">
+                <text
+                   x="291.88"
+                   y="378.42"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text325">lineagesettings</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g331">
+                <text
+                   x="291.89"
+                   y="382.72"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text329">networkstack</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g335">
+                <text
+                   x="291.89"
+                   y="328.76"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text333">phone</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g339">
+                <text
+                   x="291.89"
+                   y="317.6"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text337">lineageparts</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g343">
+                <text
+                   x="291.96"
+                   y="311.9"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text341">settings</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g347">
+                <text
+                   x="305.82"
+                   y="242.03"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text345">zhuyin</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g351">
+                <text
+                   x="307.51"
+                   y="347.88"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text349">klik</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g355">
+                <text
+                   x="312.31"
+                   y="163.62"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text353">bustaiwan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g359">
+                <text
+                   x="329.65"
+                   y="207.51"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text357">act</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g363">
+                <text
+                   x="339.34"
+                   y="121.86"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text361">tts</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g367">
+                <text
+                   x="402.69"
+                   y="163.52"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text365">vending</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g371">
+                <text
+                   x="420.46"
+                   y="149.72"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text369">sheets</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g375">
+                <text
+                   x="421.31"
+                   y="195.99"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text373">meet</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g379">
+                <text
+                   x="429.84"
+                   y="272.85"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text377">vlc</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g383">
+                <text
+                   x="430.24"
+                   y="280.3"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text381">rnbeta</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g387">
+                <text
+                   x="471.23"
+                   y="71.09"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text385">plus</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g391">
+                <text
+                   x="476.68"
+                   y="70.59"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text389">icecat</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g395">
+                <text
+                   x="558.65"
+                   y="66.47"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text393">line</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g399">
+                <text
+                   x="577.18"
+                   y="378.42"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text397">partnersetup</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g403">
+                <text
+                   x="606.27"
+                   y="144.05"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text401">googlequicksearchbox</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g407">
+                <text
+                   x="630.98"
+                   y="125.07"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text405">gms</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="overplot"
+         id="g417" />
+      <path
+         class="xlines-above crisp"
+         style="fill: none;"
+         d="M0,0"
+         id="path419" />
+      <path
+         class="ylines-above crisp"
+         style="fill: none;"
+         d="M0,0"
+         id="path421" />
+      <g
+         class="overlines-above"
+         id="g423" />
+      <g
+         class="xaxislayer-above"
+         id="g505">
+        <g
+           class="xtick"
+           id="g427">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(107.06,0)"
+             id="text425">5</text>
+        </g>
+        <g
+           class="xtick"
+           id="g431">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(131.82999999999998,0)"
+             id="text429">6</text>
+        </g>
+        <g
+           class="xtick"
+           id="g435">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(152.78,0)"
+             id="text433">7</text>
+        </g>
+        <g
+           class="xtick"
+           id="g439">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(170.92000000000002,0)"
+             id="text437">8</text>
+        </g>
+        <g
+           class="xtick"
+           id="g443">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(186.93,0)"
+             id="text441">9</text>
+        </g>
+        <g
+           class="xtick"
+           id="g447">
+          <text
+             text-anchor="middle"
+             x="3"
+             y="539"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(201.24,0)"
+             id="text445">10M</text>
+        </g>
+        <g
+           class="xtick"
+           id="g451">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(295.41999999999996,0)"
+             id="text449">2</text>
+        </g>
+        <g
+           class="xtick"
+           id="g455">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(350.52,0)"
+             id="text453">3</text>
+        </g>
+        <g
+           class="xtick"
+           id="g459">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(389.61,0)"
+             id="text457">4</text>
+        </g>
+        <g
+           class="xtick"
+           id="g463">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(419.93,0)"
+             id="text461">5</text>
+        </g>
+        <g
+           class="xtick"
+           id="g467">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(444.7,0)"
+             id="text465">6</text>
+        </g>
+        <g
+           class="xtick"
+           id="g471">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(465.65,0)"
+             id="text469">7</text>
+        </g>
+        <g
+           class="xtick"
+           id="g475">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(483.79,0)"
+             id="text473">8</text>
+        </g>
+        <g
+           class="xtick"
+           id="g479">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(499.79,0)"
+             id="text477">9</text>
+        </g>
+        <g
+           class="xtick"
+           id="g483">
+          <text
+             text-anchor="middle"
+             x="3"
+             y="539"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(514.11,0)"
+             id="text481">100M</text>
+        </g>
+        <g
+           class="xtick"
+           id="g487">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(608.29,0)"
+             id="text485">2</text>
+        </g>
+        <g
+           class="xtick"
+           id="g491">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(663.39,0)"
+             id="text489">3</text>
+        </g>
+        <g
+           class="xtick"
+           id="g495">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(702.48,0)"
+             id="text493">4</text>
+        </g>
+        <g
+           class="xtick"
+           id="g499">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(732.8,0)"
+             id="text497">5</text>
+        </g>
+        <g
+           class="xtick"
+           id="g503">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="530"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(757.57,0)"
+             id="text501">6</text>
+        </g>
+      </g>
+      <g
+         class="yaxislayer-above"
+         id="g567">
+        <g
+           class="ytick"
+           id="g509">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,517.96)"
+             id="text507">5</text>
+        </g>
+        <g
+           class="ytick"
+           id="g513">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,492.61)"
+             id="text511">100k</text>
+        </g>
+        <g
+           class="ytick"
+           id="g517">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,467.27)"
+             id="text515">2</text>
+        </g>
+        <g
+           class="ytick"
+           id="g521">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,433.77)"
+             id="text519">5</text>
+        </g>
+        <g
+           class="ytick"
+           id="g525">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,408.43)"
+             id="text523">1M</text>
+        </g>
+        <g
+           class="ytick"
+           id="g529">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,383.09)"
+             id="text527">2</text>
+        </g>
+        <g
+           class="ytick"
+           id="g533">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,349.59000000000003)"
+             id="text531">5</text>
+        </g>
+        <g
+           class="ytick"
+           id="g537">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,324.24)"
+             id="text535">10M</text>
+        </g>
+        <g
+           class="ytick"
+           id="g541">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,298.9)"
+             id="text539">2</text>
+        </g>
+        <g
+           class="ytick"
+           id="g545">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,265.4)"
+             id="text543">5</text>
+        </g>
+        <g
+           class="ytick"
+           id="g549">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,240.06)"
+             id="text547">100M</text>
+        </g>
+        <g
+           class="ytick"
+           id="g553">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,214.72)"
+             id="text551">2</text>
+        </g>
+        <g
+           class="ytick"
+           id="g557">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,181.22)"
+             id="text555">5</text>
+        </g>
+        <g
+           class="ytick"
+           id="g561">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,155.87)"
+             id="text559">1B</text>
+        </g>
+        <g
+           class="ytick"
+           id="g565">
+          <text
+             text-anchor="end"
+             x="79"
+             y="3.15"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 9px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,130.53)"
+             id="text563">2</text>
+        </g>
+      </g>
+      <g
+         class="overaxes-above"
+         id="g569" />
+    </g>
+  </g>
+  <g
+     class="polarlayer"
+     id="g575" />
+  <g
+     class="ternarylayer"
+     id="g577" />
+  <g
+     class="geolayer"
+     id="g579" />
+  <g
+     class="funnelarealayer"
+     id="g581" />
+  <g
+     class="pielayer"
+     id="g583" />
+  <g
+     class="treemaplayer"
+     id="g585" />
+  <g
+     class="sunburstlayer"
+     id="g587" />
+  <g
+     class="glimages"
+     id="g589" />
+  <defs
+     id="topdefs-64ef60">
+    <g
+       class="clips"
+       id="g591" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g598">
+    <g
+       class="imagelayer"
+       id="g594" />
+    <g
+       class="shapelayer"
+       id="g596" />
+  </g>
+  <g
+     class="infolayer"
+     id="g612">
+    <g
+       class="g-gtitle"
+       id="g602">
+      <text
+         class="gtitle"
+         style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 17px; fill: rgb(68, 68, 68); opacity: 1; font-weight: normal; white-space: pre;"
+         x="420.85"
+         y="50"
+         text-anchor="middle"
+         dy="0em"
+         id="text600">sizes of android apps</text>
+    </g>
+    <g
+       class="g-xtitle"
+       id="g606">
+      <text
+         class="xtitle"
+         style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 14px; fill: rgb(68, 68, 68); opacity: 1; font-weight: normal; white-space: pre;"
+         x="421"
+         y="572"
+         text-anchor="middle"
+         id="text604">App</text>
+    </g>
+    <g
+       class="g-ytitle"
+       id="g610">
+      <text
+         class="ytitle"
+         transform="rotate(-90,42,310)"
+         style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 14px; fill: rgb(68, 68, 68); opacity: 1; font-weight: normal; white-space: pre;"
+         x="42"
+         y="310"
+         text-anchor="middle"
+         id="text608">Data</text>
+    </g>
+  </g>
+  <rect
+     style="fill:none;stroke:#0000ff;stroke-width:1.66666663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1425"
+     width="73.38958"
+     height="26.798658"
+     x="188.82138"
+     y="422.11423"
+     rx="7.837975"
+     ry="5.2253084" />
+</svg>
