@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="main-svg"
+   width="1125.1799999999998"
+   height="720"
+   style=""
+   viewBox="0 0 937.65 600"
+   version="1.1"
+   id="svg2049"
+   sodipodi:docname="covid-death-asia.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata2053">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview2051"
+     showgrid="false"
+     inkscape:zoom="1.1430556"
+     inkscape:cx="562.59003"
+     inkscape:cy="360"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2049" />
+  <rect
+     x="0"
+     y="0"
+     width="937.65"
+     height="600"
+     style="fill: rgb(255, 255, 255); fill-opacity: 1;"
+     id="rect1557" />
+  <defs
+     id="defs-71889f">
+    <g
+       class="clips"
+       id="g1571">
+      <clipPath
+         id="clip71889fxyplot"
+         class="plotclip">
+        <rect
+           width="778"
+           height="420"
+           id="rect1559" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip71889fx">
+        <rect
+           x="80"
+           y="0"
+           width="778"
+           height="600"
+           id="rect1562" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip71889fy">
+        <rect
+           x="0"
+           y="100"
+           width="937.65"
+           height="420"
+           id="rect1565" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip71889fxy">
+        <rect
+           x="80"
+           y="100"
+           width="778"
+           height="420"
+           id="rect1568" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g1573" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2258-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ed0000;fill-opacity:1;fill-rule:evenodd;stroke:#ed0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <g
+     class="bglayer"
+     id="g1576" />
+  <g
+     class="layer-below"
+     id="g1582">
+    <g
+       class="imagelayer"
+       id="g1578" />
+    <g
+       class="shapelayer"
+       id="g1580" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g2008">
+    <g
+       class="subplot xy"
+       id="g2006">
+      <g
+         class="layer-subplot"
+         id="g1588">
+        <g
+           class="shapelayer"
+           id="g1584" />
+        <g
+           class="imagelayer"
+           id="g1586" />
+      </g>
+      <g
+         class="gridlayer"
+         id="g1616">
+        <g
+           class="x"
+           id="g1596">
+          <path
+             class="xgrid crisp"
+             transform="translate(359.99,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1590" />
+          <path
+             class="xgrid crisp"
+             transform="translate(530.0899999999999,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1592" />
+          <path
+             class="xgrid crisp"
+             transform="translate(700.18,0)"
+             d="M0,100v420"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1594" />
+        </g>
+        <g
+           class="y"
+           id="g1614">
+          <path
+             class="ygrid crisp"
+             transform="translate(0,492.15)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1598" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,448.19)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1600" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,360.28)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1602" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,316.32)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1604" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,272.36)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1606" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,228.4)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1608" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,184.45)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1610" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,140.49)"
+             d="M80,0h778"
+             style="stroke: rgb(238, 238, 238); stroke-opacity: 1; stroke-width: 1px;"
+             id="path1612" />
+        </g>
+      </g>
+      <g
+         class="zerolinelayer"
+         id="g1622">
+        <path
+           class="xzl zl crisp"
+           transform="translate(189.9,0)"
+           d="M0,100v420"
+           style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+           id="path1618" />
+        <path
+           class="yzl zl crisp"
+           transform="translate(0,404.24)"
+           d="M80,0h778"
+           style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"
+           id="path1620" />
+      </g>
+      <path
+         class="xlines-below"
+         id="path1624" />
+      <path
+         class="ylines-below"
+         id="path1626" />
+      <g
+         class="overlines-below"
+         id="g1628" />
+      <g
+         class="xaxislayer-below"
+         id="g1630" />
+      <g
+         class="yaxislayer-below"
+         id="g1632" />
+      <g
+         class="overaxes-below"
+         id="g1634" />
+      <g
+         class="plot"
+         transform="translate(80,100)"
+         clip-path="url('#clip71889fxyplot')"
+         id="g1938">
+        <g
+           class="scatterlayer mlayer"
+           id="g1936">
+          <g
+             class="trace scatter trace54c433"
+             style="stroke-miterlimit: 2; opacity: 1;"
+             id="g1934">
+            <g
+               class="fills"
+               id="g1636" />
+            <g
+               class="errorbars"
+               id="g1638" />
+            <g
+               class="lines"
+               id="g1640" />
+            <g
+               class="points"
+               id="g1738">
+              <path
+                 class="point"
+                 transform="translate(197.06,212.8)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M9.46,0A9.46,9.46 0 1,1 0,-9.46A9.46,9.46 0 0,1 9.46,0Z"
+                 id="path1642" />
+              <path
+                 class="point"
+                 transform="translate(2679.41,-1027.7)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M2.59,0A2.59,2.59 0 1,1 0,-2.59A2.59,2.59 0 0,1 2.59,0Z"
+                 id="path1644" />
+              <path
+                 class="point"
+                 transform="translate(1225.63,-122.16)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M4.8,0A4.8,4.8 0 1,1 0,-4.8A4.8,4.8 0 0,1 4.8,0Z"
+                 id="path1646" />
+              <path
+                 class="point"
+                 transform="translate(5187.48,-344.59)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M1.99,0A1.99,1.99 0 1,1 0,-1.99A1.99,1.99 0 0,1 1.99,0Z"
+                 id="path1648" />
+              <path
+                 class="point"
+                 transform="translate(283.4,233.02)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M19.34,0A19.34,19.34 0 1,1 0,-19.34A19.34,19.34 0 0,1 19.34,0Z"
+                 id="path1650" />
+              <path
+                 class="point"
+                 transform="translate(192.91,303.36)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M1.32,0A1.32,1.32 0 1,1 0,-1.32A1.32,1.32 0 0,1 1.32,0Z"
+                 id="path1652" />
+              <path
+                 class="point"
+                 transform="translate(129.33,298.08)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M0.99,0A0.99,0.99 0 1,1 0,-0.99A0.99,0.99 0 0,1 0.99,0Z"
+                 id="path1654" />
+              <path
+                 class="point"
+                 transform="translate(195.66,282.26)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.17,0A6.17,6.17 0 1,1 0,-6.17A6.17,6.17 0 0,1 6.17,0Z"
+                 id="path1656" />
+              <path
+                 class="point"
+                 transform="translate(112.08,301.6)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M56.74,0A56.74,56.74 0 1,1 0,-56.74A56.74,56.74 0 0,1 56.74,0Z"
+                 id="path1658" />
+              <path
+                 class="point"
+                 transform="translate(2168.69,33.45)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M1.66,0A1.66,1.66 0 1,1 0,-1.66A1.66,1.66 0 0,1 1.66,0Z"
+                 id="path1660" />
+              <path
+                 class="point"
+                 transform="translate(3176.01,-835.16)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M2.99,0A2.99,2.99 0 1,1 0,-2.99A2.99,2.99 0 0,1 2.99,0Z"
+                 id="path1662" />
+              <path
+                 class="point"
+                 transform="translate(163.41,279.62)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M4.12,0A4.12,4.12 0 1,1 0,-4.12A4.12,4.12 0 0,1 4.12,0Z"
+                 id="path1664" />
+              <path
+                 class="point"
+                 transform="translate(839.59,59.83)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M55.99,0A55.99,55.99 0 1,1 0,-55.99A55.99,55.99 0 0,1 55.99,0Z"
+                 id="path1666" />
+              <path
+                 class="point"
+                 transform="translate(353.2,131.92)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M24.93,0A24.93,24.93 0 1,1 0,-24.93A24.93,24.93 0 0,1 24.93,0Z"
+                 id="path1668" />
+              <path
+                 class="point"
+                 transform="translate(1344.94,-552.07)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M13.83,0A13.83,13.83 0 1,1 0,-13.83A13.83,13.83 0 0,1 13.83,0Z"
+                 id="path1670" />
+              <path
+                 class="point"
+                 transform="translate(1172.36,-56.22)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M9.62,0A9.62,9.62 0 1,1 0,-9.62A9.62,9.62 0 0,1 9.62,0Z"
+                 id="path1672" />
+              <path
+                 class="point"
+                 transform="translate(3173.35,-301.51)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M4.58,0A4.58,4.58 0 1,1 0,-4.58A4.58,4.58 0 0,1 4.58,0Z"
+                 id="path1674" />
+              <path
+                 class="point"
+                 transform="translate(320.99,204.01)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M16.84,0A16.84,16.84 0 1,1 0,-16.84A16.84,16.84 0 0,1 16.84,0Z"
+                 id="path1676" />
+              <path
+                 class="point"
+                 transform="translate(2573.47,-519.54)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M4.81,0A4.81,4.81 0 1,1 0,-4.81A4.81,4.81 0 0,1 4.81,0Z"
+                 id="path1678" />
+              <path
+                 class="point"
+                 transform="translate(841.84,108.18)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.54,0A6.54,6.54 0 1,1 0,-6.54A6.54,6.54 0 0,1 6.54,0Z"
+                 id="path1680" />
+              <path
+                 class="point"
+                 transform="translate(2759.59,-73.8)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.12,0A3.12,3.12 0 1,1 0,-3.12A3.12,3.12 0 0,1 3.12,0Z"
+                 id="path1682" />
+              <path
+                 class="point"
+                 transform="translate(700.32,48.4)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.86,0A3.86,3.86 0 1,1 0,-3.86A3.86,3.86 0 0,1 3.86,0Z"
+                 id="path1684" />
+              <path
+                 class="point"
+                 transform="translate(119.36,303.88)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M4.07,0A4.07,4.07 0 1,1 0,-4.07A4.07,4.07 0 0,1 4.07,0Z"
+                 id="path1686" />
+              <path
+                 class="point"
+                 transform="translate(2829.87,-707.68)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.91,0A3.91,3.91 0 1,1 0,-3.91A3.91,3.91 0 0,1 3.91,0Z"
+                 id="path1688" />
+              <path
+                 class="point"
+                 transform="translate(827.45,187.31)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M8.59,0A8.59,8.59 0 1,1 0,-8.59A8.59,8.59 0 0,1 8.59,0Z"
+                 id="path1690" />
+              <path
+                 class="point"
+                 transform="translate(4547.59,-23.69)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M1.11,0A1.11,1.11 0 1,1 0,-1.11A1.11,1.11 0 0,1 1.11,0Z"
+                 id="path1692" />
+              <path
+                 class="point"
+                 transform="translate(1065.85,189.07)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M2.74,0A2.74,2.74 0 1,1 0,-2.74A2.74,2.74 0 0,1 2.74,0Z"
+                 id="path1694" />
+              <path
+                 class="point"
+                 transform="translate(201.62,252.37)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M11.1,0A11.1,11.1 0 1,1 0,-11.1A11.1,11.1 0 0,1 11.1,0Z"
+                 id="path1696" />
+              <path
+                 class="point"
+                 transform="translate(821.05,46.64)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M8.17,0A8.17,8.17 0 1,1 0,-8.17A8.17,8.17 0 0,1 8.17,0Z"
+                 id="path1698" />
+              <path
+                 class="point"
+                 transform="translate(1688.28,-137.1)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.43,0A3.43,3.43 0 1,1 0,-3.43A3.43,3.43 0 0,1 3.43,0Z"
+                 id="path1700" />
+              <path
+                 class="point"
+                 transform="translate(253.12,218.08)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M22.5,0A22.5,22.5 0 1,1 0,-22.5A22.5,22.5 0 0,1 22.5,0Z"
+                 id="path1702" />
+              <path
+                 class="point"
+                 transform="translate(2148.96,-294.47)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.43,0A3.43,3.43 0 1,1 0,-3.43A3.43,3.43 0 0,1 3.43,0Z"
+                 id="path1704" />
+              <path
+                 class="point"
+                 transform="translate(524.69,117.85)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M15.8,0A15.8,15.8 0 1,1 0,-15.8A15.8,15.8 0 0,1 15.8,0Z"
+                 id="path1706" />
+              <path
+                 class="point"
+                 transform="translate(2783.74,122.25)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M2.51,0A2.51,2.51 0 1,1 0,-2.51A2.51,2.51 0 0,1 2.51,0Z"
+                 id="path1708" />
+              <path
+                 class="point"
+                 transform="translate(210.12,269.95)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M10.74,0A10.74,10.74 0 1,1 0,-10.74A10.74,10.74 0 0,1 10.74,0Z"
+                 id="path1710" />
+              <path
+                 class="point"
+                 transform="translate(565.37,113.46)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M8.92,0A8.92,8.92 0 1,1 0,-8.92A8.92,8.92 0 0,1 8.92,0Z"
+                 id="path1712" />
+              <path
+                 class="point"
+                 transform="translate(470.09,298.96)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M3.64,0A3.64,3.64 0 1,1 0,-3.64A3.64,3.64 0 0,1 3.64,0Z"
+                 id="path1714" />
+              <path
+                 class="point"
+                 transform="translate(485.94,200.5)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.96,0A6.96,6.96 0 1,1 0,-6.96A6.96,6.96 0 0,1 6.96,0Z"
+                 id="path1716" />
+              <path
+                 class="point"
+                 transform="translate(157.53,213.68)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M6.35,0A6.35,6.35 0 1,1 0,-6.35A6.35,6.35 0 0,1 6.35,0Z"
+                 id="path1718" />
+              <path
+                 class="point"
+                 transform="translate(129.87,284.02)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M7.33,0A7.33,7.33 0 1,1 0,-7.33A7.33,7.33 0 0,1 7.33,0Z"
+                 id="path1720" />
+              <path
+                 class="point"
+                 transform="translate(156.37,296.32)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M4.68,0A4.68,4.68 0 1,1 0,-4.68A4.68,4.68 0 0,1 4.68,0Z"
+                 id="path1722" />
+              <path
+                 class="point"
+                 transform="translate(215.97,284.02)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M12.55,0A12.55,12.55 0 1,1 0,-12.55A12.55,12.55 0 0,1 12.55,0Z"
+                 id="path1724" />
+              <path
+                 class="point"
+                 transform="translate(329.8,291.93)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M1.74,0A1.74,1.74 0 1,1 0,-1.74A1.74,1.74 0 0,1 1.74,0Z"
+                 id="path1726" />
+              <path
+                 class="point"
+                 transform="translate(2251.76,-202.16)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M13.85,0A13.85,13.85 0 1,1 0,-13.85A13.85,13.85 0 0,1 13.85,0Z"
+                 id="path1728" />
+              <path
+                 class="point"
+                 transform="translate(2184.48,150.38)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M4.75,0A4.75,4.75 0 1,1 0,-4.75A4.75,4.75 0 0,1 4.75,0Z"
+                 id="path1730" />
+              <path
+                 class="point"
+                 transform="translate(216.18,285.77)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M8.74,0A8.74,8.74 0 1,1 0,-8.74A8.74,8.74 0 0,1 8.74,0Z"
+                 id="path1732" />
+              <path
+                 class="point"
+                 transform="translate(114.39,303.62)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M14.87,0A14.87,14.87 0 1,1 0,-14.87A14.87,14.87 0 0,1 14.87,0Z"
+                 id="path1734" />
+              <path
+                 class="point"
+                 transform="translate(117.59,265.55)"
+                 style="opacity: 0.7; stroke-width: 1px; fill: rgb(255, 255, 255); fill-opacity: 0.3; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+                 d="M8.27,0A8.27,8.27 0 1,1 0,-8.27A8.27,8.27 0 0,1 8.27,0Z"
+                 id="path1736" />
+            </g>
+            <g
+               class="text"
+               id="g1932">
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1742">
+                <text
+                   x="197.06"
+                   y="212.8"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1740">Afghanistan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1746">
+                <text
+                   x="2679.41"
+                   y="-1027.7"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1744">Armenia</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1750">
+                <text
+                   x="1225.63"
+                   y="-122.16"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1748">Azerbaijan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1754">
+                <text
+                   x="5187.48"
+                   y="-344.59"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1752">Bahrain</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1758">
+                <text
+                   x="283.4"
+                   y="233.02"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1756">Bangladesh</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1762">
+                <text
+                   x="192.91"
+                   y="303.36"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1760">Bhutan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1766">
+                <text
+                   x="129.33"
+                   y="298.08"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1764">Brunei</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1770">
+                <text
+                   x="195.66"
+                   y="282.26"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1768">Cambodia</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1774">
+                <text
+                   x="112.08"
+                   y="301.6"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1772">China</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1778">
+                <text
+                   x="2168.69"
+                   y="33.45"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1776">Cyprus</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1782">
+                <text
+                   x="3176.01"
+                   y="-835.16"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1780">Georgia</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1786">
+                <text
+                   x="163.41"
+                   y="279.62"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1784">Hong Kong</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1790">
+                <text
+                   x="839.59"
+                   y="59.83"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1788">India</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1794">
+                <text
+                   x="353.2"
+                   y="131.92"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1792">Indonesia</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1798">
+                <text
+                   x="1344.94"
+                   y="-552.07"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1796">Iran</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1802">
+                <text
+                   x="1172.36"
+                   y="-56.22"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1800">Iraq</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1806">
+                <text
+                   x="3173.35"
+                   y="-301.51"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1804">Israel</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1810">
+                <text
+                   x="320.99"
+                   y="204.01"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1808">Japan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1814">
+                <text
+                   x="2573.47"
+                   y="-519.54"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1812">Jordan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1818">
+                <text
+                   x="841.84"
+                   y="108.18"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1816">Kazakhstan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1822">
+                <text
+                   x="2759.59"
+                   y="-73.8"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1820">Kuwait</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1826">
+                <text
+                   x="700.32"
+                   y="48.4"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1824">Kyrgyzstan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1830">
+                <text
+                   x="119.36"
+                   y="303.88"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1828">Laos</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1834">
+                <text
+                   x="2829.87"
+                   y="-707.68"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1832">Lebanon</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1838">
+                <text
+                   x="827.45"
+                   y="187.31"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1836">Malaysia</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1842">
+                <text
+                   x="4547.59"
+                   y="-23.69"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1840">Maldives</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1846">
+                <text
+                   x="1065.85"
+                   y="189.07"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1844">Mongolia</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1850">
+                <text
+                   x="201.62"
+                   y="252.37"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1848">Myanmar</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1854">
+                <text
+                   x="821.05"
+                   y="46.64"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1852">Nepal</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1858">
+                <text
+                   x="1688.28"
+                   y="-137.1"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1856">Oman</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1862">
+                <text
+                   x="253.12"
+                   y="218.08"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1860">Pakistan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1866">
+                <text
+                   x="2148.96"
+                   y="-294.47"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1864">Palestine</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1870">
+                <text
+                   x="524.69"
+                   y="117.85"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1868">Philippines</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1874">
+                <text
+                   x="2783.74"
+                   y="122.25"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1872">Qatar</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1878">
+                <text
+                   x="210.12"
+                   y="269.95"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1876">S. Korea</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1882">
+                <text
+                   x="565.37"
+                   y="113.46"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1880">Saudi Arabia</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1886">
+                <text
+                   x="470.09"
+                   y="298.96"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1884">Singapore</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1890">
+                <text
+                   x="485.94"
+                   y="200.5"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1888">Sri Lanka</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1894">
+                <text
+                   x="157.53"
+                   y="213.68"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1892">Syria</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1898">
+                <text
+                   x="129.87"
+                   y="284.02"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: #008080; fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1896">Taiwan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1902">
+                <text
+                   x="156.37"
+                   y="296.32"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1900">Tajikistan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1906">
+                <text
+                   x="215.97"
+                   y="284.02"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1904">Thailand</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1910">
+                <text
+                   x="329.8"
+                   y="291.93"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1908">Timor-Leste</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1914">
+                <text
+                   x="2251.76"
+                   y="-202.16"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1912">Turkey</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1918">
+                <text
+                   x="2184.48"
+                   y="150.38"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1916">UAE</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1922">
+                <text
+                   x="216.18"
+                   y="285.77"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1920">Uzbekistan</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1926">
+                <text
+                   x="114.39"
+                   y="303.62"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1924">Vietnam</text>
+              </g>
+              <g
+                 class="textpoint"
+                 transform="translate(0,3)"
+                 id="g1930">
+                <text
+                   x="117.59"
+                   y="265.55"
+                   style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+                   text-anchor="middle"
+                   id="text1928">Yemen</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="overplot"
+         id="g1940" />
+      <path
+         class="xlines-above crisp"
+         style="fill: none;"
+         d="M0,0"
+         id="path1942" />
+      <path
+         class="ylines-above crisp"
+         style="fill: none;"
+         d="M0,0"
+         id="path1944" />
+      <g
+         class="overlines-above"
+         id="g1946" />
+      <g
+         class="xaxislayer-above"
+         id="g1964">
+        <g
+           class="xtick"
+           id="g1950">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="533"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(189.9,0)"
+             id="text1948">0</text>
+        </g>
+        <g
+           class="xtick"
+           id="g1954">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="533"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(359.99,0)"
+             id="text1952">5k</text>
+        </g>
+        <g
+           class="xtick"
+           id="g1958">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="533"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(530.0899999999999,0)"
+             id="text1956">10k</text>
+        </g>
+        <g
+           class="xtick"
+           id="g1962">
+          <text
+             text-anchor="middle"
+             x="0"
+             y="533"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(700.18,0)"
+             id="text1960">15k</text>
+        </g>
+      </g>
+      <g
+         class="yaxislayer-above"
+         id="g2002">
+        <g
+           class="ytick"
+           id="g1968">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,492.15)"
+             id="text1966">−100</text>
+        </g>
+        <g
+           class="ytick"
+           id="g1972">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,448.19)"
+             id="text1970">−50</text>
+        </g>
+        <g
+           class="ytick"
+           id="g1976">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,404.24)"
+             id="text1974">0</text>
+        </g>
+        <g
+           class="ytick"
+           id="g1980">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,360.28)"
+             id="text1978">50</text>
+        </g>
+        <g
+           class="ytick"
+           id="g1984">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,316.32)"
+             id="text1982">100</text>
+        </g>
+        <g
+           class="ytick"
+           id="g1988">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,272.36)"
+             id="text1986">150</text>
+        </g>
+        <g
+           class="ytick"
+           id="g1992">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,228.4)"
+             id="text1990">200</text>
+        </g>
+        <g
+           class="ytick"
+           id="g1996">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,184.45)"
+             id="text1994">250</text>
+        </g>
+        <g
+           class="ytick"
+           id="g2000">
+          <text
+             text-anchor="end"
+             x="79"
+             y="4.199999999999999"
+             style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 12px; fill: rgb(68, 68, 68); fill-opacity: 1; white-space: pre;"
+             transform="translate(0,140.49)"
+             id="text1998">300</text>
+        </g>
+      </g>
+      <g
+         class="overaxes-above"
+         id="g2004" />
+    </g>
+  </g>
+  <g
+     class="polarlayer"
+     id="g2010" />
+  <g
+     class="ternarylayer"
+     id="g2012" />
+  <g
+     class="geolayer"
+     id="g2014" />
+  <g
+     class="funnelarealayer"
+     id="g2016" />
+  <g
+     class="pielayer"
+     id="g2018" />
+  <g
+     class="treemaplayer"
+     id="g2020" />
+  <g
+     class="sunburstlayer"
+     id="g2022" />
+  <g
+     class="glimages"
+     id="g2024" />
+  <defs
+     id="topdefs-71889f">
+    <g
+       class="clips"
+       id="g2026" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g2033">
+    <g
+       class="imagelayer"
+       id="g2029" />
+    <g
+       class="shapelayer"
+       id="g2031" />
+  </g>
+  <g
+     class="infolayer"
+     id="g2047">
+    <g
+       class="g-gtitle"
+       id="g2037">
+      <text
+         class="gtitle"
+         style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 17px; fill: rgb(68, 68, 68); opacity: 1; font-weight: normal; white-space: pre;"
+         x="468.825"
+         y="50"
+         text-anchor="middle"
+         dy="0em"
+         id="text2035">武肺瘟疫各國案例/死亡數</text>
+    </g>
+    <g
+       class="g-xtitle"
+       id="g2041">
+      <text
+         class="xtitle"
+         style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 14px; fill: rgb(68, 68, 68); opacity: 1; font-weight: normal; white-space: pre;"
+         x="469"
+         y="572"
+         text-anchor="middle"
+         id="text2039">每百萬案例</text>
+    </g>
+    <g
+       class="g-ytitle"
+       id="g2045">
+      <text
+         class="ytitle"
+         transform="rotate(-90,42,310)"
+         style="font-family: TOBESTRIPPEDOpen SansTOBESTRIPPED, verdana, arial, sans-serif; font-size: 14px; fill: rgb(68, 68, 68); opacity: 1; font-weight: normal; white-space: pre;"
+         x="42"
+         y="310"
+         text-anchor="middle"
+         id="text2043">每百萬死亡</text>
+    </g>
+  </g>
+  <path
+     style="opacity:1;fill:none;stroke:#ed0000;stroke-width:0.83333331px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1;marker-end:url(#Arrow1Lend-3)"
+     d="M 224.98914,415.79397 208.33485,385.4361"
+     id="path2253"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.77777863px;line-height:1.25;font-family:'AR PL UKai TW MBE';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.83333331"
+     x="219.07874"
+     y="430.73685"
+     id="text2829"><tspan
+       sodipodi:role="line"
+       id="tspan2827"
+       x="219.07874"
+       y="430.73685"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.83333331">Taiwan</tspan></text>
+</svg>
