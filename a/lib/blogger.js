@@ -1,8 +1,9 @@
 /* global $, document */
 $(document).ready(function(){
+  $('#qrcode').qrcode('hello');
   $('img').each(function() {
     if ($(this).hasClass('nozoom')) { return; }
-    align = $(this).attr('align');
+    var align = $(this).attr('align');
     align = align ? 'float:' + align : '';
     $(this).wrap('<a style="' + align + '" href="' + $(this).attr('src') + '" title="' + $(this).attr('alt') + '">').parent().fancybox({
 	openEffect	: 'elastic',
