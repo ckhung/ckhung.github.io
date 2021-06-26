@@ -113,6 +113,10 @@ img.alone { clear: both; }
 	line-height: 160%;
 	font-size: 16pt;
     }
+    div#qrcode {
+	float: right;
+	width: 128px;
+    }
     div#toc {
 	font-size: 8pt;
 	line-height: 160%;
