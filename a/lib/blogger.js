@@ -1,6 +1,6 @@
 /* global $, document */
 $(document).ready(function(){
-  $('#qrcode').qrcode(window.location.href);
+  $('#qrcode').qrcode({width:128, text:window.location.href});
   $('img').each(function() {
     if ($(this).hasClass('nozoom')) { return; }
     var align = $(this).attr('align');
