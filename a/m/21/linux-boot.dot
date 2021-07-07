@@ -1,0 +1,19 @@
+digraph "bus apps: inefficient" {
+
+    rankdir = BT;
+    overlap = scale;
+
+    power [ label="電源開關" ];
+    UEFI_menu [ label="UEFI 開機選單" ];
+    uefi_boot [ label="UEFI boot" ];
+    legacy_boot [ label="legacy boot" ];
+    boot_loader [ label="boot loader\n(例： grub/isolinux/extlinux/...)" ];
+    config [ label="開機設定檔\n(例： extlinux.conf)" ];
+    kernel [ label="kernel\n(通常名為 vmlinuz-版本)" ];
+    initrd [ label="initrd\n(通常名為 initrd.img-版本)" ];
+    rootfs [ label="root file system\n(live squashfs 或 root=/dev/...)" ];
+
+    power -> UEFI_menu -> { uefi_boot legacy_boot }
+	  -> boot_loader -> config -> kernel -> initrd -> rootfs;
+}
+
