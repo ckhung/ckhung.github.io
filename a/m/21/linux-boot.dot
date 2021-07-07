@@ -1,4 +1,4 @@
-digraph "bus apps: inefficient" {
+digraph "linux 開機流程" {
 
     rankdir = BT;
     overlap = scale;
