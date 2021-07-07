@@ -55,7 +55,7 @@
 <g id="node5" class="node">
 <title>boot_loader</title>
 <ellipse fill="none" stroke="black" cx="164.76" cy="-242.87" rx="164.51" ry="26.74"/>
-<text text-anchor="middle" x="164.76" y="-246.67" font-family="Times,serif" font-size="14.00">boot loader</text>
+<text text-anchor="middle" x="164.76" y="-246.67" font-family="Times,serif" font-size="14.00">boot loader 開機選單</text>
 <text text-anchor="middle" x="164.76" y="-231.67" font-family="Times,serif" font-size="14.00">(例： grub/isolinux/extlinux/...)</text>
 </g>
 <!-- uefi_boot&#45;&gt;boot_loader -->

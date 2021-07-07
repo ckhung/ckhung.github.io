@@ -7,7 +7,7 @@ digraph "bus apps: inefficient" {
     UEFI_menu [ label="UEFI 開機選單" ];
     uefi_boot [ label="UEFI boot" ];
     legacy_boot [ label="legacy boot" ];
-    boot_loader [ label="boot loader\n(例： grub/isolinux/extlinux/...)" ];
+    boot_loader [ label="boot loader 開機選單\n(例： grub/isolinux/extlinux/...)" ];
     config [ label="開機設定檔\n(例： extlinux.conf)" ];
     kernel [ label="kernel\n(通常名為 vmlinuz-版本)" ];
     initrd [ label="initrd\n(通常名為 initrd.img-版本)" ];
