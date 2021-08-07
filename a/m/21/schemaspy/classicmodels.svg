@@ -20,7 +20,7 @@
 <text text-anchor="start" x="337" y="-614.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">customers</text>
 <text text-anchor="start" x="470" y="-613.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="332,-583 332,-605 512,-605 512,-583 332,-583"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="337" y="-600"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="337" y="-600"/>
 <text text-anchor="start" x="352" y="-591.2" font-family="Helvetica,sans-Serif" font-size="11.00">customerNumber</text>
 <polygon fill="none" stroke="black" points="332,-561 332,-583 512,-583 512,-561 332,-561"/>
 <text text-anchor="start" x="352" y="-569.2" font-family="Helvetica,sans-Serif" font-size="11.00">customerName</text>
@@ -44,7 +44,7 @@
 <text text-anchor="start" x="352" y="-371.2" font-family="Helvetica,sans-Serif" font-size="11.00">country</text>
 <polygon fill="#ffffff" stroke="transparent" points="332,-341 332,-363 512,-363 512,-341 332,-341"/>
 <polygon fill="none" stroke="black" points="332,-341 332,-363 512,-363 512,-341 332,-341"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="337" y="-358"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="337" y="-358"/>
 <text text-anchor="start" x="352" y="-349.2" font-family="Helvetica,sans-Serif" font-size="11.00">salesRepEmployeeNumber</text>
 <polygon fill="none" stroke="black" points="332,-319 332,-341 512,-341 512,-319 332,-319"/>
 <text text-anchor="start" x="352" y="-327.2" font-family="Helvetica,sans-Serif" font-size="11.00">creditLimit</text>
@@ -70,7 +70,7 @@
 <text text-anchor="start" x="161.5" y="-372.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">employees</text>
 <text text-anchor="start" x="241.5" y="-371.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="156.5,-341 156.5,-363 283.5,-363 283.5,-341 156.5,-341"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="161.5" y="-358"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="161.5" y="-358"/>
 <text text-anchor="start" x="176.5" y="-349.2" font-family="Helvetica,sans-Serif" font-size="11.00">employeeNumber</text>
 <polygon fill="none" stroke="black" points="156.5,-319 156.5,-341 283.5,-341 283.5,-319 156.5,-319"/>
 <text text-anchor="start" x="176.5" y="-327.2" font-family="Helvetica,sans-Serif" font-size="11.00">lastName</text>
@@ -82,11 +82,11 @@
 <text text-anchor="start" x="176.5" y="-261.2" font-family="Helvetica,sans-Serif" font-size="11.00">email</text>
 <polygon fill="#ffffff" stroke="transparent" points="156.5,-231 156.5,-253 283.5,-253 283.5,-231 156.5,-231"/>
 <polygon fill="none" stroke="black" points="156.5,-231 156.5,-253 283.5,-253 283.5,-231 156.5,-231"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="161.5" y="-248"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="161.5" y="-248"/>
 <text text-anchor="start" x="176.5" y="-239.2" font-family="Helvetica,sans-Serif" font-size="11.00">officeCode</text>
 <polygon fill="#ffffff" stroke="transparent" points="156.5,-209 156.5,-231 283.5,-231 283.5,-209 156.5,-209"/>
 <polygon fill="none" stroke="black" points="156.5,-209 156.5,-231 283.5,-231 283.5,-209 156.5,-209"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="161.5" y="-226"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="161.5" y="-226"/>
 <text text-anchor="start" x="176.5" y="-217.2" font-family="Helvetica,sans-Serif" font-size="11.00">reportsTo</text>
 <polygon fill="none" stroke="black" points="156.5,-187 156.5,-209 283.5,-209 283.5,-187 156.5,-187"/>
 <text text-anchor="start" x="176.5" y="-195.2" font-family="Helvetica,sans-Serif" font-size="11.00">jobTitle</text>
@@ -126,7 +126,7 @@
 <text text-anchor="start" x="13.5" y="-262.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">offices</text>
 <text text-anchor="start" x="65.5" y="-261.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="8.5,-231 8.5,-253 107.5,-253 107.5,-231 8.5,-231"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="13.5" y="-248"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="13.5" y="-248"/>
 <text text-anchor="start" x="28.5" y="-239.2" font-family="Helvetica,sans-Serif" font-size="11.00">officeCode</text>
 <polygon fill="none" stroke="black" points="8.5,-209 8.5,-231 107.5,-231 107.5,-209 8.5,-209"/>
 <text text-anchor="start" x="28.5" y="-217.2" font-family="Helvetica,sans-Serif" font-size="11.00">city</text>
@@ -173,10 +173,10 @@
 <text text-anchor="start" x="751.5" y="-540.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">orderdetails</text>
 <text text-anchor="start" x="831.5" y="-539.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="746.5,-509 746.5,-531 873.5,-531 873.5,-509 746.5,-509"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="751.5" y="-526"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="751.5" y="-526"/>
 <text text-anchor="start" x="766.5" y="-517.2" font-family="Helvetica,sans-Serif" font-size="11.00">orderNumber</text>
 <polygon fill="none" stroke="black" points="746.5,-487 746.5,-509 873.5,-509 873.5,-487 746.5,-487"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="751.5" y="-504"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="751.5" y="-504"/>
 <text text-anchor="start" x="766.5" y="-495.2" font-family="Helvetica,sans-Serif" font-size="11.00">productCode</text>
 <polygon fill="none" stroke="black" points="746.5,-465 746.5,-487 873.5,-487 873.5,-465 746.5,-465"/>
 <text text-anchor="start" x="766.5" y="-473.2" font-family="Helvetica,sans-Serif" font-size="11.00">quantityOrdered</text>
@@ -206,7 +206,7 @@
 <text text-anchor="start" x="572" y="-746.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">orders</text>
 <text text-anchor="start" x="650" y="-745.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="567,-715 567,-737 692,-737 692,-715 567,-715"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-732"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-732"/>
 <text text-anchor="start" x="587" y="-723.2" font-family="Helvetica,sans-Serif" font-size="11.00">orderNumber</text>
 <polygon fill="none" stroke="black" points="567,-693 567,-715 692,-715 692,-693 567,-693"/>
 <text text-anchor="start" x="587" y="-701.2" font-family="Helvetica,sans-Serif" font-size="11.00">orderDate</text>
@@ -220,7 +220,7 @@
 <text text-anchor="start" x="587" y="-613.2" font-family="Helvetica,sans-Serif" font-size="11.00">comments</text>
 <polygon fill="#ffffff" stroke="transparent" points="567,-583 567,-605 692,-605 692,-583 567,-583"/>
 <polygon fill="none" stroke="black" points="567,-583 567,-605 692,-605 692,-583 567,-583"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-600"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-600"/>
 <text text-anchor="start" x="587" y="-591.2" font-family="Helvetica,sans-Serif" font-size="11.00">customerNumber</text>
 <polygon fill="#ffffff" stroke="transparent" points="567,-565 567,-583 601,-583 601,-565 567,-565"/>
 <polygon fill="none" stroke="black" points="567,-565 567,-583 601,-583 601,-565 567,-565"/>
@@ -251,13 +251,13 @@
 <text text-anchor="start" x="566" y="-347.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">products</text>
 <text text-anchor="start" x="655" y="-346.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="561,-316 561,-338 697,-338 697,-316 561,-316"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="566" y="-333"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="566" y="-333"/>
 <text text-anchor="start" x="581" y="-324.2" font-family="Helvetica,sans-Serif" font-size="11.00">productCode</text>
 <polygon fill="none" stroke="black" points="561,-294 561,-316 697,-316 697,-294 561,-294"/>
 <text text-anchor="start" x="581" y="-302.2" font-family="Helvetica,sans-Serif" font-size="11.00">productName</text>
 <polygon fill="#ffffff" stroke="transparent" points="561,-272 561,-294 697,-294 697,-272 561,-272"/>
 <polygon fill="none" stroke="black" points="561,-272 561,-294 697,-294 697,-272 561,-272"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="566" y="-289"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="566" y="-289"/>
 <text text-anchor="start" x="581" y="-280.2" font-family="Helvetica,sans-Serif" font-size="11.00">productLine</text>
 <polygon fill="none" stroke="black" points="561,-250 561,-272 697,-272 697,-250 561,-250"/>
 <text text-anchor="start" x="581" y="-258.2" font-family="Helvetica,sans-Serif" font-size="11.00">productScale</text>
@@ -307,10 +307,10 @@
 <text text-anchor="start" x="572" y="-531.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">payments</text>
 <text text-anchor="start" x="650" y="-530.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="567,-500 567,-522 692,-522 692,-500 567,-500"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-517"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-517"/>
 <text text-anchor="start" x="587" y="-508.2" font-family="Helvetica,sans-Serif" font-size="11.00">customerNumber</text>
 <polygon fill="none" stroke="black" points="567,-478 567,-500 692,-500 692,-478 567,-478"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-495"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="572" y="-495"/>
 <text text-anchor="start" x="587" y="-486.2" font-family="Helvetica,sans-Serif" font-size="11.00">checkNumber</text>
 <polygon fill="none" stroke="black" points="567,-456 567,-478 692,-478 692,-456 567,-456"/>
 <text text-anchor="start" x="587" y="-464.2" font-family="Helvetica,sans-Serif" font-size="11.00">paymentDate</text>
@@ -345,7 +345,7 @@
 <text text-anchor="start" x="363" y="-267.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">productlines</text>
 <text text-anchor="start" x="444" y="-266.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="358,-236 358,-258 486,-258 486,-236 358,-236"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="363" y="-253"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="363" y="-253"/>
 <text text-anchor="start" x="384" y="-244.2" font-family="Helvetica,sans-Serif" font-size="11.00">productLine</text>
 <polygon fill="none" stroke="black" points="358,-214 358,-236 486,-236 486,-214 358,-214"/>
 <text text-anchor="start" x="384" y="-222.2" font-family="Helvetica,sans-Serif" font-size="11.00">textDescription</text>

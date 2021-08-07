@@ -20,13 +20,13 @@
 <text text-anchor="start" x="209.93" y="-375.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">albums</text>
 <text text-anchor="start" x="271.93" y="-374.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="204.93,-344 204.93,-366 313.93,-366 313.93,-344 204.93,-344"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="209.928" y="-361"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="209.928" y="-361"/>
 <text text-anchor="start" x="243.93" y="-352.2" font-family="Helvetica,sans-Serif" font-size="11.00">AlbumId</text>
 <polygon fill="none" stroke="black" points="204.93,-322 204.93,-344 313.93,-344 313.93,-322 204.93,-322"/>
 <text text-anchor="start" x="243.93" y="-330.2" font-family="Helvetica,sans-Serif" font-size="11.00">Title</text>
 <polygon fill="#ffffff" stroke="transparent" points="204.93,-300 204.93,-322 313.93,-322 313.93,-300 204.93,-300"/>
 <polygon fill="none" stroke="black" points="204.93,-300 204.93,-322 313.93,-322 313.93,-300 204.93,-300"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="209.928" y="-317"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="209.928" y="-317"/>
 <text text-anchor="start" x="243.93" y="-308.2" font-family="Helvetica,sans-Serif" font-size="11.00">ArtistId</text>
 <polygon fill="#ffffff" stroke="transparent" points="204.93,-282 204.93,-300 230.93,-300 230.93,-282 204.93,-282"/>
 <polygon fill="none" stroke="black" points="204.93,-282 204.93,-300 230.93,-300 230.93,-282 204.93,-282"/>
@@ -50,7 +50,7 @@
 <text text-anchor="start" x="43.43" y="-265.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">artists</text>
 <text text-anchor="start" x="93.43" y="-264.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="38.43,-234 38.43,-256 135.43,-256 135.43,-234 38.43,-234"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="43.4282" y="-251"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="43.4282" y="-251"/>
 <text text-anchor="start" x="74.43" y="-242.2" font-family="Helvetica,sans-Serif" font-size="11.00">ArtistId</text>
 <polygon fill="none" stroke="black" points="38.43,-212 38.43,-234 135.43,-234 135.43,-212 38.43,-212"/>
 <text text-anchor="start" x="74.43" y="-220.2" font-family="Helvetica,sans-Serif" font-size="11.00">Name</text>
@@ -83,7 +83,7 @@
 <text text-anchor="start" x="205.93" y="-854.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">customers</text>
 <text text-anchor="start" x="274.93" y="-853.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="200.93,-823 200.93,-845 316.93,-845 316.93,-823 200.93,-823"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="205.928" y="-840"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="205.928" y="-840"/>
 <text text-anchor="start" x="227.93" y="-831.2" font-family="Helvetica,sans-Serif" font-size="11.00">CustomerId</text>
 <polygon fill="none" stroke="black" points="200.93,-801 200.93,-823 316.93,-823 316.93,-801 200.93,-801"/>
 <text text-anchor="start" x="227.93" y="-809.2" font-family="Helvetica,sans-Serif" font-size="11.00">FirstName</text>
@@ -109,7 +109,7 @@
 <text text-anchor="start" x="227.93" y="-589.2" font-family="Helvetica,sans-Serif" font-size="11.00">Email</text>
 <polygon fill="#ffffff" stroke="transparent" points="200.93,-559 200.93,-581 316.93,-581 316.93,-559 200.93,-559"/>
 <polygon fill="none" stroke="black" points="200.93,-559 200.93,-581 316.93,-581 316.93,-559 200.93,-559"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="205.928" y="-576"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="205.928" y="-576"/>
 <text text-anchor="start" x="227.93" y="-567.2" font-family="Helvetica,sans-Serif" font-size="11.00">SupportRepId</text>
 <polygon fill="#ffffff" stroke="transparent" points="200.93,-541 200.93,-559 233.93,-559 233.93,-541 200.93,-541"/>
 <polygon fill="none" stroke="black" points="200.93,-541 200.93,-559 233.93,-559 233.93,-541 200.93,-541"/>
@@ -133,7 +133,7 @@
 <text text-anchor="start" x="32.43" y="-656.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">employees</text>
 <text text-anchor="start" x="103.43" y="-655.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="27.43,-625 27.43,-647 145.43,-647 145.43,-625 27.43,-625"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="32.4282" y="-642"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="32.4282" y="-642"/>
 <text text-anchor="start" x="61.43" y="-633.2" font-family="Helvetica,sans-Serif" font-size="11.00">EmployeeId</text>
 <polygon fill="none" stroke="black" points="27.43,-603 27.43,-625 145.43,-625 145.43,-603 27.43,-603"/>
 <text text-anchor="start" x="61.43" y="-611.2" font-family="Helvetica,sans-Serif" font-size="11.00">LastName</text>
@@ -143,7 +143,7 @@
 <text text-anchor="start" x="61.43" y="-567.2" font-family="Helvetica,sans-Serif" font-size="11.00">Title</text>
 <polygon fill="#ffffff" stroke="transparent" points="27.43,-537 27.43,-559 145.43,-559 145.43,-537 27.43,-537"/>
 <polygon fill="none" stroke="black" points="27.43,-537 27.43,-559 145.43,-559 145.43,-537 27.43,-537"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="32.4282" y="-554"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="32.4282" y="-554"/>
 <text text-anchor="start" x="61.43" y="-545.2" font-family="Helvetica,sans-Serif" font-size="11.00">ReportsTo</text>
 <polygon fill="none" stroke="black" points="27.43,-515 27.43,-537 145.43,-537 145.43,-515 27.43,-515"/>
 <text text-anchor="start" x="61.43" y="-523.2" font-family="Helvetica,sans-Serif" font-size="11.00">BirthDate</text>
@@ -201,7 +201,7 @@
 <text text-anchor="start" x="216.93" y="-143.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">genres</text>
 <text text-anchor="start" x="263.93" y="-142.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="211.93,-112 211.93,-134 305.93,-134 305.93,-112 211.93,-112"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="216.928" y="-129"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="216.928" y="-129"/>
 <text text-anchor="start" x="244.93" y="-120.2" font-family="Helvetica,sans-Serif" font-size="11.00">GenreId</text>
 <polygon fill="none" stroke="black" points="211.93,-90 211.93,-112 305.93,-112 305.93,-90 211.93,-90"/>
 <text text-anchor="start" x="244.93" y="-98.2" font-family="Helvetica,sans-Serif" font-size="11.00">Name</text>
@@ -227,15 +227,15 @@
 <text text-anchor="start" x="552.43" y="-518.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">invoice_items</text>
 <text text-anchor="start" x="641.43" y="-517.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="547.43,-487 547.43,-509 683.43,-509 683.43,-487 547.43,-487"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="552.428" y="-504"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="552.428" y="-504"/>
 <text text-anchor="start" x="584.43" y="-495.2" font-family="Helvetica,sans-Serif" font-size="11.00">InvoiceLineId</text>
 <polygon fill="#ffffff" stroke="transparent" points="547.43,-465 547.43,-487 683.43,-487 683.43,-465 547.43,-465"/>
 <polygon fill="none" stroke="black" points="547.43,-465 547.43,-487 683.43,-487 683.43,-465 547.43,-465"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="552.428" y="-482"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="552.428" y="-482"/>
 <text text-anchor="start" x="584.43" y="-473.2" font-family="Helvetica,sans-Serif" font-size="11.00">InvoiceId</text>
 <polygon fill="#ffffff" stroke="transparent" points="547.43,-443 547.43,-465 683.43,-465 683.43,-443 547.43,-443"/>
 <polygon fill="none" stroke="black" points="547.43,-443 547.43,-465 683.43,-465 683.43,-443 547.43,-443"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="552.428" y="-460"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="552.428" y="-460"/>
 <text text-anchor="start" x="584.43" y="-451.2" font-family="Helvetica,sans-Serif" font-size="11.00">TrackId</text>
 <polygon fill="none" stroke="black" points="547.43,-421 547.43,-443 683.43,-443 683.43,-421 547.43,-421"/>
 <text text-anchor="start" x="584.43" y="-429.2" font-family="Helvetica,sans-Serif" font-size="11.00">UnitPrice</text>
@@ -263,11 +263,11 @@
 <text text-anchor="start" x="377.43" y="-659.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">invoices</text>
 <text text-anchor="start" x="456.43" y="-658.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="372.43,-628 372.43,-650 498.43,-650 498.43,-628 372.43,-628"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="377.428" y="-645"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="377.428" y="-645"/>
 <text text-anchor="start" x="392.43" y="-636.2" font-family="Helvetica,sans-Serif" font-size="11.00">InvoiceId</text>
 <polygon fill="#ffffff" stroke="transparent" points="372.43,-606 372.43,-628 498.43,-628 498.43,-606 372.43,-606"/>
 <polygon fill="none" stroke="black" points="372.43,-606 372.43,-628 498.43,-628 498.43,-606 372.43,-606"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="377.428" y="-623"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="377.428" y="-623"/>
 <text text-anchor="start" x="392.43" y="-614.2" font-family="Helvetica,sans-Serif" font-size="11.00">CustomerId</text>
 <polygon fill="none" stroke="black" points="372.43,-584 372.43,-606 498.43,-606 498.43,-584 372.43,-584"/>
 <text text-anchor="start" x="392.43" y="-592.2" font-family="Helvetica,sans-Serif" font-size="11.00">InvoiceDate</text>
@@ -312,21 +312,21 @@
 <text text-anchor="start" x="381.43" y="-367.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">tracks</text>
 <text text-anchor="start" x="453.43" y="-366.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="376.43,-336 376.43,-358 495.43,-358 495.43,-336 376.43,-336"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-353"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-353"/>
 <text text-anchor="start" x="407.43" y="-344.2" font-family="Helvetica,sans-Serif" font-size="11.00">TrackId</text>
 <polygon fill="none" stroke="black" points="376.43,-314 376.43,-336 495.43,-336 495.43,-314 376.43,-314"/>
 <text text-anchor="start" x="407.43" y="-322.2" font-family="Helvetica,sans-Serif" font-size="11.00">Name</text>
 <polygon fill="#ffffff" stroke="transparent" points="376.43,-292 376.43,-314 495.43,-314 495.43,-292 376.43,-292"/>
 <polygon fill="none" stroke="black" points="376.43,-292 376.43,-314 495.43,-314 495.43,-292 376.43,-292"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-309"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-309"/>
 <text text-anchor="start" x="407.43" y="-300.2" font-family="Helvetica,sans-Serif" font-size="11.00">AlbumId</text>
 <polygon fill="#ffffff" stroke="transparent" points="376.43,-270 376.43,-292 495.43,-292 495.43,-270 376.43,-270"/>
 <polygon fill="none" stroke="black" points="376.43,-270 376.43,-292 495.43,-292 495.43,-270 376.43,-270"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-287"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-287"/>
 <text text-anchor="start" x="407.43" y="-278.2" font-family="Helvetica,sans-Serif" font-size="11.00">MediaTypeId</text>
 <polygon fill="#ffffff" stroke="transparent" points="376.43,-248 376.43,-270 495.43,-270 495.43,-248 376.43,-248"/>
 <polygon fill="none" stroke="black" points="376.43,-248 376.43,-270 495.43,-270 495.43,-248 376.43,-248"/>
-<image xlink:href="../../images/foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-265"/>
+<image xlink:href="foreignKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="381.428" y="-265"/>
 <text text-anchor="start" x="407.43" y="-256.2" font-family="Helvetica,sans-Serif" font-size="11.00">GenreId</text>
 <polygon fill="none" stroke="black" points="376.43,-226 376.43,-248 495.43,-248 495.43,-226 376.43,-226"/>
 <text text-anchor="start" x="407.43" y="-234.2" font-family="Helvetica,sans-Serif" font-size="11.00">Composer</text>
@@ -372,7 +372,7 @@
 <text text-anchor="start" x="199.93" y="-248.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">media_types</text>
 <text text-anchor="start" x="281.93" y="-247.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="194.93,-217 194.93,-239 323.93,-239 323.93,-217 194.93,-217"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="199.928" y="-234"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="199.928" y="-234"/>
 <text text-anchor="start" x="230.93" y="-225.2" font-family="Helvetica,sans-Serif" font-size="11.00">MediaTypeId</text>
 <polygon fill="none" stroke="black" points="194.93,-195 194.93,-217 323.93,-217 323.93,-195 194.93,-195"/>
 <text text-anchor="start" x="230.93" y="-203.2" font-family="Helvetica,sans-Serif" font-size="11.00">Name</text>
@@ -398,10 +398,10 @@
 <text text-anchor="start" x="553.43" y="-281.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">playlist_track</text>
 <text text-anchor="start" x="640.43" y="-280.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="548.43,-250 548.43,-272 682.43,-272 682.43,-250 548.43,-250"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="553.428" y="-267"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="553.428" y="-267"/>
 <text text-anchor="start" x="584.43" y="-258.2" font-family="Helvetica,sans-Serif" font-size="11.00">PlaylistId</text>
 <polygon fill="none" stroke="black" points="548.43,-228 548.43,-250 682.43,-250 682.43,-228 548.43,-228"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="553.428" y="-245"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="553.428" y="-245"/>
 <text text-anchor="start" x="584.43" y="-236.2" font-family="Helvetica,sans-Serif" font-size="11.00">TrackId</text>
 <polygon fill="#ffffff" stroke="transparent" points="548.43,-210 548.43,-228 587.43,-228 587.43,-210 548.43,-210"/>
 <polygon fill="none" stroke="black" points="548.43,-210 548.43,-228 587.43,-228 587.43,-210 548.43,-210"/>
@@ -425,7 +425,7 @@
 <text text-anchor="start" x="389.43" y="-108.2" font-family="Helvetica,sans-Serif" font-weight="bold" font-size="11.00">playlists</text>
 <text text-anchor="start" x="445.43" y="-107.2" font-family="Helvetica,sans-Serif" font-size="11.00">[table]</text>
 <polygon fill="none" stroke="black" points="384.43,-77 384.43,-99 487.43,-99 487.43,-77 384.43,-77"/>
-<image xlink:href="../../images/primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="389.428" y="-94"/>
+<image xlink:href="primaryKeys.png" width="11px" height="12px" preserveAspectRatio="xMinYMin meet" x="389.428" y="-94"/>
 <text text-anchor="start" x="418.43" y="-85.2" font-family="Helvetica,sans-Serif" font-size="11.00">PlaylistId</text>
 <polygon fill="none" stroke="black" points="384.43,-55 384.43,-77 487.43,-77 487.43,-55 384.43,-55"/>
 <text text-anchor="start" x="418.43" y="-63.2" font-family="Helvetica,sans-Serif" font-size="11.00">Name</text>
