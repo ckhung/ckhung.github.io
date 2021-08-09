@@ -1885,10 +1885,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.245"
-     inkscape:cx="400"
+     inkscape:cx="260.24096"
      inkscape:cy="300"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5014"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -3691,20 +3691,20 @@
          style="font-size:30px;line-height:1.25"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="172.36487"
-       y="621.24719"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="169.95523"
+       y="626.86969"
        id="text4367"><tspan
          sodipodi:role="line"
-         id="tspan4369"
-         x="172.36487"
-         y="621.24719"
-         style="font-size:22.5px;line-height:1.25">特權入口</tspan><tspan
-         sodipodi:role="line"
-         x="172.36487"
-         y="649.37219"
+         x="169.95523"
+         y="626.86969"
          id="tspan4371"
-         style="font-size:22.5px;line-height:1.25">5508</tspan></text>
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;">(客戶端)</tspan><tspan
+         sodipodi:role="line"
+         x="169.95523"
+         y="654.99469"
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;"
+         id="tspan754">特權入口 5508</tspan></text>
     <text
        id="text4373"
        y="570.96344"
@@ -3749,25 +3749,25 @@
          style="font-size:22.5px;line-height:1.25">80</tspan></text>
     <text
        id="text4766"
-       y="974.28394"
-       x="598.26031"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="975.89038"
+       x="583.80249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         y="974.28394"
-         x="598.26031"
+         y="975.89038"
+         x="583.80249"
          id="tspan4768"
          sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25">向朋友展示</tspan><tspan
-         y="1002.4089"
-         x="598.26031"
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;">(客戶端)</tspan><tspan
+         y="1004.0154"
+         x="583.80249"
          sodipodi:role="line"
-         id="tspan4070"
-         style="font-size:22.5px;line-height:1.25">的櫥窗</tspan><tspan
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;"
+         id="tspan758">向朋友展示</tspan><tspan
          id="tspan4770"
-         y="1030.5339"
-         x="598.26031"
+         y="1032.1404"
+         x="583.80249"
          sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25">4380</tspan></text>
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;">的櫥窗 4380</tspan></text>
     <g
        transform="matrix(0.17316162,0,0,0.17316162,447.8315,487.15294)"
        inkscape:label="Layer 1"
@@ -5482,10 +5482,10 @@
       <path
          style="fill:#800080;fill-opacity:1"
          inkscape:connector-curvature="0"
-         d="m 340.38976,546.94308 0,-16.88732 c 0,-0.93839 -0.76069,-1.69915 -1.69914,-1.69915 l -16.87862,0 c -0.93839,0 -1.69909,0.76076 -1.69909,1.69915 l 0,16.88738 c 0,0.3128 0.25353,0.56638 0.56639,0.56638 l 19.14408,0 c 0.31286,0 0.56638,-0.25358 0.56638,-0.56644 z m -13.63001,5.78523 c 0,1.94631 1.57787,3.52411 3.52412,3.52411 1.94624,0 3.52411,-1.5778 3.52411,-3.52411 0,-1.94638 -1.57787,-3.52412 -3.52411,-3.52412 -1.94625,0 -3.52412,1.57774 -3.52412,3.52412 z m 1.76213,0 c 0,-0.97316 0.7889,-1.76206 1.76205,-1.76206 0.97315,0 1.76212,0.7889 1.76212,1.76206 0,0.97315 -0.78897,1.76212 -1.76212,1.76212 -0.97315,0 -1.76205,-0.78897 -1.76205,-1.76212 z m 4.79728,-3.52418 7.89693,0 c 0.3128,0 0.56638,0.25358 0.56638,0.56638 l 0,1.71834 c 0,0.3128 -0.25358,0.56638 -0.56638,0.56638 l -6.32977,0 c -0.16525,-1.13392 -0.7376,-2.13555 -1.56716,-2.8511 z m -24.99806,3.52418 c 0,1.94631 1.57787,3.52411 3.52412,3.52411 1.9463,0 3.52411,-1.5778 3.52411,-3.52411 0,-1.94638 -1.57781,-3.52412 -3.52411,-3.52412 -1.94625,-6e-5 -3.52412,1.57774 -3.52412,3.52412 z m 1.76199,0 c 0,-0.97316 0.78897,-1.76206 1.76213,-1.76206 0.97321,0 1.76206,0.7889 1.76206,1.76206 0,0.97315 -0.78891,1.76212 -1.76206,1.76212 -0.97316,0 -1.76213,-0.78897 -1.76213,-1.76212 z m -7.99213,-2.9578 0,1.71834 c 0,0.3128 0.25358,0.56638 0.56638,0.56638 l 4.58555,0 c 0.32796,-2.24937 2.26384,-3.98386 4.60219,-3.98386 2.33882,0 4.27475,1.73455 4.60272,3.98386 l 9.23359,0 c 0.16533,-1.13386 0.73761,-2.13555 1.56717,-2.8511 l -8.75508,0 0,-16.20029 c 0,-0.6256 -0.50717,-1.13278 -1.13276,-1.13278 l -5.347,0 c -1.50557,0 -2.91274,0.74785 -3.75514,1.9956 l -3.44706,5.10549 c -0.50562,0.74889 -0.7758,1.63183 -0.7758,2.53546 l 0,7.69652 -1.37838,0 c -0.3128,0 -0.56638,0.25358 -0.56638,0.56638 z m 5.74567,-10.66762 2.75641,-3.9168 c 0.10612,-0.15073 0.27888,-0.24043 0.4632,-0.24043 l 4.29959,0 c 0.31274,0 0.56639,0.25359 0.56639,0.56639 l 0,3.91681 c 0,0.31286 -0.25359,0.56638 -0.56639,0.56638 l -7.05612,0 c -0.45879,0 -0.72717,-0.51709 -0.46308,-0.89235 z"
+         d="m 293.0002,543.73023 v -16.88732 c 0,-0.93839 -0.76069,-1.69915 -1.69914,-1.69915 h -16.87862 c -0.93839,0 -1.69909,0.76076 -1.69909,1.69915 v 16.88738 c 0,0.3128 0.25353,0.56638 0.56639,0.56638 h 19.14408 c 0.31286,0 0.56638,-0.25358 0.56638,-0.56644 z m -13.63001,5.78523 c 0,1.94631 1.57787,3.52411 3.52412,3.52411 1.94624,0 3.52411,-1.5778 3.52411,-3.52411 0,-1.94638 -1.57787,-3.52412 -3.52411,-3.52412 -1.94625,0 -3.52412,1.57774 -3.52412,3.52412 z m 1.76213,0 c 0,-0.97316 0.7889,-1.76206 1.76205,-1.76206 0.97315,0 1.76212,0.7889 1.76212,1.76206 0,0.97315 -0.78897,1.76212 -1.76212,1.76212 -0.97315,0 -1.76205,-0.78897 -1.76205,-1.76212 z m 4.79728,-3.52418 h 7.89693 c 0.3128,0 0.56638,0.25358 0.56638,0.56638 v 1.71834 c 0,0.3128 -0.25358,0.56638 -0.56638,0.56638 h -6.32977 c -0.16525,-1.13392 -0.7376,-2.13555 -1.56716,-2.8511 z m -24.99806,3.52418 c 0,1.94631 1.57787,3.52411 3.52412,3.52411 1.9463,0 3.52411,-1.5778 3.52411,-3.52411 0,-1.94638 -1.57781,-3.52412 -3.52411,-3.52412 -1.94625,-6e-5 -3.52412,1.57774 -3.52412,3.52412 z m 1.76199,0 c 0,-0.97316 0.78897,-1.76206 1.76213,-1.76206 0.97321,0 1.76206,0.7889 1.76206,1.76206 0,0.97315 -0.78891,1.76212 -1.76206,1.76212 -0.97316,0 -1.76213,-0.78897 -1.76213,-1.76212 z m -7.99213,-2.9578 v 1.71834 c 0,0.3128 0.25358,0.56638 0.56638,0.56638 h 4.58555 c 0.32796,-2.24937 2.26384,-3.98386 4.60219,-3.98386 2.33882,0 4.27475,1.73455 4.60272,3.98386 h 9.23359 c 0.16533,-1.13386 0.73761,-2.13555 1.56717,-2.8511 h -8.75508 v -16.20029 c 0,-0.6256 -0.50717,-1.13278 -1.13276,-1.13278 h -5.347 c -1.50557,0 -2.91274,0.74785 -3.75514,1.9956 l -3.44706,5.10549 c -0.50562,0.74889 -0.7758,1.63183 -0.7758,2.53546 v 7.69652 h -1.37838 c -0.3128,0 -0.56638,0.25358 -0.56638,0.56638 z m 5.74567,-10.66762 2.75641,-3.9168 c 0.10612,-0.15073 0.27888,-0.24043 0.4632,-0.24043 h 4.29959 c 0.31274,0 0.56639,0.25359 0.56639,0.56639 v 3.91681 c 0,0.31286 -0.25359,0.56638 -0.56639,0.56638 h -7.05612 c -0.45879,0 -0.72717,-0.51709 -0.46308,-0.89235 z"
          id="path4130-3" />
       <path
-         style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:#800080;stroke-width:1.11950254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#800080;stroke-width:1.11950254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 169.26642,500.70853 27.75273,37.34749 2.66768,-1.98234 -1.13766,7.71901 -7.90504,-1.16508 2.45427,-1.82375 -27.67343,-37.24078 z"
          id="path4087"
          inkscape:connector-curvature="0"
@@ -5526,6 +5526,17 @@
          id="path4985"
          d="m 200.05545,558.88186 233.70529,-0.58136 0,-4.85702 28.78517,7.87661 -28.49517,6.28035 0,-3.39879 -233.99529,0 z"
          style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:#800080;stroke-width:2.65061784px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="342.58026"
+         y="545.69733"
+         id="text4367-3"><tspan
+           sodipodi:role="line"
+           x="342.58026"
+           y="545.69733"
+           style="font-size:18.66666603px;line-height:1.25"
+           id="tspan754-7">伺服器回應</tspan></text>
     </g>
     <use
        x="0"
@@ -5581,5 +5592,15 @@
            sodipodi:role="line"
            style="font-size:27.5px;line-height:1.25">反向：</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none"
+       x="310.83151"
+       y="508.03958"
+       id="text762"><tspan
+         sodipodi:role="line"
+         id="tspan760"
+         x="310.83151"
+         y="529.47955" /></text>
   </g>
 </svg>
