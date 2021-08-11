@@ -14,7 +14,7 @@
    viewBox="0 0 190.49998 95.249999"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="rev-ssh.svg">
   <defs
      id="defs2">
@@ -72,7 +72,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="300"
+     inkscape:cx="131"
      inkscape:cy="180"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -81,7 +81,7 @@
      inkscape:snap-others="false"
      inkscape:snap-nodes="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,63 +111,68 @@
        id="rect10"
        width="45.32935"
        height="36.185661"
-       x="25.586765"
-       y="178.70009" />
+       x="24.528433"
+       y="181.87509" />
     <rect
        style="fill:#fffffc;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-miterlimit:4;stroke-dasharray:0.05291667, 0.05291667;stroke-dashoffset:0;stroke-opacity:1"
        id="rect817"
        width="18.092833"
        height="6.030942"
-       x="42.70686"
-       y="211.38391" />
+       x="41.648525"
+       y="214.55891" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-miterlimit:4;stroke-dasharray:0.05291667, 0.05291667;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10-3"
        width="45.32935"
        height="36.185661"
-       x="106.61541"
-       y="178.311" />
+       x="105.55708"
+       y="181.48601" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="109.70869"
-       y="167.41638"
+       x="107.32744"
+       y="163.44763"
        id="text840"><tspan
          sodipodi:role="line"
          id="tspan838"
-         x="109.70869"
-         y="167.41638"
-         style="font-size:5.64444447px;stroke-width:0.26458332">有公開 IP 的</tspan><tspan
+         x="107.32744"
+         y="163.44763"
+         style="font-size:5.64444447px;stroke-width:0.26458332">有公開 IP、</tspan><tspan
          sodipodi:role="line"
-         x="109.70869"
-         y="174.47194"
+         x="107.32744"
+         y="170.50319"
+         style="font-size:5.64444447px;stroke-width:0.26458332"
+         id="tspan877">有 ssh 服務的</tspan><tspan
+         sodipodi:role="line"
+         x="107.32744"
+         y="177.55875"
          style="font-size:5.64444447px;stroke-width:0.26458332"
          id="tspan846">penguin.tw</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="25.781311"
-       y="173.48625"
+       x="24.722979"
+       y="176.66125"
        id="text844"><tspan
          sodipodi:role="line"
          id="tspan842"
-         x="25.781311"
-         y="173.48625"
+         x="24.722979"
+         y="176.66125"
          style="font-size:5.64444447px;stroke-width:0.26458332">無公開 IP 的本機</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="48.582165"
-       y="215.93629"
+       x="47.52383"
+       y="219.1113"
        id="text1160"><tspan
          sodipodi:role="line"
          id="tspan1158"
-         x="48.582165"
-         y="215.93629"
+         x="47.52383"
+         y="219.1113"
          style="stroke-width:0.26458332">80</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1448)"
-       d="m 133.40961,217.60942 v 8.17096 H 52.478239 v -8.05423"
+       d="m 132.35128,220.78442 v 8.17096 H 51.419906 v -8.05423"
        id="path1438"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -187,58 +192,69 @@
        id="rect817-6"
        width="18.092833"
        height="6.030942"
-       x="122.96511"
-       y="211.44966" />
+       x="121.90678"
+       y="214.62466" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="127.20621"
-       y="216.2355"
+       x="126.14787"
+       y="219.41051"
        id="text1160-7"><tspan
          sodipodi:role="line"
          id="tspan1158-5"
-         x="127.20621"
-         y="216.2355"
+         x="126.14787"
+         y="219.41051"
          style="stroke-width:0.26458332">4380</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="40.107723"
-       y="234.0443"
+       x="39.049389"
+       y="237.2193"
        id="text846"><tspan
          sodipodi:role="line"
          id="tspan844"
-         x="40.107723"
-         y="234.0443"
+         x="39.049389"
+         y="237.2193"
          style="stroke-width:0.26458332">ssh -fNR 4380:localhost:80 ckhung@penguin.tw</tspan></text>
     <rect
        style="fill:#fffffc;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect860"
        width="23.018749"
        height="23.283333"
-       x="175.83896"
-       y="190.65263" />
+       x="174.78062"
+       y="193.82764" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="173.95638"
-       y="178.54123"
+       x="172.89804"
+       y="181.71623"
        id="text840-3"><tspan
          sodipodi:role="line"
          id="tspan838-6"
-         x="173.95638"
-         y="178.54123"
+         x="172.89804"
+         y="181.71623"
          style="font-size:5.64444447px;stroke-width:0.26458332">客戶端</tspan><tspan
          sodipodi:role="line"
-         x="173.95638"
-         y="185.59679"
+         x="172.89804"
+         y="188.77179"
          style="font-size:5.64444447px;stroke-width:0.26458332"
          id="tspan846-7">(例如手機)</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1448-5)"
-       d="m 187.54157,214.48072 v 11.34596 h -49.97512 v -8.05423"
+       d="m 186.48324,217.65572 v 11.34596 h -49.97512 v -8.05423"
        id="path1438-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.874386"
+       y="212.61305"
+       id="text881"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="35.874386"
+         y="212.61305"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';stroke-width:0.26458332">網頁伺服器</tspan></text>
   </g>
 </svg>
