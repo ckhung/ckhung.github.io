@@ -1,0 +1,19 @@
+digraph "linux boot process" {
+
+    rankdir = BT;
+    overlap = scale;
+
+    power [ label="Power On" ];
+    UEFI_menu [ label="UEFI boot menu" ];
+    uefi_boot [ label="UEFI boot" ];
+    legacy_boot [ label="legacy boot\n(to MBR)" ];
+    boot_loader [ label="boot loader menu\n(eg： grub/isolinux/extlinux/...)" ];
+    config [ label="config file\n(eg. extlinux.conf)" ];
+    kernel [ label="kernel\n(vmlinuz-x.y.z)" ];
+    initrd [ label="initrd\n(initrd.img-x.y.z)" ];
+    rootfs [ label="root file system\n(*.squashfs or root=/dev/...)" ];
+
+    power -> UEFI_menu -> { uefi_boot legacy_boot }
+	  -> boot_loader -> config -> kernel -> initrd -> rootfs;
+}
+
