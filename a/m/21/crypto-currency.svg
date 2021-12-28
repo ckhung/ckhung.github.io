@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="crypto-currency.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/ckhung/git/ckhung.github.io/a/m/21/crypto-currency.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <marker
@@ -177,7 +180,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3783333"
-     inkscape:cx="366.73733"
+     inkscape:cx="228.88968"
      inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -197,7 +200,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -207,14 +210,14 @@
      id="layer1"
      transform="translate(0,-138.24998)">
     <image
-       sodipodi:absref="https://ckhung.github.io/a/m/21/cryptokitties.jpg"
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/21/cryptokitties.jpg"
        xlink:href="cryptokitties.jpg"
-       y="149.67026"
-       x="85.933594"
-       id="image6260"
-       preserveAspectRatio="none"
+       width="47.491302"
        height="18.046696"
-       width="47.491302" />
+       preserveAspectRatio="none"
+       id="image6260"
+       x="85.933594"
+       y="149.67026" />
     <g
        id="g4542"
        transform="translate(9.7899031,2.6874244)">
