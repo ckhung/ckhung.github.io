@@ -1,0 +1,11 @@
+digraph G {
+    rankdir = LR;
+    empty1 [ label=""; style=invis; ];
+    empty2 [ label=""; style=invis; ];
+    empty1 -> "pmysql.php" [ label="*.sql"; ];
+    "pmysql.php" -> "json2erd.py" [ label="*.json"; ];
+    "json2erd.py" -> erdot [ label="*.json"; ];
+    { erdot erd } -> graphviz [ label="*.dot"; ];
+    "json2erd.py" -> erd [ label="*.er"; ];
+    { erd graphviz } -> empty2 [ label="*.jpg *.png ..." ];
+}
