@@ -120,7 +120,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.73673541"
-     inkscape:cx="396.85039"
+     inkscape:cx="138.9559"
      inkscape:cy="561.25984"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -938,32 +938,32 @@
        id="g4885"
        transform="translate(-6.7965975)">
       <image
-         sodipodi:absref="https://ckhung.github.io/a/m/22/../../m/22/cyut-logo.jpg"
-         xlink:href="https://ckhung.github.io/a/m/22/cyut-logo.jpg"
-         width="16.933332"
-         height="16.933332"
-         preserveAspectRatio="none"
-         id="image1154"
+         sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/22/../../m/22/cyut-logo.jpg"
+         xlink:href="../../m/22/cyut-logo.jpg"
+         y="66.770943"
          x="49.353157"
-         y="66.770943" />
-      <image
-         sodipodi:absref="https://ckhung.github.io/a/m/22/../../m/22/tstsa-logo.jpg"
-         xlink:href="https://ckhung.github.io/a/m/22/tstsa-logo.jpg"
-         width="22.482059"
-         height="11.770908"
+         id="image1154"
          preserveAspectRatio="none"
-         id="image1176"
+         height="16.933332"
+         width="16.933332" />
+      <image
+         sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/22/../../m/22/tstsa-logo.jpg"
+         xlink:href="../../m/22/tstsa-logo.jpg"
+         y="69.352158"
          x="92.730392"
-         y="69.352158" />
-      <image
-         sodipodi:absref="https://ckhung.github.io/a/m/22/slat-logo.png"
-         xlink:href="slat-logo.png"
-         y="66.735748"
-         x="72.393768"
-         id="image1099"
+         id="image1176"
          preserveAspectRatio="none"
+         height="11.770908"
+         width="22.482059" />
+      <image
+         sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/22/slat-logo.png"
+         xlink:href="slat-logo.png"
+         width="17.003729"
          height="17.003729"
-         width="17.003729" />
+         preserveAspectRatio="none"
+         id="image1099"
+         x="72.393768"
+         y="66.735748" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58999992, 1.58999992;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4897)"
@@ -971,5 +971,14 @@
        id="path4887"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc" />
+    <rect
+       style="fill:none;fill-opacity:0.98275864;stroke:none;stroke-width:0.26499999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5899999, 1.58999990000000002;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1029"
+       width="210.44981"
+       height="297.35913"
+       x="0"
+       y="0.35912952"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
