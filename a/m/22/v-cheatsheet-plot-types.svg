@@ -120,7 +120,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.73673541"
-     inkscape:cx="-91.791796"
+     inkscape:cx="396.85039"
      inkscape:cy="561.25984"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -390,14 +390,14 @@
            style="stroke-width:0.26458332" /></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:AR PL UKai TW MBE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="93.028938"
-         y="-250.75964"
+         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW MBE';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="91.951553"
+         y="-250.40051"
          id="text1425-6"
          transform="rotate(90)"><tspan
            sodipodi:role="line"
-           x="93.028938"
-           y="-250.75964"
+           x="91.951553"
+           y="-250.40051"
            style="stroke-width:0.26458332"
            id="tspan1427-1">Σ</tspan></text>
       <text
@@ -412,6 +412,18 @@
            x="82.92897"
            y="-262.02274"
            style="stroke-width:0.26458332">X  y  Y</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW MBE';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="83.553619"
+         y="-250.19157"
+         id="text1425-6-3"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           x="83.553619"
+           y="-250.19157"
+           style="stroke-width:0.26458332"
+           id="tspan1427-1-6">Σ</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -516,14 +528,14 @@
            style="stroke-width:0.26458332">...</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:AR PL UKai TW MBE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="86.923729"
-         y="-256.90839"
+         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW MBE';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="85.846336"
+         y="-257.26752"
          id="text1425"
          transform="rotate(90)"><tspan
            sodipodi:role="line"
-           x="86.923729"
-           y="-256.90839"
+           x="85.846336"
+           y="-257.26752"
            style="stroke-width:0.26458332"
            id="tspan1427">Σ</tspan></text>
       <text
@@ -833,14 +845,14 @@
          x="0" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:AR PL UKai TW MBE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="92.895073"
-         y="-249.02156"
+         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW MBE';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="91.817688"
+         y="-249.73982"
          id="text1425-6-18"
          transform="rotate(90)"><tspan
            sodipodi:role="line"
-           x="92.895073"
-           y="-249.02156"
+           x="91.817688"
+           y="-249.73982"
            style="stroke-width:0.26458332"
            id="tspan1427-1-7">Σ</tspan></text>
       <text
@@ -928,30 +940,30 @@
       <image
          sodipodi:absref="https://ckhung.github.io/a/m/22/../../m/22/cyut-logo.jpg"
          xlink:href="https://ckhung.github.io/a/m/22/cyut-logo.jpg"
-         y="66.770943"
-         x="49.353157"
-         id="image1154"
-         preserveAspectRatio="none"
+         width="16.933332"
          height="16.933332"
-         width="16.933332" />
+         preserveAspectRatio="none"
+         id="image1154"
+         x="49.353157"
+         y="66.770943" />
       <image
          sodipodi:absref="https://ckhung.github.io/a/m/22/../../m/22/tstsa-logo.jpg"
          xlink:href="https://ckhung.github.io/a/m/22/tstsa-logo.jpg"
-         y="69.352158"
-         x="92.730392"
-         id="image1176"
-         preserveAspectRatio="none"
+         width="22.482059"
          height="11.770908"
-         width="22.482059" />
+         preserveAspectRatio="none"
+         id="image1176"
+         x="92.730392"
+         y="69.352158" />
       <image
          sodipodi:absref="https://ckhung.github.io/a/m/22/slat-logo.png"
          xlink:href="slat-logo.png"
-         width="17.003729"
-         height="17.003729"
-         preserveAspectRatio="none"
-         id="image1099"
+         y="66.735748"
          x="72.393768"
-         y="66.735748" />
+         id="image1099"
+         preserveAspectRatio="none"
+         height="17.003729"
+         width="17.003729" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58999992, 1.58999992;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4897)"
