@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="brain-attack.svg">
+   sodipodi:docname="brain-attack.svg"
+   inkscape:export-filename="/home/ckhung/git/ckhung.github.io/a/m/19/brain-attack.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -24,10 +27,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3716667"
-     inkscape:cx="262.21142"
+     inkscape:cx="245.00608"
      inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -46,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,17 +59,18 @@
      id="layer1"
      transform="translate(0,-138.24998)">
     <image
-       sodipodi:absref="protect-brain.jpg"
+       sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/19/protect-brain.jpg"
        xlink:href="protect-brain.jpg"
        y="190.27599"
        x="56.364761"
        id="image1036"
        preserveAspectRatio="none"
        height="58.941647"
-       width="100.9707" />
+       width="100.9707"
+       style="" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="29.319563"
        y="246.8481"
        id="text817"><tspan
@@ -74,15 +78,15 @@
          id="tspan815"
          x="29.319563"
          y="246.8481"
-         style="stroke-width:0.26458332">infomercial</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">infomercial</tspan><tspan
          sodipodi:role="line"
          x="29.319563"
          y="255.29485"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan853">資訊型廣告</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="69.248184"
        y="261.1221"
        id="text821"><tspan
@@ -90,15 +94,15 @@
          id="tspan819"
          x="69.248184"
          y="261.1221"
-         style="stroke-width:0.26458332">spam</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">spam</tspan><tspan
          sodipodi:role="line"
          x="69.248184"
          y="269.56885"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan841">垃圾信件</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="158.94289"
        y="220.80769"
        id="text825"><tspan
@@ -106,15 +110,15 @@
          id="tspan823"
          x="158.94289"
          y="220.80769"
-         style="stroke-width:0.26458332">phishing</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">phishing</tspan><tspan
          sodipodi:role="line"
          x="158.94289"
          y="229.25444"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan839">釣魚</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="144.66888"
        y="188.40187"
        id="text829"><tspan
@@ -122,15 +126,15 @@
          id="tspan827"
          x="144.66888"
          y="188.40187"
-         style="stroke-width:0.26458332">spearphishing</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">spearphishing</tspan><tspan
          sodipodi:role="line"
          x="144.66888"
          y="196.84862"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan837">魚叉式釣魚</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="121.71478"
        y="169.11269"
        id="text833"><tspan
@@ -138,15 +142,15 @@
          id="tspan831"
          x="121.71478"
          y="169.11269"
-         style="stroke-width:0.26458332">social engineering</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">social engineering</tspan><tspan
          sodipodi:role="line"
          x="121.71478"
          y="177.55943"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan835">社交工程</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="43.979343"
        y="169.49846"
        id="text845"><tspan
@@ -154,15 +158,15 @@
          id="tspan843"
          x="43.979343"
          y="169.49846"
-         style="stroke-width:0.26458332">targeted advertisement</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">targeted advertisement</tspan><tspan
          sodipodi:role="line"
          x="43.979343"
          y="177.94521"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan847">定向廣告</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="27.583536"
        y="194.18863"
        id="text857"><tspan
@@ -170,15 +174,15 @@
          id="tspan855"
          x="27.583536"
          y="194.18863"
-         style="stroke-width:0.26458332">embedded marketing</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">embedded marketing</tspan><tspan
          sodipodi:role="line"
          x="27.583536"
          y="202.63538"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan859">置入性行銷</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="120.7503"
        y="256.1069"
        id="text863"><tspan
@@ -186,27 +190,27 @@
          id="tspan861"
          x="120.7503"
          y="256.1069"
-         style="stroke-width:0.26458332">cognitive warfare</tspan><tspan
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">cognitive warfare</tspan><tspan
          sodipodi:role="line"
          x="120.7503"
          y="264.55362"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan865">information warfare</tspan><tspan
          sodipodi:role="line"
          x="120.7503"
          y="273.00037"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan37">認知戰/資訊戰</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'Samyak Devanagari';-inkscape-font-specification:'Samyak Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="115.34932"
        y="269.60931"
        id="text869"><tspan
          sodipodi:role="line"
          x="115.34932"
          y="275.48181"
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          id="tspan871" /></text>
   </g>
 </svg>
