@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "臺中市議會",
-        "name_eng": "Taichung City Council"
+        "description": "Taichung City Council"
       }
     },
     {
@@ -26,7 +26,7 @@
       },
       "properties": {
         "name": "中央健保署(文心路)",
-        "name_eng": "NHI Administration(Wenxin Rd.)"
+        "description": "NHI Administration(Wenxin Rd.)"
       }
     },
     {
@@ -40,7 +40,7 @@
       },
       "properties": {
         "name": "文心第二市政大樓",
-        "name_eng": "Wenxin Second Municipal Building"
+        "description": "Wenxin Second Municipal Building"
       }
     },
     {
@@ -54,7 +54,7 @@
       },
       "properties": {
         "name": "市政府(專用道)",
-        "name_eng": "Taichung City Hall(Dedicated Road)"
+        "description": "Taichung City Hall(Dedicated Road)"
       }
     },
     {
@@ -68,7 +68,7 @@
       },
       "properties": {
         "name": "新光/遠百(專用道)",
-        "name_eng": "Shin Kong Mitsukoshi/Top City Dept. Store(Dedicate"
+        "description": "Shin Kong Mitsukoshi/Top City Dept. Store(Dedicate"
       }
     },
     {
@@ -82,7 +82,7 @@
       },
       "properties": {
         "name": "秋紅谷(專用道)",
-        "name_eng": "Maple Garden(Dedicated Road)"
+        "description": "Maple Garden(Dedicated Road)"
       }
     },
     {
@@ -96,7 +96,7 @@
       },
       "properties": {
         "name": "朝馬2(臺灣大道)",
-        "name_eng": "Chaoma 2 (Taiwan Boulevard)"
+        "description": "Chaoma 2 (Taiwan Boulevard)"
       }
     },
     {
@@ -110,7 +110,7 @@
       },
       "properties": {
         "name": "高鐵臺中站(第14月台)",
-        "name_eng": "HSR Taichung Station(Platform 14)"
+        "description": "HSR Taichung Station(Platform 14)"
       }
     },
     {
@@ -124,7 +124,7 @@
       },
       "properties": {
         "name": "林森中正路口",
-        "name_eng": "Linsen-Zhongzheng Intersection"
+        "description": "Linsen-Zhongzheng Intersection"
       }
     },
     {
@@ -138,7 +138,7 @@
       },
       "properties": {
         "name": "林森福新路口",
-        "name_eng": "Linsen-Fuxin Intersection"
+        "description": "Linsen-Fuxin Intersection"
       }
     },
     {
@@ -152,7 +152,7 @@
       },
       "properties": {
         "name": "亞大醫院",
-        "name_eng": "Asia University Hospital"
+        "description": "Asia University Hospital"
       }
     },
     {
@@ -166,7 +166,7 @@
       },
       "properties": {
         "name": "柳豐路(亞大醫院)",
-        "name_eng": "Liufong Rd.(Asia University Hospital)"
+        "description": "Liufong Rd.(Asia University Hospital)"
       }
     },
     {
@@ -180,7 +180,7 @@
       },
       "properties": {
         "name": "新厝路550巷口",
-        "name_eng": "Xincuo Rd. 550 Ln."
+        "description": "Xincuo Rd. 550 Ln."
       }
     },
     {
@@ -194,7 +194,7 @@
       },
       "properties": {
         "name": "亞洲大學安藤館",
-        "name_eng": "Asia University Ando Museum"
+        "description": "Asia University Ando Museum"
       }
     },
     {
@@ -208,7 +208,7 @@
       },
       "properties": {
         "name": "王厝",
-        "name_eng": "Wangcuo"
+        "description": "Wangcuo"
       }
     },
     {
@@ -222,7 +222,7 @@
       },
       "properties": {
         "name": "光復國中小(柳豐路)",
-        "name_eng": "KuangFu Junior High and Elementary School(Liufong Rd.)"
+        "description": "KuangFu Junior High and Elementary School(Liufong Rd.)"
       }
     },
     {
@@ -236,7 +236,7 @@
       },
       "properties": {
         "name": "坑口里(光復新村)",
-        "name_eng": "Kengkou Village(Guangfu Community)"
+        "description": "Kengkou Village(Guangfu Community)"
       }
     },
     {
@@ -250,7 +250,7 @@
       },
       "properties": {
         "name": "八德橋",
-        "name_eng": "Bade Bridge"
+        "description": "Bade Bridge"
       }
     },
     {
@@ -264,7 +264,7 @@
       },
       "properties": {
         "name": "省議會",
-        "name_eng": "T.P.C.C."
+        "description": "T.P.C.C."
       }
     },
     {
@@ -278,7 +278,7 @@
       },
       "properties": {
         "name": "霧峰國小",
-        "name_eng": "Wu Feng Elementary School"
+        "description": "Wu Feng Elementary School"
       }
     },
     {
@@ -292,7 +292,7 @@
       },
       "properties": {
         "name": "教育部國教署",
-        "name_eng": "Ministry of Education"
+        "description": "Ministry of Education"
       }
     },
     {
@@ -306,7 +306,7 @@
       },
       "properties": {
         "name": "霧峰郵局(明台高中)",
-        "name_eng": "Wufeng Post Office (Ming Tai Senior High School)"
+        "description": "Wufeng Post Office (Ming Tai Senior High School)"
       }
     },
     {
@@ -320,7 +320,7 @@
       },
       "properties": {
         "name": "霧峰",
-        "name_eng": "Wufeng"
+        "description": "Wufeng"
       }
     },
     {
@@ -334,7 +334,7 @@
       },
       "properties": {
         "name": "中正草湖路口",
-        "name_eng": "Zhongzheng-Caohu Intersection"
+        "description": "Zhongzheng-Caohu Intersection"
       }
     },
     {
@@ -348,7 +348,7 @@
       },
       "properties": {
         "name": "甲寅",
-        "name_eng": "Jiayin"
+        "description": "Jiayin"
       }
     },
     {
@@ -362,7 +362,7 @@
       },
       "properties": {
         "name": "霧峰農工",
-        "name_eng": "Wufeng Agr. Ind. Senior High School"
+        "description": "Wufeng Agr. Ind. Senior High School"
       }
     },
     {
@@ -376,7 +376,7 @@
       },
       "properties": {
         "name": "霧峰分局",
-        "name_eng": "Wufeng Police Precinct"
+        "description": "Wufeng Police Precinct"
       }
     },
     {
@@ -390,7 +390,7 @@
       },
       "properties": {
         "name": "全陽社區",
-        "name_eng": "Quanchang Community"
+        "description": "Quanchang Community"
       }
     },
     {
@@ -404,7 +404,7 @@
       },
       "properties": {
         "name": "吉峰社區",
-        "name_eng": "Jifeng Community"
+        "description": "Jifeng Community"
       }
     },
     {
@@ -418,7 +418,7 @@
       },
       "properties": {
         "name": "台影文化城",
-        "name_eng": "Taiying Wenhuacheng"
+        "description": "Taiying Wenhuacheng"
       }
     },
     {
@@ -432,7 +432,7 @@
       },
       "properties": {
         "name": "吉峰里",
-        "name_eng": "Jifeng Village"
+        "description": "Jifeng Village"
       }
     },
     {
@@ -446,7 +446,7 @@
       },
       "properties": {
         "name": "吉峰東路口",
-        "name_eng": "Jifeng E. Rd."
+        "description": "Jifeng E. Rd."
       }
     },
     {
@@ -460,7 +460,7 @@
       },
       "properties": {
         "name": "吉峰東自強路口",
-        "name_eng": "Jifeng E. -Ziqiang Intersection"
+        "description": "Jifeng E. -Ziqiang Intersection"
       }
     },
     {
@@ -474,7 +474,7 @@
       },
       "properties": {
         "name": "朝陽科技大學",
-        "name_eng": "Chaoyang University of Technology"
+        "description": "Chaoyang University of Technology"
       }
     }
   ]
