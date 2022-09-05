@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,7 +13,7 @@
    viewBox="0 0 799.99999 600.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="ssh-tunnel.svg">
   <defs
      id="defs4">
@@ -1892,11 +1890,12 @@
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -3692,7 +3691,7 @@
          style="font-size:30px;line-height:1.25"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="169.95523"
        y="626.86969"
        id="text4367"><tspan
@@ -3700,11 +3699,11 @@
          x="169.95523"
          y="626.86969"
          id="tspan4371"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;">(客戶端)</tspan><tspan
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1">(客戶端)</tspan><tspan
          sodipodi:role="line"
          x="169.95523"
          y="654.99469"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;"
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1"
          id="tspan754">特權入口 5508</tspan></text>
     <text
        id="text4373"
@@ -3752,23 +3751,23 @@
        id="text4766"
        y="975.89038"
        x="583.80249"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="975.89038"
          x="583.80249"
          id="tspan4768"
          sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;">(客戶端)</tspan><tspan
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1">(客戶端)</tspan><tspan
          y="1004.0154"
          x="583.80249"
          sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;"
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1"
          id="tspan758">向朋友展示</tspan><tspan
          id="tspan4770"
          y="1032.1404"
          x="583.80249"
          sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1;">的櫥窗 4380</tspan></text>
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1">的櫥窗 4380</tspan></text>
     <g
        transform="matrix(0.17316162,0,0,0.17316162,447.8315,487.15294)"
        inkscape:label="Layer 1"
@@ -5526,7 +5525,7 @@
            y="780.52612"
            x="119.91109"
            sodipodi:role="line"
-           style="font-size:27.5px;line-height:1.25">ssh -4fNR 4380:localhost:80 ckhung@penguin.tw</tspan></text>
+           style="font-size:27.5px;line-height:1.25">ssh -4fNR '*:4380:localhost:80' ckhung@penguin.tw</tspan></text>
       <text
          id="text4068"
          y="714.70306"
@@ -5551,14 +5550,10 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none"
        x="310.83151"
        y="508.03958"
-       id="text762"><tspan
-         sodipodi:role="line"
-         id="tspan760"
-         x="310.83151"
-         y="529.47955" /></text>
+       id="text762" />
     <image
        y="587.34998"
        x="575.49799"
