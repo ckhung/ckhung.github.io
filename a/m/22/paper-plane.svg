@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="plane.svg"
+   viewBox="0 0 467.93 235.25"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs887" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="1009"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.7"
+     inkscape:window-x="0"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="g1500"
+     inkscape:cx="358.49354"
+     inkscape:cy="154.1254"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:document-rotation="0" />
+  <g
+     id="layer1"
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     transform="translate(-69.23 -475.12)">
+    <g
+       id="g1500">
+      <g
+         id="g839">
+        <path
+           id="path2816"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 537.14286,475.21933 228.57143,706.6479 151.42857,629.50504 Z" />
+        <path
+           id="path2820"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 535.71429,475.21932 -413.57143,107.85715 -50.714288,-65 z" />
+        <path
+           id="path2852"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 124.28571,580.93361 95,690.21933 150.71429,630.93361" />
+        <path
+           id="path2864"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 94.843,690.68 c -0.59913,-0.93389 17.858,-9.5921 41.2,-19.326 23.341,-9.7342 42.771,-16.877 43.37,-15.943 0.59913,0.9339 -17.858,9.5921 -41.2,19.326 -23.341,9.7342 -42.771,16.877 -43.37,15.943 z" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata884">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Paper plane</dc:title>
+        <dc:date>2010-02-08T19:05:35</dc:date>
+        <dc:description>Made for a game in http://canvasgames.bydorian.com with Inkscape, created when I see images of paper plane on Google Images.</dc:description>
+        <dc:source>https://openclipart.org/detail/29213/paper-plane-by-ddoo</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>DdOo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>origami</rdf:li>
+            <rdf:li>paper</rdf:li>
+            <rdf:li>plane</rdf:li>
+            <rdf:li>unchecked</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
