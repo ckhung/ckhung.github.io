@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cdrom-boot.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker1273"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1271" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1307"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1305" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path921" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3383333"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="4.567812"
+       y="14.008772"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="4.567812"
+         y="14.008772"
+         style="font-size:6.35px;stroke-width:0.264583">./autorun.inf</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="21.946272"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan1251">./cdrom.ico</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="29.883772"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan1253">./conf/...</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="37.82127"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan1255">./conf/bootfile.txt</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="45.75877"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan1259">./conf/buildinfo.json</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="53.69627"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan14">./boot/efi.img</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="61.63377"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan16">./boot/refind.img</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="69.571274"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan18">./boot/...</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="77.508774"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan24">./boot/grub/...</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="85.446274"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan26">./boot/isolinux/isolinux.bin</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="93.383774"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan1208">./boot/isolinux/isolinux.cfg</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="101.32127"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan28">./boot/isolinux/...</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="109.25877"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan1229">./boot/grml64small/vmlinuz</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="117.19627"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan1233">./boot/grml64small/initrd.img</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="125.13377"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan40">./EFI/BOOT/bootx64.efi</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="133.07127"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan42">./GRML/...</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="141.00877"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan44">./live/grml64-small/filesystem.module</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="148.94627"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan46">./live/grml64-small/grml64-small.squashfs</tspan><tspan
+         sodipodi:role="line"
+         x="4.567812"
+         y="156.88377"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan48" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="105.69817"
+       y="18.883501"
+       id="text52"><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="18.883501"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan70">/EFI/BOOT/startup.nsh</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="26.821001"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan72">./EFI/BOOT/bootx64.efi</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="34.758499"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan914">./EFI/BOOT/refind.conf</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="42.695999"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan74">./EFI/BOOT/bg/alien-city.jpg</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="50.633499"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan76">./EFI/BOOT/icons/arrow_left.png</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="58.570999"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan78">./EFI/BOOT/icons/...</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="66.508499"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan80">./grml/vmlinuz</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="74.445999"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan82">./grml/initrd.img</tspan><tspan
+         sodipodi:role="line"
+         x="105.69817"
+         y="82.383499"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan84" /></text>
+    <path
+       id="rect86"
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 99.314369,10.765872 H 207.83833 V 83.67496 H 99.314369 V 47.220416 C 98.840581,29.09359 58.570546,58.854727 58.570546,58.854727 c 0,0 40.068502,-30.21601 40.743823,-48.088855 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 174.68131,24.702111 c 5.39272,2.786171 5.21159,5.688618 -0.88324,8.476993 4.58246,11.836663 -12.43614,29.678039 -19.99165,30.940086 7.32317,1.372659 7.75543,5.655683 2.91652,8.641459 7.03064,16.211596 2.24474,52.047411 -29.605,69.598441"
+       id="path916"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1273)"
+       d="m 86.986265,84.586989 c 0,0 4.528247,4.700619 -1.863357,7.526247 8.614949,5.073602 8.143636,9.215744 5.039032,14.515164 5.093041,0.41674 9.27783,4.11271 5.951542,8.43315 4.732268,0.29314 26.419598,27.61851 26.419598,27.61851"
+       id="path1263"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583;-inkscape-font-specification:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#800000;fill-opacity:1;"
+       x="156.12865"
+       y="120.8522"
+       id="text1363"><tspan
+         sodipodi:role="line"
+         id="tspan1361"
+         x="156.12865"
+         y="120.8522"
+         style="stroke-width:0.264583;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#800000;fill-opacity:1;">UEFI 光碟</tspan><tspan
+         sodipodi:role="line"
+         x="156.12865"
+         y="131.43553"
+         style="stroke-width:0.264583;-inkscape-font-specification:'AR PL UKai TW';font-family:'AR PL UKai TW';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#800000;fill-opacity:1;"
+         id="tspan1365">開機途徑</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583;fill:#800000;fill-opacity:1;"
+       x="97.763657"
+       y="101.10203"
+       id="text1369"><tspan
+         sodipodi:role="line"
+         id="tspan1367"
+         x="97.763657"
+         y="101.10203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';stroke-width:0.264583;fill:#800000;fill-opacity:1;">legacy 光碟</tspan><tspan
+         sodipodi:role="line"
+         x="97.763657"
+         y="111.68536"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';stroke-width:0.264583;fill:#800000;fill-opacity:1;"
+         id="tspan1371">開機途徑</tspan></text>
+  </g>
+</svg>
