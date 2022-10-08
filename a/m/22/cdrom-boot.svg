@@ -79,7 +79,8 @@
      inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -255,12 +256,12 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 174.68131,24.702111 c 5.39272,2.786171 5.21159,5.688618 -0.88324,8.476993 4.58246,11.836663 -12.43614,29.678039 -19.99165,30.940086 7.32317,1.372659 7.75543,5.655683 2.91652,8.641459 7.03064,16.211596 2.24474,52.047411 -29.605,69.598441"
+       d="m 175.90001,24.881514 c 5.39272,2.786171 5.21159,5.688618 -0.88324,8.476993 4.58246,11.836663 -13.93584,30.549524 -21.49135,31.811571 7.32317,1.372659 9.25513,4.784198 4.41622,7.769974 7.03064,16.211596 -5.3488,49.684868 -29.605,69.598438"
        id="path916"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1273)"
-       d="m 86.986265,84.586989 c 0,0 4.528247,4.700619 -1.863357,7.526247 8.614949,5.073602 8.143636,9.215744 5.039032,14.515164 5.093041,0.41674 9.27783,4.11271 5.951542,8.43315 4.732268,0.29314 26.419598,27.61851 26.419598,27.61851"
+       d="m 87.341955,82.966165 c 0,0 6.391591,5.80297 -1.3e-5,8.628598 8.614949,5.073602 8.143636,9.215747 5.039032,14.515167 5.093041,0.41674 9.277826,4.11271 5.95154,8.43315 4.732266,0.29314 26.419596,27.61851 26.419596,27.61851"
        id="path1263"
        sodipodi:nodetypes="ccccc" />
     <text
