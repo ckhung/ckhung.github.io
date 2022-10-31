@@ -938,8 +938,8 @@
        id="g4885"
        transform="translate(-6.7965975)">
       <image
-         sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/22/../../m/22/cyut-logo.jpg"
-         xlink:href="../../m/22/cyut-logo.jpg"
+         sodipodi:absref="https://raw.githubusercontent.com/ckhung/ckhung.github.io/master/a/m/22/cyut-logo.jpg"
+         xlink:href="cyut-logo.jpg"
          y="66.770943"
          x="49.353157"
          id="image1154"
@@ -947,8 +947,8 @@
          height="16.933332"
          width="16.933332" />
       <image
-         sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/22/../../m/22/tstsa-logo.jpg"
-         xlink:href="../../m/22/tstsa-logo.jpg"
+         sodipodi:absref="https://raw.githubusercontent.com/ckhung/ckhung.github.io/master/a/m/22/tstsa-logo.jpg"
+         xlink:href="tstsa-logo.jpg"
          y="69.352158"
          x="92.730392"
          id="image1176"
@@ -956,7 +956,7 @@
          height="11.770908"
          width="22.482059" />
       <image
-         sodipodi:absref="/home/ckhung/git/ckhung.github.io/a/m/22/slat-logo.png"
+         sodipodi:absref="https://raw.githubusercontent.com/ckhung/ckhung.github.io/master/a/m/22/slat-logo.png"
          xlink:href="slat-logo.png"
          width="17.003729"
          height="17.003729"
