@@ -3692,17 +3692,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="169.95523"
-       y="626.86969"
+       x="167.94872"
+       y="645.24274"
        id="text4367"><tspan
          sodipodi:role="line"
-         x="169.95523"
-         y="626.86969"
-         id="tspan4371"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1">(客戶端)</tspan><tspan
-         sodipodi:role="line"
-         x="169.95523"
-         y="654.99469"
+         x="167.94872"
+         y="645.24274"
          style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1"
          id="tspan754">特權入口 5508</tspan></text>
     <text
@@ -3749,25 +3744,15 @@
          style="font-size:22.5px;line-height:1.25;text-align:end;text-anchor:end">80</tspan></text>
     <text
        id="text4766"
-       y="975.89038"
-       x="583.80249"
+       y="988.55261"
+       x="556.50769"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="975.89038"
-         x="583.80249"
-         id="tspan4768"
-         sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1">(客戶端)</tspan><tspan
-         y="1004.0154"
-         x="583.80249"
-         sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1"
-         id="tspan758">向朋友展示</tspan><tspan
          id="tspan4770"
-         y="1032.1404"
-         x="583.80249"
+         y="988.55261"
+         x="556.50769"
          sodipodi:role="line"
-         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1">的櫥窗 4380</tspan></text>
+         style="font-size:22.5px;line-height:1.25;fill:#0000ff;fill-opacity:1">公開的展示櫥窗 4380</tspan></text>
     <g
        transform="matrix(0.17316162,0,0,0.17316162,447.8315,487.15294)"
        inkscape:label="Layer 1"
