@@ -12,8 +12,9 @@ with open(args.file, 'r') as jsf:
     data = json.load(jsf)
 # json.dump(data, sys.stdout, indent=2)
 
-print('country,stringency_index,new_deaths')
+print('country,stringency_index,top_new_deaths,population,tndpm')
 for country in sorted(data.keys()):
+    if not 'population' in data[country]: continue
     new_deaths = []
     stringency_index = 0
     for day in data[country]['data']:
@@ -22,7 +23,7 @@ for country in sorted(data.keys()):
         new_deaths.append(nd)
         stringency_index += si
     stringency_index /= len(data[country]['data'])
-    new_deaths = sorted(new_deaths)[-args.ndays:]
-    new_deaths = sum(new_deaths) / args.ndays
-    print('{},{:.2f},{:.2f}'.format(country, stringency_index, new_deaths))
+    top_new_deaths = sum(sorted(new_deaths)[-args.ndays:]) / args.ndays
+    population = data[country]['population']
+    print('{},{:.2f},{:.2f},{:.0f},{:.2f}'.format(country, stringency_index, top_new_deaths, population, top_new_deaths/population*1e6))
 
