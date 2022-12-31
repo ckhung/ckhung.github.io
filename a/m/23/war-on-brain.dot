@@ -35,25 +35,34 @@ digraph "頭腦爭霸戰" {
 
     # # # # # # # # # # # # # # # # # # # # 
 
-    internet -> { copy_cost_0 everone_producer } ->
-	free_software -> dem_prod_tool;
+    internet -> { copy_cost_0 everone_producer } -> free_software;
+    free_software -> dem_prod_tool [ label="*"; labeltooltip="inkscape\ngimp\naudacity" ];
     { everone_producer copy_cost_0 dem_prod_tool } -> { info_explosion social_engineering };
     { social_motivation info_explosion } -> attention_scarcity;
     { social_motivation dem_prod_tool everone_producer copy_cost_0 } -> social_media;
     { dem_prod_tool copy_cost_0 social_media } -> long_tail;
-    { attention_scarcity social_media } -> { attention_economy emotion attention_span giving_up_privacy };
-    copy_cost_0 -> open_data -> { info_explosion visualization };
-    { attention_span dem_prod_tool } -> visualization;
-    social_motivation -> giving_up_privacy;
+    attention_scarcity -> { attention_economy emotion attention_span giving_up_privacy };
+    social_media -> { attention_economy attention_span giving_up_privacy };
+    social_media -> emotion [ label="*"; labeltooltip="一個怒值五個讚" ];
+    copy_cost_0 -> open_data -> info_explosion;
+    open_data -> visualization [ label="*"; labeltooltip="Hans Rosling\nOWID" ];
+    dem_prod_tool -> visualization [ label="*"; labeltooltip="metabase\ngrafana\nplotly\ngnuplot\nscatplot" ];
+    attention_span -> visualization [ label="*"; labeltooltip="infographics\ninfomercial" ];
+    social_motivation -> giving_up_privacy [ label="*"; labeltooltip="FOMO\nzenly"; ];
     { free_software info_explosion attention_economy giving_up_privacy } -> artificial_intelligence;
     { monetary_motivation attention_scarcity social_media giving_up_privacy } -> surveillance_capitalism;
-    { surveillance_capitalism kol } -> filter_bubble;
+    kol -> filter_bubble;
+    surveillance_capitalism -> filter_bubble [ label="*"; labeltooltip="你也會喜歡" ];
     { filter_bubble attention_span misinformation } -> conflict;
     surveillance_capitalism -> giving_up_privacy;
-    surveillance_capitalism -> walled_garden -> { filter_bubble misinformation };
+    surveillance_capitalism -> walled_garden [ label="*"; labeltooltip="臉書\nline\n抖音\nbilibili" ];
+    surveillance_capitalism -> social_engineering [ label="*"; labeltooltip="黑市個資" ];
+    walled_garden -> misinformation [ label="*"; labeltooltip="臉書禁備份" ];
+    walled_garden -> filter_bubble;
     monetary_motivation -> { social_media social_engineering };
     { political_motivation emotion } -> { kol misinformation surveillance_capitalism }
-    artificial_intelligence -> { surveillance_capitalism; social_engineering; misinformation } [color="#ff0000:white:#ff0000"];
+    artificial_intelligence -> surveillance_capitalism [color="#ff0000:white:#ff0000"];
+    artificial_intelligence -> { misinformation social_engineering } [color="#ff0000:white:#ff0000" label="*"; labeltooltip="deepfake" ];
     { kol misinformation surveillance_capitalism social_engineering } -> your_brain -> { important_personal important_societal }
 }
 
