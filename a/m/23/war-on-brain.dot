@@ -1,0 +1,59 @@
+digraph "頭腦爭霸戰" {
+
+    rankdir = TB;
+    overlap = scale;
+
+    social_motivation [ label="社交意圖"; style=filled; fillcolor="#f0c0ff" ];
+    monetary_motivation [ label="金錢意圖"; style=filled; fillcolor="#f0c0ff" ];
+    political_motivation [ label="良善的vs惡意的\n政治意圖"; style=filled; fillcolor="#f0c0ff" ];
+    internet [ label="網際網路" style=filled; fillcolor="#c0ffff" ];
+    copy_cost_0 [ label="資訊複製零成本" ];
+    open_data [ label="開放資料" ];
+    everone_producer [ label="每個人都可以是\n資訊生產者" ];
+    free_software [ label="自由軟體"; style=filled; fillcolor="#ffffe0" ];
+    dem_prod_tool [ label="圖文影音\n創作工具民主化" ];
+    info_explosion [ label="資訊爆炸"; style=filled; fillcolor="#ffffe0" ];
+    attention_scarcity [ label="注意力稀有" ];
+    social_media [ label="社群媒體" ];
+    emotion [ label="情緒決定\n資訊傳導度"; style=filled; fillcolor="#ffffe0" ];
+    attention_span [ label="人類普遍\n注意力變短"; style=filled; fillcolor="#ffffe0" ];
+    visualization [ label="梗圖 + 懶人包 +\n資料視覺化"; style=filled; fillcolor="#ffffe0" ];
+    long_tail [ label="長尾現象" ];
+    artificial_intelligence [ label="人工智慧" ];
+    attention_economy [ label="注意力經濟：\n創用CC +\nexposure culture +\nreputation economy" ];
+    misinformation [ label="misinformation +\nmalinformation" ];
+    giving_up_privacy [ label="放棄隱私" ];
+    filter_bubble [ label="同溫層\nfilter bubble" ];
+    surveillance_capitalism [ label="surveillance capitalism\n例： targeted advertisement" ];
+    walled_garden [ label="walled garden" ];
+    social_engineering [ label="社交工程/詐騙" ];
+    kol [ label="小編與網紅" ];
+    your_brain [ label="你的大腦\n成為戰場"; style=filled; fillcolor="#ffff40" ];
+    conflict [ shape=rectangle; label="[環保/宗教/性別/...]\n各種議題的社會對立"; style=filled; fillcolor="#ff8080"; ];
+    important_personal [ shape=rectangle; label="個人重要能力：\n搜尋、專注閱讀、\n自省情緒、辨別意圖"; style=filled; fillcolor="#ffffe0" ];
+    important_societal [ shape=rectangle; label="社會重要通識：\n搜尋、媒體識讀、\n心理學、自由軟體"; style=filled; fillcolor="#ffffe0" ];
+
+    # # # # # # # # # # # # # # # # # # # # 
+
+    internet -> { copy_cost_0 everone_producer } ->
+	free_software -> dem_prod_tool;
+    { everone_producer copy_cost_0 dem_prod_tool } -> { info_explosion social_engineering };
+    { social_motivation info_explosion } -> attention_scarcity;
+    { social_motivation dem_prod_tool everone_producer copy_cost_0 } -> social_media;
+    { dem_prod_tool copy_cost_0 social_media } -> long_tail;
+    { attention_scarcity social_media } -> { attention_economy emotion attention_span giving_up_privacy };
+    copy_cost_0 -> open_data -> { info_explosion visualization };
+    { attention_span dem_prod_tool } -> visualization;
+    social_motivation -> giving_up_privacy;
+    { free_software info_explosion attention_economy giving_up_privacy } -> artificial_intelligence;
+    { monetary_motivation attention_scarcity social_media giving_up_privacy } -> surveillance_capitalism;
+    { surveillance_capitalism kol } -> filter_bubble;
+    { filter_bubble attention_span misinformation } -> conflict;
+    surveillance_capitalism -> giving_up_privacy;
+    surveillance_capitalism -> walled_garden -> { filter_bubble misinformation };
+    monetary_motivation -> { social_media social_engineering };
+    { political_motivation emotion } -> { kol misinformation surveillance_capitalism }
+    artificial_intelligence -> { surveillance_capitalism; social_engineering; misinformation } [color="#ff0000:white:#ff0000"];
+    { kol misinformation surveillance_capitalism social_engineering } -> your_brain -> { important_personal important_societal }
+}
+
