@@ -5,7 +5,7 @@ digraph "頭腦爭霸戰" {
 
     social_motivation [ label="社交意圖"; style=filled; fillcolor="#f0c0ff" ];
     monetary_motivation [ label="金錢意圖"; style=filled; fillcolor="#f0c0ff" ];
-    political_motivation [ label="良善的vs惡意的\n政治意圖"; style=filled; fillcolor="#f0c0ff" ];
+    political_motivation [ label="惡意的vs對抗的\n政治意圖"; style=filled; fillcolor="#f0c0ff" ];
     internet [ label="網際網路" style=filled; fillcolor="#c0ffff" ];
     copy_cost_0 [ label="資訊複製零成本" ];
     open_data [ label="(開放政府+)\n開放資料" ];
@@ -14,7 +14,7 @@ digraph "頭腦爭霸戰" {
     dem_prod_tool [ label="圖文影音\n創作工具民主化" ];
     info_explosion [ label="資訊爆炸"; style=filled; fillcolor="#ffffe0" ];
     attention_scarcity [ label="注意力稀有\nHerbert Simon\n注意力經濟\nMichael Goldhaber" ];
-    physical_ae [ label="實體世界的注意力經濟" ];
+    physical_ae [ label="實體世界的\n注意力經濟" ];
     social_media [ label="社群媒體" ];
     astroturfing [ label="偽草根運動\nastroturfing" ];
     emotion [ label="情緒決定\n資訊傳導度"; style=filled; fillcolor="#ffffe0" ];
@@ -34,13 +34,13 @@ digraph "頭腦爭霸戰" {
     editor [ label="小編" ];
     your_brain [ label="你的大腦\n成為戰場"; style=filled; fillcolor="#ffff40" ];
     conflict [ shape=rectangle; label="[環保/宗教/性別/...]\n各種議題的社會對立"; style=filled; fillcolor="#ff8080"; ];
-    important_personal [ shape=rectangle; label="個人重要能力：\n搜尋、專注閱讀、\n自省情緒、辨別意圖"; style=filled; fillcolor="#ffffe0" ];
-    important_societal [ shape=rectangle; label="社會重要通識：\n搜尋、媒體識讀、\n心理學、自由軟體"; style=filled; fillcolor="#ffffe0" ];
+    important_personal [ shape=rectangle; label="個人重要能力：\n搜尋、專注閱讀、\n自省情緒、辨別意圖\n自由軟體、資訊安全"; style=filled; fillcolor="#ffffe0" ];
+    important_societal [ shape=rectangle; label="社會重要通識：\n搜尋、媒體識讀、\n心理學、資訊安全"; style=filled; fillcolor="#ffffe0" ];
 
     # # # # # # # # # # # # # # # # # # # # 
 
     internet -> { copy_cost_0 everone_producer } -> free_software;
-    free_software -> dem_prod_tool [ label="*"; labeltooltip="inkscape\ngimp\naudacity" ];
+    free_software -> dem_prod_tool [ label="*"; labeltooltip="inkscape\ngimp\naudacity\n價格競爭" ];
     { everone_producer copy_cost_0 dem_prod_tool } -> { info_explosion social_engineering };
     { social_motivation info_explosion } -> attention_scarcity;
     { social_motivation dem_prod_tool everone_producer copy_cost_0 } -> social_media;
@@ -51,10 +51,11 @@ digraph "頭腦爭霸戰" {
     attention_scarcity -> giving_up_privacy [ label="*"; labeltooltip="selfie" ];
     attention_scarcity -> emotion [ label="*"; labeltooltip="下標題技巧" ];
     attention_scarcity -> open_data [ label="*"; labeltooltip="創用CC" ];
-    attention_scarcity -> attention_span [ label="*"; labeltooltip="blog=>twitter\nyoutube=>抖音" ];
+    attention_scarcity -> attention_span;
     social_media -> attention_span;
-    social_media -> giving_up_privacy [ label="*"; labeltooltip="venmo\nthisisyourdigitallife\n300個讚\n元宇宙頭盔" ];
-    social_media -> emotion [ label="*"; labeltooltip="一個怒值五個讚" ];
+    attention_span -> social_media [ label="*"; labeltooltip="blog=>twitter\nyoutube=>抖音" ];
+    social_media -> giving_up_privacy [ label="*"; labeltooltip="venmo\nthisisyourdigitallife\n300個讚\n元宇宙頭盔\n网络安全法第二十八条\ntiktok 追蹤鍵盤" ];
+    social_media -> emotion [ label="*"; labeltooltip="回想個人經驗" ];
     everone_producer -> open_data [ label="*"; labeltooltip="維基百科\n開放街圖" ];
     copy_cost_0 -> open_data -> info_explosion;
     open_data -> visualization [ label="*"; labeltooltip="Hans Rosling\nOWID" ];
@@ -79,12 +80,15 @@ digraph "頭腦爭霸戰" {
     attention_scarcity -> google_bm;
     monetary_motivation ->  google_bm [ label="*"; labeltooltip="google\nyoutube\n臉書" ];
     google_bm -> kol [ label="*"; labeltooltip="抖內\n工商服務\n拍賣直播" ];
-    social_media -> astroturfing [ label="*"; labeltooltip="we sell likes" ];
+    social_media -> astroturfing [ label="*"; labeltooltip="we sell likes\n監獄網評員\ntwitter INFO OPs archive" ];
     political_motivation -> astroturfing [ label="*"; labeltooltip="蜂蜜檸檬韓粉美國\n" ];
     monetary_motivation -> misinformation [ label="*"; labeltooltip="馬其頓 假新聞\n真相製造機" ];
-    political_motivation -> { kol editor misinformation surveillance_capitalism };
-    monetary_motivation -> kol;
-    emotion -> { kol editor surveillance_capitalism };
+    political_motivation -> { editor misinformation surveillance_capitalism };
+    political_motivation -> kol [ label="*"; labeltooltip="解放軍南部戰區 對台自媒體及輿論分隊\n大翻譯運動" ];
+    monetary_motivation -> kol [ label="*"; labeltooltip="most super chatted on youtube" ];
+    emotion -> editor;
+    emotion -> surveillance_capitalism [ label="*"; labeltooltip="一個怒值五個讚" ];
+    emotion -> kol [ label="*"; labeltooltip="蔡阿嘎、鼻妹、視網膜\n波特王、斯坦\n朱學恒、館長\nYuri Bezmenov" ];
     emotion -> misinformation [ label="*"; labeltooltip="盜版/山寨/仿冒\n\npredatory journal?\n很多孩子走了\n近二週致死率全球第三高\n只改一個字的「引導腦補」認知戰\n側翼" ];
     artificial_intelligence -> surveillance_capitalism [color="#0000ff:white:#0000ff"; label="*"; labeltooltip="劍橋分析 2.0" ];
     artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="*"; labeltooltip="deepfake" ];
