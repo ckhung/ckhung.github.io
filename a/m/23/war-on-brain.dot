@@ -35,7 +35,7 @@ digraph "頭腦爭霸戰" {
     your_brain [ label="你的大腦\n成為戰場"; style=filled; fillcolor="#ffff40" ];
     conflict [ shape=rectangle; label="[環保/宗教/性別/...]\n各種議題的社會對立"; style=filled; fillcolor="#ff8080"; ];
     important_personal [ shape=rectangle; label="個人重要能力：\n搜尋、專注閱讀、\n自省情緒、辨別意圖\n自由軟體、資訊安全"; style=filled; fillcolor="#ffffe0" ];
-    important_societal [ shape=rectangle; label="社會重要通識：\n搜尋、媒體識讀、\n心理學、資訊安全"; style=filled; fillcolor="#ffffe0" ];
+    important_societal [ shape=rectangle; label="社會重要通識：\n[消息+金流]透明化\n搜尋、媒體識讀、\n心理學、資訊安全"; style=filled; fillcolor="#ffffe0" ];
 
     # # # # # # # # # # # # # # # # # # # # 
 
@@ -89,6 +89,7 @@ digraph "頭腦爭霸戰" {
     emotion -> editor;
     emotion -> surveillance_capitalism [ label="*"; labeltooltip="一個怒值五個讚" ];
     emotion -> kol [ label="*"; labeltooltip="蔡阿嘎、鼻妹、視網膜\n波特王、斯坦\n朱學恒、館長\nYuri Bezmenov" ];
+    emotion -> conflict [ label="*"; labeltooltip="社會運動\nYuri Bezmenov" ];
     emotion -> misinformation [ label="*"; labeltooltip="盜版/山寨/仿冒\n\npredatory journal?\n很多孩子走了\n近二週致死率全球第三高\n只改一個字的「引導腦補」認知戰\n側翼" ];
     artificial_intelligence -> surveillance_capitalism [color="#0000ff:white:#0000ff"; label="*"; labeltooltip="劍橋分析 2.0" ];
     artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="*"; labeltooltip="deepfake" ];
