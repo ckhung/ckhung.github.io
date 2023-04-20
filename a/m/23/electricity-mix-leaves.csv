@@ -1,4 +1,4 @@
-code,continent,Entity,Year,Net imports (TWh),Electricity from coal (TWh),Electricity from oil (TWh),Electricity from gas (TWh),Electricity from nuclear (TWh),Electricity from hydro (TWh),Electricity from solar (TWh),Electricity from wind (TWh),Electricity from bioenergy (TWh),Electricity from other renewables excluding bioenergy (TWh)
+code,continent,Entity,Year,imports,coal,oil,gas,nuclear,hydro,solar,wind,bio,other
 AFG,Asia,Afghanistan,2000,0.1,0,0.16,0,0,0.31,0,0,0,0
 AFG,Asia,Afghanistan,2001,0.1,0,0.09,0,0,0.5,0,0,0,0
 AFG,Asia,Afghanistan,2002,0.1,0,0.13,0,0,0.56,0,0,0,0
