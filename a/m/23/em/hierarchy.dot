@@ -1,0 +1,13 @@
+// dot -Tsvg boot.dot > boot.svg
+graph "Energy Mix Categories" {
+
+    rankdir = TB;
+    overlap = scale;
+
+    demand -- { import generation }
+    generation -- { fossil low_carbon }
+    fossil -- { coal oil gas }
+    low_carbon -- { nuclear renewable }
+    renewable -- { hydro solar wind bio other }
+}
+
