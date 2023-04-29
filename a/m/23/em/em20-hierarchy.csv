@@ -1,0 +1,1882 @@
+code,continent,Entity,Year,type,source,value
+AFG,Asia,Afghanistan,2020,fossil,coal,0.0
+ALB,Europe,Albania,2020,fossil,coal,0.0
+DZA,Africa,Algeria,2020,fossil,coal,0.0
+ASM,Oceania,American Samoa,2020,fossil,coal,0.0
+AGO,Africa,Angola,2020,fossil,coal,0.0
+ATG,North America,Antigua and Barbuda,2020,fossil,coal,0.0
+ARG,South America,Argentina,2020,fossil,coal,2.53
+ARM,Asia,Armenia,2020,fossil,coal,0.0
+ABW,North America,Aruba,2020,fossil,coal,0.0
+AUS,Oceania,Australia,2020,fossil,coal,130.94
+AUT,Europe,Austria,2020,fossil,coal,0.56
+AZE,Asia,Azerbaijan,2020,fossil,coal,0.0
+BHS,North America,Bahamas,2020,fossil,coal,0.0
+BHR,Asia,Bahrain,2020,fossil,coal,0.0
+BGD,Asia,Bangladesh,2020,fossil,coal,5.86
+BRB,North America,Barbados,2020,fossil,coal,0.0
+BLR,Europe,Belarus,2020,fossil,coal,0.0
+BEL,Europe,Belgium,2020,fossil,coal,0.08
+BLZ,North America,Belize,2020,fossil,coal,0.0
+BEN,Africa,Benin,2020,fossil,coal,0.0
+BTN,Asia,Bhutan,2020,fossil,coal,0.0
+BOL,South America,Bolivia,2020,fossil,coal,0.0
+BIH,Europe,Bosnia and Herzegovina,2020,fossil,coal,10.7
+BWA,Africa,Botswana,2020,fossil,coal,1.68
+BRA,South America,Brazil,2020,fossil,coal,21.05
+VGB,North America,British Virgin Islands,2020,fossil,coal,0.0
+BDI,Africa,Brunei,2020,fossil,coal,2.3
+BGR,Europe,Bulgaria,2020,fossil,coal,13.51
+BFA,Africa,Burkina Faso,2020,fossil,coal,0.0
+BDI,Africa,Burundi,2020,fossil,coal,0.0
+KHM,Asia,Cambodia,2020,fossil,coal,3.41
+CMR,Africa,Cameroon,2020,fossil,coal,0.0
+CAN,North America,Canada,2020,fossil,coal,33.7
+CPV,Africa,Cape Verde,2020,fossil,coal,0.0
+CYM,North America,Cayman Islands,2020,fossil,coal,0.0
+CAF,Africa,Central African Republic,2020,fossil,coal,0.0
+TCD,Africa,Chad,2020,fossil,coal,0.0
+CHL,South America,Chile,2020,fossil,coal,16.09
+CHN,Asia,China,2020,fossil,coal,4917.72
+COL,South America,Colombia,2020,fossil,coal,6.53
+COM,Africa,Comoros,2020,fossil,coal,0.0
+COG,Africa,Congo,2020,fossil,coal,0.0
+COK,Oceania,Cook Islands,2020,fossil,coal,0.0
+CRI,North America,Costa Rica,2020,fossil,coal,0.0
+CIV,Africa,Cote d'Ivoire,2020,fossil,coal,0.0
+HRV,Europe,Croatia,2020,fossil,coal,1.22
+CUB,North America,Cuba,2020,fossil,coal,0.0
+CYP,Asia,Cyprus,2020,fossil,coal,0.0
+CZE,Europe,Czechia,2020,fossil,coal,31.0
+COD,Africa,Democratic Republic of Congo,2020,fossil,coal,0.0
+DNK,Europe,Denmark,2020,fossil,coal,3.06
+DJI,Africa,Djibouti,2020,fossil,coal,0.0
+DMA,North America,Dominica,2020,fossil,coal,0.0
+DOM,North America,Dominican Republic,2020,fossil,coal,5.04
+ZAF,Africa,Eastern Africa,2020,fossil,coal,
+ECU,South America,Ecuador,2020,fossil,coal,0.0
+EGY,Africa,Egypt,2020,fossil,coal,0.0
+SLV,North America,El Salvador,2020,fossil,coal,0.0
+GNQ,Africa,Equatorial Guinea,2020,fossil,coal,0.0
+ERI,Africa,Eritrea,2020,fossil,coal,0.0
+EST,Europe,Estonia,2020,fossil,coal,0.0
+SWZ,Africa,Eswatini,2020,fossil,coal,0.0
+ETH,Africa,Ethiopia,2020,fossil,coal,0.0
+FRO,Europe,Faroe Islands,2020,fossil,coal,0.0
+FLK,South America,Falkland Islands,2020,fossil,coal,0.0
+FJI,Oceania,Fiji,2020,fossil,coal,0.0
+FIN,Europe,Finland,2020,fossil,coal,2.44
+FRA,Europe,France,2020,fossil,coal,3.09
+GUF,South America,French Guiana,2020,fossil,coal,0.0
+PYF,Oceania,French Polynesia,2020,fossil,coal,0.0
+GAB,Africa,Gabon,2020,fossil,coal,0.0
+GMB,Africa,Gambia,2020,fossil,coal,0.0
+GEO,Asia,Georgia,2020,fossil,coal,0.0
+DEU,Europe,Germany,2020,fossil,coal,133.58
+GHA,Africa,Ghana,2020,fossil,coal,0.0
+GRC,Europe,Greece,2020,fossil,coal,6.61
+GRL,North America,Greenland,2020,fossil,coal,0.0
+GRD,North America,Grenada,2020,fossil,coal,0.0
+GLP,North America,Guadeloupe,2020,fossil,coal,1.09
+GUM,Oceania,Guam,2020,fossil,coal,0.0
+GTM,North America,Guatemala,2020,fossil,coal,1.86
+GIN,Africa,Guinea,2020,fossil,coal,0.0
+GNB,Africa,Guinea-Bissau,2020,fossil,coal,0.0
+GUY,South America,Guyana,2020,fossil,coal,0.0
+HTI,North America,Haiti,2020,fossil,coal,0.0
+HND,North America,Honduras,2020,fossil,coal,0.44
+HKG,Asia,Hong Kong,2020,fossil,coal,19.57
+HUN,Europe,Hungary,2020,fossil,coal,3.71
+ISL,Europe,Iceland,2020,fossil,coal,0.0
+IND,Asia,India,2020,fossil,coal,1125.22
+IDN,Asia,Indonesia,2020,fossil,coal,180.87
+IRN,Asia,Iran,2020,fossil,coal,0.6
+IRQ,Asia,Iraq,2020,fossil,coal,0.0
+IRL,Europe,Ireland,2020,fossil,coal,0.67
+ISR,Asia,Israel,2020,fossil,coal,19.74
+ITA,Europe,Italy,2020,fossil,coal,13.38
+JAM,North America,Jamaica,2020,fossil,coal,0.0
+JPN,Asia,Japan,2020,fossil,coal,286.83
+JOR,Asia,Jordan,2020,fossil,coal,0.0
+KAZ,Asia,Kazakhstan,2020,fossil,coal,72.96
+KEN,Africa,Kenya,2020,fossil,coal,0.0
+KIR,Oceania,Kiribati,2020,fossil,coal,0.0
+XXK,Europe,Kosovo,2020,fossil,coal,6.33
+KWT,Asia,Kuwait,2020,fossil,coal,0.0
+KGZ,Asia,Kyrgyzstan,2020,fossil,coal,1.08
+LAO,Asia,Laos,2020,fossil,coal,10.51
+LVA,Europe,Latvia,2020,fossil,coal,0.0
+LBN,Asia,Lebanon,2020,fossil,coal,0.0
+LSO,Africa,Lesotho,2020,fossil,coal,0.0
+LBR,Africa,Liberia,2020,fossil,coal,0.0
+LBY,Africa,Libya,2020,fossil,coal,0.0
+LTU,Europe,Lithuania,2020,fossil,coal,0.0
+LUX,Europe,Luxembourg,2020,fossil,coal,0.0
+MAC,Asia,Macao,2020,fossil,coal,0.0
+MDG,Africa,Madagascar,2020,fossil,coal,0.21
+MWI,Africa,Malawi,2020,fossil,coal,0.0
+MYS,Asia,Malaysia,2020,fossil,coal,70.14
+MDV,Asia,Maldives,2020,fossil,coal,0.0
+MLI,Africa,Mali,2020,fossil,coal,0.0
+MLT,Europe,Malta,2020,fossil,coal,0.0
+MTQ,North America,Martinique,2020,fossil,coal,0.0
+MRT,Africa,Mauritania,2020,fossil,coal,0.0
+MUS,Africa,Mauritius,2020,fossil,coal,0.66
+MEX,North America,Mexico,2020,fossil,coal,18.19
+MDA,Europe,Moldova,2020,fossil,coal,3.28
+MNG,Asia,Mongolia,2020,fossil,coal,6.02
+MNE,Europe,Montenegro,2020,fossil,coal,1.62
+MSR,North America,Montserrat,2020,fossil,coal,0.0
+MAR,Africa,Morocco,2020,fossil,coal,21.95
+MOZ,Africa,Mozambique,2020,fossil,coal,0.0
+MMR,Asia,Myanmar,2020,fossil,coal,0.89
+NAM,Africa,Namibia,2020,fossil,coal,0.03
+NRU,Oceania,Nauru,2020,fossil,coal,0.0
+NPL,Asia,Nepal,2020,fossil,coal,0.0
+NLD,Europe,Netherlands,2020,fossil,coal,7.61
+NCL,Oceania,New Caledonia,2020,fossil,coal,0.0
+NZL,Oceania,New Zealand,2020,fossil,coal,2.42
+NIC,North America,Nicaragua,2020,fossil,coal,0.0
+NER,Africa,Niger,2020,fossil,coal,0.0
+NGA,Africa,Nigeria,2020,fossil,coal,0.54
+PRK,Asia,North Korea,2020,fossil,coal,2.41
+MKD,Europe,North Macedonia,2020,fossil,coal,2.63
+NOR,Europe,Norway,2020,fossil,coal,0.04
+OMN,Asia,Oman,2020,fossil,coal,0.0
+PAK,Asia,Pakistan,2020,fossil,coal,18.25
+PSE,Asia,Palestine,2020,fossil,coal,0.0
+PAN,North America,Panama,2020,fossil,coal,0.98
+PNG,Oceania,Papua New Guinea,2020,fossil,coal,0.0
+PRY,South America,Paraguay,2020,fossil,coal,0.0
+PER,South America,Peru,2020,fossil,coal,0.34
+PHL,Asia,Philippines,2020,fossil,coal,44.9
+POL,Europe,Poland,2020,fossil,coal,107.4
+PRT,Europe,Portugal,2020,fossil,coal,2.36
+PRI,North America,Puerto Rico,2020,fossil,coal,0.0
+QAT,Asia,Qatar,2020,fossil,coal,0.0
+ROU,Europe,Romania,2020,fossil,coal,9.36
+RUS,Europe,Russia,2020,fossil,coal,143.83
+RWA,Africa,Rwanda,2020,fossil,coal,0.0
+KNA,North America,Saint Kitts and Nevis,2020,fossil,coal,0.0
+LCA,North America,Saint Lucia,2020,fossil,coal,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,fossil,coal,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,fossil,coal,0.0
+WSM,Oceania,Samoa,2020,fossil,coal,0.0
+STP,Africa,Sao Tome and Principe,2020,fossil,coal,0.0
+SAU,Asia,Saudi Arabia,2020,fossil,coal,0.0
+SEN,Africa,Senegal,2020,fossil,coal,0.12
+SRB,Europe,Serbia,2020,fossil,coal,26.46
+SYC,Africa,Seychelles,2020,fossil,coal,0.0
+SLE,Africa,Sierra Leone,2020,fossil,coal,0.0
+SGP,Asia,Singapore,2020,fossil,coal,0.0
+SVK,Europe,Slovakia,2020,fossil,coal,1.86
+SVN,Europe,Slovenia,2020,fossil,coal,4.36
+SLB,Oceania,Solomon Islands,2020,fossil,coal,0.0
+SOM,Africa,Somalia,2020,fossil,coal,0.0
+ZAF,Africa,South Africa,2020,fossil,coal,194.44
+KOR,Asia,South Korea,2020,fossil,coal,197.72
+SSD,Africa,South Sudan,2020,fossil,coal,0.0
+ESP,Europe,Spain,2020,fossil,coal,5.52
+LKA,Asia,Sri Lanka,2020,fossil,coal,4.17
+SDN,Africa,Sudan,2020,fossil,coal,0.0
+SUR,South America,Suriname,2020,fossil,coal,0.0
+SWE,Europe,Sweden,2020,fossil,coal,0.0
+CHE,Europe,Switzerland,2020,fossil,coal,0.0
+SYR,Asia,Syria,2020,fossil,coal,0.09
+TWN,Asia,Taiwan,2020,fossil,coal,127.03
+TJK,Asia,Tajikistan,2020,fossil,coal,0.41
+TZA,Africa,Tanzania,2020,fossil,coal,0.0
+THA,Asia,Thailand,2020,fossil,coal,36.61
+TGO,Africa,Togo,2020,fossil,coal,0.0
+TON,Oceania,Tonga,2020,fossil,coal,0.0
+TTO,North America,Trinidad and Tobago,2020,fossil,coal,0.0
+TUN,Africa,Tunisia,2020,fossil,coal,0.0
+TUR,Asia,Turkey,2020,fossil,coal,104.02
+TKM,Asia,Turkmenistan,2020,fossil,coal,0.0
+TCA,North America,Turks and Caicos Islands,2020,fossil,coal,0.0
+UGA,Africa,Uganda,2020,fossil,coal,0.0
+UKR,Europe,Ukraine,2020,fossil,coal,38.63
+ARE,Asia,United Arab Emirates,2020,fossil,coal,0.0
+GBR,Europe,United Kingdom,2020,fossil,coal,5.32
+USA,North America,United States,2020,fossil,coal,773.39
+VIR,North America,United States Virgin Islands,2020,fossil,coal,0.0
+URY,South America,Uruguay,2020,fossil,coal,0.0
+UZB,Asia,Uzbekistan,2020,fossil,coal,10.22
+VUT,Oceania,Vanuatu,2020,fossil,coal,0.0
+VEN,South America,Venezuela,2020,fossil,coal,0.0
+VNM,Asia,Vietnam,2020,fossil,coal,115.74
+YEM,Asia,Yemen,2020,fossil,coal,0.0
+ZMB,Africa,Zambia,2020,fossil,coal,1.27
+ZWE,Africa,Zimbabwe,2020,fossil,coal,3.62
+AFG,Asia,Afghanistan,2020,fossil,oil,0.18
+ALB,Europe,Albania,2020,fossil,oil,0.0
+DZA,Africa,Algeria,2020,fossil,oil,0.0
+ASM,Oceania,American Samoa,2020,fossil,oil,0.16
+AGO,Africa,Angola,2020,fossil,oil,0.68
+ATG,North America,Antigua and Barbuda,2020,fossil,oil,0.33
+ARG,South America,Argentina,2020,fossil,oil,7.62
+ARM,Asia,Armenia,2020,fossil,oil,0.0
+ABW,North America,Aruba,2020,fossil,oil,0.77
+AUS,Oceania,Australia,2020,fossil,oil,4.13
+AUT,Europe,Austria,2020,fossil,oil,3.26
+AZE,Asia,Azerbaijan,2020,fossil,oil,8.54
+BHS,North America,Bahamas,2020,fossil,oil,2.1
+BHR,Asia,Bahrain,2020,fossil,oil,0.03
+BGD,Asia,Bangladesh,2020,fossil,oil,16.13
+BRB,North America,Barbados,2020,fossil,oil,0.98
+BLR,Europe,Belarus,2020,fossil,oil,0.0
+BEL,Europe,Belgium,2020,fossil,oil,3.14
+BLZ,North America,Belize,2020,fossil,oil,0.37
+BEN,Africa,Benin,2020,fossil,oil,0.22
+BTN,Asia,Bhutan,2020,fossil,oil,0.0
+BOL,South America,Bolivia,2020,fossil,oil,0.0
+BIH,Europe,Bosnia and Herzegovina,2020,fossil,oil,0.11
+BWA,Africa,Botswana,2020,fossil,oil,0.37
+BRA,South America,Brazil,2020,fossil,oil,6.91
+VGB,North America,British Virgin Islands,2020,fossil,oil,0.14
+BDI,Africa,Brunei,2020,fossil,oil,0.13
+BGR,Europe,Bulgaria,2020,fossil,oil,0.32
+BFA,Africa,Burkina Faso,2020,fossil,oil,1.56
+BDI,Africa,Burundi,2020,fossil,oil,0.08
+KHM,Asia,Cambodia,2020,fossil,oil,0.53
+CMR,Africa,Cameroon,2020,fossil,oil,3.04
+CAN,North America,Canada,2020,fossil,oil,3.13
+CPV,Africa,Cape Verde,2020,fossil,oil,0.38
+CYM,North America,Cayman Islands,2020,fossil,oil,0.68
+CAF,Africa,Central African Republic,2020,fossil,oil,0.0
+TCD,Africa,Chad,2020,fossil,oil,0.29
+CHL,South America,Chile,2020,fossil,oil,12.41
+CHN,Asia,China,2020,fossil,oil,11.42
+COL,South America,Colombia,2020,fossil,oil,0.75
+COM,Africa,Comoros,2020,fossil,oil,0.1
+COG,Africa,Congo,2020,fossil,oil,0.43
+COK,Oceania,Cook Islands,2020,fossil,oil,0.03
+CRI,North America,Costa Rica,2020,fossil,oil,0.14
+CIV,Africa,Cote d'Ivoire,2020,fossil,oil,2.05
+HRV,Europe,Croatia,2020,fossil,oil,0.03
+CUB,North America,Cuba,2020,fossil,oil,15.03
+CYP,Asia,Cyprus,2020,fossil,oil,4.25
+CZE,Europe,Czechia,2020,fossil,oil,1.85
+COD,Africa,Democratic Republic of Congo,2020,fossil,oil,0.03
+DNK,Europe,Denmark,2020,fossil,oil,1.04
+DJI,Africa,Djibouti,2020,fossil,oil,0.06
+DMA,North America,Dominica,2020,fossil,oil,0.07
+DOM,North America,Dominican Republic,2020,fossil,oil,6.17
+ZAF,Africa,Eastern Africa,2020,fossil,oil,
+ECU,South America,Ecuador,2020,fossil,oil,3.97
+EGY,Africa,Egypt,2020,fossil,oil,23.26
+SLV,North America,El Salvador,2020,fossil,oil,0.95
+GNQ,Africa,Equatorial Guinea,2020,fossil,oil,1.01
+ERI,Africa,Eritrea,2020,fossil,oil,0.43
+EST,Europe,Estonia,2020,fossil,oil,3.08
+SWZ,Africa,Eswatini,2020,fossil,oil,0.04
+ETH,Africa,Ethiopia,2020,fossil,oil,0.01
+FRO,Europe,Faroe Islands,2020,fossil,oil,0.22
+FLK,South America,Falkland Islands,2020,fossil,oil,0.01
+FJI,Oceania,Fiji,2020,fossil,oil,0.39
+FIN,Europe,Finland,2020,fossil,oil,3.39
+FRA,Europe,France,2020,fossil,oil,9.78
+GUF,South America,French Guiana,2020,fossil,oil,0.5
+PYF,Oceania,French Polynesia,2020,fossil,oil,0.46
+GAB,Africa,Gabon,2020,fossil,oil,1.25
+GMB,Africa,Gambia,2020,fossil,oil,0.3
+GEO,Asia,Georgia,2020,fossil,oil,0.0
+DEU,Europe,Germany,2020,fossil,oil,21.04
+GHA,Africa,Ghana,2020,fossil,oil,2.99
+GRC,Europe,Greece,2020,fossil,oil,4.77
+GRL,North America,Greenland,2020,fossil,oil,0.1
+GRD,North America,Grenada,2020,fossil,oil,0.21
+GLP,North America,Guadeloupe,2020,fossil,oil,0.0
+GUM,Oceania,Guam,2020,fossil,oil,1.7
+GTM,North America,Guatemala,2020,fossil,oil,1.82
+GIN,Africa,Guinea,2020,fossil,oil,0.75
+GNB,Africa,Guinea-Bissau,2020,fossil,oil,0.08
+GUY,South America,Guyana,2020,fossil,oil,1.0
+HTI,North America,Haiti,2020,fossil,oil,0.85
+HND,North America,Honduras,2020,fossil,oil,4.19
+HKG,Asia,Hong Kong,2020,fossil,oil,0.0
+HUN,Europe,Hungary,2020,fossil,oil,0.4
+ISL,Europe,Iceland,2020,fossil,oil,0.0
+IND,Asia,India,2020,fossil,oil,4.86
+IDN,Asia,Indonesia,2020,fossil,oil,6.76
+IRN,Asia,Iran,2020,fossil,oil,73.04
+IRQ,Asia,Iraq,2020,fossil,oil,16.07
+IRL,Europe,Ireland,2020,fossil,oil,1.61
+ISR,Asia,Israel,2020,fossil,oil,0.0
+ITA,Europe,Italy,2020,fossil,oil,14.09
+JAM,North America,Jamaica,2020,fossil,oil,2.36
+JPN,Asia,Japan,2020,fossil,oil,39.92
+JOR,Asia,Jordan,2020,fossil,oil,1.64
+KAZ,Asia,Kazakhstan,2020,fossil,oil,0.0
+KEN,Africa,Kenya,2020,fossil,oil,0.75
+KIR,Oceania,Kiribati,2020,fossil,oil,0.03
+XXK,Europe,Kosovo,2020,fossil,oil,0.01
+KWT,Asia,Kuwait,2020,fossil,oil,0.0
+KGZ,Asia,Kyrgyzstan,2020,fossil,oil,0.06
+LAO,Asia,Laos,2020,fossil,oil,0.0
+LVA,Europe,Latvia,2020,fossil,oil,0.0
+LBN,Asia,Lebanon,2020,fossil,oil,7.94
+LSO,Africa,Lesotho,2020,fossil,oil,0.0
+LBR,Africa,Liberia,2020,fossil,oil,0.31
+LBY,Africa,Libya,2020,fossil,oil,9.45
+LTU,Europe,Lithuania,2020,fossil,oil,0.26
+LUX,Europe,Luxembourg,2020,fossil,oil,0.07
+MAC,Asia,Macao,2020,fossil,oil,0.0
+MDG,Africa,Madagascar,2020,fossil,oil,0.89
+MWI,Africa,Malawi,2020,fossil,oil,0.21
+MYS,Asia,Malaysia,2020,fossil,oil,0.98
+MDV,Asia,Maldives,2020,fossil,oil,0.61
+MLI,Africa,Mali,2020,fossil,oil,2.15
+MLT,Europe,Malta,2020,fossil,oil,0.06
+MTQ,North America,Martinique,2020,fossil,oil,1.46
+MRT,Africa,Mauritania,2020,fossil,oil,1.36
+MUS,Africa,Mauritius,2020,fossil,oil,1.48
+MEX,North America,Mexico,2020,fossil,oil,32.36
+MDA,Europe,Moldova,2020,fossil,oil,0.0
+MNG,Asia,Mongolia,2020,fossil,oil,0.0
+MNE,Europe,Montenegro,2020,fossil,oil,0.0
+MSR,North America,Montserrat,2020,fossil,oil,0.02
+MAR,Africa,Morocco,2020,fossil,oil,4.01
+MOZ,Africa,Mozambique,2020,fossil,oil,1.23
+MMR,Asia,Myanmar,2020,fossil,oil,3.28
+NAM,Africa,Namibia,2020,fossil,oil,0.01
+NRU,Oceania,Nauru,2020,fossil,oil,0.03
+NPL,Asia,Nepal,2020,fossil,oil,0.0
+NLD,Europe,Netherlands,2020,fossil,oil,5.69
+NCL,Oceania,New Caledonia,2020,fossil,oil,2.6
+NZL,Oceania,New Zealand,2020,fossil,oil,0.75
+NIC,North America,Nicaragua,2020,fossil,oil,2.16
+NER,Africa,Niger,2020,fossil,oil,0.56
+NGA,Africa,Nigeria,2020,fossil,oil,0.04
+PRK,Asia,North Korea,2020,fossil,oil,0.0
+MKD,Europe,North Macedonia,2020,fossil,oil,0.09
+NOR,Europe,Norway,2020,fossil,oil,0.55
+OMN,Asia,Oman,2020,fossil,oil,0.0
+PAK,Asia,Pakistan,2020,fossil,oil,12.09
+PSE,Asia,Palestine,2020,fossil,oil,0.43
+PAN,North America,Panama,2020,fossil,oil,2.26
+PNG,Oceania,Papua New Guinea,2020,fossil,oil,3.16
+PRY,South America,Paraguay,2020,fossil,oil,0.0
+PER,South America,Peru,2020,fossil,oil,8.16
+PHL,Asia,Philippines,2020,fossil,oil,17.91
+POL,Europe,Poland,2020,fossil,oil,4.22
+PRT,Europe,Portugal,2020,fossil,oil,1.47
+PRI,North America,Puerto Rico,2020,fossil,oil,16.8
+QAT,Asia,Qatar,2020,fossil,oil,0.0
+ROU,Europe,Romania,2020,fossil,oil,0.72
+RUS,Europe,Russia,2020,fossil,oil,10.14
+RWA,Africa,Rwanda,2020,fossil,oil,0.55
+KNA,North America,Saint Kitts and Nevis,2020,fossil,oil,0.21
+LCA,North America,Saint Lucia,2020,fossil,oil,0.35
+SPM,North America,Saint Pierre and Miquelon,2020,fossil,oil,0.05
+VCT,North America,Saint Vincent and the Grenadines,2020,fossil,oil,0.12
+WSM,Oceania,Samoa,2020,fossil,oil,0.09
+STP,Africa,Sao Tome and Principe,2020,fossil,oil,0.08
+SAU,Asia,Saudi Arabia,2020,fossil,oil,132.84
+SEN,Africa,Senegal,2020,fossil,oil,2.74
+SRB,Europe,Serbia,2020,fossil,oil,0.05
+SYC,Africa,Seychelles,2020,fossil,oil,0.49
+SLE,Africa,Sierra Leone,2020,fossil,oil,0.02
+SGP,Asia,Singapore,2020,fossil,oil,1.5
+SVK,Europe,Slovakia,2020,fossil,oil,0.79
+SVN,Europe,Slovenia,2020,fossil,oil,0.02
+SLB,Oceania,Solomon Islands,2020,fossil,oil,0.1
+SOM,Africa,Somalia,2020,fossil,oil,0.33
+ZAF,Africa,South Africa,2020,fossil,oil,1.37
+KOR,Asia,South Korea,2020,fossil,oil,6.67
+SSD,Africa,South Sudan,2020,fossil,oil,0.55
+ESP,Europe,Spain,2020,fossil,oil,12.38
+LKA,Asia,Sri Lanka,2020,fossil,oil,5.94
+SDN,Africa,Sudan,2020,fossil,oil,2.88
+SUR,South America,Suriname,2020,fossil,oil,0.99
+SWE,Europe,Sweden,2020,fossil,oil,2.34
+CHE,Europe,Switzerland,2020,fossil,oil,3.49
+SYR,Asia,Syria,2020,fossil,oil,5.4
+TWN,Asia,Taiwan,2020,fossil,oil,4.28
+TJK,Asia,Tajikistan,2020,fossil,oil,0.61
+TZA,Africa,Tanzania,2020,fossil,oil,2.46
+THA,Asia,Thailand,2020,fossil,oil,0.72
+TGO,Africa,Togo,2020,fossil,oil,0.45
+TON,Oceania,Tonga,2020,fossil,oil,0.06
+TTO,North America,Trinidad and Tobago,2020,fossil,oil,1.27
+TUN,Africa,Tunisia,2020,fossil,oil,0.0
+TUR,Asia,Turkey,2020,fossil,oil,2.13
+TKM,Asia,Turkmenistan,2020,fossil,oil,5.48
+TCA,North America,Turks and Caicos Islands,2020,fossil,oil,0.24
+UGA,Africa,Uganda,2020,fossil,oil,0.29
+UKR,Europe,Ukraine,2020,fossil,oil,1.68
+ARE,Asia,United Arab Emirates,2020,fossil,oil,0.0
+GBR,Europe,United Kingdom,2020,fossil,oil,8.21
+USA,North America,United States,2020,fossil,oil,34.34
+VIR,North America,United States Virgin Islands,2020,fossil,oil,0.61
+URY,South America,Uruguay,2020,fossil,oil,0.17
+UZB,Asia,Uzbekistan,2020,fossil,oil,1.23
+VUT,Oceania,Vanuatu,2020,fossil,oil,0.05
+VEN,South America,Venezuela,2020,fossil,oil,10.45
+VNM,Asia,Vietnam,2020,fossil,oil,1.51
+YEM,Asia,Yemen,2020,fossil,oil,1.92
+ZMB,Africa,Zambia,2020,fossil,oil,0.73
+ZWE,Africa,Zimbabwe,2020,fossil,oil,0.04
+AFG,Asia,Afghanistan,2020,fossil,gas,0.0
+ALB,Europe,Albania,2020,fossil,gas,0.0
+DZA,Africa,Algeria,2020,fossil,gas,75.85
+ASM,Oceania,American Samoa,2020,fossil,gas,0.0
+AGO,Africa,Angola,2020,fossil,gas,3.58
+ATG,North America,Antigua and Barbuda,2020,fossil,gas,0.0
+ARG,South America,Argentina,2020,fossil,gas,82.33
+ARM,Asia,Armenia,2020,fossil,gas,2.97
+ABW,North America,Aruba,2020,fossil,gas,0.0
+AUS,Oceania,Australia,2020,fossil,gas,48.67
+AUT,Europe,Austria,2020,fossil,gas,9.95
+AZE,Asia,Azerbaijan,2020,fossil,gas,16.42
+BHS,North America,Bahamas,2020,fossil,gas,0.0
+BHR,Asia,Bahrain,2020,fossil,gas,31.4
+BGD,Asia,Bangladesh,2020,fossil,gas,57.13
+BRB,North America,Barbados,2020,fossil,gas,0.0
+BLR,Europe,Belarus,2020,fossil,gas,34.45
+BEL,Europe,Belgium,2020,fossil,gas,26.78
+BLZ,North America,Belize,2020,fossil,gas,0.0
+BEN,Africa,Benin,2020,fossil,gas,0.0
+BTN,Asia,Bhutan,2020,fossil,gas,0.0
+BOL,South America,Bolivia,2020,fossil,gas,5.87
+BIH,Europe,Bosnia and Herzegovina,2020,fossil,gas,0.0
+BWA,Africa,Botswana,2020,fossil,gas,0.0
+BRA,South America,Brazil,2020,fossil,gas,51.78
+VGB,North America,British Virgin Islands,2020,fossil,gas,0.0
+BDI,Africa,Brunei,2020,fossil,gas,2.21
+BGR,Europe,Bulgaria,2020,fossil,gas,2.29
+BFA,Africa,Burkina Faso,2020,fossil,gas,0.0
+BDI,Africa,Burundi,2020,fossil,gas,0.0
+KHM,Asia,Cambodia,2020,fossil,gas,0.0
+CMR,Africa,Cameroon,2020,fossil,gas,0.0
+CAN,North America,Canada,2020,fossil,gas,67.09
+CPV,Africa,Cape Verde,2020,fossil,gas,0.0
+CYM,North America,Cayman Islands,2020,fossil,gas,0.0
+CAF,Africa,Central African Republic,2020,fossil,gas,0.0
+TCD,Africa,Chad,2020,fossil,gas,0.0
+CHL,South America,Chile,2020,fossil,gas,15.92
+CHN,Asia,China,2020,fossil,gas,246.97
+COL,South America,Colombia,2020,fossil,gas,15.1
+COM,Africa,Comoros,2020,fossil,gas,0.0
+COG,Africa,Congo,2020,fossil,gas,2.13
+COK,Oceania,Cook Islands,2020,fossil,gas,0.0
+CRI,North America,Costa Rica,2020,fossil,gas,0.0
+CIV,Africa,Cote d'Ivoire,2020,fossil,gas,5.23
+HRV,Europe,Croatia,2020,fossil,gas,3.44
+CUB,North America,Cuba,2020,fossil,gas,1.5
+CYP,Asia,Cyprus,2020,fossil,gas,0.0
+CZE,Europe,Czechia,2020,fossil,gas,6.87
+COD,Africa,Democratic Republic of Congo,2020,fossil,gas,0.0
+DNK,Europe,Denmark,2020,fossil,gas,1.18
+DJI,Africa,Djibouti,2020,fossil,gas,0.0
+DMA,North America,Dominica,2020,fossil,gas,0.0
+DOM,North America,Dominican Republic,2020,fossil,gas,5.49
+ZAF,Africa,Eastern Africa,2020,fossil,gas,
+ECU,South America,Ecuador,2020,fossil,gas,1.1
+EGY,Africa,Egypt,2020,fossil,gas,130.2
+SLV,North America,El Salvador,2020,fossil,gas,0.2
+GNQ,Africa,Equatorial Guinea,2020,fossil,gas,0.0
+ERI,Africa,Eritrea,2020,fossil,gas,0.0
+EST,Europe,Estonia,2020,fossil,gas,0.03
+SWZ,Africa,Eswatini,2020,fossil,gas,0.0
+ETH,Africa,Ethiopia,2020,fossil,gas,0.0
+FRO,Europe,Faroe Islands,2020,fossil,gas,0.0
+FLK,South America,Falkland Islands,2020,fossil,gas,0.0
+FJI,Oceania,Fiji,2020,fossil,gas,0.0
+FIN,Europe,Finland,2020,fossil,gas,3.99
+FRA,Europe,France,2020,fossil,gas,35.32
+GUF,South America,French Guiana,2020,fossil,gas,0.0
+PYF,Oceania,French Polynesia,2020,fossil,gas,0.0
+GAB,Africa,Gabon,2020,fossil,gas,0.0
+GMB,Africa,Gambia,2020,fossil,gas,0.0
+GEO,Asia,Georgia,2020,fossil,gas,2.65
+DEU,Europe,Germany,2020,fossil,gas,95.37
+GHA,Africa,Ghana,2020,fossil,gas,8.63
+GRC,Europe,Greece,2020,fossil,gas,19.23
+GRL,North America,Greenland,2020,fossil,gas,0.0
+GRD,North America,Grenada,2020,fossil,gas,0.0
+GLP,North America,Guadeloupe,2020,fossil,gas,0.0
+GUM,Oceania,Guam,2020,fossil,gas,0.0
+GTM,North America,Guatemala,2020,fossil,gas,0.0
+GIN,Africa,Guinea,2020,fossil,gas,0.0
+GNB,Africa,Guinea-Bissau,2020,fossil,gas,0.0
+GUY,South America,Guyana,2020,fossil,gas,0.0
+HTI,North America,Haiti,2020,fossil,gas,0.0
+HND,North America,Honduras,2020,fossil,gas,0.0
+HKG,Asia,Hong Kong,2020,fossil,gas,13.53
+HUN,Europe,Hungary,2020,fossil,gas,9.09
+ISL,Europe,Iceland,2020,fossil,gas,0.0
+IND,Asia,India,2020,fossil,gas,70.79
+IDN,Asia,Indonesia,2020,fossil,gas,51.28
+IRN,Asia,Iran,2020,fossil,gas,196.18
+IRQ,Asia,Iraq,2020,fossil,gas,72.23
+IRL,Europe,Ireland,2020,fossil,gas,16.24
+ISR,Asia,Israel,2020,fossil,gas,44.36
+ITA,Europe,Italy,2020,fossil,gas,133.7
+JAM,North America,Jamaica,2020,fossil,gas,1.24
+JPN,Asia,Japan,2020,fossil,gas,339.39
+JOR,Asia,Jordan,2020,fossil,gas,14.77
+KAZ,Asia,Kazakhstan,2020,fossil,gas,21.32
+KEN,Africa,Kenya,2020,fossil,gas,0.0
+KIR,Oceania,Kiribati,2020,fossil,gas,0.0
+XXK,Europe,Kosovo,2020,fossil,gas,0.0
+KWT,Asia,Kuwait,2020,fossil,gas,70.45
+KGZ,Asia,Kyrgyzstan,2020,fossil,gas,0.0
+LAO,Asia,Laos,2020,fossil,gas,0.0
+LVA,Europe,Latvia,2020,fossil,gas,2.08
+LBN,Asia,Lebanon,2020,fossil,gas,11.27
+LSO,Africa,Lesotho,2020,fossil,gas,0.0
+LBR,Africa,Liberia,2020,fossil,gas,0.0
+LBY,Africa,Libya,2020,fossil,gas,22.24
+LTU,Europe,Lithuania,2020,fossil,gas,1.7
+LUX,Europe,Luxembourg,2020,fossil,gas,0.18
+MAC,Asia,Macao,2020,fossil,gas,0.56
+MDG,Africa,Madagascar,2020,fossil,gas,0.0
+MWI,Africa,Malawi,2020,fossil,gas,0.0
+MYS,Asia,Malaysia,2020,fossil,gas,62.26
+MDV,Asia,Maldives,2020,fossil,gas,0.0
+MLI,Africa,Mali,2020,fossil,gas,0.0
+MLT,Europe,Malta,2020,fossil,gas,1.84
+MTQ,North America,Martinique,2020,fossil,gas,0.0
+MRT,Africa,Mauritania,2020,fossil,gas,0.0
+MUS,Africa,Mauritius,2020,fossil,gas,0.0
+MEX,North America,Mexico,2020,fossil,gas,175.87
+MDA,Europe,Moldova,2020,fossil,gas,2.2
+MNG,Asia,Mongolia,2020,fossil,gas,0.0
+MNE,Europe,Montenegro,2020,fossil,gas,0.0
+MSR,North America,Montserrat,2020,fossil,gas,0.0
+MAR,Africa,Morocco,2020,fossil,gas,4.49
+MOZ,Africa,Mozambique,2020,fossil,gas,2.42
+MMR,Asia,Myanmar,2020,fossil,gas,8.38
+NAM,Africa,Namibia,2020,fossil,gas,0.0
+NRU,Oceania,Nauru,2020,fossil,gas,0.0
+NPL,Asia,Nepal,2020,fossil,gas,0.0
+NLD,Europe,Netherlands,2020,fossil,gas,72.66
+NCL,Oceania,New Caledonia,2020,fossil,gas,0.0
+NZL,Oceania,New Zealand,2020,fossil,gas,6.33
+NIC,North America,Nicaragua,2020,fossil,gas,0.0
+NER,Africa,Niger,2020,fossil,gas,0.0
+NGA,Africa,Nigeria,2020,fossil,gas,22.58
+PRK,Asia,North Korea,2020,fossil,gas,0.0
+MKD,Europe,North Macedonia,2020,fossil,gas,1.14
+NOR,Europe,Norway,2020,fossil,gas,1.6
+OMN,Asia,Oman,2020,fossil,gas,36.03
+PAK,Asia,Pakistan,2020,fossil,gas,35.37
+PSE,Asia,Palestine,2020,fossil,gas,0.22
+PAN,North America,Panama,2020,fossil,gas,0.88
+PNG,Oceania,Papua New Guinea,2020,fossil,gas,0.0
+PRY,South America,Paraguay,2020,fossil,gas,0.0
+PER,South America,Peru,2020,fossil,gas,9.7
+PHL,Asia,Philippines,2020,fossil,gas,11.43
+POL,Europe,Poland,2020,fossil,gas,17.29
+PRT,Europe,Portugal,2020,fossil,gas,17.6
+PRI,North America,Puerto Rico,2020,fossil,gas,0.0
+QAT,Asia,Qatar,2020,fossil,gas,46.85
+ROU,Europe,Romania,2020,fossil,gas,9.46
+RUS,Europe,Russia,2020,fossil,gas,458.45
+RWA,Africa,Rwanda,2020,fossil,gas,0.0
+KNA,North America,Saint Kitts and Nevis,2020,fossil,gas,0.0
+LCA,North America,Saint Lucia,2020,fossil,gas,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,fossil,gas,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,fossil,gas,0.0
+WSM,Oceania,Samoa,2020,fossil,gas,0.0
+STP,Africa,Sao Tome and Principe,2020,fossil,gas,0.0
+SAU,Asia,Saudi Arabia,2020,fossil,gas,207.03
+SEN,Africa,Senegal,2020,fossil,gas,1.93
+SRB,Europe,Serbia,2020,fossil,gas,0.51
+SYC,Africa,Seychelles,2020,fossil,gas,0.0
+SLE,Africa,Sierra Leone,2020,fossil,gas,0.0
+SGP,Asia,Singapore,2020,fossil,gas,47.77
+SVK,Europe,Slovakia,2020,fossil,gas,3.57
+SVN,Europe,Slovenia,2020,fossil,gas,0.58
+SLB,Oceania,Solomon Islands,2020,fossil,gas,0.0
+SOM,Africa,Somalia,2020,fossil,gas,0.0
+ZAF,Africa,South Africa,2020,fossil,gas,1.79
+KOR,Asia,South Korea,2020,fossil,gas,145.33
+SSD,Africa,South Sudan,2020,fossil,gas,0.0
+ESP,Europe,Spain,2020,fossil,gas,69.74
+LKA,Asia,Sri Lanka,2020,fossil,gas,0.0
+SDN,Africa,Sudan,2020,fossil,gas,2.92
+SUR,South America,Suriname,2020,fossil,gas,0.0
+SWE,Europe,Sweden,2020,fossil,gas,0.1
+CHE,Europe,Switzerland,2020,fossil,gas,0.0
+SYR,Asia,Syria,2020,fossil,gas,10.35
+TWN,Asia,Taiwan,2020,fossil,gas,100.73
+TJK,Asia,Tajikistan,2020,fossil,gas,0.35
+TZA,Africa,Tanzania,2020,fossil,gas,1.95
+THA,Asia,Thailand,2020,fossil,gas,113.2
+TGO,Africa,Togo,2020,fossil,gas,0.0
+TON,Oceania,Tonga,2020,fossil,gas,0.0
+TTO,North America,Trinidad and Tobago,2020,fossil,gas,7.34
+TUN,Africa,Tunisia,2020,fossil,gas,19.25
+TUR,Asia,Turkey,2020,fossil,gas,70.93
+TKM,Asia,Turkmenistan,2020,fossil,gas,15.7
+TCA,North America,Turks and Caicos Islands,2020,fossil,gas,0.0
+UGA,Africa,Uganda,2020,fossil,gas,0.0
+UKR,Europe,Ukraine,2020,fossil,gas,14.19
+ARE,Asia,United Arab Emirates,2020,fossil,gas,125.85
+GBR,Europe,United Kingdom,2020,fossil,gas,111.15
+USA,North America,United States,2020,fossil,gas,1624.17
+VIR,North America,United States Virgin Islands,2020,fossil,gas,0.0
+URY,South America,Uruguay,2020,fossil,gas,1.74
+UZB,Asia,Uzbekistan,2020,fossil,gas,42.19
+VUT,Oceania,Vanuatu,2020,fossil,gas,0.0
+VEN,South America,Venezuela,2020,fossil,gas,22.86
+VNM,Asia,Vietnam,2020,fossil,gas,35.58
+YEM,Asia,Yemen,2020,fossil,gas,1.02
+ZMB,Africa,Zambia,2020,fossil,gas,0.0
+ZWE,Africa,Zimbabwe,2020,fossil,gas,0.0
+AFG,Asia,Afghanistan,2020,low_carbon,nuclear,0.0
+ALB,Europe,Albania,2020,low_carbon,nuclear,0.0
+DZA,Africa,Algeria,2020,low_carbon,nuclear,0.0
+ASM,Oceania,American Samoa,2020,low_carbon,nuclear,0.0
+AGO,Africa,Angola,2020,low_carbon,nuclear,0.0
+ATG,North America,Antigua and Barbuda,2020,low_carbon,nuclear,0.0
+ARG,South America,Argentina,2020,low_carbon,nuclear,10.01
+ARM,Asia,Armenia,2020,low_carbon,nuclear,2.55
+ABW,North America,Aruba,2020,low_carbon,nuclear,0.0
+AUS,Oceania,Australia,2020,low_carbon,nuclear,0.0
+AUT,Europe,Austria,2020,low_carbon,nuclear,0.0
+AZE,Asia,Azerbaijan,2020,low_carbon,nuclear,0.0
+BHS,North America,Bahamas,2020,low_carbon,nuclear,0.0
+BHR,Asia,Bahrain,2020,low_carbon,nuclear,0.0
+BGD,Asia,Bangladesh,2020,low_carbon,nuclear,0.0
+BRB,North America,Barbados,2020,low_carbon,nuclear,0.0
+BLR,Europe,Belarus,2020,low_carbon,nuclear,0.34
+BEL,Europe,Belgium,2020,low_carbon,nuclear,34.43
+BLZ,North America,Belize,2020,low_carbon,nuclear,0.0
+BEN,Africa,Benin,2020,low_carbon,nuclear,0.0
+BTN,Asia,Bhutan,2020,low_carbon,nuclear,0.0
+BOL,South America,Bolivia,2020,low_carbon,nuclear,0.0
+BIH,Europe,Bosnia and Herzegovina,2020,low_carbon,nuclear,0.0
+BWA,Africa,Botswana,2020,low_carbon,nuclear,0.0
+BRA,South America,Brazil,2020,low_carbon,nuclear,14.05
+VGB,North America,British Virgin Islands,2020,low_carbon,nuclear,0.0
+BDI,Africa,Brunei,2020,low_carbon,nuclear,0.0
+BGR,Europe,Bulgaria,2020,low_carbon,nuclear,16.63
+BFA,Africa,Burkina Faso,2020,low_carbon,nuclear,0.0
+BDI,Africa,Burundi,2020,low_carbon,nuclear,0.0
+KHM,Asia,Cambodia,2020,low_carbon,nuclear,0.0
+CMR,Africa,Cameroon,2020,low_carbon,nuclear,0.0
+CAN,North America,Canada,2020,low_carbon,nuclear,92.65
+CPV,Africa,Cape Verde,2020,low_carbon,nuclear,0.0
+CYM,North America,Cayman Islands,2020,low_carbon,nuclear,0.0
+CAF,Africa,Central African Republic,2020,low_carbon,nuclear,0.0
+TCD,Africa,Chad,2020,low_carbon,nuclear,0.0
+CHL,South America,Chile,2020,low_carbon,nuclear,0.0
+CHN,Asia,China,2020,low_carbon,nuclear,366.2
+COL,South America,Colombia,2020,low_carbon,nuclear,0.0
+COM,Africa,Comoros,2020,low_carbon,nuclear,0.0
+COG,Africa,Congo,2020,low_carbon,nuclear,0.0
+COK,Oceania,Cook Islands,2020,low_carbon,nuclear,0.0
+CRI,North America,Costa Rica,2020,low_carbon,nuclear,0.0
+CIV,Africa,Cote d'Ivoire,2020,low_carbon,nuclear,0.0
+HRV,Europe,Croatia,2020,low_carbon,nuclear,0.0
+CUB,North America,Cuba,2020,low_carbon,nuclear,0.0
+CYP,Asia,Cyprus,2020,low_carbon,nuclear,0.0
+CZE,Europe,Czechia,2020,low_carbon,nuclear,30.04
+COD,Africa,Democratic Republic of Congo,2020,low_carbon,nuclear,0.0
+DNK,Europe,Denmark,2020,low_carbon,nuclear,0.0
+DJI,Africa,Djibouti,2020,low_carbon,nuclear,0.0
+DMA,North America,Dominica,2020,low_carbon,nuclear,0.0
+DOM,North America,Dominican Republic,2020,low_carbon,nuclear,0.0
+ZAF,Africa,Eastern Africa,2020,low_carbon,nuclear,0.0
+ECU,South America,Ecuador,2020,low_carbon,nuclear,0.0
+EGY,Africa,Egypt,2020,low_carbon,nuclear,0.0
+SLV,North America,El Salvador,2020,low_carbon,nuclear,0.0
+GNQ,Africa,Equatorial Guinea,2020,low_carbon,nuclear,0.0
+ERI,Africa,Eritrea,2020,low_carbon,nuclear,0.0
+EST,Europe,Estonia,2020,low_carbon,nuclear,0.0
+SWZ,Africa,Eswatini,2020,low_carbon,nuclear,0.0
+ETH,Africa,Ethiopia,2020,low_carbon,nuclear,0.0
+FRO,Europe,Faroe Islands,2020,low_carbon,nuclear,0.0
+FLK,South America,Falkland Islands,2020,low_carbon,nuclear,0.0
+FJI,Oceania,Fiji,2020,low_carbon,nuclear,0.0
+FIN,Europe,Finland,2020,low_carbon,nuclear,23.29
+FRA,Europe,France,2020,low_carbon,nuclear,353.83
+GUF,South America,French Guiana,2020,low_carbon,nuclear,0.0
+PYF,Oceania,French Polynesia,2020,low_carbon,nuclear,0.0
+GAB,Africa,Gabon,2020,low_carbon,nuclear,0.0
+GMB,Africa,Gambia,2020,low_carbon,nuclear,0.0
+GEO,Asia,Georgia,2020,low_carbon,nuclear,0.0
+DEU,Europe,Germany,2020,low_carbon,nuclear,64.38
+GHA,Africa,Ghana,2020,low_carbon,nuclear,0.0
+GRC,Europe,Greece,2020,low_carbon,nuclear,0.0
+GRL,North America,Greenland,2020,low_carbon,nuclear,0.0
+GRD,North America,Grenada,2020,low_carbon,nuclear,0.0
+GLP,North America,Guadeloupe,2020,low_carbon,nuclear,0.0
+GUM,Oceania,Guam,2020,low_carbon,nuclear,0.0
+GTM,North America,Guatemala,2020,low_carbon,nuclear,0.0
+GIN,Africa,Guinea,2020,low_carbon,nuclear,0.0
+GNB,Africa,Guinea-Bissau,2020,low_carbon,nuclear,0.0
+GUY,South America,Guyana,2020,low_carbon,nuclear,0.0
+HTI,North America,Haiti,2020,low_carbon,nuclear,0.0
+HND,North America,Honduras,2020,low_carbon,nuclear,0.0
+HKG,Asia,Hong Kong,2020,low_carbon,nuclear,0.0
+HUN,Europe,Hungary,2020,low_carbon,nuclear,16.06
+ISL,Europe,Iceland,2020,low_carbon,nuclear,0.0
+IND,Asia,India,2020,low_carbon,nuclear,44.61
+IDN,Asia,Indonesia,2020,low_carbon,nuclear,0.0
+IRN,Asia,Iran,2020,low_carbon,nuclear,5.79
+IRQ,Asia,Iraq,2020,low_carbon,nuclear,0.0
+IRL,Europe,Ireland,2020,low_carbon,nuclear,0.0
+ISR,Asia,Israel,2020,low_carbon,nuclear,0.0
+ITA,Europe,Italy,2020,low_carbon,nuclear,0.0
+JAM,North America,Jamaica,2020,low_carbon,nuclear,0.0
+JPN,Asia,Japan,2020,low_carbon,nuclear,43.0
+JOR,Asia,Jordan,2020,low_carbon,nuclear,0.0
+KAZ,Asia,Kazakhstan,2020,low_carbon,nuclear,0.0
+KEN,Africa,Kenya,2020,low_carbon,nuclear,0.0
+KIR,Oceania,Kiribati,2020,low_carbon,nuclear,0.0
+XXK,Europe,Kosovo,2020,low_carbon,nuclear,0.0
+KWT,Asia,Kuwait,2020,low_carbon,nuclear,0.0
+KGZ,Asia,Kyrgyzstan,2020,low_carbon,nuclear,0.0
+LAO,Asia,Laos,2020,low_carbon,nuclear,0.0
+LVA,Europe,Latvia,2020,low_carbon,nuclear,0.0
+LBN,Asia,Lebanon,2020,low_carbon,nuclear,0.0
+LSO,Africa,Lesotho,2020,low_carbon,nuclear,0.0
+LBR,Africa,Liberia,2020,low_carbon,nuclear,0.0
+LBY,Africa,Libya,2020,low_carbon,nuclear,0.0
+LTU,Europe,Lithuania,2020,low_carbon,nuclear,0.0
+LUX,Europe,Luxembourg,2020,low_carbon,nuclear,0.0
+MAC,Asia,Macao,2020,low_carbon,nuclear,0.0
+MDG,Africa,Madagascar,2020,low_carbon,nuclear,0.0
+MWI,Africa,Malawi,2020,low_carbon,nuclear,0.0
+MYS,Asia,Malaysia,2020,low_carbon,nuclear,0.0
+MDV,Asia,Maldives,2020,low_carbon,nuclear,0.0
+MLI,Africa,Mali,2020,low_carbon,nuclear,0.0
+MLT,Europe,Malta,2020,low_carbon,nuclear,0.0
+MTQ,North America,Martinique,2020,low_carbon,nuclear,0.0
+MRT,Africa,Mauritania,2020,low_carbon,nuclear,0.0
+MUS,Africa,Mauritius,2020,low_carbon,nuclear,0.0
+MEX,North America,Mexico,2020,low_carbon,nuclear,10.86
+MDA,Europe,Moldova,2020,low_carbon,nuclear,0.0
+MNG,Asia,Mongolia,2020,low_carbon,nuclear,0.0
+MNE,Europe,Montenegro,2020,low_carbon,nuclear,0.0
+MSR,North America,Montserrat,2020,low_carbon,nuclear,0.0
+MAR,Africa,Morocco,2020,low_carbon,nuclear,0.0
+MOZ,Africa,Mozambique,2020,low_carbon,nuclear,0.0
+MMR,Asia,Myanmar,2020,low_carbon,nuclear,0.0
+NAM,Africa,Namibia,2020,low_carbon,nuclear,0.0
+NRU,Oceania,Nauru,2020,low_carbon,nuclear,0.0
+NPL,Asia,Nepal,2020,low_carbon,nuclear,0.0
+NLD,Europe,Netherlands,2020,low_carbon,nuclear,4.09
+NCL,Oceania,New Caledonia,2020,low_carbon,nuclear,0.0
+NZL,Oceania,New Zealand,2020,low_carbon,nuclear,0.0
+NIC,North America,Nicaragua,2020,low_carbon,nuclear,0.0
+NER,Africa,Niger,2020,low_carbon,nuclear,0.0
+NGA,Africa,Nigeria,2020,low_carbon,nuclear,0.0
+PRK,Asia,North Korea,2020,low_carbon,nuclear,0.0
+MKD,Europe,North Macedonia,2020,low_carbon,nuclear,0.0
+NOR,Europe,Norway,2020,low_carbon,nuclear,0.0
+OMN,Asia,Oman,2020,low_carbon,nuclear,0.0
+PAK,Asia,Pakistan,2020,low_carbon,nuclear,9.64
+PSE,Asia,Palestine,2020,low_carbon,nuclear,0.0
+PAN,North America,Panama,2020,low_carbon,nuclear,0.0
+PNG,Oceania,Papua New Guinea,2020,low_carbon,nuclear,0.0
+PRY,South America,Paraguay,2020,low_carbon,nuclear,0.0
+PER,South America,Peru,2020,low_carbon,nuclear,0.0
+PHL,Asia,Philippines,2020,low_carbon,nuclear,0.0
+POL,Europe,Poland,2020,low_carbon,nuclear,0.0
+PRT,Europe,Portugal,2020,low_carbon,nuclear,0.0
+PRI,North America,Puerto Rico,2020,low_carbon,nuclear,0.0
+QAT,Asia,Qatar,2020,low_carbon,nuclear,0.0
+ROU,Europe,Romania,2020,low_carbon,nuclear,11.47
+RUS,Europe,Russia,2020,low_carbon,nuclear,215.74
+RWA,Africa,Rwanda,2020,low_carbon,nuclear,0.0
+KNA,North America,Saint Kitts and Nevis,2020,low_carbon,nuclear,0.0
+LCA,North America,Saint Lucia,2020,low_carbon,nuclear,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,low_carbon,nuclear,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,low_carbon,nuclear,0.0
+WSM,Oceania,Samoa,2020,low_carbon,nuclear,0.0
+STP,Africa,Sao Tome and Principe,2020,low_carbon,nuclear,0.0
+SAU,Asia,Saudi Arabia,2020,low_carbon,nuclear,0.0
+SEN,Africa,Senegal,2020,low_carbon,nuclear,0.0
+SRB,Europe,Serbia,2020,low_carbon,nuclear,0.0
+SYC,Africa,Seychelles,2020,low_carbon,nuclear,0.0
+SLE,Africa,Sierra Leone,2020,low_carbon,nuclear,0.0
+SGP,Asia,Singapore,2020,low_carbon,nuclear,0.0
+SVK,Europe,Slovakia,2020,low_carbon,nuclear,15.44
+SVN,Europe,Slovenia,2020,low_carbon,nuclear,6.35
+SLB,Oceania,Solomon Islands,2020,low_carbon,nuclear,0.0
+SOM,Africa,Somalia,2020,low_carbon,nuclear,0.0
+ZAF,Africa,South Africa,2020,low_carbon,nuclear,11.62
+KOR,Asia,South Korea,2020,low_carbon,nuclear,152.33
+SSD,Africa,South Sudan,2020,low_carbon,nuclear,0.0
+ESP,Europe,Spain,2020,low_carbon,nuclear,58.3
+LKA,Asia,Sri Lanka,2020,low_carbon,nuclear,0.0
+SDN,Africa,Sudan,2020,low_carbon,nuclear,0.0
+SUR,South America,Suriname,2020,low_carbon,nuclear,0.0
+SWE,Europe,Sweden,2020,low_carbon,nuclear,49.2
+CHE,Europe,Switzerland,2020,low_carbon,nuclear,22.99
+SYR,Asia,Syria,2020,low_carbon,nuclear,0.0
+TWN,Asia,Taiwan,2020,low_carbon,nuclear,31.44
+TJK,Asia,Tajikistan,2020,low_carbon,nuclear,0.0
+TZA,Africa,Tanzania,2020,low_carbon,nuclear,0.0
+THA,Asia,Thailand,2020,low_carbon,nuclear,0.0
+TGO,Africa,Togo,2020,low_carbon,nuclear,0.0
+TON,Oceania,Tonga,2020,low_carbon,nuclear,0.0
+TTO,North America,Trinidad and Tobago,2020,low_carbon,nuclear,0.0
+TUN,Africa,Tunisia,2020,low_carbon,nuclear,0.0
+TUR,Asia,Turkey,2020,low_carbon,nuclear,0.0
+TKM,Asia,Turkmenistan,2020,low_carbon,nuclear,0.0
+TCA,North America,Turks and Caicos Islands,2020,low_carbon,nuclear,0.0
+UGA,Africa,Uganda,2020,low_carbon,nuclear,0.0
+UKR,Europe,Ukraine,2020,low_carbon,nuclear,76.2
+ARE,Asia,United Arab Emirates,2020,low_carbon,nuclear,1.56
+GBR,Europe,United Kingdom,2020,low_carbon,nuclear,50.84
+USA,North America,United States,2020,low_carbon,nuclear,789.88
+VIR,North America,United States Virgin Islands,2020,low_carbon,nuclear,0.0
+URY,South America,Uruguay,2020,low_carbon,nuclear,0.0
+UZB,Asia,Uzbekistan,2020,low_carbon,nuclear,0.0
+VUT,Oceania,Vanuatu,2020,low_carbon,nuclear,0.0
+VEN,South America,Venezuela,2020,low_carbon,nuclear,0.0
+VNM,Asia,Vietnam,2020,low_carbon,nuclear,0.0
+YEM,Asia,Yemen,2020,low_carbon,nuclear,0.0
+ZMB,Africa,Zambia,2020,low_carbon,nuclear,0.0
+ZWE,Africa,Zimbabwe,2020,low_carbon,nuclear,0.0
+AFG,Asia,Afghanistan,2020,low_carbon,hydro,0.62
+ALB,Europe,Albania,2020,low_carbon,hydro,5.28
+DZA,Africa,Algeria,2020,low_carbon,hydro,0.09
+ASM,Oceania,American Samoa,2020,low_carbon,hydro,0.0
+AGO,Africa,Angola,2020,low_carbon,hydro,10.08
+ATG,North America,Antigua and Barbuda,2020,low_carbon,hydro,0.0
+ARG,South America,Argentina,2020,low_carbon,hydro,24.26
+ARM,Asia,Armenia,2020,low_carbon,hydro,1.78
+ABW,North America,Aruba,2020,low_carbon,hydro,0.0
+AUS,Oceania,Australia,2020,low_carbon,hydro,15.15
+AUT,Europe,Austria,2020,low_carbon,hydro,42.0
+AZE,Asia,Azerbaijan,2020,low_carbon,hydro,1.07
+BHS,North America,Bahamas,2020,low_carbon,hydro,0.0
+BHR,Asia,Bahrain,2020,low_carbon,hydro,0.0
+BGD,Asia,Bangladesh,2020,low_carbon,hydro,0.61
+BRB,North America,Barbados,2020,low_carbon,hydro,0.0
+BLR,Europe,Belarus,2020,low_carbon,hydro,0.39
+BEL,Europe,Belgium,2020,low_carbon,hydro,0.27
+BLZ,North America,Belize,2020,low_carbon,hydro,0.08
+BEN,Africa,Benin,2020,low_carbon,hydro,0.0
+BTN,Asia,Bhutan,2020,low_carbon,hydro,8.95
+BOL,South America,Bolivia,2020,low_carbon,hydro,2.94
+BIH,Europe,Bosnia and Herzegovina,2020,low_carbon,hydro,6.1
+BWA,Africa,Botswana,2020,low_carbon,hydro,0.0
+BRA,South America,Brazil,2020,low_carbon,hydro,409.5
+VGB,North America,British Virgin Islands,2020,low_carbon,hydro,0.0
+BDI,Africa,Brunei,2020,low_carbon,hydro,0.0
+BGR,Europe,Bulgaria,2020,low_carbon,hydro,2.82
+BFA,Africa,Burkina Faso,2020,low_carbon,hydro,0.11
+BDI,Africa,Burundi,2020,low_carbon,hydro,0.22
+KHM,Asia,Cambodia,2020,low_carbon,hydro,3.49
+CMR,Africa,Cameroon,2020,low_carbon,hydro,5.88
+CAN,North America,Canada,2020,low_carbon,hydro,383.0
+CPV,Africa,Cape Verde,2020,low_carbon,hydro,0.0
+CYM,North America,Cayman Islands,2020,low_carbon,hydro,0.0
+CAF,Africa,Central African Republic,2020,low_carbon,hydro,0.15
+TCD,Africa,Chad,2020,low_carbon,hydro,0.0
+CHL,South America,Chile,2020,low_carbon,hydro,20.79
+CHN,Asia,China,2020,low_carbon,hydro,1322.01
+COL,South America,Colombia,2020,low_carbon,hydro,45.82
+COM,Africa,Comoros,2020,low_carbon,hydro,0.0
+COG,Africa,Congo,2020,low_carbon,hydro,1.07
+COK,Oceania,Cook Islands,2020,low_carbon,hydro,0.0
+CRI,North America,Costa Rica,2020,low_carbon,hydro,8.29
+CIV,Africa,Cote d'Ivoire,2020,low_carbon,hydro,2.31
+HRV,Europe,Croatia,2020,low_carbon,hydro,5.66
+CUB,North America,Cuba,2020,low_carbon,hydro,0.06
+CYP,Asia,Cyprus,2020,low_carbon,hydro,0.0
+CZE,Europe,Czechia,2020,low_carbon,hydro,2.14
+COD,Africa,Democratic Republic of Congo,2020,low_carbon,hydro,9.19
+DNK,Europe,Denmark,2020,low_carbon,hydro,0.02
+DJI,Africa,Djibouti,2020,low_carbon,hydro,0.0
+DMA,North America,Dominica,2020,low_carbon,hydro,0.04
+DOM,North America,Dominican Republic,2020,low_carbon,hydro,0.12
+ZAF,Africa,Eastern Africa,2020,low_carbon,hydro,72.678
+ECU,South America,Ecuador,2020,low_carbon,hydro,24.79
+EGY,Africa,Egypt,2020,low_carbon,hydro,12.09
+SLV,North America,El Salvador,2020,low_carbon,hydro,1.99
+GNQ,Africa,Equatorial Guinea,2020,low_carbon,hydro,0.12
+ERI,Africa,Eritrea,2020,low_carbon,hydro,0.0
+EST,Europe,Estonia,2020,low_carbon,hydro,0.03
+SWZ,Africa,Eswatini,2020,low_carbon,hydro,0.16
+ETH,Africa,Ethiopia,2020,low_carbon,hydro,13.56
+FRO,Europe,Faroe Islands,2020,low_carbon,hydro,0.11
+FLK,South America,Falkland Islands,2020,low_carbon,hydro,0.0
+FJI,Oceania,Fiji,2020,low_carbon,hydro,0.5
+FIN,Europe,Finland,2020,low_carbon,hydro,15.88
+FRA,Europe,France,2020,low_carbon,hydro,62.06
+GUF,South America,French Guiana,2020,low_carbon,hydro,0.44
+PYF,Oceania,French Polynesia,2020,low_carbon,hydro,0.18
+GAB,Africa,Gabon,2020,low_carbon,hydro,1.74
+GMB,Africa,Gambia,2020,low_carbon,hydro,0.0
+GEO,Asia,Georgia,2020,low_carbon,hydro,8.25
+DEU,Europe,Germany,2020,low_carbon,hydro,18.32
+GHA,Africa,Ghana,2020,low_carbon,hydro,7.21
+GRC,Europe,Greece,2020,low_carbon,hydro,3.3
+GRL,North America,Greenland,2020,low_carbon,hydro,0.5
+GRD,North America,Grenada,2020,low_carbon,hydro,0.0
+GLP,North America,Guadeloupe,2020,low_carbon,hydro,0.03
+GUM,Oceania,Guam,2020,low_carbon,hydro,0.0
+GTM,North America,Guatemala,2020,low_carbon,hydro,5.77
+GIN,Africa,Guinea,2020,low_carbon,hydro,2.47
+GNB,Africa,Guinea-Bissau,2020,low_carbon,hydro,0.0
+GUY,South America,Guyana,2020,low_carbon,hydro,0.0
+HTI,North America,Haiti,2020,low_carbon,hydro,0.13
+HND,North America,Honduras,2020,low_carbon,hydro,2.7
+HKG,Asia,Hong Kong,2020,low_carbon,hydro,0.0
+HUN,Europe,Hungary,2020,low_carbon,hydro,0.24
+ISL,Europe,Iceland,2020,low_carbon,hydro,13.16
+IND,Asia,India,2020,low_carbon,hydro,163.64
+IDN,Asia,Indonesia,2020,low_carbon,hydro,19.45
+IRN,Asia,Iran,2020,low_carbon,hydro,27.7
+IRQ,Asia,Iraq,2020,low_carbon,hydro,1.8
+IRL,Europe,Ireland,2020,low_carbon,hydro,0.93
+ISR,Asia,Israel,2020,low_carbon,hydro,0.02
+ITA,Europe,Italy,2020,low_carbon,hydro,47.55
+JAM,North America,Jamaica,2020,low_carbon,hydro,0.16
+JPN,Asia,Japan,2020,low_carbon,hydro,89.17
+JOR,Asia,Jordan,2020,low_carbon,hydro,0.03
+KAZ,Asia,Kazakhstan,2020,low_carbon,hydro,9.8
+KEN,Africa,Kenya,2020,low_carbon,hydro,3.52
+KIR,Oceania,Kiribati,2020,low_carbon,hydro,0.0
+XXK,Europe,Kosovo,2020,low_carbon,hydro,0.26
+KWT,Asia,Kuwait,2020,low_carbon,hydro,0.0
+KGZ,Asia,Kyrgyzstan,2020,low_carbon,hydro,14.8
+LAO,Asia,Laos,2020,low_carbon,hydro,19.2
+LVA,Europe,Latvia,2020,low_carbon,hydro,2.6
+LBN,Asia,Lebanon,2020,low_carbon,hydro,0.97
+LSO,Africa,Lesotho,2020,low_carbon,hydro,0.5
+LBR,Africa,Liberia,2020,low_carbon,hydro,0.53
+LBY,Africa,Libya,2020,low_carbon,hydro,0.0
+LTU,Europe,Lithuania,2020,low_carbon,hydro,0.3
+LUX,Europe,Luxembourg,2020,low_carbon,hydro,0.09
+MAC,Asia,Macao,2020,low_carbon,hydro,0.0
+MDG,Africa,Madagascar,2020,low_carbon,hydro,0.81
+MWI,Africa,Malawi,2020,low_carbon,hydro,1.3
+MYS,Asia,Malaysia,2020,low_carbon,hydro,15.8
+MDV,Asia,Maldives,2020,low_carbon,hydro,0.0
+MLI,Africa,Mali,2020,low_carbon,hydro,0.95
+MLT,Europe,Malta,2020,low_carbon,hydro,0.0
+MTQ,North America,Martinique,2020,low_carbon,hydro,0.0
+MRT,Africa,Mauritania,2020,low_carbon,hydro,0.21
+MUS,Africa,Mauritius,2020,low_carbon,hydro,0.1
+MEX,North America,Mexico,2020,low_carbon,hydro,23.12
+MDA,Europe,Moldova,2020,low_carbon,hydro,0.2
+MNG,Asia,Mongolia,2020,low_carbon,hydro,0.09
+MNE,Europe,Montenegro,2020,low_carbon,hydro,1.45
+MSR,North America,Montserrat,2020,low_carbon,hydro,0.0
+MAR,Africa,Morocco,2020,low_carbon,hydro,1.55
+MOZ,Africa,Mozambique,2020,low_carbon,hydro,14.17
+MMR,Asia,Myanmar,2020,low_carbon,hydro,11.0
+NAM,Africa,Namibia,2020,low_carbon,hydro,0.95
+NRU,Oceania,Nauru,2020,low_carbon,hydro,0.0
+NPL,Asia,Nepal,2020,low_carbon,hydro,3.0
+NLD,Europe,Netherlands,2020,low_carbon,hydro,0.05
+NCL,Oceania,New Caledonia,2020,low_carbon,hydro,0.22
+NZL,Oceania,New Zealand,2020,low_carbon,hydro,23.98
+NIC,North America,Nicaragua,2020,low_carbon,hydro,0.57
+NER,Africa,Niger,2020,low_carbon,hydro,0.0
+NGA,Africa,Nigeria,2020,low_carbon,hydro,6.1
+PRK,Asia,North Korea,2020,low_carbon,hydro,12.2
+MKD,Europe,North Macedonia,2020,low_carbon,hydro,1.28
+NOR,Europe,Norway,2020,low_carbon,hydro,140.93
+OMN,Asia,Oman,2020,low_carbon,hydro,0.0
+PAK,Asia,Pakistan,2020,low_carbon,hydro,37.38
+PSE,Asia,Palestine,2020,low_carbon,hydro,0.0
+PAN,North America,Panama,2020,low_carbon,hydro,7.25
+PNG,Oceania,Papua New Guinea,2020,low_carbon,hydro,0.8
+PRY,South America,Paraguay,2020,low_carbon,hydro,49.34
+PER,South America,Peru,2020,low_carbon,hydro,29.04
+PHL,Asia,Philippines,2020,low_carbon,hydro,7.79
+POL,Europe,Poland,2020,low_carbon,hydro,2.12
+PRT,Europe,Portugal,2020,low_carbon,hydro,12.08
+PRI,North America,Puerto Rico,2020,low_carbon,hydro,0.05
+QAT,Asia,Qatar,2020,low_carbon,hydro,0.0
+ROU,Europe,Romania,2020,low_carbon,hydro,15.38
+RUS,Europe,Russia,2020,low_carbon,hydro,196.0
+RWA,Africa,Rwanda,2020,low_carbon,hydro,0.45
+KNA,North America,Saint Kitts and Nevis,2020,low_carbon,hydro,0.0
+LCA,North America,Saint Lucia,2020,low_carbon,hydro,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,low_carbon,hydro,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,low_carbon,hydro,0.04
+WSM,Oceania,Samoa,2020,low_carbon,hydro,0.04
+STP,Africa,Sao Tome and Principe,2020,low_carbon,hydro,0.01
+SAU,Asia,Saudi Arabia,2020,low_carbon,hydro,0.0
+SEN,Africa,Senegal,2020,low_carbon,hydro,0.31
+SRB,Europe,Serbia,2020,low_carbon,hydro,9.03
+SYC,Africa,Seychelles,2020,low_carbon,hydro,0.0
+SLE,Africa,Sierra Leone,2020,low_carbon,hydro,0.18
+SGP,Asia,Singapore,2020,low_carbon,hydro,0.0
+SVK,Europe,Slovakia,2020,low_carbon,hydro,4.61
+SVN,Europe,Slovenia,2020,low_carbon,hydro,4.93
+SLB,Oceania,Solomon Islands,2020,low_carbon,hydro,0.0
+SOM,Africa,Somalia,2020,low_carbon,hydro,0.0
+ZAF,Africa,South Africa,2020,low_carbon,hydro,5.67
+KOR,Asia,South Korea,2020,low_carbon,hydro,7.1
+SSD,Africa,South Sudan,2020,low_carbon,hydro,0.0
+ESP,Europe,Spain,2020,low_carbon,hydro,30.51
+LKA,Asia,Sri Lanka,2020,low_carbon,hydro,4.9
+SDN,Africa,Sudan,2020,low_carbon,hydro,7.75
+SUR,South America,Suriname,2020,low_carbon,hydro,1.36
+SWE,Europe,Sweden,2020,low_carbon,hydro,72.39
+CHE,Europe,Switzerland,2020,low_carbon,hydro,40.62
+SYR,Asia,Syria,2020,low_carbon,hydro,0.75
+TWN,Asia,Taiwan,2020,low_carbon,hydro,6.18
+TJK,Asia,Tajikistan,2020,low_carbon,hydro,17.0
+TZA,Africa,Tanzania,2020,low_carbon,hydro,2.35
+THA,Asia,Thailand,2020,low_carbon,hydro,4.54
+TGO,Africa,Togo,2020,low_carbon,hydro,0.09
+TON,Oceania,Tonga,2020,low_carbon,hydro,0.0
+TTO,North America,Trinidad and Tobago,2020,low_carbon,hydro,0.0
+TUN,Africa,Tunisia,2020,low_carbon,hydro,0.06
+TUR,Asia,Turkey,2020,low_carbon,hydro,78.09
+TKM,Asia,Turkmenistan,2020,low_carbon,hydro,0.0
+TCA,North America,Turks and Caicos Islands,2020,low_carbon,hydro,0.0
+UGA,Africa,Uganda,2020,low_carbon,hydro,4.03
+UKR,Europe,Ukraine,2020,low_carbon,hydro,7.56
+ARE,Asia,United Arab Emirates,2020,low_carbon,hydro,0.0
+GBR,Europe,United Kingdom,2020,low_carbon,hydro,6.69
+USA,North America,United States,2020,low_carbon,hydro,279.95
+VIR,North America,United States Virgin Islands,2020,low_carbon,hydro,0.0
+URY,South America,Uruguay,2020,low_carbon,hydro,3.95
+UZB,Asia,Uzbekistan,2020,low_carbon,hydro,6.9
+VUT,Oceania,Vanuatu,2020,low_carbon,hydro,0.0
+VEN,South America,Venezuela,2020,low_carbon,hydro,72.0
+VNM,Asia,Vietnam,2020,low_carbon,hydro,51.98
+YEM,Asia,Yemen,2020,low_carbon,hydro,0.0
+ZMB,Africa,Zambia,2020,low_carbon,hydro,13.67
+ZWE,Africa,Zimbabwe,2020,low_carbon,hydro,7.26
+AFG,Asia,Afghanistan,2020,low_carbon,solar,0.04
+ALB,Europe,Albania,2020,low_carbon,solar,0.03
+DZA,Africa,Algeria,2020,low_carbon,solar,0.68
+ASM,Oceania,American Samoa,2020,low_carbon,solar,0.0
+AGO,Africa,Angola,2020,low_carbon,solar,0.02
+ATG,North America,Antigua and Barbuda,2020,low_carbon,solar,0.01
+ARG,South America,Argentina,2020,low_carbon,solar,1.35
+ARM,Asia,Armenia,2020,low_carbon,solar,0.02
+ABW,North America,Aruba,2020,low_carbon,solar,0.01
+AUS,Oceania,Australia,2020,low_carbon,solar,21.03
+AUT,Europe,Austria,2020,low_carbon,solar,2.04
+AZE,Asia,Azerbaijan,2020,low_carbon,solar,0.05
+BHS,North America,Bahamas,2020,low_carbon,solar,0.0
+BHR,Asia,Bahrain,2020,low_carbon,solar,0.01
+BGD,Asia,Bangladesh,2020,low_carbon,solar,0.42
+BRB,North America,Barbados,2020,low_carbon,solar,0.04
+BLR,Europe,Belarus,2020,low_carbon,solar,0.17
+BEL,Europe,Belgium,2020,low_carbon,solar,5.11
+BLZ,North America,Belize,2020,low_carbon,solar,0.0
+BEN,Africa,Benin,2020,low_carbon,solar,0.01
+BTN,Asia,Bhutan,2020,low_carbon,solar,0.0
+BOL,South America,Bolivia,2020,low_carbon,solar,0.25
+BIH,Europe,Bosnia and Herzegovina,2020,low_carbon,solar,0.05
+BWA,Africa,Botswana,2020,low_carbon,solar,0.0
+BRA,South America,Brazil,2020,low_carbon,solar,10.75
+VGB,North America,British Virgin Islands,2020,low_carbon,solar,0.0
+BDI,Africa,Brunei,2020,low_carbon,solar,0.0
+BGR,Europe,Bulgaria,2020,low_carbon,solar,1.48
+BFA,Africa,Burkina Faso,2020,low_carbon,solar,0.05
+BDI,Africa,Burundi,2020,low_carbon,solar,0.01
+KHM,Asia,Cambodia,2020,low_carbon,solar,0.09
+CMR,Africa,Cameroon,2020,low_carbon,solar,0.02
+CAN,North America,Canada,2020,low_carbon,solar,4.28
+CPV,Africa,Cape Verde,2020,low_carbon,solar,0.01
+CYM,North America,Cayman Islands,2020,low_carbon,solar,0.02
+CAF,Africa,Central African Republic,2020,low_carbon,solar,0.0
+TCD,Africa,Chad,2020,low_carbon,solar,0.0
+CHL,South America,Chile,2020,low_carbon,solar,7.62
+CHN,Asia,China,2020,low_carbon,solar,261.1
+COL,South America,Colombia,2020,low_carbon,solar,0.19
+COM,Africa,Comoros,2020,low_carbon,solar,0.0
+COG,Africa,Congo,2020,low_carbon,solar,0.0
+COK,Oceania,Cook Islands,2020,low_carbon,solar,0.01
+CRI,North America,Costa Rica,2020,low_carbon,solar,0.06
+CIV,Africa,Cote d'Ivoire,2020,low_carbon,solar,0.02
+HRV,Europe,Croatia,2020,low_carbon,solar,0.1
+CUB,North America,Cuba,2020,low_carbon,solar,0.25
+CYP,Asia,Cyprus,2020,low_carbon,solar,0.3
+CZE,Europe,Czechia,2020,low_carbon,solar,2.29
+COD,Africa,Democratic Republic of Congo,2020,low_carbon,solar,0.03
+DNK,Europe,Denmark,2020,low_carbon,solar,1.18
+DJI,Africa,Djibouti,2020,low_carbon,solar,0.0
+DMA,North America,Dominica,2020,low_carbon,solar,0.0
+DOM,North America,Dominican Republic,2020,low_carbon,solar,0.26
+ZAF,Africa,Eastern Africa,2020,low_carbon,solar,0.821
+ECU,South America,Ecuador,2020,low_carbon,solar,0.04
+EGY,Africa,Egypt,2020,low_carbon,solar,1.5
+SLV,North America,El Salvador,2020,low_carbon,solar,0.5
+GNQ,Africa,Equatorial Guinea,2020,low_carbon,solar,0.0
+ERI,Africa,Eritrea,2020,low_carbon,solar,0.03
+EST,Europe,Estonia,2020,low_carbon,solar,0.12
+SWZ,Africa,Eswatini,2020,low_carbon,solar,0.0
+ETH,Africa,Ethiopia,2020,low_carbon,solar,0.02
+FRO,Europe,Faroe Islands,2020,low_carbon,solar,0.0
+FLK,South America,Falkland Islands,2020,low_carbon,solar,0.0
+FJI,Oceania,Fiji,2020,low_carbon,solar,0.02
+FIN,Europe,Finland,2020,low_carbon,solar,0.22
+FRA,Europe,France,2020,low_carbon,solar,13.4
+GUF,South America,French Guiana,2020,low_carbon,solar,0.05
+PYF,Oceania,French Polynesia,2020,low_carbon,solar,0.04
+GAB,Africa,Gabon,2020,low_carbon,solar,0.0
+GMB,Africa,Gambia,2020,low_carbon,solar,0.0
+GEO,Asia,Georgia,2020,low_carbon,solar,0.0
+DEU,Europe,Germany,2020,low_carbon,solar,48.64
+GHA,Africa,Ghana,2020,low_carbon,solar,0.06
+GRC,Europe,Greece,2020,low_carbon,solar,4.45
+GRL,North America,Greenland,2020,low_carbon,solar,0.0
+GRD,North America,Grenada,2020,low_carbon,solar,0.0
+GLP,North America,Guadeloupe,2020,low_carbon,solar,0.1
+GUM,Oceania,Guam,2020,low_carbon,solar,0.07
+GTM,North America,Guatemala,2020,low_carbon,solar,0.22
+GIN,Africa,Guinea,2020,low_carbon,solar,0.02
+GNB,Africa,Guinea-Bissau,2020,low_carbon,solar,0.0
+GUY,South America,Guyana,2020,low_carbon,solar,0.02
+HTI,North America,Haiti,2020,low_carbon,solar,0.0
+HND,North America,Honduras,2020,low_carbon,solar,1.12
+HKG,Asia,Hong Kong,2020,low_carbon,solar,0.01
+HUN,Europe,Hungary,2020,low_carbon,solar,2.46
+ISL,Europe,Iceland,2020,low_carbon,solar,0.0
+IND,Asia,India,2020,low_carbon,solar,58.68
+IDN,Asia,Indonesia,2020,low_carbon,solar,0.05
+IRN,Asia,Iran,2020,low_carbon,solar,0.44
+IRQ,Asia,Iraq,2020,low_carbon,solar,0.06
+IRL,Europe,Ireland,2020,low_carbon,solar,0.06
+ISR,Asia,Israel,2020,low_carbon,solar,4.07
+ITA,Europe,Italy,2020,low_carbon,solar,24.94
+JAM,North America,Jamaica,2020,low_carbon,solar,0.05
+JPN,Asia,Japan,2020,low_carbon,solar,78.64
+JOR,Asia,Jordan,2020,low_carbon,solar,2.2
+KAZ,Asia,Kazakhstan,2020,low_carbon,solar,2.57
+KEN,Africa,Kenya,2020,low_carbon,solar,0.11
+KIR,Oceania,Kiribati,2020,low_carbon,solar,0.0
+XXK,Europe,Kosovo,2020,low_carbon,solar,0.01
+KWT,Asia,Kuwait,2020,low_carbon,solar,0.02
+KGZ,Asia,Kyrgyzstan,2020,low_carbon,solar,0.0
+LAO,Asia,Laos,2020,low_carbon,solar,0.04
+LVA,Europe,Latvia,2020,low_carbon,solar,0.0
+LBN,Asia,Lebanon,2020,low_carbon,solar,0.09
+LSO,Africa,Lesotho,2020,low_carbon,solar,0.0
+LBR,Africa,Liberia,2020,low_carbon,solar,0.0
+LBY,Africa,Libya,2020,low_carbon,solar,0.01
+LTU,Europe,Lithuania,2020,low_carbon,solar,0.13
+LUX,Europe,Luxembourg,2020,low_carbon,solar,0.16
+MAC,Asia,Macao,2020,low_carbon,solar,0.0
+MDG,Africa,Madagascar,2020,low_carbon,solar,0.02
+MWI,Africa,Malawi,2020,low_carbon,solar,0.05
+MYS,Asia,Malaysia,2020,low_carbon,solar,1.0
+MDV,Asia,Maldives,2020,low_carbon,solar,0.0
+MLI,Africa,Mali,2020,low_carbon,solar,0.03
+MLT,Europe,Malta,2020,low_carbon,solar,0.21
+MTQ,North America,Martinique,2020,low_carbon,solar,0.0
+MRT,Africa,Mauritania,2020,low_carbon,solar,0.14
+MUS,Africa,Mauritius,2020,low_carbon,solar,0.15
+MEX,North America,Mexico,2020,low_carbon,solar,13.53
+MDA,Europe,Moldova,2020,low_carbon,solar,0.0
+MNG,Asia,Mongolia,2020,low_carbon,solar,0.09
+MNE,Europe,Montenegro,2020,low_carbon,solar,0.0
+MSR,North America,Montserrat,2020,low_carbon,solar,0.0
+MAR,Africa,Morocco,2020,low_carbon,solar,0.38
+MOZ,Africa,Mozambique,2020,low_carbon,solar,0.04
+MMR,Asia,Myanmar,2020,low_carbon,solar,0.02
+NAM,Africa,Namibia,2020,low_carbon,solar,0.05
+NRU,Oceania,Nauru,2020,low_carbon,solar,0.0
+NPL,Asia,Nepal,2020,low_carbon,solar,0.08
+NLD,Europe,Netherlands,2020,low_carbon,solar,8.77
+NCL,Oceania,New Caledonia,2020,low_carbon,solar,0.0
+NZL,Oceania,New Zealand,2020,low_carbon,solar,0.16
+NIC,North America,Nicaragua,2020,low_carbon,solar,0.02
+NER,Africa,Niger,2020,low_carbon,solar,0.02
+NGA,Africa,Nigeria,2020,low_carbon,solar,0.04
+PRK,Asia,North Korea,2020,low_carbon,solar,0.02
+MKD,Europe,North Macedonia,2020,low_carbon,solar,0.02
+NOR,Europe,Norway,2020,low_carbon,solar,0.03
+OMN,Asia,Oman,2020,low_carbon,solar,0.0
+PAK,Asia,Pakistan,2020,low_carbon,solar,1.2
+PSE,Asia,Palestine,2020,low_carbon,solar,0.0
+PAN,North America,Panama,2020,low_carbon,solar,0.3
+PNG,Oceania,Papua New Guinea,2020,low_carbon,solar,0.0
+PRY,South America,Paraguay,2020,low_carbon,solar,0.0
+PER,South America,Peru,2020,low_carbon,solar,0.8
+PHL,Asia,Philippines,2020,low_carbon,solar,1.25
+POL,Europe,Poland,2020,low_carbon,solar,1.96
+PRT,Europe,Portugal,2020,low_carbon,solar,1.72
+PRI,North America,Puerto Rico,2020,low_carbon,solar,0.25
+QAT,Asia,Qatar,2020,low_carbon,solar,0.01
+ROU,Europe,Romania,2020,low_carbon,solar,1.73
+RUS,Europe,Russia,2020,low_carbon,solar,1.86
+RWA,Africa,Rwanda,2020,low_carbon,solar,0.05
+KNA,North America,Saint Kitts and Nevis,2020,low_carbon,solar,0.0
+LCA,North America,Saint Lucia,2020,low_carbon,solar,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,low_carbon,solar,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,low_carbon,solar,0.0
+WSM,Oceania,Samoa,2020,low_carbon,solar,0.0
+STP,Africa,Sao Tome and Principe,2020,low_carbon,solar,0.0
+SAU,Asia,Saudi Arabia,2020,low_carbon,solar,1.04
+SEN,Africa,Senegal,2020,low_carbon,solar,0.3
+SRB,Europe,Serbia,2020,low_carbon,solar,0.01
+SYC,Africa,Seychelles,2020,low_carbon,solar,0.0
+SLE,Africa,Sierra Leone,2020,low_carbon,solar,0.01
+SGP,Asia,Singapore,2020,low_carbon,solar,0.62
+SVK,Europe,Slovakia,2020,low_carbon,solar,0.66
+SVN,Europe,Slovenia,2020,low_carbon,solar,0.37
+SLB,Oceania,Solomon Islands,2020,low_carbon,solar,0.0
+SOM,Africa,Somalia,2020,low_carbon,solar,0.01
+ZAF,Africa,South Africa,2020,low_carbon,solar,3.6
+KOR,Asia,South Korea,2020,low_carbon,solar,18.25
+SSD,Africa,South Sudan,2020,low_carbon,solar,0.0
+ESP,Europe,Spain,2020,low_carbon,solar,20.67
+LKA,Asia,Sri Lanka,2020,low_carbon,solar,0.11
+SDN,Africa,Sudan,2020,low_carbon,solar,0.02
+SUR,South America,Suriname,2020,low_carbon,solar,0.01
+SWE,Europe,Sweden,2020,low_carbon,solar,1.05
+CHE,Europe,Switzerland,2020,low_carbon,solar,2.52
+SYR,Asia,Syria,2020,low_carbon,solar,0.0
+TWN,Asia,Taiwan,2020,low_carbon,solar,6.09
+TJK,Asia,Tajikistan,2020,low_carbon,solar,0.0
+TZA,Africa,Tanzania,2020,low_carbon,solar,0.09
+THA,Asia,Thailand,2020,low_carbon,solar,4.93
+TGO,Africa,Togo,2020,low_carbon,solar,0.0
+TON,Oceania,Tonga,2020,low_carbon,solar,0.0
+TTO,North America,Trinidad and Tobago,2020,low_carbon,solar,0.0
+TUN,Africa,Tunisia,2020,low_carbon,solar,0.25
+TUR,Asia,Turkey,2020,low_carbon,solar,10.95
+TKM,Asia,Turkmenistan,2020,low_carbon,solar,0.0
+TCA,North America,Turks and Caicos Islands,2020,low_carbon,solar,0.0
+UGA,Africa,Uganda,2020,low_carbon,solar,0.07
+UKR,Europe,Ukraine,2020,low_carbon,solar,5.97
+ARE,Asia,United Arab Emirates,2020,low_carbon,solar,3.78
+GBR,Europe,United Kingdom,2020,low_carbon,solar,13.32
+USA,North America,United States,2020,low_carbon,solar,130.72
+VIR,North America,United States Virgin Islands,2020,low_carbon,solar,0.01
+URY,South America,Uruguay,2020,low_carbon,solar,0.46
+UZB,Asia,Uzbekistan,2020,low_carbon,solar,0.01
+VUT,Oceania,Vanuatu,2020,low_carbon,solar,0.01
+VEN,South America,Venezuela,2020,low_carbon,solar,0.01
+VNM,Asia,Vietnam,2020,low_carbon,solar,4.9
+YEM,Asia,Yemen,2020,low_carbon,solar,0.5
+ZMB,Africa,Zambia,2020,low_carbon,solar,0.15
+ZWE,Africa,Zimbabwe,2020,low_carbon,solar,0.01
+AFG,Asia,Afghanistan,2020,low_carbon,wind,0.0
+ALB,Europe,Albania,2020,low_carbon,wind,0.0
+DZA,Africa,Algeria,2020,low_carbon,wind,0.01
+ASM,Oceania,American Samoa,2020,low_carbon,wind,0.0
+AGO,Africa,Angola,2020,low_carbon,wind,0.0
+ATG,North America,Antigua and Barbuda,2020,low_carbon,wind,0.0
+ARG,South America,Argentina,2020,low_carbon,wind,9.41
+ARM,Asia,Armenia,2020,low_carbon,wind,0.0
+ABW,North America,Aruba,2020,low_carbon,wind,0.14
+AUS,Oceania,Australia,2020,low_carbon,wind,20.4
+AUT,Europe,Austria,2020,low_carbon,wind,6.79
+AZE,Asia,Azerbaijan,2020,low_carbon,wind,0.1
+BHS,North America,Bahamas,2020,low_carbon,wind,0.0
+BHR,Asia,Bahrain,2020,low_carbon,wind,0.0
+BGD,Asia,Bangladesh,2020,low_carbon,wind,0.01
+BRB,North America,Barbados,2020,low_carbon,wind,0.0
+BLR,Europe,Belarus,2020,low_carbon,wind,0.19
+BEL,Europe,Belgium,2020,low_carbon,wind,12.76
+BLZ,North America,Belize,2020,low_carbon,wind,0.0
+BEN,Africa,Benin,2020,low_carbon,wind,0.0
+BTN,Asia,Bhutan,2020,low_carbon,wind,0.0
+BOL,South America,Bolivia,2020,low_carbon,wind,0.06
+BIH,Europe,Bosnia and Herzegovina,2020,low_carbon,wind,0.26
+BWA,Africa,Botswana,2020,low_carbon,wind,0.0
+BRA,South America,Brazil,2020,low_carbon,wind,57.05
+VGB,North America,British Virgin Islands,2020,low_carbon,wind,0.0
+BDI,Africa,Brunei,2020,low_carbon,wind,0.0
+BGR,Europe,Bulgaria,2020,low_carbon,wind,1.48
+BFA,Africa,Burkina Faso,2020,low_carbon,wind,0.0
+BDI,Africa,Burundi,2020,low_carbon,wind,0.0
+KHM,Asia,Cambodia,2020,low_carbon,wind,0.0
+CMR,Africa,Cameroon,2020,low_carbon,wind,0.0
+CAN,North America,Canada,2020,low_carbon,wind,36.1
+CPV,Africa,Cape Verde,2020,low_carbon,wind,0.08
+CYM,North America,Cayman Islands,2020,low_carbon,wind,0.0
+CAF,Africa,Central African Republic,2020,low_carbon,wind,0.0
+TCD,Africa,Chad,2020,low_carbon,wind,0.01
+CHL,South America,Chile,2020,low_carbon,wind,5.52
+CHN,Asia,China,2020,low_carbon,wind,466.5
+COL,South America,Colombia,2020,low_carbon,wind,0.06
+COM,Africa,Comoros,2020,low_carbon,wind,0.0
+COG,Africa,Congo,2020,low_carbon,wind,0.0
+COK,Oceania,Cook Islands,2020,low_carbon,wind,0.0
+CRI,North America,Costa Rica,2020,low_carbon,wind,1.46
+CIV,Africa,Cote d'Ivoire,2020,low_carbon,wind,0.0
+HRV,Europe,Croatia,2020,low_carbon,wind,1.72
+CUB,North America,Cuba,2020,low_carbon,wind,0.02
+CYP,Asia,Cyprus,2020,low_carbon,wind,0.24
+CZE,Europe,Czechia,2020,low_carbon,wind,0.7
+COD,Africa,Democratic Republic of Congo,2020,low_carbon,wind,0.0
+DNK,Europe,Denmark,2020,low_carbon,wind,16.33
+DJI,Africa,Djibouti,2020,low_carbon,wind,0.0
+DMA,North America,Dominica,2020,low_carbon,wind,0.0
+DOM,North America,Dominican Republic,2020,low_carbon,wind,0.55
+ZAF,Africa,Eastern Africa,2020,low_carbon,wind,1.968
+ECU,South America,Ecuador,2020,low_carbon,wind,0.08
+EGY,Africa,Egypt,2020,low_carbon,wind,4.0
+SLV,North America,El Salvador,2020,low_carbon,wind,0.0
+GNQ,Africa,Equatorial Guinea,2020,low_carbon,wind,0.0
+ERI,Africa,Eritrea,2020,low_carbon,wind,0.0
+EST,Europe,Estonia,2020,low_carbon,wind,0.84
+SWZ,Africa,Eswatini,2020,low_carbon,wind,0.0
+ETH,Africa,Ethiopia,2020,low_carbon,wind,0.53
+FRO,Europe,Faroe Islands,2020,low_carbon,wind,0.06
+FLK,South America,Falkland Islands,2020,low_carbon,wind,0.01
+FJI,Oceania,Fiji,2020,low_carbon,wind,0.0
+FIN,Europe,Finland,2020,low_carbon,wind,7.94
+FRA,Europe,France,2020,low_carbon,wind,39.79
+GUF,South America,French Guiana,2020,low_carbon,wind,0.0
+PYF,Oceania,French Polynesia,2020,low_carbon,wind,0.0
+GAB,Africa,Gabon,2020,low_carbon,wind,0.0
+GMB,Africa,Gambia,2020,low_carbon,wind,0.0
+GEO,Asia,Georgia,2020,low_carbon,wind,0.09
+DEU,Europe,Germany,2020,low_carbon,wind,132.1
+GHA,Africa,Ghana,2020,low_carbon,wind,0.0
+GRC,Europe,Greece,2020,low_carbon,wind,9.31
+GRL,North America,Greenland,2020,low_carbon,wind,0.0
+GRD,North America,Grenada,2020,low_carbon,wind,0.0
+GLP,North America,Guadeloupe,2020,low_carbon,wind,0.05
+GUM,Oceania,Guam,2020,low_carbon,wind,0.0
+GTM,North America,Guatemala,2020,low_carbon,wind,0.31
+GIN,Africa,Guinea,2020,low_carbon,wind,0.0
+GNB,Africa,Guinea-Bissau,2020,low_carbon,wind,0.0
+GUY,South America,Guyana,2020,low_carbon,wind,0.0
+HTI,North America,Haiti,2020,low_carbon,wind,0.0
+HND,North America,Honduras,2020,low_carbon,wind,0.82
+HKG,Asia,Hong Kong,2020,low_carbon,wind,0.0
+HUN,Europe,Hungary,2020,low_carbon,wind,0.65
+ISL,Europe,Iceland,2020,low_carbon,wind,0.01
+IND,Asia,India,2020,low_carbon,wind,60.43
+IDN,Asia,Indonesia,2020,low_carbon,wind,0.47
+IRN,Asia,Iran,2020,low_carbon,wind,0.56
+IRQ,Asia,Iraq,2020,low_carbon,wind,0.0
+IRL,Europe,Ireland,2020,low_carbon,wind,11.55
+ISR,Asia,Israel,2020,low_carbon,wind,0.23
+ITA,Europe,Italy,2020,low_carbon,wind,18.76
+JAM,North America,Jamaica,2020,low_carbon,wind,0.27
+JPN,Asia,Japan,2020,low_carbon,wind,8.65
+JOR,Asia,Jordan,2020,low_carbon,wind,0.88
+KAZ,Asia,Kazakhstan,2020,low_carbon,wind,1.14
+KEN,Africa,Kenya,2020,low_carbon,wind,1.16
+KIR,Oceania,Kiribati,2020,low_carbon,wind,0.0
+XXK,Europe,Kosovo,2020,low_carbon,wind,0.09
+KWT,Asia,Kuwait,2020,low_carbon,wind,0.04
+KGZ,Asia,Kyrgyzstan,2020,low_carbon,wind,0.0
+LAO,Asia,Laos,2020,low_carbon,wind,0.0
+LVA,Europe,Latvia,2020,low_carbon,wind,0.18
+LBN,Asia,Lebanon,2020,low_carbon,wind,0.01
+LSO,Africa,Lesotho,2020,low_carbon,wind,0.0
+LBR,Africa,Liberia,2020,low_carbon,wind,0.0
+LBY,Africa,Libya,2020,low_carbon,wind,0.0
+LTU,Europe,Lithuania,2020,low_carbon,wind,1.55
+LUX,Europe,Luxembourg,2020,low_carbon,wind,0.35
+MAC,Asia,Macao,2020,low_carbon,wind,0.0
+MDG,Africa,Madagascar,2020,low_carbon,wind,0.0
+MWI,Africa,Malawi,2020,low_carbon,wind,0.0
+MYS,Asia,Malaysia,2020,low_carbon,wind,0.0
+MDV,Asia,Maldives,2020,low_carbon,wind,0.0
+MLI,Africa,Mali,2020,low_carbon,wind,0.0
+MLT,Europe,Malta,2020,low_carbon,wind,0.0
+MTQ,North America,Martinique,2020,low_carbon,wind,0.01
+MRT,Africa,Mauritania,2020,low_carbon,wind,0.12
+MUS,Africa,Mauritius,2020,low_carbon,wind,0.02
+MEX,North America,Mexico,2020,low_carbon,wind,19.7
+MDA,Europe,Moldova,2020,low_carbon,wind,0.05
+MNG,Asia,Mongolia,2020,low_carbon,wind,0.55
+MNE,Europe,Montenegro,2020,low_carbon,wind,0.32
+MSR,North America,Montserrat,2020,low_carbon,wind,0.0
+MAR,Africa,Morocco,2020,low_carbon,wind,4.59
+MOZ,Africa,Mozambique,2020,low_carbon,wind,0.0
+MMR,Asia,Myanmar,2020,low_carbon,wind,0.0
+NAM,Africa,Namibia,2020,low_carbon,wind,0.0
+NRU,Oceania,Nauru,2020,low_carbon,wind,0.0
+NPL,Asia,Nepal,2020,low_carbon,wind,0.01
+NLD,Europe,Netherlands,2020,low_carbon,wind,15.34
+NCL,Oceania,New Caledonia,2020,low_carbon,wind,0.05
+NZL,Oceania,New Zealand,2020,low_carbon,wind,2.3
+NIC,North America,Nicaragua,2020,low_carbon,wind,0.73
+NER,Africa,Niger,2020,low_carbon,wind,0.0
+NGA,Africa,Nigeria,2020,low_carbon,wind,0.0
+PRK,Asia,North Korea,2020,low_carbon,wind,0.0
+MKD,Europe,North Macedonia,2020,low_carbon,wind,0.12
+NOR,Europe,Norway,2020,low_carbon,wind,9.91
+OMN,Asia,Oman,2020,low_carbon,wind,0.0
+PAK,Asia,Pakistan,2020,low_carbon,wind,3.3
+PSE,Asia,Palestine,2020,low_carbon,wind,0.0
+PAN,North America,Panama,2020,low_carbon,wind,0.7
+PNG,Oceania,Papua New Guinea,2020,low_carbon,wind,0.0
+PRY,South America,Paraguay,2020,low_carbon,wind,0.0
+PER,South America,Peru,2020,low_carbon,wind,1.81
+PHL,Asia,Philippines,2020,low_carbon,wind,1.05
+POL,Europe,Poland,2020,low_carbon,wind,15.8
+PRT,Europe,Portugal,2020,low_carbon,wind,12.3
+PRI,North America,Puerto Rico,2020,low_carbon,wind,2.5
+QAT,Asia,Qatar,2020,low_carbon,wind,0.0
+ROU,Europe,Romania,2020,low_carbon,wind,6.95
+RUS,Europe,Russia,2020,low_carbon,wind,1.14
+RWA,Africa,Rwanda,2020,low_carbon,wind,0.0
+KNA,North America,Saint Kitts and Nevis,2020,low_carbon,wind,0.01
+LCA,North America,Saint Lucia,2020,low_carbon,wind,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,low_carbon,wind,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,low_carbon,wind,0.0
+WSM,Oceania,Samoa,2020,low_carbon,wind,0.0
+STP,Africa,Sao Tome and Principe,2020,low_carbon,wind,0.0
+SAU,Asia,Saudi Arabia,2020,low_carbon,wind,0.0
+SEN,Africa,Senegal,2020,low_carbon,wind,0.02
+SRB,Europe,Serbia,2020,low_carbon,wind,0.98
+SYC,Africa,Seychelles,2020,low_carbon,wind,0.0
+SLE,Africa,Sierra Leone,2020,low_carbon,wind,0.0
+SGP,Asia,Singapore,2020,low_carbon,wind,0.0
+SVK,Europe,Slovakia,2020,low_carbon,wind,0.0
+SVN,Europe,Slovenia,2020,low_carbon,wind,0.01
+SLB,Oceania,Solomon Islands,2020,low_carbon,wind,0.0
+SOM,Africa,Somalia,2020,low_carbon,wind,0.01
+ZAF,Africa,South Africa,2020,low_carbon,wind,5.94
+KOR,Asia,South Korea,2020,low_carbon,wind,3.15
+SSD,Africa,South Sudan,2020,low_carbon,wind,0.0
+ESP,Europe,Spain,2020,low_carbon,wind,56.44
+LKA,Asia,Sri Lanka,2020,low_carbon,wind,0.35
+SDN,Africa,Sudan,2020,low_carbon,wind,0.0
+SUR,South America,Suriname,2020,low_carbon,wind,0.0
+SWE,Europe,Sweden,2020,low_carbon,wind,27.53
+CHE,Europe,Switzerland,2020,low_carbon,wind,0.14
+SYR,Asia,Syria,2020,low_carbon,wind,0.0
+TWN,Asia,Taiwan,2020,low_carbon,wind,2.42
+TJK,Asia,Tajikistan,2020,low_carbon,wind,0.0
+TZA,Africa,Tanzania,2020,low_carbon,wind,0.0
+THA,Asia,Thailand,2020,low_carbon,wind,3.08
+TGO,Africa,Togo,2020,low_carbon,wind,0.0
+TON,Oceania,Tonga,2020,low_carbon,wind,0.0
+TTO,North America,Trinidad and Tobago,2020,low_carbon,wind,0.0
+TUN,Africa,Tunisia,2020,low_carbon,wind,0.5
+TUR,Asia,Turkey,2020,low_carbon,wind,24.83
+TKM,Asia,Turkmenistan,2020,low_carbon,wind,0.0
+TCA,North America,Turks and Caicos Islands,2020,low_carbon,wind,0.0
+UGA,Africa,Uganda,2020,low_carbon,wind,0.0
+UKR,Europe,Ukraine,2020,low_carbon,wind,3.27
+ARE,Asia,United Arab Emirates,2020,low_carbon,wind,0.0
+GBR,Europe,United Kingdom,2020,low_carbon,wind,73.83
+USA,North America,United States,2020,low_carbon,wind,337.94
+VIR,North America,United States Virgin Islands,2020,low_carbon,wind,0.0
+URY,South America,Uruguay,2020,low_carbon,wind,5.44
+UZB,Asia,Uzbekistan,2020,low_carbon,wind,0.0
+VUT,Oceania,Vanuatu,2020,low_carbon,wind,0.0
+VEN,South America,Venezuela,2020,low_carbon,wind,0.09
+VNM,Asia,Vietnam,2020,low_carbon,wind,0.72
+YEM,Asia,Yemen,2020,low_carbon,wind,0.0
+ZMB,Africa,Zambia,2020,low_carbon,wind,0.0
+ZWE,Africa,Zimbabwe,2020,low_carbon,wind,0.0
+AFG,Asia,Afghanistan,2020,low_carbon,bio,0.0
+ALB,Europe,Albania,2020,low_carbon,bio,0.0
+DZA,Africa,Algeria,2020,low_carbon,bio,0.0
+ASM,Oceania,American Samoa,2020,low_carbon,bio,0.0
+AGO,Africa,Angola,2020,low_carbon,bio,0.25
+ATG,North America,Antigua and Barbuda,2020,low_carbon,bio,0.0
+ARG,South America,Argentina,2020,low_carbon,bio,0.43
+ARM,Asia,Armenia,2020,low_carbon,bio,0.0
+ABW,North America,Aruba,2020,low_carbon,bio,0.0
+AUS,Oceania,Australia,2020,low_carbon,bio,3.12
+AUT,Europe,Austria,2020,low_carbon,bio,4.59
+AZE,Asia,Azerbaijan,2020,low_carbon,bio,0.0
+BHS,North America,Bahamas,2020,low_carbon,bio,0.0
+BHR,Asia,Bahrain,2020,low_carbon,bio,0.0
+BGD,Asia,Bangladesh,2020,low_carbon,bio,0.03
+BRB,North America,Barbados,2020,low_carbon,bio,0.0
+BLR,Europe,Belarus,2020,low_carbon,bio,0.51
+BEL,Europe,Belgium,2020,low_carbon,bio,5.27
+BLZ,North America,Belize,2020,low_carbon,bio,0.17
+BEN,Africa,Benin,2020,low_carbon,bio,0.0
+BTN,Asia,Bhutan,2020,low_carbon,bio,0.0
+BOL,South America,Bolivia,2020,low_carbon,bio,0.51
+BIH,Europe,Bosnia and Herzegovina,2020,low_carbon,bio,0.02
+BWA,Africa,Botswana,2020,low_carbon,bio,0.0
+BRA,South America,Brazil,2020,low_carbon,bio,50.92
+VGB,North America,British Virgin Islands,2020,low_carbon,bio,0.0
+BDI,Africa,Brunei,2020,low_carbon,bio,0.0
+BGR,Europe,Bulgaria,2020,low_carbon,bio,1.7
+BFA,Africa,Burkina Faso,2020,low_carbon,bio,0.0
+BDI,Africa,Burundi,2020,low_carbon,bio,0.01
+KHM,Asia,Cambodia,2020,low_carbon,bio,0.34
+CMR,Africa,Cameroon,2020,low_carbon,bio,0.0
+CAN,North America,Canada,2020,low_carbon,bio,10.13
+CPV,Africa,Cape Verde,2020,low_carbon,bio,0.0
+CYM,North America,Cayman Islands,2020,low_carbon,bio,0.0
+CAF,Africa,Central African Republic,2020,low_carbon,bio,0.0
+TCD,Africa,Chad,2020,low_carbon,bio,0.0
+CHL,South America,Chile,2020,low_carbon,bio,1.52
+CHN,Asia,China,2020,low_carbon,bio,135.52
+COL,South America,Colombia,2020,low_carbon,bio,1.28
+COM,Africa,Comoros,2020,low_carbon,bio,0.0
+COG,Africa,Congo,2020,low_carbon,bio,0.08
+COK,Oceania,Cook Islands,2020,low_carbon,bio,0.0
+CRI,North America,Costa Rica,2020,low_carbon,bio,0.02
+CIV,Africa,Cote d'Ivoire,2020,low_carbon,bio,0.0
+HRV,Europe,Croatia,2020,low_carbon,bio,0.98
+CUB,North America,Cuba,2020,low_carbon,bio,2.6
+CYP,Asia,Cyprus,2020,low_carbon,bio,0.06
+CZE,Europe,Czechia,2020,low_carbon,bio,5.21
+COD,Africa,Democratic Republic of Congo,2020,low_carbon,bio,0.0
+DNK,Europe,Denmark,2020,low_carbon,bio,5.92
+DJI,Africa,Djibouti,2020,low_carbon,bio,0.0
+DMA,North America,Dominica,2020,low_carbon,bio,0.0
+DOM,North America,Dominican Republic,2020,low_carbon,bio,0.35
+ZAF,Africa,Eastern Africa,2020,low_carbon,bio,
+ECU,South America,Ecuador,2020,low_carbon,bio,1.29
+EGY,Africa,Egypt,2020,low_carbon,bio,0.0
+SLV,North America,El Salvador,2020,low_carbon,bio,0.68
+GNQ,Africa,Equatorial Guinea,2020,low_carbon,bio,0.0
+ERI,Africa,Eritrea,2020,low_carbon,bio,0.0
+EST,Europe,Estonia,2020,low_carbon,bio,1.85
+SWZ,Africa,Eswatini,2020,low_carbon,bio,0.46
+ETH,Africa,Ethiopia,2020,low_carbon,bio,0.03
+FRO,Europe,Faroe Islands,2020,low_carbon,bio,0.0
+FLK,South America,Falkland Islands,2020,low_carbon,bio,0.0
+FJI,Oceania,Fiji,2020,low_carbon,bio,0.14
+FIN,Europe,Finland,2020,low_carbon,bio,11.57
+FRA,Europe,France,2020,low_carbon,bio,8.85
+GUF,South America,French Guiana,2020,low_carbon,bio,0.01
+PYF,Oceania,French Polynesia,2020,low_carbon,bio,0.0
+GAB,Africa,Gabon,2020,low_carbon,bio,0.02
+GMB,Africa,Gambia,2020,low_carbon,bio,0.0
+GEO,Asia,Georgia,2020,low_carbon,bio,0.0
+DEU,Europe,Germany,2020,low_carbon,bio,50.86
+GHA,Africa,Ghana,2020,low_carbon,bio,0.03
+GRC,Europe,Greece,2020,low_carbon,bio,0.45
+GRL,North America,Greenland,2020,low_carbon,bio,0.0
+GRD,North America,Grenada,2020,low_carbon,bio,0.0
+GLP,North America,Guadeloupe,2020,low_carbon,bio,0.38
+GUM,Oceania,Guam,2020,low_carbon,bio,0.0
+GTM,North America,Guatemala,2020,low_carbon,bio,1.9
+GIN,Africa,Guinea,2020,low_carbon,bio,0.0
+GNB,Africa,Guinea-Bissau,2020,low_carbon,bio,0.0
+GUY,South America,Guyana,2020,low_carbon,bio,0.14
+HTI,North America,Haiti,2020,low_carbon,bio,0.0
+HND,North America,Honduras,2020,low_carbon,bio,0.93
+HKG,Asia,Hong Kong,2020,low_carbon,bio,0.0
+HUN,Europe,Hungary,2020,low_carbon,bio,2.15
+ISL,Europe,Iceland,2020,low_carbon,bio,0.0
+IND,Asia,India,2020,low_carbon,bio,32.1
+IDN,Asia,Indonesia,2020,low_carbon,bio,15.88
+IRN,Asia,Iran,2020,low_carbon,bio,0.02
+IRQ,Asia,Iraq,2020,low_carbon,bio,0.0
+IRL,Europe,Ireland,2020,low_carbon,bio,0.94
+ISR,Asia,Israel,2020,low_carbon,bio,0.1
+ITA,Europe,Italy,2020,low_carbon,bio,19.62
+JAM,North America,Jamaica,2020,low_carbon,bio,0.13
+JPN,Asia,Japan,2020,low_carbon,bio,33.47
+JOR,Asia,Jordan,2020,low_carbon,bio,0.06
+KAZ,Asia,Kazakhstan,2020,low_carbon,bio,0.01
+KEN,Africa,Kenya,2020,low_carbon,bio,0.12
+KIR,Oceania,Kiribati,2020,low_carbon,bio,0.0
+XXK,Europe,Kosovo,2020,low_carbon,bio,0.0
+KWT,Asia,Kuwait,2020,low_carbon,bio,0.0
+KGZ,Asia,Kyrgyzstan,2020,low_carbon,bio,0.0
+LAO,Asia,Laos,2020,low_carbon,bio,0.22
+LVA,Europe,Latvia,2020,low_carbon,bio,0.86
+LBN,Asia,Lebanon,2020,low_carbon,bio,0.06
+LSO,Africa,Lesotho,2020,low_carbon,bio,0.0
+LBR,Africa,Liberia,2020,low_carbon,bio,0.0
+LBY,Africa,Libya,2020,low_carbon,bio,0.0
+LTU,Europe,Lithuania,2020,low_carbon,bio,0.59
+LUX,Europe,Luxembourg,2020,low_carbon,bio,0.37
+MAC,Asia,Macao,2020,low_carbon,bio,0.0
+MDG,Africa,Madagascar,2020,low_carbon,bio,0.0
+MWI,Africa,Malawi,2020,low_carbon,bio,0.02
+MYS,Asia,Malaysia,2020,low_carbon,bio,1.78
+MDV,Asia,Maldives,2020,low_carbon,bio,0.0
+MLI,Africa,Mali,2020,low_carbon,bio,0.19
+MLT,Europe,Malta,2020,low_carbon,bio,0.01
+MTQ,North America,Martinique,2020,low_carbon,bio,0.13
+MRT,Africa,Mauritania,2020,low_carbon,bio,0.0
+MUS,Africa,Mauritius,2020,low_carbon,bio,0.33
+MEX,North America,Mexico,2020,low_carbon,bio,7.29
+MDA,Europe,Moldova,2020,low_carbon,bio,0.01
+MNG,Asia,Mongolia,2020,low_carbon,bio,0.0
+MNE,Europe,Montenegro,2020,low_carbon,bio,0.0
+MSR,North America,Montserrat,2020,low_carbon,bio,0.0
+MAR,Africa,Morocco,2020,low_carbon,bio,0.04
+MOZ,Africa,Mozambique,2020,low_carbon,bio,0.14
+MMR,Asia,Myanmar,2020,low_carbon,bio,0.32
+NAM,Africa,Namibia,2020,low_carbon,bio,0.0
+NRU,Oceania,Nauru,2020,low_carbon,bio,0.0
+NPL,Asia,Nepal,2020,low_carbon,bio,0.0
+NLD,Europe,Netherlands,2020,low_carbon,bio,8.85
+NCL,Oceania,New Caledonia,2020,low_carbon,bio,0.0
+NZL,Oceania,New Zealand,2020,low_carbon,bio,0.61
+NIC,North America,Nicaragua,2020,low_carbon,bio,0.53
+NER,Africa,Niger,2020,low_carbon,bio,0.0
+NGA,Africa,Nigeria,2020,low_carbon,bio,0.02
+PRK,Asia,North Korea,2020,low_carbon,bio,0.0
+MKD,Europe,North Macedonia,2020,low_carbon,bio,0.06
+NOR,Europe,Norway,2020,low_carbon,bio,0.24
+OMN,Asia,Oman,2020,low_carbon,bio,0.0
+PAK,Asia,Pakistan,2020,low_carbon,bio,1.18
+PSE,Asia,Palestine,2020,low_carbon,bio,0.0
+PAN,North America,Panama,2020,low_carbon,bio,0.08
+PNG,Oceania,Papua New Guinea,2020,low_carbon,bio,0.08
+PRY,South America,Paraguay,2020,low_carbon,bio,0.0
+PER,South America,Peru,2020,low_carbon,bio,0.53
+PHL,Asia,Philippines,2020,low_carbon,bio,2.02
+POL,Europe,Poland,2020,low_carbon,bio,8.35
+PRT,Europe,Portugal,2020,low_carbon,bio,3.79
+PRI,North America,Puerto Rico,2020,low_carbon,bio,0.01
+QAT,Asia,Qatar,2020,low_carbon,bio,0.03
+ROU,Europe,Romania,2020,low_carbon,bio,0.55
+RUS,Europe,Russia,2020,low_carbon,bio,0.48
+RWA,Africa,Rwanda,2020,low_carbon,bio,0.01
+KNA,North America,Saint Kitts and Nevis,2020,low_carbon,bio,0.0
+LCA,North America,Saint Lucia,2020,low_carbon,bio,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,low_carbon,bio,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,low_carbon,bio,0.0
+WSM,Oceania,Samoa,2020,low_carbon,bio,0.01
+STP,Africa,Sao Tome and Principe,2020,low_carbon,bio,0.0
+SAU,Asia,Saudi Arabia,2020,low_carbon,bio,0.0
+SEN,Africa,Senegal,2020,low_carbon,bio,0.1
+SRB,Europe,Serbia,2020,low_carbon,bio,0.19
+SYC,Africa,Seychelles,2020,low_carbon,bio,0.0
+SLE,Africa,Sierra Leone,2020,low_carbon,bio,0.0
+SGP,Asia,Singapore,2020,low_carbon,bio,0.41
+SVK,Europe,Slovakia,2020,low_carbon,bio,1.67
+SVN,Europe,Slovenia,2020,low_carbon,bio,0.27
+SLB,Oceania,Solomon Islands,2020,low_carbon,bio,0.0
+SOM,Africa,Somalia,2020,low_carbon,bio,0.0
+ZAF,Africa,South Africa,2020,low_carbon,bio,0.41
+KOR,Asia,South Korea,2020,low_carbon,bio,16.44
+SSD,Africa,South Sudan,2020,low_carbon,bio,0.0
+ESP,Europe,Spain,2020,low_carbon,bio,6.14
+LKA,Asia,Sri Lanka,2020,low_carbon,bio,0.25
+SDN,Africa,Sudan,2020,low_carbon,bio,0.71
+SUR,South America,Suriname,2020,low_carbon,bio,0.0
+SWE,Europe,Sweden,2020,low_carbon,bio,11.18
+CHE,Europe,Switzerland,2020,low_carbon,bio,0.21
+SYR,Asia,Syria,2020,low_carbon,bio,0.01
+TWN,Asia,Taiwan,2020,low_carbon,bio,1.96
+TJK,Asia,Tajikistan,2020,low_carbon,bio,0.0
+TZA,Africa,Tanzania,2020,low_carbon,bio,0.57
+THA,Asia,Thailand,2020,low_carbon,bio,13.61
+TGO,Africa,Togo,2020,low_carbon,bio,0.0
+TON,Oceania,Tonga,2020,low_carbon,bio,0.0
+TTO,North America,Trinidad and Tobago,2020,low_carbon,bio,0.02
+TUN,Africa,Tunisia,2020,low_carbon,bio,0.0
+TUR,Asia,Turkey,2020,low_carbon,bio,4.44
+TKM,Asia,Turkmenistan,2020,low_carbon,bio,0.0
+TCA,North America,Turks and Caicos Islands,2020,low_carbon,bio,0.0
+UGA,Africa,Uganda,2020,low_carbon,bio,0.28
+UKR,Europe,Ukraine,2020,low_carbon,bio,0.76
+ARE,Asia,United Arab Emirates,2020,low_carbon,bio,0.01
+GBR,Europe,United Kingdom,2020,low_carbon,bio,38.1
+USA,North America,United States,2020,low_carbon,bio,54.7
+VIR,North America,United States Virgin Islands,2020,low_carbon,bio,0.0
+URY,South America,Uruguay,2020,low_carbon,bio,0.88
+UZB,Asia,Uzbekistan,2020,low_carbon,bio,0.0
+VUT,Oceania,Vanuatu,2020,low_carbon,bio,0.01
+VEN,South America,Venezuela,2020,low_carbon,bio,0.0
+VNM,Asia,Vietnam,2020,low_carbon,bio,0.0
+YEM,Asia,Yemen,2020,low_carbon,bio,0.0
+ZMB,Africa,Zambia,2020,low_carbon,bio,0.16
+ZWE,Africa,Zimbabwe,2020,low_carbon,bio,0.38
+AFG,Asia,Afghanistan,2020,low_carbon,other,0.0
+ALB,Europe,Albania,2020,low_carbon,other,0.0
+DZA,Africa,Algeria,2020,low_carbon,other,0.0
+ASM,Oceania,American Samoa,2020,low_carbon,other,0.0
+AGO,Africa,Angola,2020,low_carbon,other,0.0
+ATG,North America,Antigua and Barbuda,2020,low_carbon,other,0.0
+ARG,South America,Argentina,2020,low_carbon,other,0.0
+ARM,Asia,Armenia,2020,low_carbon,other,0.0
+ABW,North America,Aruba,2020,low_carbon,other,0.0
+AUS,Oceania,Australia,2020,low_carbon,other,0.0
+AUT,Europe,Austria,2020,low_carbon,other,0.0
+AZE,Asia,Azerbaijan,2020,low_carbon,other,0.0
+BHS,North America,Bahamas,2020,low_carbon,other,0.0
+BHR,Asia,Bahrain,2020,low_carbon,other,0.0
+BGD,Asia,Bangladesh,2020,low_carbon,other,0.0
+BRB,North America,Barbados,2020,low_carbon,other,0.0
+BLR,Europe,Belarus,2020,low_carbon,other,0.0
+BEL,Europe,Belgium,2020,low_carbon,other,0.0
+BLZ,North America,Belize,2020,low_carbon,other,0.0
+BEN,Africa,Benin,2020,low_carbon,other,0.0
+BTN,Asia,Bhutan,2020,low_carbon,other,0.0
+BOL,South America,Bolivia,2020,low_carbon,other,0.0
+BIH,Europe,Bosnia and Herzegovina,2020,low_carbon,other,0.0
+BWA,Africa,Botswana,2020,low_carbon,other,0.0
+BRA,South America,Brazil,2020,low_carbon,other,0.0
+VGB,North America,British Virgin Islands,2020,low_carbon,other,0.0
+BDI,Africa,Brunei,2020,low_carbon,other,0.0
+BGR,Europe,Bulgaria,2020,low_carbon,other,0.0
+BFA,Africa,Burkina Faso,2020,low_carbon,other,0.0
+BDI,Africa,Burundi,2020,low_carbon,other,0.0
+KHM,Asia,Cambodia,2020,low_carbon,other,0.0
+CMR,Africa,Cameroon,2020,low_carbon,other,0.0
+CAN,North America,Canada,2020,low_carbon,other,0.12
+CPV,Africa,Cape Verde,2020,low_carbon,other,0.0
+CYM,North America,Cayman Islands,2020,low_carbon,other,0.0
+CAF,Africa,Central African Republic,2020,low_carbon,other,0.0
+TCD,Africa,Chad,2020,low_carbon,other,0.0
+CHL,South America,Chile,2020,low_carbon,other,0.25
+CHN,Asia,China,2020,low_carbon,other,
+COL,South America,Colombia,2020,low_carbon,other,0.0
+COM,Africa,Comoros,2020,low_carbon,other,0.0
+COG,Africa,Congo,2020,low_carbon,other,0.0
+COK,Oceania,Cook Islands,2020,low_carbon,other,0.0
+CRI,North America,Costa Rica,2020,low_carbon,other,1.69
+CIV,Africa,Cote d'Ivoire,2020,low_carbon,other,0.0
+HRV,Europe,Croatia,2020,low_carbon,other,0.09
+CUB,North America,Cuba,2020,low_carbon,other,0.0
+CYP,Asia,Cyprus,2020,low_carbon,other,0.0
+CZE,Europe,Czechia,2020,low_carbon,other,0.0
+COD,Africa,Democratic Republic of Congo,2020,low_carbon,other,0.0
+DNK,Europe,Denmark,2020,low_carbon,other,0.0
+DJI,Africa,Djibouti,2020,low_carbon,other,0.0
+DMA,North America,Dominica,2020,low_carbon,other,0.0
+DOM,North America,Dominican Republic,2020,low_carbon,other,0.0
+ZAF,Africa,Eastern Africa,2020,low_carbon,other,
+ECU,South America,Ecuador,2020,low_carbon,other,0.0
+EGY,Africa,Egypt,2020,low_carbon,other,0.0
+SLV,North America,El Salvador,2020,low_carbon,other,1.47
+GNQ,Africa,Equatorial Guinea,2020,low_carbon,other,0.0
+ERI,Africa,Eritrea,2020,low_carbon,other,0.0
+EST,Europe,Estonia,2020,low_carbon,other,0.0
+SWZ,Africa,Eswatini,2020,low_carbon,other,0.0
+ETH,Africa,Ethiopia,2020,low_carbon,other,0.0
+FRO,Europe,Faroe Islands,2020,low_carbon,other,0.0
+FLK,South America,Falkland Islands,2020,low_carbon,other,0.0
+FJI,Oceania,Fiji,2020,low_carbon,other,0.0
+FIN,Europe,Finland,2020,low_carbon,other,0.0
+FRA,Europe,France,2020,low_carbon,other,0.61
+GUF,South America,French Guiana,2020,low_carbon,other,0.0
+PYF,Oceania,French Polynesia,2020,low_carbon,other,0.0
+GAB,Africa,Gabon,2020,low_carbon,other,0.0
+GMB,Africa,Gambia,2020,low_carbon,other,0.0
+GEO,Asia,Georgia,2020,low_carbon,other,0.0
+DEU,Europe,Germany,2020,low_carbon,other,0.23
+GHA,Africa,Ghana,2020,low_carbon,other,0.0
+GRC,Europe,Greece,2020,low_carbon,other,0.0
+GRL,North America,Greenland,2020,low_carbon,other,0.0
+GRD,North America,Grenada,2020,low_carbon,other,0.0
+GLP,North America,Guadeloupe,2020,low_carbon,other,0.0
+GUM,Oceania,Guam,2020,low_carbon,other,0.0
+GTM,North America,Guatemala,2020,low_carbon,other,0.33
+GIN,Africa,Guinea,2020,low_carbon,other,0.0
+GNB,Africa,Guinea-Bissau,2020,low_carbon,other,0.0
+GUY,South America,Guyana,2020,low_carbon,other,0.0
+HTI,North America,Haiti,2020,low_carbon,other,0.0
+HND,North America,Honduras,2020,low_carbon,other,0.3
+HKG,Asia,Hong Kong,2020,low_carbon,other,0.0
+HUN,Europe,Hungary,2020,low_carbon,other,0.02
+ISL,Europe,Iceland,2020,low_carbon,other,5.96
+IND,Asia,India,2020,low_carbon,other,
+IDN,Asia,Indonesia,2020,low_carbon,other,
+IRN,Asia,Iran,2020,low_carbon,other,0.0
+IRQ,Asia,Iraq,2020,low_carbon,other,0.0
+IRL,Europe,Ireland,2020,low_carbon,other,0.0
+ISR,Asia,Israel,2020,low_carbon,other,0.0
+ITA,Europe,Italy,2020,low_carbon,other,6.03
+JAM,North America,Jamaica,2020,low_carbon,other,0.0
+JPN,Asia,Japan,2020,low_carbon,other,21.51
+JOR,Asia,Jordan,2020,low_carbon,other,0.0
+KAZ,Asia,Kazakhstan,2020,low_carbon,other,
+KEN,Africa,Kenya,2020,low_carbon,other,4.99
+KIR,Oceania,Kiribati,2020,low_carbon,other,0.0
+XXK,Europe,Kosovo,2020,low_carbon,other,0.0
+KWT,Asia,Kuwait,2020,low_carbon,other,0.0
+KGZ,Asia,Kyrgyzstan,2020,low_carbon,other,0.0
+LAO,Asia,Laos,2020,low_carbon,other,0.0
+LVA,Europe,Latvia,2020,low_carbon,other,0.0
+LBN,Asia,Lebanon,2020,low_carbon,other,0.0
+LSO,Africa,Lesotho,2020,low_carbon,other,0.0
+LBR,Africa,Liberia,2020,low_carbon,other,0.0
+LBY,Africa,Libya,2020,low_carbon,other,0.0
+LTU,Europe,Lithuania,2020,low_carbon,other,0.0
+LUX,Europe,Luxembourg,2020,low_carbon,other,0.0
+MAC,Asia,Macao,2020,low_carbon,other,0.0
+MDG,Africa,Madagascar,2020,low_carbon,other,0.0
+MWI,Africa,Malawi,2020,low_carbon,other,0.0
+MYS,Asia,Malaysia,2020,low_carbon,other,0.0
+MDV,Asia,Maldives,2020,low_carbon,other,0.0
+MLI,Africa,Mali,2020,low_carbon,other,0.0
+MLT,Europe,Malta,2020,low_carbon,other,0.0
+MTQ,North America,Martinique,2020,low_carbon,other,0.0
+MRT,Africa,Mauritania,2020,low_carbon,other,0.0
+MUS,Africa,Mauritius,2020,low_carbon,other,0.0
+MEX,North America,Mexico,2020,low_carbon,other,9.12
+MDA,Europe,Moldova,2020,low_carbon,other,0.0
+MNG,Asia,Mongolia,2020,low_carbon,other,0.0
+MNE,Europe,Montenegro,2020,low_carbon,other,0.0
+MSR,North America,Montserrat,2020,low_carbon,other,0.0
+MAR,Africa,Morocco,2020,low_carbon,other,0.0
+MOZ,Africa,Mozambique,2020,low_carbon,other,0.0
+MMR,Asia,Myanmar,2020,low_carbon,other,0.0
+NAM,Africa,Namibia,2020,low_carbon,other,0.0
+NRU,Oceania,Nauru,2020,low_carbon,other,0.0
+NPL,Asia,Nepal,2020,low_carbon,other,0.0
+NLD,Europe,Netherlands,2020,low_carbon,other,0.0
+NCL,Oceania,New Caledonia,2020,low_carbon,other,0.0
+NZL,Oceania,New Zealand,2020,low_carbon,other,8.2
+NIC,North America,Nicaragua,2020,low_carbon,other,0.78
+NER,Africa,Niger,2020,low_carbon,other,0.0
+NGA,Africa,Nigeria,2020,low_carbon,other,0.0
+PRK,Asia,North Korea,2020,low_carbon,other,0.0
+MKD,Europe,North Macedonia,2020,low_carbon,other,0.0
+NOR,Europe,Norway,2020,low_carbon,other,0.0
+OMN,Asia,Oman,2020,low_carbon,other,0.0
+PAK,Asia,Pakistan,2020,low_carbon,other,0.0
+PSE,Asia,Palestine,2020,low_carbon,other,0.0
+PAN,North America,Panama,2020,low_carbon,other,0.0
+PNG,Oceania,Papua New Guinea,2020,low_carbon,other,0.0
+PRY,South America,Paraguay,2020,low_carbon,other,0.0
+PER,South America,Peru,2020,low_carbon,other,0.0
+PHL,Asia,Philippines,2020,low_carbon,other,10.69
+POL,Europe,Poland,2020,low_carbon,other,0.0
+PRT,Europe,Portugal,2020,low_carbon,other,0.22
+PRI,North America,Puerto Rico,2020,low_carbon,other,0.0
+QAT,Asia,Qatar,2020,low_carbon,other,0.0
+ROU,Europe,Romania,2020,low_carbon,other,0.0
+RUS,Europe,Russia,2020,low_carbon,other,0.42
+RWA,Africa,Rwanda,2020,low_carbon,other,0.0
+KNA,North America,Saint Kitts and Nevis,2020,low_carbon,other,0.0
+LCA,North America,Saint Lucia,2020,low_carbon,other,0.0
+SPM,North America,Saint Pierre and Miquelon,2020,low_carbon,other,0.0
+VCT,North America,Saint Vincent and the Grenadines,2020,low_carbon,other,0.0
+WSM,Oceania,Samoa,2020,low_carbon,other,0.0
+STP,Africa,Sao Tome and Principe,2020,low_carbon,other,0.0
+SAU,Asia,Saudi Arabia,2020,low_carbon,other,
+SEN,Africa,Senegal,2020,low_carbon,other,0.0
+SRB,Europe,Serbia,2020,low_carbon,other,0.0
+SYC,Africa,Seychelles,2020,low_carbon,other,0.0
+SLE,Africa,Sierra Leone,2020,low_carbon,other,0.0
+SGP,Asia,Singapore,2020,low_carbon,other,0.0
+SVK,Europe,Slovakia,2020,low_carbon,other,0.0
+SVN,Europe,Slovenia,2020,low_carbon,other,0.0
+SLB,Oceania,Solomon Islands,2020,low_carbon,other,0.0
+SOM,Africa,Somalia,2020,low_carbon,other,0.0
+ZAF,Africa,South Africa,2020,low_carbon,other,0.0
+KOR,Asia,South Korea,2020,low_carbon,other,3.98
+SSD,Africa,South Sudan,2020,low_carbon,other,0.0
+ESP,Europe,Spain,2020,low_carbon,other,0.03
+LKA,Asia,Sri Lanka,2020,low_carbon,other,0.0
+SDN,Africa,Sudan,2020,low_carbon,other,0.0
+SUR,South America,Suriname,2020,low_carbon,other,0.0
+SWE,Europe,Sweden,2020,low_carbon,other,0.0
+CHE,Europe,Switzerland,2020,low_carbon,other,0.0
+SYR,Asia,Syria,2020,low_carbon,other,0.0
+TWN,Asia,Taiwan,2020,low_carbon,other,0.0
+TJK,Asia,Tajikistan,2020,low_carbon,other,0.0
+TZA,Africa,Tanzania,2020,low_carbon,other,0.0
+THA,Asia,Thailand,2020,low_carbon,other,0.0
+TGO,Africa,Togo,2020,low_carbon,other,0.0
+TON,Oceania,Tonga,2020,low_carbon,other,0.0
+TTO,North America,Trinidad and Tobago,2020,low_carbon,other,0.0
+TUN,Africa,Tunisia,2020,low_carbon,other,0.0
+TUR,Asia,Turkey,2020,low_carbon,other,10.03
+TKM,Asia,Turkmenistan,2020,low_carbon,other,0.0
+TCA,North America,Turks and Caicos Islands,2020,low_carbon,other,0.0
+UGA,Africa,Uganda,2020,low_carbon,other,0.0
+UKR,Europe,Ukraine,2020,low_carbon,other,0.0
+ARE,Asia,United Arab Emirates,2020,low_carbon,other,0.0
+GBR,Europe,United Kingdom,2020,low_carbon,other,0.01
+USA,North America,United States,2020,low_carbon,other,15.89
+VIR,North America,United States Virgin Islands,2020,low_carbon,other,0.0
+URY,South America,Uruguay,2020,low_carbon,other,0.0
+UZB,Asia,Uzbekistan,2020,low_carbon,other,0.0
+VUT,Oceania,Vanuatu,2020,low_carbon,other,0.0
+VEN,South America,Venezuela,2020,low_carbon,other,0.0
+VNM,Asia,Vietnam,2020,low_carbon,other,0.0
+YEM,Asia,Yemen,2020,low_carbon,other,0.0
+ZMB,Africa,Zambia,2020,low_carbon,other,0.0
+ZWE,Africa,Zimbabwe,2020,low_carbon,other,0.0
