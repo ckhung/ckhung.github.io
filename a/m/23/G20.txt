@@ -1,1 +1,0 @@
-(Argentina|Australia|Brazil|Canada|China|France|Germany|India|Italy|Japan|Korea|Mexico|Russia|Saudi\s+Arabia|South\s+Africa|Turkey|United\s+Kingdom|United\s+States|Taiwan)
