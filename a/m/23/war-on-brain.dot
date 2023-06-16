@@ -119,6 +119,7 @@ digraph "頭腦爭霸戰" {
     artificial_intelligence -> misinformation [color="#0000ff:white:#0000ff"; label="=ai-mi="; labeltooltip="deepfake\n劍橋分析 2.0" ];
     artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="=ai-se="; labeltooltip="deepfake" ];
 
-    { kol editor misinformation social_engineering } -> your_brain -> { important_personal important_societal }
+    { kol editor misinformation social_engineering } -> your_brain -> important_societal
+    { your_brain privacy_loss } -> important_personal;
 }
 
