@@ -5,107 +5,120 @@ digraph "頭腦爭霸戰" {
 
     social_motivation [ label="社交意圖"; style=filled; fillcolor="#f0c0ff" ];
     monetary_motivation [ label="金錢意圖"; style=filled; fillcolor="#f0c0ff" ];
-    political_motivation [ label="控制慾的vs對抗的\n政治意圖"; style=filled; fillcolor="#f0c0ff" ];
-    internet [ shape=rectangle; label="網際網路" style=filled; fillcolor="#e0ffff" ];
+    political_motivation [ label="惡意的vs對抗的\n政治意圖"; style=filled; fillcolor="#f0c0ff" ];
+    internet [ label="網際網路" style=filled; fillcolor="#c0ffff" ];
     copy_cost_0 [ label="資訊複製零成本" ];
-    open_data [ label="(開放政府+)\n開放資料" ];
     everone_producer [ label="每個人都可以是\n資訊生產者" ];
+
     free_software [ label="自由軟體"; style=filled; fillcolor="#ffffe0" ];
     dem_prod_tool [ label="圖文影音\n創作工具民主化" ];
+
+    open_data [ label="(開放政府+)\n開放資料" ];
     info_explosion [ label="資訊爆炸"; style=filled; fillcolor="#ffffe0" ];
     attention_scarcity [ label="注意力稀有\nHerbert Simon\n注意力經濟\nMichael Goldhaber" ];
+    attention_span [ label="人類普遍\n注意力變短"; style=filled; fillcolor="#ffffe0" ];
+    visualization [ label="懶人包、 梗圖\ninfographics\n資料視覺化"; style=filled; fillcolor="#ffffe0" ];
     physical_ae [ label="實體世界的\n注意力經濟" ];
+
     social_media [ label="社群媒體" ];
+    long_tail [ label="長尾現象" ];
     astroturfing [ label="偽草根運動\nastroturfing" ];
     emotion [ label="情緒決定\n資訊傳導度"; style=filled; fillcolor="#ffffe0" ];
-    attention_span [ label="人類普遍\n注意力變短"; style=filled; fillcolor="#ffffe0" ];
-    visualization [ label="梗圖 + 懶人包 +\n資料視覺化"; style=filled; fillcolor="#ffffe0" ];
-    long_tail [ label="長尾現象" ];
-    infomercial [ label="infomercial\n業配文" ];
+    embedded_marketing [ label="業配、置入性行銷" ];
     kol [ label="網紅" ];
-    google_bm [ label="網路公司的\n商業模式" ];
+    google_bm [ label="跨國網路公司\n的商業模式" ];
     artificial_intelligence [ label="人工智慧" ];
     misinformation [ label="misinformation +\nmalinformation" ];
-    giving_up_privacy [ label="放棄隱私"; style=filled; fillcolor="#ffffe0" ];
+    privacy_loss [ label="隱私流失"; style=filled; fillcolor="#ffffe0" ];
     filter_bubble [ label="同溫層\nfilter bubble" ];
-    surveillance_capitalism [ label="surveillance\ncapitalism" ];
-    walled_garden [ label="walled garden" ];
+    behavior_big_data [ label="大數據：\n用戶行為資訊" ];
+    xtion_economy [ label="economy of action" ];
     social_engineering [ label="社交工程/詐騙" ];
     editor [ label="小編" ];
-    your_brain [ shape=rectangle; label="你的大腦\n成為戰場"; style=filled; fillcolor="#ffc0c0" ];
-    conflict [ shape=rectangle; label="[環保/宗教/性別/...]\n各種議題的社會對立"; style=filled; fillcolor="#ffc0c0"; ];
+    your_brain [ label="你的大腦\n成為戰場"; style=filled; fillcolor="#ffff40" ];
+    conflict [ shape=rectangle; label="[環保/宗教/性別/...]\n各種議題的社會對立"; style=filled; fillcolor="#ff8080"; ];
     important_personal [ shape=rectangle; label="個人重要能力：\n搜尋、專注閱讀、\n自省情緒、辨別意圖\n自由軟體、資訊安全"; style=filled; fillcolor="#ffffe0" ];
-    important_societal [ shape=rectangle; label="社會重要通識：\n[消息+金流]透明化\nfediverse\n搜尋、媒體識讀、\n心理學、資訊安全"; style=filled; fillcolor="#ffffe0" ];
+    important_societal [ shape=rectangle; label="社會更多重要議題：\n(金流！)透明化\nfediverse\n媒體識讀\n心理學"; style=filled; fillcolor="#ffffe0" ];
 
     # # # # # # # # # # # # # # # # # # # # 
 
-    # 一、 驅動力
-
-    political_motivation -> monetary_motivation;
-
-    # 二、 從網際網路到...
-
-    internet -> { copy_cost_0 everone_producer } -> free_software
-    political_motivation -> free_software [ label="=cc0-fs="; labeltooltip="革奴計畫" ];
-    social_motivation -> free_software [ label="=sm-fs="; labeltooltip="reputation economy\nexposure culture"];
-
-
+    internet -> { copy_cost_0 everone_producer } -> free_software;
+    political_motivation -> free_software [ label="=cc0ep-fs="; labeltooltip="革奴計畫" ];
+    social_motivation -> free_software [ label="=sm-fs="; labeltooltip="軟體就像性，免費的比較好" ];
     free_software -> dem_prod_tool [ label="=="; labeltooltip="inkscape\ngimp\naudacity\n價格競爭" ];
-    copy_cost_0 -> dem_prod_tool [ label="=="; labeltooltip="盜版" ];
-    { everone_producer copy_cost_0 } -> { info_explosion social_engineering };
-    dem_prod_tool -> info_explosion [ label="=="; labeltooltip="衍生創作" ];
-    dem_prod_tool -> social_engineering;
-    { social_motivation info_explosion } -> attention_scarcity;
-    { social_motivation dem_prod_tool everone_producer copy_cost_0 } -> social_media;
-    political_motivation -> social_media [ color="#ff0000:white:#ff0000"; label="*23*"; labeltooltip="言論管制的集權國家\n网络安全法第二十八条" ];
-    { dem_prod_tool copy_cost_0 social_media } -> long_tail;
-    monetary_motivation -> physical_ae [ label="=="; labeltooltip="四川航空 免費巴士\ndigital license plate ads" ];
-    attention_scarcity -> physical_ae;
-    attention_scarcity -> giving_up_privacy [ label="=="; labeltooltip="selfie" ];
-    attention_scarcity -> emotion [ label="=="; labeltooltip="下標題技巧" ];
-    attention_scarcity -> open_data [ label="=="; labeltooltip="創用CC" ];
-    attention_scarcity -> attention_span;
-    social_media -> attention_span;
-    attention_span -> social_media [ label="=="; labeltooltip="blog=>twitter\nyoutube=>抖音" ];
-    social_media -> giving_up_privacy [ label="=="; labeltooltip="venmo\nthisisyourdigitallife\n300個讚\n元宇宙頭盔\n网络安全法第二十八条\ntiktok 追蹤鍵盤" ];
-    social_media -> emotion [ label="=="; labeltooltip="回想個人經驗" ];
-    everone_producer -> open_data [ label="=="; labeltooltip="維基百科\n開放街圖" ];
     copy_cost_0 -> open_data -> info_explosion;
-    open_data -> visualization [ label="=="; labeltooltip="Hans Rosling\nOWID" ];
-    dem_prod_tool -> visualization [ label="=="; labeltooltip="metabase\ngrafana\nplotly\ngnuplot\nscatplot" ];
-    attention_span -> visualization [ label="=="; labeltooltip="infographics" ];
-    social_motivation -> giving_up_privacy [ label="=="; labeltooltip="FOMO\nzenly"; ];
-    { free_software info_explosion giving_up_privacy } -> artificial_intelligence;
-    { monetary_motivation social_media giving_up_privacy } -> surveillance_capitalism;
-    attention_scarcity -> surveillance_capitalism [ label="=="; labeltooltip="targeted advertisement"; ];
-    kol -> filter_bubble;
-    surveillance_capitalism -> filter_bubble [ label="=="; labeltooltip="你也會喜歡\n劍橋分析" ];
-    { attention_span misinformation } -> conflict;
-    filter_bubble -> conflict [ label="=="; labeltooltip="fan wars" ];
-    surveillance_capitalism -> giving_up_privacy [ label="=="; labeltooltip="誘勸改用app\napp內建瀏覽器\n臉書打亂網址" ];
-    surveillance_capitalism -> walled_garden [ label="=="; labeltooltip="臉書登入才能讀\nlineline voom？\n抖音？\nbilibili？" ];
-    surveillance_capitalism -> social_engineering [ label="=="; labeltooltip="黑市個資" ];
-    surveillance_capitalism -> misinformation [ label="=="; labeltooltip="劍橋分析" ];
-    walled_garden -> misinformation [ label="=="; labeltooltip="臉書禁備份\nline 群組\nline 內建瀏覽器不能搜尋\nline voom？" ];
-    walled_garden -> filter_bubble [ label="=="; labeltooltip="line 群組\nline 內建瀏覽器不能搜尋" ];
-    monetary_motivation -> { social_media social_engineering infomercial astroturfing };
+    everone_producer -> open_data [ label="=ep-od="; labeltooltip="維基百科\n開放街圖" ];
+
+
+    { everone_producer copy_cost_0 dem_prod_tool } -> { info_explosion social_engineering };
+    social_motivation -> attention_scarcity;
+    info_explosion -> attention_scarcity [ color="#0000ff"; penwidth=3 ];
+    attention_scarcity -> info_explosion [ color="#0000ff"; penwidth=3; label="=as-ix="; labeltooltip="reputation economy\nexposure culture\n創用CC" ];
+    attention_scarcity -> attention_span [ color="#0000ff"; penwidth=3; label="=as-as="; labeltooltip="金魚腦" ];
+    attention_scarcity -> privacy_loss [ label="=as-pl="; labeltooltip="selfie\n不必讀，我同意\n預設值\n暗黑模式的 UI/UX" ];
+    attention_span -> { visualization physical_ae };
+    open_data -> visualization [ label="=od-viz="; labeltooltip="Hans Rosling\nOWID" ];
+    dem_prod_tool -> visualization [ label="=dpt-viz="; labeltooltip="metabase\ngrafana\nplotly\ngnuplot\nscatplot" ];
+
+    monetary_motivation -> physical_ae [ label="=mm-pae="; labeltooltip="四川航空 免費巴士\ndigital license plate ads" ];
     attention_scarcity -> google_bm;
-    monetary_motivation ->  google_bm [ label="=="; labeltooltip="google\nyoutube\n臉書" ];
-    google_bm -> kol [ label="=="; labeltooltip="抖內\n工商服務\n拍賣直播" ];
-    social_media -> astroturfing [ label="=="; labeltooltip="we sell likes\n監獄網評員\ntwitter INFO OPs archive" ];
-    political_motivation -> astroturfing [ label="=="; labeltooltip="蜂蜜檸檬韓粉美國\n" ];
-    monetary_motivation -> misinformation [ label="=="; labeltooltip="馬其頓 假新聞\n真相製造機" ];
-    political_motivation -> { editor misinformation surveillance_capitalism };
-    political_motivation -> kol [ label="=="; labeltooltip="解放軍南部戰區 對台自媒體及輿論分隊\n大翻譯運動" ];
-    monetary_motivation -> kol [ label="=="; labeltooltip="most super chatted on youtube" ];
-    emotion -> editor;
-    emotion -> surveillance_capitalism [ label="=="; labeltooltip="一個怒值五個讚" ];
-    emotion -> kol [ label="=="; labeltooltip="蔡阿嘎、鼻妹、視網膜\n波特王、斯坦\n朱學恒、館長\nYuri Bezmenov" ];
-    emotion -> conflict [ label="=="; labeltooltip="社會運動\nYuri Bezmenov" ];
-    emotion -> misinformation [ label="=="; labeltooltip="盜版/山寨/仿冒\n\npredatory journal?\n很多孩子走了\n近二週致死率全球第三高\n只改一個字的「引導腦補」認知戰\n側翼" ];
-    artificial_intelligence -> surveillance_capitalism [color="#0000ff:white:#0000ff"; label="=="; labeltooltip="劍橋分析 2.0" ];
-    artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="=="; labeltooltip="deepfake" ];
-    artificial_intelligence -> misinformation [color="#0000ff:white:#0000ff"; label="=="; labeltooltip="deepfake\n劍橋分析 2.0" ];
-    { kol editor misinformation surveillance_capitalism social_engineering } -> your_brain -> { important_personal important_societal }
+    monetary_motivation ->  google_bm [ label="=mm-gbm="; labeltooltip="臉書、Instagram\ngoogle\nyoutube" ];
+    google_bm -> kol [ label="=gbm-kol="; labeltooltip="抖內\n工商服務\n直播拍賣\n健生中醫" ];
+    monetary_motivation -> embedded_marketing [ label="=mm-em="; ];
+
+    { social_motivation everone_producer copy_cost_0 } -> social_media;
+    dem_prod_tool -> social_media [ label="=dpt-sm="; labeltooltip="BBS、IRC" ];
+    social_media -> attention_scarcity [ color="#0000ff"; penwidth=3; label="=sm-as="; labeltooltip="無限滾動捲軸\ndark patterns\ndeceptive patterns" ];
+    attention_span -> social_media [ color="#0000ff"; penwidth=3; label="=as-sm="; labeltooltip="blog=>twitter\nyoutube=>抖音" ];
+    { dem_prod_tool copy_cost_0 social_media } -> long_tail;
+    social_media -> emotion [ label="=sm-emo="; labeltooltip="回想個人經驗" ];
+    attention_scarcity -> emotion [ label="=as-emo="; labeltooltip="下標題技巧\n故事行銷" ];
+    social_media -> astroturfing;
+    monetary_motivation -> astroturfing [ label="=mm-at="; labeltooltip="bigtech wiki\nwe sell likes\nfake review" ];
+    social_media -> privacy_loss [ label="=sm-pl="; labeltooltip="FOMO\nzenly\nvenmo\n抖音與臉書對你的逐鍵觀察" ];
+
+
+    social_media -> behavior_big_data [ label="=sm-bbd="; labeltooltip="thisisyourdigitallife\n300個讚\n元宇宙頭盔\n社會信用體系\n网络安全法第二十八条" ];
+    behavior_big_data -> privacy_loss [ label="=bbd-pl="; labeltooltip="少女懷孕，Target預測產期"; ];
+    attention_span -> behavior_big_data [ label="=as-bbd="; labeltooltip="個人化...、智慧..."; ];
+    google_bm -> behavior_big_data [ label="=gbm-bbd="; labeltooltip="targeted advertisement\n登入臉書方可閱讀的IP歧視政策"; ];
+    behavior_big_data -> xtion_economy [ color="#0000ff"; penwidth=3; label="=bbd-xe="; labeltooltip="臉書情緒傳染實驗\n(臉書的紐澳青年)\n心理弱點行銷研究\n劍橋分析\nPokéstop"; ];
+    xtion_economy -> behavior_big_data [ color="#0000ff"; penwidth=3; label="=xe-bbd="; labeltooltip="建立高牆花園\n誘勸改用app\napp內嵌瀏覽器\n臉書加密網址\n無限下滑" ];
+
+
+    filter_bubble -> misinformation;
+    xtion_economy -> filter_bubble [ label="=xe-fb="; labeltooltip="你也會喜歡\nline 群組\nline 內建瀏覽器不能搜尋" ];
+    xtion_economy -> misinformation [ label="=xe-mi="; labeltooltip="dark ads\n臉書禁備份\nline 群組\nline 內建瀏覽器不能搜尋\nline voom？" ];
+    monetary_motivation -> misinformation [ label="=mm-mi="; labeltooltip="大榴蓮\n鬼島狂新聞\n馬其頓 假新聞\n真相製造" ];
+    emotion -> misinformation [ label="=emo-mi="; labeltooltip="台灣致死率全世界第一\n近二週致死率全球第三高\n愛台網紅離開台灣\n很多孩子走了\n\n盜版/山寨/仿冒\npredatory journal?" ];
+    emotion -> kol [ label="=emo-kol="; labeltooltip="鼻妹、視網膜\n波特王、八烔、斯坦\n朱學恒、館長" ];
+
+    political_motivation -> social_media [ color="#ff0000:white:#ff0000"; label="=pm-sm="; labeltooltip="言論管制\n極權國家\n网络安全法第二十八条" ];
+    political_motivation -> behavior_big_data [ label="=pm-bb=" ];
+    political_motivation -> monetary_motivation [ label="=pm-mm=" ];
+    monetary_motivation -> kol [ label="=mm-kol="; labeltooltip="爆料公社\nmost super chatted on youtube" ];
+    political_motivation -> astroturfing [ label="=pm-ast="; labeltooltip="twitter INFO OPs archive\n監獄網評員\n蜂蜜檸檬韓粉美國" ];
+    political_motivation -> kol [ label="=pm-kol="; labeltooltip="解放軍南部戰區 對台自媒體及輿論分隊\n大翻譯運動" ];
+    political_motivation -> misinformation [ label="=pm-mi="; labeltooltip="諸多假訊息打擊防疫" ];
+    political_motivation -> editor [ label="=pm-ed="; labeltooltip="各政黨小編文化" ];
+    emotion -> editor [ label="=emo-ed="; labeltooltip="小編的人格特質？" ];
+
+    kol -> filter_bubble;
+    filter_bubble -> conflict [ label="=fb-conf="; labeltooltip="fan wars" ];
+    emotion -> conflict [ label="=emo-conf="; labeltooltip="社會運動\nYuri Bezmenov" ];
+    attention_span -> conflict [ label="=as-conf="; labeltooltip="標題殺人法 (的成功)" ];
+    misinformation -> conflict;
+    conflict -> privacy_loss [ label="=conf-pl="; labeltooltip="doxxing" ];
+    monetary_motivation -> privacy_loss [ label="=mm-pl="; labeltooltip="葉逢明\n黑市個資\n中國 apps 與系統" ];
+    monetary_motivation -> social_engineering [ label="=mm-se="; ];
+    behavior_big_data -> social_engineering [ label="=bbd-se="; labeltooltip="黑市個資" ];
+
+    { free_software info_explosion } -> artificial_intelligence;
+    behavior_big_data -> artificial_intelligence [ color="#0000ff"; penwidth=3; ];
+    artificial_intelligence -> xtion_economy [ color="#0000ff:white:#0000ff"; label="=ai-xe="; labeltooltip="劍橋分析 2.0\n中共版劍橋分析？" ];
+    artificial_intelligence -> misinformation [color="#0000ff:white:#0000ff"; label="=ai-mi="; labeltooltip="deepfake\n劍橋分析 2.0" ];
+    artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="=ai-se="; labeltooltip="deepfake" ];
+
+    { kol editor misinformation social_engineering } -> your_brain -> { important_personal important_societal }
 }
 
