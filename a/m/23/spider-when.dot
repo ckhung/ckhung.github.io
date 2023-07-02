@@ -5,16 +5,19 @@ digraph "網路爬蟲： 何時使用哪個工具？" {
     shape=rectangle;
 
     javascript [ label="不開 js\n可以看嗎？" ; shape=diamond ];
-    text_browser [ label="wget\ncurl\nlynx\nw3m" ];
+    text_browser [ label="wget、curl\nlynx、w3m\n(可能需要設\nuser agent)" ];
     volume [ label="量很大嗎？" ; shape=diamond ];
     dev_mode [ label="瀏覽器的\n開發者模式" ];
     graphic_only [ label="只需要\n截圖？" ; shape=diamond];
+    language [ label="偏好的\n語言？" ; shape=diamond];
 
     javascript -> text_browser [ label="y" ];
     javascript -> volume [ label="n" ];
     volume -> dev_mode [ label="n" ];
     volume -> graphic_only [ label="y" ];
     graphic_only -> cutycapt [ label="y" ];
-    graphic_only -> puppeteer [ label="n" ];
+    graphic_only -> language [ label="n" ];
+    language -> selenium [ label="python" ];
+    language -> puppeteer [ label="javascript" ];
 }
 
