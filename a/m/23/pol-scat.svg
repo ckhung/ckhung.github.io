@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="pol-scat.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker1215"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path917" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path914" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4587"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4662">
+      <stop
+         style="stop-color:#40ff40;stop-opacity:0.50196081"
+         offset="0"
+         id="stop4658" />
+      <stop
+         style="stop-color:#4040ff;stop-opacity:0.50196081"
+         offset="1"
+         id="stop4660" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4662"
+       id="linearGradient4664"
+       x1="36.710938"
+       y1="276.49476"
+       x2="200.09114"
+       y2="276.49476"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.17828,0,0,1.17828,-19.516719,-49.309651)" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4587-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4587-2-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3766667"
+     inkscape:cx="418.88619"
+     inkscape:cy="270.94431"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1562"
+     inkscape:window-height="1009"
+     inkscape:window-x="178"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.24998)">
+    <g
+       id="g4711"
+       transform="rotate(-34.216683,29.588313,265.03821)">
+      <rect
+         rx="6.6247573"
+         ry="1.5587662"
+         y="272.5817"
+         x="23.739044"
+         height="7.7938313"
+         width="192.50763"
+         id="rect4643"
+         style="fill:url(#linearGradient4664);fill-opacity:1;stroke:none;stroke-width:0.31224418;stroke-miterlimit:4;stroke-dasharray:1.87346523, 1.87346523;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4706"
+         y="278.47916"
+         x="103.51823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:4.93889px;stroke-width:0.264583"
+           y="278.47916"
+           x="103.51823"
+           id="tspan4704"
+           sodipodi:role="line">傳統藍綠光譜</tspan></text>
+    </g>
+    <rect
+       id="rect3699"
+       width="169.9948"
+       height="126.0078"
+       x="26.789062"
+       y="159.41664"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="29.565849"
+       y="153.44778"
+       id="text4508"><tspan
+         sodipodi:role="line"
+         id="tspan4506"
+         x="29.565849"
+         y="153.44778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';stroke-width:0.264583">自由/民主/人權</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="179.68338"
+       y="153.98669"
+       id="text4524"><tspan
+         sodipodi:role="line"
+         id="tspan4522"
+         x="179.68338"
+         y="153.98669"
+         style="stroke-width:0.264583">獨裁</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-191.47342"
+       y="12.792884"
+       id="text4528"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4526"
+         x="-191.47342"
+         y="12.792884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">高度認同</tspan><tspan
+         sodipodi:role="line"
+         x="-191.47342"
+         y="20.730383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         id="tspan4530">中華文化</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-277.75885"
+       y="13.419447"
+       id="text4534"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan4532"
+         x="-277.75885"
+         y="13.419447"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">低度認同</tspan><tspan
+         sodipodi:role="line"
+         x="-277.75885"
+         y="21.356945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         id="tspan4536">中華文化</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.315632"
+       y="231.55679"
+       id="text4544"><tspan
+         sodipodi:role="line"
+         x="44.315632"
+         y="231.55679"
+         style="fill:#008000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4548">民進黨</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="32.735703"
+       y="167.29553"
+       id="text4570"><tspan
+         sodipodi:role="line"
+         id="tspan4568"
+         x="32.735703"
+         y="167.29553"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#0000ff;">中華</tspan><tspan
+         sodipodi:role="line"
+         x="32.735703"
+         y="172.5872"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#0000ff;"
+         id="tspan1043">保台</tspan><tspan
+         sodipodi:role="line"
+         x="32.735703"
+         y="177.87886"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#0000ff;"
+         id="tspan1045">反共</tspan><tspan
+         sodipodi:role="line"
+         x="32.735703"
+         y="183.17053"
+         style="font-size:4.23333px;stroke-width:0.264583;fill:#0000ff;"
+         id="tspan1047">復國黨</tspan></text>
+    <rect
+       style="fill:none;stroke:#800000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572"
+       width="94.387512"
+       height="75.416695"
+       x="77.807281"
+       y="181.89919"
+       ry="8.3450403"
+       rx="9.605648" />
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-4"
+       width="38.75148"
+       height="48.286392"
+       x="34.897316"
+       y="207.10225"
+       ry="4.1099701"
+       rx="6.5761209" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.264585"
+       x="123.61079"
+       y="219.70499"
+       id="text4570-9"><tspan
+         sodipodi:role="line"
+         id="tspan4568-3"
+         x="123.61079"
+         y="219.70499"
+         style="fill:#800000;fill-opacity:1;stroke-width:0.264585">國民黨</tspan><tspan
+         sodipodi:role="line"
+         x="123.61079"
+         y="227.64249"
+         style="fill:#800000;fill-opacity:1;stroke-width:0.264585"
+         id="tspan969">民眾黨</tspan></text>
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-4-3"
+       width="26.426502"
+       height="19.019474"
+       x="29.451132"
+       y="261.08179"
+       ry="5.0084977"
+       rx="4.0538964" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.603706"
+       y="271.3923"
+       id="text4544-6"><tspan
+         x="34.603706"
+         y="271.3923"
+         style="fill:#008000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4548-7"
+         sodipodi:role="line">台澎黨</tspan><tspan
+         x="34.603706"
+         y="279.3298"
+         style="fill:#008000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan910"
+         sodipodi:role="line">基進黨</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="173.71883"
+       y="170.61993"
+       id="text4544-62"><tspan
+         sodipodi:role="line"
+         x="173.71883"
+         y="170.61993"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4548-9">統促黨</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-1"
+       width="20.525621"
+       height="23.504372"
+       x="29.667631"
+       y="161.70792"
+       ry="2.2744348"
+       rx="4.336699" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-4-3-2"
+       width="24.467297"
+       height="10.787118"
+       x="169.94328"
+       y="162.07106"
+       ry="3.0330136"
+       rx="4.0538964" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
+       x="14.257187"
+       y="238.5994"
+       id="text1071"><tspan
+         sodipodi:role="line"
+         id="tspan1069"
+         x="14.257187"
+         y="238.5994"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-222.7339"
+       y="36.90554"
+       id="text4528-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         x="-222.7339"
+         y="36.90554"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         id="tspan4530-9">認同 2+2=4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
+       x="156.39987"
+       y="181.85695"
+       id="text1117"><tspan
+         sodipodi:role="line"
+         id="tspan1115"
+         x="156.39987"
+         y="181.85695"
+         style="stroke-width:0.264583">認同 2+2=[     ]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
+       x="184.12537"
+       y="179.1808"
+       id="text1121"><tspan
+         sodipodi:role="line"
+         x="184.12537"
+         y="179.1808"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         id="tspan1125">共產黨說幾</tspan><tspan
+         sodipodi:role="line"
+         x="184.12537"
+         y="182.70857"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         id="tspan1123">就是幾</tspan><tspan
+         sodipodi:role="line"
+         x="184.12537"
+         y="186.23636"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         id="tspan1129">現在是 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
+       x="90.367233"
+       y="198.76227"
+       id="text1133"><tspan
+         sodipodi:role="line"
+         id="tspan1131"
+         x="90.367233"
+         y="198.76227"
+         style="stroke-width:0.264583">認同 2+2=4.5</tspan><tspan
+         sodipodi:role="line"
+         x="90.367233"
+         y="205.81783"
+         style="stroke-width:0.264583"
+         id="tspan1135">(跟美中兩邊</tspan><tspan
+         sodipodi:role="line"
+         x="90.367233"
+         y="212.87337"
+         style="stroke-width:0.264583"
+         id="tspan67">保持等距)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 38.548251,222.18471 V 191.69149"
+       id="path905"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.615645,199.53027 34.968975,0"
+       id="path907"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.86781,183.96747 45.8858,0"
+       id="path909"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;stroke:#800000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-3"
+       width="93.470657"
+       height="76.81208"
+       x="85.149994"
+       y="188.31067"
+       ry="8.3450403"
+       rx="9.605648" />
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-4-3-3"
+       width="27.102081"
+       height="19.359573"
+       x="31.787987"
+       y="264.21768"
+       ry="5.0084977"
+       rx="4.0538964" />
+    <g
+       id="g1572">
+      <path
+         style="opacity:0.3;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1215)"
+         d="m 86.467009,173.46527 -20.161998,0"
+         id="path71"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;opacity:0.3;stroke-width:0.264583"
+         x="72.746887"
+         y="171.4539"
+         id="text1549"><tspan
+           sodipodi:role="line"
+           id="tspan1547"
+           x="72.746887"
+           y="171.4539"
+           style="font-size:4.23333px;stroke-width:0.264583">覺醒</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1572"
+       id="use1592"
+       transform="translate(0.81940536,46.984216)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1572"
+       id="use1600"
+       transform="translate(-0.21057285,22.899877)"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
