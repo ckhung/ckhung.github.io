@@ -111,6 +111,16 @@
          style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4662"
+       id="linearGradient970"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.17828,0,0,1.17828,-19.516719,-49.309651)"
+       x1="36.710938"
+       y1="276.49476"
+       x2="200.09114"
+       y2="276.49476" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -121,7 +131,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.3766667"
      inkscape:cx="402.98755"
-     inkscape:cy="270.94431"
+     inkscape:cy="300"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -173,7 +183,7 @@
            y="278.47916"
            x="103.51823"
            id="tspan4704"
-           sodipodi:role="line">傳統藍綠光譜</tspan></text>
+           sodipodi:role="line">舊時代的藍綠光譜</tspan></text>
     </g>
     <rect
        id="rect3699"
@@ -241,12 +251,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="44.315632"
-       y="231.55679"
+       x="51.449623"
+       y="230.89728"
        id="text4544"><tspan
          sodipodi:role="line"
-         x="44.315632"
-         y="231.55679"
+         x="51.449623"
+         y="230.89728"
          style="fill:#008000;fill-opacity:1;stroke-width:0.264583"
          id="tspan4548">民進黨</tspan></text>
     <text
@@ -507,5 +517,42 @@
        transform="translate(-0.21057285,22.899877)"
        width="100%"
        height="100%" />
+    <g
+       id="g4711-7"
+       transform="rotate(-90.082183,52.330262,283.21264)">
+      <rect
+         rx="6.6247573"
+         ry="1.5587662"
+         y="271.78458"
+         x="54.064529"
+         height="9.7942238"
+         width="121.84541"
+         id="rect4643-5"
+         style="fill:url(#linearGradient970);fill-opacity:1;stroke:none;stroke-width:0.312244;stroke-miterlimit:4;stroke-dasharray:1.87347, 1.87347;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4706-3"
+         y="-146.32086"
+         x="276.86365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         transform="rotate(90)"><tspan
+           style="font-size:4.93889px;writing-mode:tb-rl;stroke-width:0.264583"
+           y="276.86365"
+           x="-146.32086"
+           id="tspan4704-5"
+           sodipodi:role="line">二十一世紀真實的藍綠光譜</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
+       x="293.08459"
+       y="65.85878"
+       id="text978"
+       transform="rotate(45)"><tspan
+         sodipodi:role="line"
+         id="tspan976"
+         x="293.08459"
+         y="65.85878"
+         style="stroke-width:0.264583">在地黑道</tspan></text>
   </g>
 </svg>
