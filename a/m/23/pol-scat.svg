@@ -133,7 +133,7 @@
      inkscape:cx="402.98755"
      inkscape:cy="300"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4711"
      showgrid="false"
      units="px"
      inkscape:snap-nodes="false"
@@ -183,7 +183,7 @@
            y="278.47916"
            x="103.51823"
            id="tspan4704"
-           sodipodi:role="line">舊時代的藍綠光譜</tspan></text>
+           sodipodi:role="line">過時的藍綠光譜想像</tspan></text>
     </g>
     <rect
        id="rect3699"
@@ -531,14 +531,13 @@
          style="fill:url(#linearGradient970);fill-opacity:1;stroke:none;stroke-width:0.312244;stroke-miterlimit:4;stroke-dasharray:1.87347, 1.87347;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text4706-3"
-         y="-146.32086"
-         x="276.86365"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"
-         transform="rotate(90)"><tspan
-           style="font-size:4.93889px;writing-mode:tb-rl;stroke-width:0.264583"
-           y="276.86365"
-           x="-146.32086"
+         y="278.41602"
+         x="84.475739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:4.93889px;writing-mode:lr-tb;stroke-width:0.264583"
+           y="278.41602"
+           x="84.475739"
            id="tspan4704-5"
            sodipodi:role="line">二十一世紀真實的藍綠光譜</tspan></text>
     </g>
