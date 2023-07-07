@@ -130,10 +130,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3766667"
-     inkscape:cx="402.98755"
+     inkscape:cx="386.4217"
      inkscape:cy="300"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4711"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:snap-nodes="false"
@@ -195,25 +195,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="29.565849"
-       y="153.44778"
+       x="27.544281"
+       y="154.00475"
        id="text4508"><tspan
          sodipodi:role="line"
          id="tspan4506"
-         x="29.565849"
-         y="153.44778"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';stroke-width:0.264583">自由/民主/人權</tspan></text>
+         x="27.544281"
+         y="154.00475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';stroke-width:0.264583">自由/民主/人權/真相</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="141.64659"
-       y="153.94345"
+       x="127.1071"
+       y="153.76146"
        id="text4524"><tspan
          sodipodi:role="line"
          id="tspan4522"
-         x="141.64659"
-         y="153.94345"
-         style="stroke-width:0.264583">獨裁/謊言/言論管制</tspan></text>
+         x="127.1071"
+         y="153.76146"
+         style="stroke-width:0.264583">獨裁/指鹿為馬/言論管制</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -483,10 +483,11 @@
        ry="5.0084977"
        rx="4.0538964" />
     <g
-       id="g1572">
+       id="g1572"
+       transform="translate(-0.21057285)">
       <path
          style="opacity:0.3;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1215)"
-         d="m 86.467009,173.46527 -20.161998,0"
+         d="M 86.467009,173.46527 H 66.305011"
          id="path71"
          sodipodi:nodetypes="cc" />
       <text
@@ -506,7 +507,7 @@
        y="0"
        xlink:href="#g1572"
        id="use1592"
-       transform="translate(0.81940536,46.984216)"
+       transform="translate(0,50.304281)"
        width="100%"
        height="100%" />
     <use
@@ -514,7 +515,7 @@
        y="0"
        xlink:href="#g1572"
        id="use1600"
-       transform="translate(-0.21057285,22.899877)"
+       transform="translate(0,25.152138)"
        width="100%"
        height="100%" />
     <g
@@ -544,14 +545,29 @@
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
-       x="293.08459"
-       y="65.85878"
-       id="text978"
-       transform="rotate(45)"><tspan
+       x="163.02441"
+       y="236.14722"
+       id="text978"><tspan
          sodipodi:role="line"
          id="tspan976"
-         x="293.08459"
-         y="65.85878"
+         x="163.02441"
+         y="236.14722"
          style="stroke-width:0.264583">在地黑道</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1572"
+       id="use88"
+       transform="translate(0,75.456426)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1572"
+       id="use90"
+       transform="translate(0,100.60856)"
+       width="100%"
+       height="100%" />
   </g>
 </svg>
