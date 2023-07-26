@@ -14,7 +14,7 @@ digraph "檔案格式為中心的繪圖工作流程" {
     { text html csv } -> { dot gpt } [ label="RE" ];
     ods -> csv [ label="Libre Office" ];
     dot -> { svg graphic } [ label="graphviz" ];
-    svg -> { svg graphic } [ label="inkscape" ];
+    svg -> { svg graphic } [ label="inkscape\nsozi" ];
     gpt -> { svg graphic } [ label="gnuplot" ];
     graphic -> graphic [ label="gimp\nimagemagick" ];
 }
