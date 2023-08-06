@@ -544,15 +544,45 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
-       x="163.02441"
-       y="236.14722"
+       style="font-size:8.46667px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';letter-spacing:0px;stroke-width:0.264583"
+       x="163.7334"
+       y="210.41937"
        id="text978"><tspan
          sodipodi:role="line"
          id="tspan976"
-         x="163.02441"
-         y="236.14722"
-         style="stroke-width:0.264583">在地黑道</tspan></text>
+         x="163.7334"
+         y="210.41937"
+         style="font-size:8.46667px;stroke-width:0.264583">在</tspan><tspan
+         sodipodi:role="line"
+         x="163.7334"
+         y="221.00272"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan949" /><tspan
+         sodipodi:role="line"
+         x="163.7334"
+         y="231.58604"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan943">    地</tspan><tspan
+         sodipodi:role="line"
+         x="163.7334"
+         y="242.16939"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan951" /><tspan
+         sodipodi:role="line"
+         x="163.7334"
+         y="252.75272"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan945">黑</tspan><tspan
+         sodipodi:role="line"
+         x="163.7334"
+         y="263.33606"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan953" /><tspan
+         sodipodi:role="line"
+         x="163.7334"
+         y="273.9194"
+         style="font-size:8.46667px;stroke-width:0.264583"
+         id="tspan947">    道</tspan></text>
     <use
        x="0"
        y="0"
@@ -569,5 +599,14 @@
        transform="translate(0,100.60856)"
        width="100%"
        height="100%" />
+    <rect
+       style="fill:none;stroke:#800000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:3.175, 3.175;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4572-4-3-2-3"
+       width="29.821402"
+       height="83.94136"
+       x="161.70207"
+       y="195.8839"
+       ry="3.0330136"
+       rx="4.0538964" />
   </g>
 </svg>
