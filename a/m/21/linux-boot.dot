@@ -4,8 +4,8 @@ digraph "linux 開機流程" {
     overlap = scale;
 
     power [ label="電源開關" ];
-    UEFI_menu [ label="UEFI 開機選單" ];
-    uefi_boot [ label="UEFI boot\n(EFI/BOOT/BOOT*.EFI)" ];
+    UEFI_menu [ label="UEFI 開機選單"; style=filled; fillcolor="#ffffe0"; ];
+    uefi_boot [ label="UEFI boot\n(EFI/BOOT/BOOT*.EFI)"; style=filled; fillcolor="#ffffe0"; ];
     legacy_boot [ label="legacy boot\n(MBR => ???)" ];
     boot_loader [ label="boot loader 開機管理員\n(例： grub/isolinux/extlinux/...)" ];
     config [ label="開機設定檔\n(例： extlinux.conf)" ];

@@ -18,7 +18,7 @@
 <!-- UEFI_menu -->
 <g id="node2" class="node">
 <title>UEFI_menu</title>
-<ellipse fill="none" stroke="black" cx="243.69" cy="-90" rx="75.29" ry="18"/>
+<ellipse fill="#ffffe0" stroke="black" cx="243.69" cy="-90" rx="75.29" ry="18"/>
 <text text-anchor="middle" x="243.69" y="-86.3" font-family="Times,serif" font-size="14.00">UEFI 開機選單</text>
 </g>
 <!-- power&#45;&gt;UEFI_menu -->
@@ -30,7 +30,7 @@
 <!-- uefi_boot -->
 <g id="node3" class="node">
 <title>uefi_boot</title>
-<ellipse fill="none" stroke="black" cx="128.69" cy="-170.87" rx="128.89" ry="26.74"/>
+<ellipse fill="#ffffe0" stroke="black" cx="128.69" cy="-170.87" rx="128.89" ry="26.74"/>
 <text text-anchor="middle" x="128.69" y="-174.67" font-family="Times,serif" font-size="14.00">UEFI boot</text>
 <text text-anchor="middle" x="128.69" y="-159.67" font-family="Times,serif" font-size="14.00">(EFI/BOOT/BOOT*.EFI)</text>
 </g>
