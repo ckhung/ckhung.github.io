@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -518,11 +518,11 @@
        sodipodi:role="line"
        x="284.42529"
        y="92.089142"
-       id="tspan97">核三廠、福島ALPS處理水</tspan><tspan
+       id="tspan97">日本福島ALPS處理水、</tspan><tspan
        sodipodi:role="line"
        x="284.42529"
        y="122.08914"
-       id="tspan95">年度氚排放量比較</tspan></text>
+       id="tspan95">台灣核三廠年度氚排放量比較</tspan></text>
   <image
      width="118.58163"
      height="118.58163"
