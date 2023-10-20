@@ -197,10 +197,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3383333"
-     inkscape:cx="400.7472"
-     inkscape:cy="240.22416"
+     inkscape:cx="401.4944"
+     inkscape:cy="300"
      inkscape:document-units="px"
-     inkscape:current-layer="g1404"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -273,16 +273,15 @@
            transform="translate(-6.6725826,2.2763352)">
           <text
              xml:space="preserve"
-             style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.264583"
-             x="11.08799"
-             y="45.084518"
-             id="text859"
-             transform="translate(4.2572521,23.162887)"><tspan
+             style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.264584"
+             x="13.763673"
+             y="68.840492"
+             id="text859"><tspan
                sodipodi:role="line"
-               x="11.08799"
-               y="45.084518"
-               style="fill:#008000;stroke-width:0.264583"
-               id="tspan861">squashfs</tspan></text>
+               x="13.763673"
+               y="68.840492"
+               style="fill:#008000;stroke-width:0.264584"
+               id="tspan861">&quot;linuxfs&quot;</tspan></text>
           <use
              x="0"
              y="0"
@@ -340,14 +339,14 @@
         <text
            xml:space="preserve"
            style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-           x="12.797186"
-           y="129.69667"
+           x="11.047785"
+           y="130.44447"
            id="text859-5"><tspan
              sodipodi:role="line"
-             x="12.797186"
-             y="129.69667"
+             x="11.047785"
+             y="130.44447"
              style="fill:#ff0000;stroke-width:0.264583"
-             id="tspan861-5">squashfs</tspan></text>
+             id="tspan861-5">&quot;linuxfs&quot;</tspan></text>
         <g
            style="fill:#000000"
            id="use1247"
@@ -416,24 +415,20 @@
         <g
            id="g1046"
            transform="translate(-6.6725826,2.2763352)">
-          <text
-             xml:space="preserve"
-             style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.264583"
-             x="11.08799"
-             y="45.084518"
-             id="text1042"
-             transform="translate(4.2572521,23.162887)"><tspan
-               sodipodi:role="line"
-               x="11.08799"
-               y="45.084518"
-               style="fill:#008000;stroke-width:0.264583"
-               id="tspan1040">squashfs</tspan></text>
           <use
              x="0"
              y="0"
              xlink:href="#g1070"
              id="use1044"
              transform="translate(-126.0032,-33.255319)"
+             width="100%"
+             height="100%" />
+          <use
+             x="0"
+             y="0"
+             xlink:href="#text859"
+             id="use1024"
+             transform="translate(-0.22871759,0.20600153)"
              width="100%"
              height="100%" />
         </g>
@@ -669,24 +664,20 @@
         <g
            id="g1057"
            transform="translate(-6.6725826,2.2763352)">
-          <text
-             xml:space="preserve"
-             style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.264583"
-             x="11.08799"
-             y="45.084518"
-             id="text1052"
-             transform="translate(4.2572521,23.162887)"><tspan
-               sodipodi:role="line"
-               x="11.08799"
-               y="45.084518"
-               style="fill:#008000;stroke-width:0.264583"
-               id="tspan1050">squashfs</tspan></text>
           <use
              x="0"
              y="0"
              xlink:href="#g1070"
              id="use1054"
              transform="translate(-126.0032,-33.255319)"
+             width="100%"
+             height="100%" />
+          <use
+             x="0"
+             y="0"
+             xlink:href="#text859"
+             id="use1026"
+             transform="translate(-0.25570958,0.58172211)"
              width="100%"
              height="100%" />
         </g>
@@ -738,7 +729,7 @@
              id="tspan1345"
              x="161.91795"
              y="74.307915"
-             style="stroke-width:0.264583"> legend:</tspan><tspan
+             style="stroke-width:0.264583"> 圖例/legend:</tspan><tspan
              sodipodi:role="line"
              x="161.91795"
              y="81.363464"
