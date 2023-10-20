@@ -197,10 +197,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3383333"
-     inkscape:cx="400"
+     inkscape:cx="400.7472"
      inkscape:cy="359.77584"
      inkscape:document-units="px"
-     inkscape:current-layer="g1644"
+     inkscape:current-layer="g1610"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -227,7 +227,7 @@
      id="layer1">
     <g
        id="g1599"
-       transform="translate(4.257252,23.162887)">
+       transform="translate(-2.4153306,25.439222)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.154083;stroke-opacity:1;stop-color:#000000"
          id="rect10"
@@ -245,7 +245,7 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:0.264583"
          x="18.187954"
          y="31.63629"
          id="text855"><tspan
@@ -253,23 +253,7 @@
            id="tspan853"
            x="18.187954"
            y="31.63629"
-           style="stroke-width:0.264583">tmpfs</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="12.241786"
-         y="44.792271"
-         id="text859"><tspan
-           sodipodi:role="line"
-           id="tspan857"
-           x="12.241786"
-           y="44.792271"
-           style="stroke-width:0.264583">squashfs</tspan><tspan
-           sodipodi:role="line"
-           x="12.241786"
-           y="51.84782"
-           style="stroke-width:0.264583"
-           id="tspan861">(on cdrom)</tspan></text>
+           style="fill:#0000ff;stroke-width:0.264583">tmpfs</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -281,10 +265,38 @@
            x="16.809568"
            y="15.011394"
            style="stroke-width:0.264583">live CD</tspan></text>
+      <g
+         id="g1114"
+         transform="translate(2.3373833,-22.175987)">
+        <g
+           id="g1494"
+           transform="translate(-6.6725826,2.2763352)">
+          <text
+             xml:space="preserve"
+             style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.264583"
+             x="11.08799"
+             y="45.084518"
+             id="text859"
+             transform="translate(4.2572521,23.162887)"><tspan
+               sodipodi:role="line"
+               x="11.08799"
+               y="45.084518"
+               style="fill:#008000;stroke-width:0.264583"
+               id="tspan861">squashfs</tspan></text>
+          <use
+             x="0"
+             y="0"
+             xlink:href="#g1070"
+             id="use1468"
+             transform="translate(-126.0032,-33.255319)"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
     </g>
     <g
        id="g1610"
-       transform="translate(3.917602,8.7495442)">
+       transform="translate(-2.7549806,11.025879)">
       <use
          x="0"
          y="0"
@@ -303,31 +315,15 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="21.594116"
-         y="111.78726"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:0.264583"
+         x="19.493595"
+         y="111.30055"
          id="text855-6"><tspan
            sodipodi:role="line"
            id="tspan853-7"
-           x="21.594116"
-           y="111.78726"
-           style="stroke-width:0.264583">tmpfs</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="16.468899"
-         y="124.58141"
-         id="text859-5"><tspan
-           sodipodi:role="line"
-           id="tspan857-3"
-           x="16.468899"
-           y="124.58141"
-           style="stroke-width:0.264583">squashfs</tspan><tspan
-           sodipodi:role="line"
-           x="16.468899"
-           y="131.63696"
-           style="stroke-width:0.264583"
-           id="tspan861-5">(on hdd)</tspan></text>
+           x="19.493595"
+           y="111.30055"
+           style="fill:#0000ff;stroke-width:0.264583">tmpfs</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -339,10 +335,38 @@
            x="18.899275"
            y="94.278511"
            style="stroke-width:0.264583">frugal</tspan></text>
+      <g
+         id="g1273">
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="12.797186"
+           y="129.69667"
+           id="text859-5"><tspan
+             sodipodi:role="line"
+             x="12.797186"
+             y="129.69667"
+             style="fill:#ff0000;stroke-width:0.264583"
+             id="tspan861-5">squashfs</tspan></text>
+        <g
+           style="fill:#000000"
+           id="use1247"
+           transform="matrix(0.01386964,0,0,0.01386964,36.351559,124.95436)">
+          <g
+             id="g1373">
+            <g
+               id="g1371">
+              <path
+                 d="m 452.608,92.3 -93.882,93.882 h 36.911 c 12.87,0 23.273,10.426 23.273,23.273 0,12.847 -10.403,23.273 -23.273,23.273 h -93.091 c -3.025,0 -6.051,-0.628 -8.89,-1.792 -5.702,-2.351 -10.24,-6.889 -12.591,-12.591 -1.187,-2.839 -1.792,-5.865 -1.792,-8.89 v -93.091 c 0,-12.847 10.403,-23.273 23.273,-23.273 12.87,0 23.273,10.426 23.273,23.273 v 36.911 L 419.7,59.392 C 375.273,22.365 318.208,0 256,0 114.851,0 0,114.851 0,256 0,318.208 22.342,375.273 59.392,419.7 l 93.882,-93.882 h -36.911 c -12.87,0 -23.273,-10.426 -23.273,-23.273 0,-12.847 10.403,-23.273 23.273,-23.273 h 93.091 c 3.025,0 6.051,0.628 8.89,1.792 5.702,2.351 10.24,6.889 12.591,12.591 1.164,2.839 1.792,5.865 1.792,8.89 v 93.091 c 0,12.847 -10.403,23.273 -23.273,23.273 -12.87,0 -23.273,-10.426 -23.273,-23.273 V 358.725 L 92.3,452.608 C 136.704,489.635 193.792,512 256,512 397.149,512 512,397.149 512,256 512,193.792 489.635,136.727 452.608,92.3 Z"
+                 id="path1369" />
+            </g>
+          </g>
+        </g>
+      </g>
     </g>
     <g
        id="g1588"
-       transform="translate(11.210665,22.386927)">
+       transform="translate(4.5380824,24.663262)">
       <use
          x="0"
          y="0"
@@ -361,31 +385,15 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="68.471977"
-         y="32.484711"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.264583"
+         x="65.480461"
+         y="32.693485"
          id="text855-6-2"><tspan
            sodipodi:role="line"
            id="tspan853-7-7"
-           x="68.471977"
-           y="32.484711"
-           style="stroke-width:0.264583">rootfs</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="64.61097"
-         y="45.258484"
-         id="text859-5-0"><tspan
-           sodipodi:role="line"
-           id="tspan857-3-9"
-           x="64.61097"
-           y="45.258484"
-           style="stroke-width:0.264583">squashfs</tspan><tspan
-           sodipodi:role="line"
-           x="64.61097"
-           y="52.314034"
-           style="stroke-width:0.264583"
-           id="tspan861-5-3">(on cdrom)</tspan></text>
+           x="65.480461"
+           y="32.693485"
+           style="fill:#ff0000;stroke-width:0.264583">&quot;rootfs&quot;</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -402,10 +410,38 @@
            y="18.821825"
            style="stroke-width:0.264583"
            id="tspan999">persistence</tspan></text>
+      <g
+         id="use1514"
+         transform="translate(52.73386,-21.735532)">
+        <g
+           id="g1046"
+           transform="translate(-6.6725826,2.2763352)">
+          <text
+             xml:space="preserve"
+             style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.264583"
+             x="11.08799"
+             y="45.084518"
+             id="text1042"
+             transform="translate(4.2572521,23.162887)"><tspan
+               sodipodi:role="line"
+               x="11.08799"
+               y="45.084518"
+               style="fill:#008000;stroke-width:0.264583"
+               id="tspan1040">squashfs</tspan></text>
+          <use
+             x="0"
+             y="0"
+             xlink:href="#g1070"
+             id="use1044"
+             transform="translate(-126.0032,-33.255319)"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
     </g>
     <g
        id="g1622"
-       transform="translate(10.358201,8.6065932)">
+       transform="translate(3.6856184,10.882928)">
       <use
          x="0"
          y="0"
@@ -424,31 +460,15 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="69.043495"
-         y="112.10059"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.264583"
+         x="66.530716"
+         y="112.61174"
          id="text855-6-2-6"><tspan
            sodipodi:role="line"
            id="tspan853-7-7-1"
-           x="69.043495"
-           y="112.10059"
-           style="stroke-width:0.264583">rootfs</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="65.182487"
-         y="124.87437"
-         id="text859-5-0-8"><tspan
-           sodipodi:role="line"
-           id="tspan857-3-9-7"
-           x="65.182487"
-           y="124.87437"
-           style="stroke-width:0.264583">squashfs</tspan><tspan
-           sodipodi:role="line"
-           x="65.182487"
-           y="131.92992"
-           style="stroke-width:0.264583"
-           id="tspan861-5-3-9">(on hdd)</tspan></text>
+           x="66.530716"
+           y="112.61174"
+           style="fill:#ff0000;stroke-width:0.264583">&quot;rootfs&quot;</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -465,10 +485,18 @@
            y="98.437714"
            style="stroke-width:0.264583"
            id="tspan999-2">persistence</tspan></text>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1273"
+         id="use1275"
+         transform="translate(49.075105,-0.19972636)"
+         width="100%"
+         height="100%" />
     </g>
     <g
        id="g1644"
-       transform="translate(13.679313,8.0285372)">
+       transform="translate(7.0067304,10.304872)">
       <use
          x="0"
          y="0"
@@ -487,31 +515,15 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="118.00381"
-         y="110.95728"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:0.264583"
+         x="118.30733"
+         y="112.4062"
          id="text855-6-5"><tspan
            sodipodi:role="line"
            id="tspan853-7-9"
-           x="118.00381"
-           y="110.95728"
-           style="stroke-width:0.264583">tmpfs</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="118.56684"
-         y="125.30242"
-         id="text859-5-2"><tspan
-           sodipodi:role="line"
-           id="tspan857-3-2"
-           x="118.56684"
-           y="125.30242"
-           style="stroke-width:0.264583">squashfs</tspan><tspan
-           sodipodi:role="line"
-           x="118.56684"
-           y="132.35797"
-           style="stroke-width:0.264583"
-           id="tspan861-5-8">(on hdd)</tspan></text>
+           x="118.30733"
+           y="112.4062"
+           style="fill:#0000ff;stroke-width:0.264583">tmpfs</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -538,15 +550,15 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="162.73917"
-         y="121.69776"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.264583"
+         x="161.28203"
+         y="121.85383"
          id="text1700-1"><tspan
            sodipodi:role="line"
            id="tspan1698-0"
-           x="162.73917"
-           y="121.69776"
-           style="stroke-width:0.264583">rootfs</tspan></text>
+           x="161.28203"
+           y="121.85383"
+           style="fill:#ff0000;stroke-width:0.264583">&quot;rootfs&quot;</tspan></text>
       <use
          x="0"
          y="0"
@@ -555,10 +567,18 @@
          transform="translate(-14.510387,74.040161)"
          width="100%"
          height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g1273"
+         id="use1301"
+         transform="translate(102.18871,0.3645742)"
+         width="100%"
+         height="100%" />
     </g>
     <g
        id="g1564"
-       transform="translate(2.0883517,17.796702)">
+       transform="translate(-4.5842309,20.073037)">
       <use
          x="0"
          y="0"
@@ -577,7 +597,7 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#0000ff;stroke-width:0.264583"
          x="133.58606"
          y="36.776951"
          id="text855-6-5-9"><tspan
@@ -585,23 +605,7 @@
            id="tspan853-7-9-3"
            x="133.58606"
            y="36.776951"
-           style="stroke-width:0.264583">tmpfs</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="131.55167"
-         y="49.698704"
-         id="text859-5-2-1"><tspan
-           sodipodi:role="line"
-           id="tspan857-3-2-9"
-           x="131.55167"
-           y="49.698704"
-           style="stroke-width:0.264583">squashfs</tspan><tspan
-           sodipodi:role="line"
-           x="131.55167"
-           y="56.754253"
-           style="stroke-width:0.264583"
-           id="tspan861-5-8-4">(on cdrom)</tspan></text>
+           style="fill:#0000ff;stroke-width:0.264583">tmpfs</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -626,17 +630,6 @@
          transform="translate(154.24308,13.856203)"
          width="100%"
          height="100%" />
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="175.47527"
-         y="45.834496"
-         id="text1700"><tspan
-           sodipodi:role="line"
-           id="tspan1698"
-           x="175.47527"
-           y="45.834496"
-           style="stroke-width:0.264583">rootfs</tspan></text>
       <g
          id="g952">
         <path
@@ -670,6 +663,45 @@
              style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
              id="tspan1102">persist-save</tspan></text>
       </g>
+      <g
+         id="use1540"
+         transform="translate(119.12688,-16.925101)">
+        <g
+           id="g1057"
+           transform="translate(-6.6725826,2.2763352)">
+          <text
+             xml:space="preserve"
+             style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#008000;stroke-width:0.264583"
+             x="11.08799"
+             y="45.084518"
+             id="text1052"
+             transform="translate(4.2572521,23.162887)"><tspan
+               sodipodi:role="line"
+               x="11.08799"
+               y="45.084518"
+               style="fill:#008000;stroke-width:0.264583"
+               id="tspan1050">squashfs</tspan></text>
+          <use
+             x="0"
+             y="0"
+             xlink:href="#g1070"
+             id="use1054"
+             transform="translate(-126.0032,-33.255319)"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.264583"
+         x="173.51784"
+         y="45.476974"
+         id="text855-6-2-3"><tspan
+           sodipodi:role="line"
+           id="tspan853-7-7-6"
+           x="173.51784"
+           y="45.476974"
+           style="fill:#ff0000;stroke-width:0.264583">&quot;rootfs&quot;</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -682,5 +714,54 @@
          x="34.028591"
          y="18.252392"
          style="font-size:8.46667px;stroke-width:0.264583">Some of the Antix persistence schemes</tspan></text>
+    <g
+       id="g1404"
+       transform="translate(5.702933,10.031998)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="161.91795"
+         y="74.307915"
+         id="text1347"><tspan
+           sodipodi:role="line"
+           id="tspan1345"
+           x="161.91795"
+           y="74.307915"
+           style="stroke-width:0.264583"> legend:</tspan><tspan
+           sodipodi:role="line"
+           x="161.91795"
+           y="81.363464"
+           style="fill:#0000ff;stroke-width:0.264583"
+           id="tspan1349">  RAM</tspan><tspan
+           sodipodi:role="line"
+           x="161.91795"
+           y="88.419014"
+           style="fill:#ff0000;stroke-width:0.264583"
+           id="tspan1351">  hdd</tspan><tspan
+           sodipodi:role="line"
+           x="161.91795"
+           y="95.474564"
+           style="fill:#008000;stroke-width:0.264583"
+           id="tspan1090">  cdrom</tspan><tspan
+           sodipodi:role="line"
+           x="161.91795"
+           y="102.53011"
+           style="stroke-width:0.264583"
+           id="tspan1353">    compressed</tspan></text>
+      <g
+         style="fill:#000000"
+         id="g1070"
+         transform="matrix(0.01386964,0,0,0.01386964,165.07303,96.897506)">
+        <g
+           id="g1058">
+          <g
+             id="g1056">
+            <path
+               d="m 452.608,92.3 -93.882,93.882 h 36.911 c 12.87,0 23.273,10.426 23.273,23.273 0,12.847 -10.403,23.273 -23.273,23.273 h -93.091 c -3.025,0 -6.051,-0.628 -8.89,-1.792 -5.702,-2.351 -10.24,-6.889 -12.591,-12.591 -1.187,-2.839 -1.792,-5.865 -1.792,-8.89 v -93.091 c 0,-12.847 10.403,-23.273 23.273,-23.273 12.87,0 23.273,10.426 23.273,23.273 v 36.911 L 419.7,59.392 C 375.273,22.365 318.208,0 256,0 114.851,0 0,114.851 0,256 0,318.208 22.342,375.273 59.392,419.7 l 93.882,-93.882 h -36.911 c -12.87,0 -23.273,-10.426 -23.273,-23.273 0,-12.847 10.403,-23.273 23.273,-23.273 h 93.091 c 3.025,0 6.051,0.628 8.89,1.792 5.702,2.351 10.24,6.889 12.591,12.591 1.164,2.839 1.792,5.865 1.792,8.89 v 93.091 c 0,12.847 -10.403,23.273 -23.273,23.273 -12.87,0 -23.273,-10.426 -23.273,-23.273 V 358.725 L 92.3,452.608 C 136.704,489.635 193.792,512 256,512 397.149,512 512,397.149 512,256 512,193.792 489.635,136.727 452.608,92.3 Z"
+               id="path1054" />
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
