@@ -198,9 +198,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.3383333"
      inkscape:cx="400.7472"
-     inkscape:cy="359.77584"
+     inkscape:cy="240.22416"
      inkscape:document-units="px"
-     inkscape:current-layer="g1610"
+     inkscape:current-layer="g1404"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -706,59 +706,71 @@
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="34.028591"
-       y="18.252392"
+       x="26.515282"
+       y="17.937681"
        id="text1678"><tspan
          sodipodi:role="line"
          id="tspan1676"
-         x="34.028591"
-         y="18.252392"
-         style="font-size:8.46667px;stroke-width:0.264583">Some of the Antix persistence schemes</tspan></text>
+         x="26.515282"
+         y="17.937681"
+         style="font-size:8.46667px;stroke-width:0.264583">Some of the antiX persistence schemes</tspan></text>
     <g
        id="g1404"
        transform="translate(5.702933,10.031998)">
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="161.91795"
-         y="74.307915"
-         id="text1347"><tspan
-           sodipodi:role="line"
-           id="tspan1345"
+      <g
+         id="g1036"
+         transform="translate(-2.7222556,-0.52293429)">
+        <rect
+           style="fill:#ffffe0;fill-opacity:1;stroke:none;stroke-width:0.264583;stop-color:#000000"
+           id="rect1022"
+           width="43.322903"
+           height="37.645103"
+           x="166.32005"
+           y="78.354401"
+           transform="translate(-5.702933,-10.031998)" />
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
            x="161.91795"
            y="74.307915"
-           style="stroke-width:0.264583"> legend:</tspan><tspan
-           sodipodi:role="line"
-           x="161.91795"
-           y="81.363464"
-           style="fill:#0000ff;stroke-width:0.264583"
-           id="tspan1349">  RAM</tspan><tspan
-           sodipodi:role="line"
-           x="161.91795"
-           y="88.419014"
-           style="fill:#ff0000;stroke-width:0.264583"
-           id="tspan1351">  hdd</tspan><tspan
-           sodipodi:role="line"
-           x="161.91795"
-           y="95.474564"
-           style="fill:#008000;stroke-width:0.264583"
-           id="tspan1090">  cdrom</tspan><tspan
-           sodipodi:role="line"
-           x="161.91795"
-           y="102.53011"
-           style="stroke-width:0.264583"
-           id="tspan1353">    compressed</tspan></text>
-      <g
-         style="fill:#000000"
-         id="g1070"
-         transform="matrix(0.01386964,0,0,0.01386964,165.07303,96.897506)">
+           id="text1347"><tspan
+             sodipodi:role="line"
+             id="tspan1345"
+             x="161.91795"
+             y="74.307915"
+             style="stroke-width:0.264583"> legend:</tspan><tspan
+             sodipodi:role="line"
+             x="161.91795"
+             y="81.363464"
+             style="fill:#0000ff;stroke-width:0.264583"
+             id="tspan1349">  RAM</tspan><tspan
+             sodipodi:role="line"
+             x="161.91795"
+             y="88.419014"
+             style="fill:#ff0000;stroke-width:0.264583"
+             id="tspan1351">  hdd</tspan><tspan
+             sodipodi:role="line"
+             x="161.91795"
+             y="95.474564"
+             style="fill:#008000;stroke-width:0.264583"
+             id="tspan1090">  cdrom</tspan><tspan
+             sodipodi:role="line"
+             x="161.91795"
+             y="102.53011"
+             style="stroke-width:0.264583"
+             id="tspan1353">    compressed</tspan></text>
         <g
-           id="g1058">
+           style="fill:#000000"
+           id="g1070"
+           transform="matrix(0.01386964,0,0,0.01386964,165.07303,96.897506)">
           <g
-             id="g1056">
-            <path
-               d="m 452.608,92.3 -93.882,93.882 h 36.911 c 12.87,0 23.273,10.426 23.273,23.273 0,12.847 -10.403,23.273 -23.273,23.273 h -93.091 c -3.025,0 -6.051,-0.628 -8.89,-1.792 -5.702,-2.351 -10.24,-6.889 -12.591,-12.591 -1.187,-2.839 -1.792,-5.865 -1.792,-8.89 v -93.091 c 0,-12.847 10.403,-23.273 23.273,-23.273 12.87,0 23.273,10.426 23.273,23.273 v 36.911 L 419.7,59.392 C 375.273,22.365 318.208,0 256,0 114.851,0 0,114.851 0,256 0,318.208 22.342,375.273 59.392,419.7 l 93.882,-93.882 h -36.911 c -12.87,0 -23.273,-10.426 -23.273,-23.273 0,-12.847 10.403,-23.273 23.273,-23.273 h 93.091 c 3.025,0 6.051,0.628 8.89,1.792 5.702,2.351 10.24,6.889 12.591,12.591 1.164,2.839 1.792,5.865 1.792,8.89 v 93.091 c 0,12.847 -10.403,23.273 -23.273,23.273 -12.87,0 -23.273,-10.426 -23.273,-23.273 V 358.725 L 92.3,452.608 C 136.704,489.635 193.792,512 256,512 397.149,512 512,397.149 512,256 512,193.792 489.635,136.727 452.608,92.3 Z"
-               id="path1054" />
+             id="g1058">
+            <g
+               id="g1056">
+              <path
+                 d="m 452.608,92.3 -93.882,93.882 h 36.911 c 12.87,0 23.273,10.426 23.273,23.273 0,12.847 -10.403,23.273 -23.273,23.273 h -93.091 c -3.025,0 -6.051,-0.628 -8.89,-1.792 -5.702,-2.351 -10.24,-6.889 -12.591,-12.591 -1.187,-2.839 -1.792,-5.865 -1.792,-8.89 v -93.091 c 0,-12.847 10.403,-23.273 23.273,-23.273 12.87,0 23.273,10.426 23.273,23.273 v 36.911 L 419.7,59.392 C 375.273,22.365 318.208,0 256,0 114.851,0 0,114.851 0,256 0,318.208 22.342,375.273 59.392,419.7 l 93.882,-93.882 h -36.911 c -12.87,0 -23.273,-10.426 -23.273,-23.273 0,-12.847 10.403,-23.273 23.273,-23.273 h 93.091 c 3.025,0 6.051,0.628 8.89,1.792 5.702,2.351 10.24,6.889 12.591,12.591 1.164,2.839 1.792,5.865 1.792,8.89 v 93.091 c 0,12.847 -10.403,23.273 -23.273,23.273 -12.87,0 -23.273,-10.426 -23.273,-23.273 V 358.725 L 92.3,452.608 C 136.704,489.635 193.792,512 256,512 397.149,512 512,397.149 512,256 512,193.792 489.635,136.727 452.608,92.3 Z"
+                 id="path1054" />
+            </g>
           </g>
         </g>
       </g>
