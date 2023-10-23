@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="500"
+   viewBox="0 0 66.145831 132.29168"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="fido2.svg"
+   inkscape:export-filename="/home/ckhung/git/ckhung.github.io/a/m/23/fido2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path866" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path863" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path863-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path866-5" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.606"
+     inkscape:cx="125"
+     inkscape:cy="233.9267"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     fit-margin-top="30"
+     fit-margin-left="30"
+     fit-margin-right="30"
+     fit-margin-bottom="30"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-146.82918,17.648452)">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="175.33206"
+       y="-6.1698551"
+       id="text835"><tspan
+         sodipodi:role="line"
+         x="175.33206"
+         y="-6.1698551"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan837">Relying Party</tspan><tspan
+         sodipodi:role="line"
+         x="175.33206"
+         y="0.8856951"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan839">(網站)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="175.29073"
+       y="47.208984"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="175.29073"
+         y="47.208984"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Client</tspan><tspan
+         sodipodi:role="line"
+         x="175.29073"
+         y="54.264534"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan845">(瀏覽器)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="175.29071"
+       y="100.67792"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="175.29071"
+         y="100.67792"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583">Authenticator</tspan><tspan
+         sodipodi:role="line"
+         x="175.29071"
+         y="107.73347"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan851">(實體安全金鑰)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="181.82698"
+       y="24.190779"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="181.82698"
+         y="24.190779"
+         style="stroke-width:0.264583">WebAuthn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'AR PL UKai TW MBE';-inkscape-font-specification:'AR PL UKai TW MBE, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="188.64195"
+       y="76.930649"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="188.64195"
+         y="76.930649"
+         style="stroke-width:0.264583">CTAP</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 175.17403,35.80878 175.4074,8.7801733"
+       id="path861"
+       sodipodi:nodetypes="cc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path861"
+       id="use1321"
+       transform="translate(3.3971256e-6,53.490978)"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
