@@ -1,0 +1,145 @@
+Antix 23, 32 bit, Greg's Lab variant
+############################################################
+
+> echo 'blacklist pcspkr' >> /etc/modprobe.d/blacklist.conf
+> ln -sf /usr/share/zoneinfo/Asia/Taipei /etc/localtime
+> [host] scp ~/.vimrc ~/.nanorc ~/.inputrc demo@192.168.*.*:
+> cd /etc/apt/sources.list.d ; perl -i.bak -pe 's#http://[\w.]*.debian.org/?(debian)?/?#http://opensource.nchc.org.tw/debian/'# *.list
+# fix "security" repo
+> apt install openssh-server vim lynx w3m-img scrot nmap extlinux
+> update-rc.d ssh disable
+
+https://newtoypia.blogspot.com/2018/09/gtk3.html
+scp -o IdentitiesOnly=yes ~/.config/gtk-3.0/gtk.css demo@192.168.15.42:~/.config/gtk-3.0/
+
+> vim /etc/fstab
+# LABEL=sandbt / btrfs subvol=ulyana/live 0 1
+# /dev/mapper/sand-swap none swap defaults 0 0
+/dev/sda1 /media/sda1 auto user,noauto 0 2
+/dev/sda2 /media/sda2 auto user,noauto 0 2
+/dev/sda3 /media/sda3 auto user,noauto 0 2
+/dev/sdc1 /media/sdc1 vfat user,noauto,umask=0000,utf8=1 0 2
+@ https://www.796t.com/content/1548786641.html
+@ 解決FAT32檔案系統分割槽中文檔名在Linux下顯示亂碼
+
+> [host] scp -r /usr/sbin/mbootuz.py /usr/bin/zq /usr/bin/zed /usr/bin/extract.php /usr/lib/syslinux/images/ /usr/share/fonts/truetype/arphic/ /usr/share/sounds/alarms/ /usr/share/php/QueryPath/ demo@192.168.*.*:
+> cd /mnt ; mkdir t1 t2 btroot warehouse ; cd /media ; mkdir sda1 ...
+> rm /var/cache/apt/archives/*.deb
+
+> apt install live-boot live-boot-initramfs-tools isolinux xorriso syslinux-efi apache2 pxelinux memtest86+ dnsmasq
+> service dnsmasq stop ; update-rc.d dnsmasq disable
+
+@ https://newtoypia.blogspot.tw/2017/09/live-boot.html
+@ before mksquashfs, temporarily comment out / in /etc/fstab
+> cp /usr/lib/ISOLINUX/isolinux.bin ...
+@ https://newtoypia.blogspot.tw/2017/05/pxe-live-cd.html
+> /var/lib/tftpboot/os ; ln -s /var/lib/tftpboot/os /var/www/html/
+
+@ https://www.antixforum.com/forums/topic/attributeerror-nonetype-object-has-no-attribute-lookup_icon/
+> apt install adb fastboot fsarchiver gpm iftop udpcast fonts-arphic-ukai sakura
+@ https://newtoypia.blogspot.com/2017/12/antix-17-input-method.html
+> apt install hime*
+> hime-cin2gtab noseeing.cin
+> echo 'LANG=zh_TW.UTF-8' > /etc/default/locale
+> cd /usr/lib/i386-linux-gnu/hime/table/ ; cp .../noseeing.cin .
+> hime-cin2gtab noseeing.cin
+> vim ~/.icewm/keys
+@ comment out: key "Ctrl+Space" app-select
+
+@ https://newtoypia.blogspot.com/2018/09/sakura.html
+> cd /etc/alternatives/
+> ln -sf /usr/bin/sakura x-terminal-emulator
+> ln -sf /usr/share/man/man1/sakura.1.gz x-terminal-emulator.1.gz
+> cd ~/.local/share/desktop-defaults/
+> ln -sf /usr/share/applications/sakura.desktop terminal.desktop
+> vim ~/.icewm/startup # add "sakura -n 3 &"
+
+> wget -O /etc/udev/rules.d/51-android.rules https://raw.githubusercontent.com/M0Rf30/android-udev-rules/master/51-android.rules
+
+@ ../browser.txt
+@ clear browser history
+
+> apt install tigervnc-standalone-server tigervnc-viewer tint2 openbox
+@ https://newtoypia.blogspot.tw/2014/05/vnc.html
+@ 不需要另外裝 input method
+
+> apt install ...
+
+@ nice and small:
+mediainfo
+colordiff
+convmv
+cutycapt
+dialog
+dosfstools
+feh
+geany
+graphviz
+iftop
+imagemagick
+jed
+jq
+joe
+libimage-exiftool-perl
+meld
+mpg123
+netpbm
+nmap
+ntfs-3g
+ntpdate
+opencc
+perl-doc
+php-cli
+php-pear
+qrencode
+scrot
+sharutils
+smartmontools
+sqlite3
+syslinux-utils
+tidy
+trickle
+usbutils
+vorbis-tools
+wdiff
+rar
+zip
+zbar-tools
+
+pavucontrol
+ffmpeg
+vokoscreen-ng
+
+# for cisco webx + chromium
+x264
+
+@devel
+
+python3-pip
+
+@ server
+libapache2-mod-php
+php-mbstring
+php-curl
+@ https://newtoypia.blogspot.com/2013/04/querypath-dom-xpath.html
+> cp -r src/ /usr/share/php/QueryPath/
+@ https://newtoypia.blogspot.tw/2016/03/web-scraping.html
+
+> vim /etc/colordiffrc
+newtext=blue
+
+> a2enmod userdir php8.2
+> vim /etc/apache2/mods-enabled/php8.2 (comment out end of this file)
+
+# Do not install python3-numpy and python3-matplotlib using apt.
+# python3-numpy causes binary incompatibility.
+# Use pip3 install instead. matplotlib will pull numpy automatically.
+# [demo] pip3 install --break-system-packages matplotlib litecli
+# https://newtoypia.blogspot.com/2018/08/matplotlib-ttc.html
+
+@ graphics and education:
+gnuplot-x11
+
+@ remove extra entries from /etc/fstab
+> echo > ~/.bash_history # for both demo and root
+
