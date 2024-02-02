@@ -113,6 +113,7 @@ img.alone { clear: both; }
 	line-height: 160%;
 	font-size: 16pt;
     }
+    .mag-gallery { text-indent: 0; text-align: center; }
     div#qrcode {
 	float: right;
 	margin-left: 10px;
