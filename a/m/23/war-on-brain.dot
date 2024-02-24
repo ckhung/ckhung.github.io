@@ -120,6 +120,7 @@ digraph "頭腦爭霸戰" {
     artificial_intelligence -> misinformation [color="#0000ff:white:#0000ff"; label="=ai-mi="; labeltooltip="deepfake\n劍橋分析 2.0" ];
     artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="=ai-se="; labeltooltip="deepfake" ];
     artificial_intelligence -> your_brain [color="#0000ff:white:#0000ff"; label="=ai-yb="; labeltooltip="Olga Loiek 被複製" ];
+    artificial_intelligence -> privacy_loss [color="#0000ff:white:#0000ff"; label="=ai-pl="; labeltooltip="AI 女友" ];
 
     { kol editor misinformation social_engineering } -> your_brain -> important_societal
     { your_brain privacy_loss } -> important_personal;
