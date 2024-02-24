@@ -104,6 +104,7 @@ digraph "頭腦爭霸戰" {
     emotion -> editor [ label="=emo-ed="; labeltooltip="小編的人格特質？" ];
 
     kol -> filter_bubble;
+    kol -> misinformation [ label="=kol-mi="; labeltooltip="Lin bay好油\n晚安小雞" ];
     filter_bubble -> conflict [ label="=fb-conf="; labeltooltip="fan wars" ];
     emotion -> conflict [ label="=emo-conf="; labeltooltip="社會運動\nYuri Bezmenov" ];
     attention_span -> conflict [ label="=as-conf="; labeltooltip="標題殺人法 (的成功)" ];
@@ -118,6 +119,7 @@ digraph "頭腦爭霸戰" {
     artificial_intelligence -> xtion_economy [ color="#0000ff:white:#0000ff"; label="=ai-xe="; labeltooltip="劍橋分析 2.0\n中共版劍橋分析？" ];
     artificial_intelligence -> misinformation [color="#0000ff:white:#0000ff"; label="=ai-mi="; labeltooltip="deepfake\n劍橋分析 2.0" ];
     artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="=ai-se="; labeltooltip="deepfake" ];
+    artificial_intelligence -> your_brain [color="#0000ff:white:#0000ff"; label="=ai-yb="; labeltooltip="Olga Loiek 被複製" ];
 
     { kol editor misinformation social_engineering } -> your_brain -> important_societal
     { your_brain privacy_loss } -> important_personal;
