@@ -1,0 +1,17 @@
+/* display2d: false; */
+radial_vf(pos, a, b) := a*pos/(pos.pos)^(b/2);
+vf2(pos):=radial_vf(pos,1,2);
+vf3(pos):=radial_vf(pos,1,3);
+vf4(pos):=radial_vf(pos,1,4);
+/* mydiv(axes,vf):=block([],print(axes[1],vf),diff(vf[1],axes[1])); # debugging */
+mydiv(axes, vf) := ratsimp(sum(diff(vf(axes)[i],axes[i]), i, 1, 3));
+axes: [x,y,z];
+/*
+mydiv(axes, vf2);
+mydiv(axes, vf3);
+mydiv(axes, vf4);
+mydiv(axes, lambda([pos],radial_vf(pos,-1,2)));
+mydiv(axes, lambda([pos],radial_vf(pos,-1,3)));
+mydiv(axes, lambda([pos],radial_vf(pos,-1,4)));
+*/
+
