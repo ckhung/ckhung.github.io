@@ -3,7 +3,7 @@
 	<title>播放清單</title>
 	<trackList>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715453288/ei/CGk_Zt6WIuOV1d8P-ZSSsAc/ip/106.105.68.66/id/wM0g8EoUZ_E.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaVCeUjHQONmnOSMbAo28lE8b8m1f0ddUdovb8OgBg2ICIQC-gzna2WH6zgloDB5baO5XwfQbrzBCvu5GEyLJpDwBKg%3D%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=wM0g8EoUZ_E</location>
 			<title>#LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】</title>
 			<creator>華視新聞 CH52</creator>
 			<annotation>🔴華視新聞CH52正在不間斷直播中，即時地帶給您公正客觀的新聞報導與完整解析，報導今日最重要的新聞事件，並深入探討您最關心的議題。
@@ -85,7 +85,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454240/ei/wGw_ZuKEJc2o1d8P5eWOmAE/ip/106.105.68.66/id/quwqlazU-c8.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPgyOLrU3xIs_E3XKaAd1_izfP4_hxfXJndQcqDnFWwOAiEAwmJyZ7NVXtghOZa0C1hsPeN61flSMtQ7wP6nUdYekPA%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=quwqlazU-c8</location>
 			<title>公視新聞 PTS News  24小時線上直播 ｜PNN Taiwan News 24h Live｜台湾の最新ニュース24時間配信中｜대만 뉴스 라이브 스트리밍 #live</title>
 			<creator>公視新聞網</creator>
 			<annotation>收看《公視每日新聞》整節完整版請上→https://bit.ly/3NFQcZR
@@ -122,7 +122,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454245/ei/xWw_Zp3FDtOc0-kPkbuI6Ak/ip/106.105.68.66/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSd_ggXwxuOs88LvX9NxI_lFEOvaWV7WKNtCNcjMQAugCIEGowbiNmQo8dlpsYEJg6PNVs186NIKbHasVbOspPCMj/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=5n0y6b0Q25o</location>
 			<title>鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan News 24H Live｜台湾のニュース24時間オンライン放送</title>
 			<creator>鏡新聞</creator>
 			<annotation>鏡電視股份有限公司創立「鏡新聞」，以多元、專業、深度、國際、藝文、弱勢為特色，期待提供給大家耳目一新的優質新聞內容。
@@ -152,7 +152,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454247/ei/x2w_ZrrOLcGS1d8Pr-GPwAE/ip/106.105.68.66/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOD6z7S4UozeU6e53dwI7GfeHU9QKRv9kxoPNG1Vzs9kCIQCXPLRckxrFQTCszDe6ZCtG0Dc-hIVAKuSjBn0a0wpisA%3D%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=ylYJSBUgaMA</location>
 			<title>民視新聞 FTV 新聞直播｜Taiwan News Live｜台湾ニュース Live｜대만 뉴스 방송 Live @FTV_News</title>
 			<creator>民視新聞網 Formosa TV News network</creator>
 			<annotation>#民視新聞 #新聞直播 #NEWS 
@@ -172,7 +172,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454250/ei/ymw_ZtDeBe6X1d8Pw8aF2AM/ip/106.105.68.66/id/oZdzzvxTfUY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPAJ3EI8QAc7cO9ZXGX8id06GptFVqOzvxiGg0t5tAbTAiEA8cluuqzQUel4mLlMIW8z6Eg6WMPrS0P7XY8GKTyJhRc%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=oZdzzvxTfUY</location>
 			<title>三立新聞 24小時直播 LIVE 三立+｜SET+ 24hrs LIVE news│台湾 SET+ 24hrs ニュースオンライン放送│대만 채널 SET+ 뉴스 생방송 @setnews​</title>
 			<creator>三立LIVE新聞</creator>
 			<annotation>#三立新聞 #54台
@@ -201,7 +201,7 @@ https://www.threads.net/@set.hotlinenews 快來追蹤一起看廢文(?)
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454252/ei/zGw_ZtS9Mtqe0-kP4e-yUA/ip/106.105.68.66/id/6IquAgfvYmc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOUpHpyKjwN8TShdx6aKeBNKn4OzgchrvDQokiCgEUljAiEAnjSpoQ0yy4D2IE53FOUdCrYbnzC3aexx_BoPv4tUL2w%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=6IquAgfvYmc</location>
 			<title>寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송</title>
 			<creator>寰宇新聞 頻道</creator>
 			<annotation>【#寰宇新聞Live直播】👉 https://lihi1.cc/EVpiW
@@ -226,7 +226,7 @@ https://www.threads.net/@set.hotlinenews 快來追蹤一起看廢文(?)
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454255/ei/z2w_ZtuPB92r1d8Po-ek-A0/ip/106.105.68.66/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPxqoxx-Tqnvv0RsK4qptE2Qmby8vcmBSMKrFDqfiOB0CIQCkVrsVLPdtoK1uPywkSOn91FzxhyBws6zB2LmC0Un70Q%3D%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=xL0ch83RAK8</location>
 			<title>台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브</title>
 			<creator>台視新聞 TTV NEWS</creator>
 			<annotation>#台視新聞 #新聞直播 #直播
@@ -244,7 +244,7 @@ https://www.threads.net/@set.hotlinenews 快來追蹤一起看廢文(?)
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454257/ei/0Ww_ZoHDGdi2vcAPmsWM-Ag/ip/106.105.68.66/id/iyOq8DhaMYw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANSPQu8j8buAKesnPxEkpatYt6FA5Mwlvt_jSREkb2unAiEAyAKvuAM_t-3rKXN_dUFt7vE7yR55SiqLAodPAliwtOs%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=iyOq8DhaMYw</location>
 			<title>Bloomberg Business News Live</title>
 			<creator>Bloomberg Television</creator>
 			<annotation>Bloomberg Live Business News
@@ -291,7 +291,7 @@ Instagram: https://www.instagram.com/bloombergtv/
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454260/ei/1Gw_ZtqGCJ6y2roP_KmPoAM/ip/106.105.68.66/id/GNFQp4sQnPc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNPSkatoFL-vz2TcumdA2pm9eUzPcQoI7dE_xBejm3WMCIDv8Rfw1zNkr8twSCEDxqYcKDyddSz1Xo5Yg9-utZiS7/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=GNFQp4sQnPc</location>
 			<title>LIVE: NBC News NOW</title>
 			<creator>NBC News</creator>
 			<annotation>NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most important stories of the day and taking deep dives on issues you care about.
@@ -320,7 +320,7 @@ LIVE: NBC News NOW</annotation>
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454263/ei/12w_ZrTJHJPt2roPpbCniAo/ip/106.105.68.66/id/w9uJg68CV4g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgftJbWoEsQkVntWpgCCRy2aqhWW5oF2w19BisURmm9g4CIQD5OHSSovDDir3aDxt-1eysPunFd1DsPfF_8exT8o9lJA%3D%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=w9uJg68CV4g</location>
 			<title>Watch Sky News</title>
 			<creator>Sky News</creator>
 			<annotation>Watch Sky News live: An orthopedic and peripheral nerve surgeon from London doctor describes his experience working in The European Hospital in south Gaza; The skies over the UK were lit up in a brilliant pink and green from the Northern Lights last night due to a severe solar storm and Ireland&#39;s Eurovision entry, Bambie Thug, has called on the European Broadcasting Union (EBU) to &quot;gain some conscience&quot; and &quot;humanity,&quot; as the contest bosses struggle to keep politics off the stage at the annual competition.
@@ -354,7 +354,7 @@ To enquire about licensing Sky News content, you can find more information here:
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454266/ei/2mw_ZovMILCr0-kPpfexkAc/ip/106.105.68.66/id/pykpO5kQJ98.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMKN6m9eV5-Zvcxc866hXWmwutPP7hAeRgmtZBDfgPIXAiB6AiSRno7uC44knn6OLdVRgUSrrqLZX-Z8IIdmeruuHQ%3D%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=pykpO5kQJ98</location>
 			<title>Euronews English Live</title>
 			<creator>euronews</creator>
 			<annotation>Watch the latest breaking news available 24/7 on Euronews.
@@ -400,7 +400,7 @@ Official Apps: https://www.euronews.com/apps
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454216/ei/qGw_Zq7-G92r1d8Po-ek-A0/ip/106.105.68.66/id/6HodCcEW_oQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge8G1EDD6bvqUo9Sj_KMf_F1bSEpYnIwqXthmvJqj9EkCIChRg8-_TziUNBFNtT3xvoDyDBkRWqf1DhyvDCrv2gpO/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=6HodCcEW_oQ</location>
 			<title>DW News livestream | Headline news from around the world</title>
 			<creator>DW News</creator>
 			<annotation>DW News goes deep beneath the surface, providing the key stories from Europe and around the world.
@@ -419,7 +419,7 @@ Deutsche Welle is Germany’s international broadcaster. We convey a comprehensi
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454227/ei/s2w_ZpWqItys0-kP7by6kA0/ip/106.105.68.66/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLxKBq5wL0pda_YdInwHlH44qLJ6k51U7FM0BqxZIRBoCIQDQknwN1uWEXFJpL-zGlcQkS3qTDf5uEreA1Kf_2R_qpA%3D%3D/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=tkDUSYHoKxE</location>
 			<title>FRANCE 24 English – LIVE – International Breaking News &amp; Top stories - 24/7 stream</title>
 			<creator>FRANCE 24 English</creator>
 			<annotation>🔴 Watch FRANCE 24 live in English on YouTube for free: all the latest International News broadcasted from Paris, France.
@@ -452,7 +452,7 @@ Watch our stories on Instagram: https://f24.my/IGen</annotation>
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454269/ei/3Ww_ZqPmAcf72roPs-q34Ak/ip/106.105.68.66/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeNV4JIMJkTZWqIn-wcOeNBHptW4Fs5aBS-Er0nUKl1ICIEY-uJjr4Mi9xIi4OIPyi6XdbQ90vKmp_xUho4DOFkTd/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=gCNeDWCI0vo</location>
 			<title>🔴 Al Jazeera English | Live</title>
 			<creator>Al Jazeera English</creator>
 			<annotation>Stay Informed: Watch Al Jazeera English Live: @Al Jazeera English,  we focus on people and events that affect people&#39;s lives. We bring topics to light that often go under-reported, listening to all sides of the story and giving a &#39;voice to the voiceless&#39;.
@@ -476,7 +476,7 @@ Download AJE Mobile App: https://aje.io/AJEMobile
 			</extension>
 		</track>
 		<track>
-			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1715454271/ei/32w_ZpiHIaT7s8IP4eihiAU/ip/106.105.68.66/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGFlsFeYQtBTi0FhmB3Ohe1eD1ql0-SESiKsYyIn6YnwCIFFN0NLPCl3VHwspZR6182LjAlCMzuLH1OMRLHAxBjFq/file/index.m3u8</location>
+			<location>https://www.youtube.com/watch?v=f0lYkdA-Gtw</location>
 			<title>LIVE: NHK WORLD-JAPAN News</title>
 			<creator>NHK WORLD-JAPAN</creator>
 			<annotation>Every Hour. Every Day. Live News from Japan, Asia and the World.
