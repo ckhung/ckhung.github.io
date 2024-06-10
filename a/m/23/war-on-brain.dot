@@ -106,7 +106,7 @@ digraph "頭腦爭霸戰" {
     kol -> filter_bubble;
     kol -> misinformation [ label="=kol-mi="; labeltooltip="Lin bay好油\n晚安小雞" ];
     filter_bubble -> conflict [ label="=fb-conf="; labeltooltip="fan wars" ];
-    emotion -> conflict [ label="=emo-conf="; labeltooltip="社會運動\nYuri Bezmenov" ];
+    emotion -> conflict [ label="=emo-conf="; labeltooltip="社會運動\nYuri Bezmenov\n偽裝成綠營側翼喊殺" ];
     attention_span -> conflict [ label="=as-conf="; labeltooltip="標題殺人法 (的成功)" ];
     misinformation -> conflict;
     conflict -> privacy_loss [ label="=conf-pl="; labeltooltip="doxxing" ];
@@ -119,7 +119,7 @@ digraph "頭腦爭霸戰" {
     artificial_intelligence -> xtion_economy [ color="#0000ff:white:#0000ff"; label="=ai-xe="; labeltooltip="劍橋分析 2.0\n中共版劍橋分析？" ];
     artificial_intelligence -> misinformation [color="#0000ff:white:#0000ff"; label="=ai-mi="; labeltooltip="deepfake\n劍橋分析 2.0" ];
     artificial_intelligence -> social_engineering [color="#0000ff:white:#0000ff"; label="=ai-se="; labeltooltip="deepfake" ];
-    artificial_intelligence -> your_brain [color="#0000ff:white:#0000ff"; label="=ai-yb="; labeltooltip="Olga Loiek 被複製" ];
+    artificial_intelligence -> your_brain [color="#0000ff:white:#0000ff"; label="=ai-yb="; labeltooltip="體育老師用生成式AI陷害校長\nOlga Loiek 被複製\nopenai 報告：中俄操縱輿論" ];
     artificial_intelligence -> privacy_loss [color="#0000ff:white:#0000ff"; label="=ai-pl="; labeltooltip="AI 女友" ];
 
     { kol editor misinformation social_engineering } -> your_brain -> important_societal
