@@ -9,7 +9,7 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 194.46)">
 <title>我在這裡，你在哪裡？</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-194.46 933.05,-194.46 933.05,4 -4,4"/>
-<text text-anchor="middle" x="464.52" y="-7.8" font-family="Times,serif" font-size="14.00">iahway 的經緯度座標及其他資訊流向</text>
+<text text-anchor="middle" x="464.52" y="-7.8" font-family="Times,serif" font-size="14.00">iahway 架構圖： 經緯度座標及其他資訊的流向</text>
 <!-- gpslogger -->
 <g id="node1" class="node">
 <title>gpslogger</title>

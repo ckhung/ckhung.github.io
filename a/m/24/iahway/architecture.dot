@@ -1,0 +1,22 @@
+digraph "我在這裡，你在哪裡？" {
+
+    rankdir = LR;
+    overlap = scale;
+    shape=rectangle;
+    label="iahway 架構圖： 經緯度座標及其他資訊的流向";
+
+    gpslogger [ label="gpslogger" ];
+    log_php [ label="log.php [空的網頁]" ];
+    query_php [ label="query.php" ];
+    access_log [ label="access.log" ];
+    access_iahway_log [ label="access-iahway.log" ];
+
+    gpslogger -> apache2 [ label="「記錄到自定義 URL」" ];
+    log_php -> apache2 [ style="dashed" ];
+    apache2 -> access_log [ label="logging"; style="dashed" ];
+    apache2 -> access_iahway_log [ label="logging" ];
+    access_iahway_log -> query_php ;
+    query_php -> apache2;
+    apache2 -> umap [ label="「遠端資料」" ];
+}
+
