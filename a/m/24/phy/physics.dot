@@ -1,0 +1,43 @@
+digraph PhysicsConcepts {
+    node [shape=rectangle];
+
+    labelloc="t";
+    label="物理量因次關係";
+
+    // Define nodes with labels
+    velocity [label="velocity\n速度\n[L T^-1]"];
+    acceleration [label="acceleration\n加速度\n[L T^-2]"];
+    force [label="force\n力\n[M L T^-2]"];
+    momentum [label="momentum\n動量\n[M L T^-1]"];
+    angular_velocity [label="angular velocity\n角速度\n[T^-1]"];
+    angular_acceleration [label="angular acceleration\n角加速度\n[T^-2]"];
+    torque [label="torque\n力矩\n[M L^2 T^-2]"];
+    angular_momentum [label="angular momentum\n角動量\n[M L^2 T^-1]"];
+    voltage [label="voltage\n電壓\n[M L^2 T^-3 I^-1]"];
+    // current [label="current\n[I]"];
+    // charge [label="charge\n[M T I]"];
+    resistance [label="resistance\n電阻\n[M L^2 T^-3 I^-2]"];
+    elastance [label="elastance\n倒電容\n[M L^2 T^-4 I^-2]"];
+    pressure [label="pressure\n壓力\n[M L^-1 T^-2]"];
+    power [label="power\n功率\n[M L^2 T^-3]"];
+    work [label="work\n功\n[M L^2 T^-2]"];
+    
+    // Define edges with labels indicating dimensional difference
+    acceleration -> velocity [label="T"];
+    acceleration -> force [label="M"];
+    force -> momentum [label="T"];
+    velocity -> momentum [label="M"];
+    force -> work [label="L"];
+    torque -> work [label="1"];
+    power -> work [label="T"];
+    force -> torque [label="L"];
+    angular_acceleration -> angular_velocity [label="T"];
+    angular_velocity -> angular_momentum [label="M"];
+    angular_acceleration -> torque [label="M"];
+    torque -> angular_momentum [label="T"];
+    voltage -> power [label="I"];
+    resistance -> voltage [label="I"];
+    elastance -> voltage [label="T I"];
+    pressure -> force [label="L^2"];
+}
+
