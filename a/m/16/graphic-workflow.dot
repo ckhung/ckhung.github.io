@@ -2,20 +2,31 @@
 digraph "檔案格式為中心的繪圖工作流程" {
 
     overlap = scale;
+    compound = true;
 
     subgraph cluster_text {
-	text [ label="any text" ];
+	text [ label="any text\n任何文字格式" ];
+	color = "blue";
+	fillcolor = "white";
 	{ text html } -> csv [ label="RE" ];
     }
 
-    graphic [ label="png/jpg" ];
+    raster [ label="png\njpg" ];
+    view [ label="view/study\n檢視/研究" ];
 
-    html -> graphic [ label="cutycapt" ];
-    { text html csv } -> { dot gpt } [ label="RE" ];
+    xml -> json [ label="xq" ];
+    json -> json [ label="jq\nzq" ];
+    json -> csv [ label="zq" ];
+    xlsx -> csv [ label="Libre Office\nvisidata" ];
+    html -> csv [ label="visidata" ];
+    csv -> view [ label="visidata" ];
+    csv -> svg [ label="rawgraph\nscatplot\nmetabase" ];
+    csv -> { dot gpt } [ ltail=cluster_text; label="RE"; color="blue" ];
+    html -> raster [ label="cutycapt" ];
     ods -> csv [ label="Libre Office" ];
-    dot -> { svg graphic } [ label="graphviz" ];
-    svg -> { svg graphic } [ label="inkscape\nsozi" ];
-    gpt -> { svg graphic } [ label="gnuplot" ];
-    graphic -> graphic [ label="gimp\nimagemagick" ];
+    dot -> { svg raster } [ label="graphviz" ];
+    svg -> { svg raster } [ label="inkscape" ];
+    gpt -> { svg raster } [ label="gnuplot" ];
+    raster -> raster [ label="gimp\nimagemagick" ];
 }
 
