@@ -5,13 +5,16 @@
 <!-- Title: 檔案格式為中心的繪圖工作流程 Pages: 1 -->
 
 <svg
-   width="1126pt"
-   height="534pt"
-   viewBox="0.00 0.00 1125.80 534.00"
+   width="1088.2284pt"
+   height="448.27524pt"
+   viewBox="0 0 1088.0351 448.27524"
    version="1.1"
    id="svg4911"
    sodipodi:docname="graphic-workflow.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="graphic-workflow.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -31,8 +34,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.87255773"
-     inkscape:cx="751.23969"
-     inkscape:cy="358.14249"
+     inkscape:cx="730.61068"
+     inkscape:cy="323.76081"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="0"
@@ -42,15 +45,9 @@
   <g
      id="graph0"
      class="graph"
-     transform="scale(1 1) rotate(0) translate(4 530)">
+     transform="translate(-19.499338,501.56295)">
     <title
        id="title4610">檔案格式為中心的繪圖工作流程</title>
-    <polygon
-       fill="#ffffff"
-       stroke="transparent"
-       points="1121.8,-530 1121.8,4 -4,4 -4,-530 "
-       id="polygon4612"
-       transform="matrix(1,0,0,0.78331988,0,-60.234939)" />
     <text
        text-anchor="middle"
        x="574.33948"
@@ -66,41 +63,38 @@
          id="title4616">cluster_text</title>
       <polygon
          fill="none"
-         stroke="blue"
-         points="226,-345 226,-493 560.25,-493 560.25,-345 226,-345"
+         stroke="#0000ff"
+         points="226,-345 226,-493 560.25,-493 560.25,-345 "
          id="polygon4618" />
-      <text
-         text-anchor="middle"
-         x="393.12"
-         y="-477.8"
-         font-family="Times,serif"
-         font-size="14.00"
-         id="text4620">「長線投資的繪圖工具箱」 (請搜尋)</text>
     </g>
     <!-- url_qrcode -->
-    <g
-       id="node1"
-       class="node"
-       transform="translate(19.402689,-321.56295)">
-      <title
-         id="title4623">url_qrcode</title>
-      <circle
-         fill="none"
-         stroke="#000000"
-         stroke-width="0"
-         cx="90"
-         cy="-90"
-         id="ellipse4625"
-         r="90" />
-      <image
-         xlink:href="graphic-workflow-url.png"
-         width="180"
-         height="180"
-         preserveAspectRatio="xMinYMin"
-         x="0"
-         y="-180"
-         id="image4627" />
-    </g>
+    <a
+       id="a12117"
+       xlink:href="https://ckhung0.blogspot.com/2016/04/use-value-of-learning-ict.html#graphic">
+      <g
+         id="node1"
+         class="node"
+         transform="translate(19.402689,-321.56295)">
+        <title
+           id="title4623">url_qrcode</title>
+        <circle
+           fill="none"
+           stroke="#000000"
+           stroke-width="0"
+           cx="90"
+           cy="-90"
+           id="ellipse4625"
+           r="90" />
+        <image
+           xlink:href="graphic-workflow-url.png"
+           width="180"
+           height="180"
+           preserveAspectRatio="xMinYMin"
+           x="0"
+           y="-180"
+           id="image4627" />
+      </g>
+    </a>
     <!-- text -->
     <g
        id="node2"
@@ -109,7 +103,7 @@
          id="title4630">text</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="306.12"
          cy="-381"
          rx="72.25"
@@ -118,16 +112,16 @@
       <text
          text-anchor="middle"
          x="306.12"
-         y="-384.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-384.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4634">any text</text>
       <text
          text-anchor="middle"
          x="306.12"
-         y="-369.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-369.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4636">任何文字格式</text>
     </g>
     <!-- csv -->
@@ -138,7 +132,7 @@
          id="title4639">csv</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="525.25"
          cy="-371"
          rx="27"
@@ -147,9 +141,9 @@
       <text
          text-anchor="middle"
          x="525.25"
-         y="-367.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-367.29999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4643">csv</text>
     </g>
     <!-- text&#45;&gt;csv -->
@@ -160,20 +154,20 @@
          id="title4646">text-&gt;csv</title>
       <path
          fill="none"
-         stroke="black"
-         d="M375.68,-373.43C382.62,-372.86 389.57,-372.36 396.25,-372 427.26,-370.32 462.56,-370.17 488.22,-370.39"
+         stroke="#000000"
+         d="m 375.68,-373.43 c 6.94,0.57 13.89,1.07 20.57,1.43 31.01,1.68 66.31,1.83 91.97,1.61"
          id="path4648" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="488.2,-373.89 498.24,-370.5 488.28,-366.89 488.2,-373.89"
+         fill="#000000"
+         stroke="#000000"
+         points="498.24,-370.5 488.28,-366.89 488.2,-373.89 "
          id="polygon4650" />
       <text
          text-anchor="middle"
          x="438.25"
-         y="-375.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-375.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4652">RE</text>
     </g>
     <!-- html -->
@@ -184,18 +178,18 @@
          id="title4655">html</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="306.12"
          cy="-444"
-         rx="32.49"
+         rx="32.490002"
          ry="18"
          id="ellipse4657" />
       <text
          text-anchor="middle"
          x="306.12"
-         y="-440.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-440.29999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4659">html</text>
     </g>
     <!-- html&#45;&gt;csv -->
@@ -206,20 +200,20 @@
          id="title4662">html-&gt;csv</title>
       <path
          fill="none"
-         stroke="black"
-         d="M333.49,-434.05C346.9,-428.97 363.45,-422.68 378.25,-417 386.26,-413.92 388.1,-412.69 396.25,-410 433,-397.86 443.36,-398.73 480.25,-387 484.06,-385.79 488.03,-384.45 491.97,-383.08"
+         stroke="#000000"
+         d="m 333.49,-434.05 c 13.41,5.08 29.96,11.37 44.76,17.05 8.01,3.08 9.85,4.31 18,7 36.75,12.14 47.11,11.27 84,23 3.81,1.21 7.78,2.55 11.72,3.92"
          id="path4664" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="493.29,-386.32 501.53,-379.66 490.94,-379.73 493.29,-386.32"
+         fill="#000000"
+         stroke="#000000"
+         points="501.53,-379.66 490.94,-379.73 493.29,-386.32 "
          id="polygon4666" />
       <text
          text-anchor="middle"
          x="438.25"
-         y="-413.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-413.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4668">RE</text>
     </g>
     <!-- html&#45;&gt;csv -->
@@ -230,20 +224,20 @@
          id="title4671">html-&gt;csv</title>
       <path
          fill="none"
-         stroke="black"
-         d="M338.29,-447.39C374.65,-449.87 435.49,-449.35 480.25,-425 492.28,-418.45 502.28,-407.13 509.69,-396.53"
+         stroke="#000000"
+         d="m 338.29,-447.39 c 36.36,-2.48 97.2,-1.96 141.96,22.39 12.03,6.55 22.03,17.87 29.44,28.47"
          id="path4673" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="512.77,-398.22 515.29,-387.93 506.91,-394.4 512.77,-398.22"
+         fill="#000000"
+         stroke="#000000"
+         points="515.29,-387.93 506.91,-394.4 512.77,-398.22 "
          id="polygon4675" />
       <text
          text-anchor="middle"
          x="438.25"
-         y="-449.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-449.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4677">visidata</text>
     </g>
     <!-- raster -->
@@ -254,7 +248,7 @@
          id="title4680">raster</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="1070.3"
          cy="-387"
          rx="31.23"
@@ -263,16 +257,16 @@
       <text
          text-anchor="middle"
          x="1070.3"
-         y="-390.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-390.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4684">png</text>
       <text
          text-anchor="middle"
          x="1070.3"
-         y="-375.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-375.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4686">jpg</text>
     </g>
     <!-- html&#45;&gt;raster -->
@@ -283,20 +277,20 @@
          id="title4689">html-&gt;raster</title>
       <path
          fill="none"
-         stroke="black"
-         d="M334.19,-453.12C374.92,-466 454.63,-488 524.25,-488 524.25,-488 524.25,-488 909.69,-488 964.1,-488 1015.03,-445.56 1044.14,-415.71"
+         stroke="#000000"
+         d="M 334.19,-453.12 C 374.92,-466 454.63,-488 524.25,-488 c 0,0 0,0 385.44,0 54.41,0 105.34,42.44 134.45,72.29"
          id="path4691" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="1046.71,-418.08 1051.06,-408.42 1041.63,-413.26 1046.71,-418.08"
+         fill="#000000"
+         stroke="#000000"
+         points="1051.06,-408.42 1041.63,-413.26 1046.71,-418.08 "
          id="polygon4693" />
       <text
          text-anchor="middle"
-         x="711.72"
-         y="-491.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         x="711.71997"
+         y="-491.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4695">cutycapt</text>
     </g>
     <!-- view -->
@@ -307,25 +301,25 @@
          id="title4698">view</title>
       <ellipse
          fill="none"
-         stroke="black"
-         cx="711.72"
+         stroke="#000000"
+         cx="711.71997"
          cy="-371"
-         rx="66.44"
+         rx="66.440002"
          ry="26.74"
          id="ellipse4700" />
       <text
          text-anchor="middle"
-         x="711.72"
-         y="-374.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         x="711.71997"
+         y="-374.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4702">view/study</text>
       <text
          text-anchor="middle"
-         x="711.72"
-         y="-359.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         x="711.71997"
+         y="-359.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4704">檢視/研究</text>
     </g>
     <!-- csv&#45;&gt;view -->
@@ -336,20 +330,20 @@
          id="title4707">csv-&gt;view</title>
       <path
          fill="none"
-         stroke="black"
-         d="M552.29,-371C573.79,-371 605.43,-371 634.79,-371"
+         stroke="#000000"
+         d="m 552.29,-371 c 21.5,0 53.14,0 82.5,0"
          id="path4709" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="635.06,-374.5 645.06,-371 635.06,-367.5 635.06,-374.5"
+         fill="#000000"
+         stroke="#000000"
+         points="645.06,-371 635.06,-367.5 635.06,-374.5 "
          id="polygon4711" />
       <text
          text-anchor="middle"
          x="598.75"
-         y="-374.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-374.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4713">visidata</text>
     </g>
     <!-- svg -->
@@ -360,7 +354,7 @@
          id="title4716">svg</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="908.69"
          cy="-297"
          rx="27"
@@ -369,9 +363,9 @@
       <text
          text-anchor="middle"
          x="908.69"
-         y="-293.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-293.29999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4720">svg</text>
     </g>
     <!-- csv&#45;&gt;svg -->
@@ -382,34 +376,34 @@
          id="title4723">csv-&gt;svg</title>
       <path
          fill="none"
-         stroke="black"
-         d="M541.18,-356.34C562.27,-336.76 602.97,-303.02 645.25,-290 723.9,-265.77 822.16,-279.2 873.24,-289.22"
+         stroke="#000000"
+         d="m 541.18,-356.34 c 21.09,19.58 61.79,53.32 104.07,66.34 78.65,24.23 176.91,10.8 227.99,0.78"
          id="path4725" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="872.6,-292.67 883.1,-291.23 874,-285.81 872.6,-292.67"
+         fill="#000000"
+         stroke="#000000"
+         points="883.1,-291.23 874,-285.81 872.6,-292.67 "
          id="polygon4727" />
       <text
          text-anchor="middle"
-         x="711.72"
-         y="-323.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         x="711.71997"
+         y="-323.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4729">rawgraph</text>
       <text
          text-anchor="middle"
-         x="711.72"
-         y="-308.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         x="711.71997"
+         y="-308.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4731">scatplot</text>
       <text
          text-anchor="middle"
-         x="711.72"
-         y="-293.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         x="711.71997"
+         y="-293.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4733">metabase</text>
     </g>
     <!-- dot -->
@@ -420,18 +414,18 @@
          id="title4736">dot</title>
       <ellipse
          fill="none"
-         stroke="black"
-         cx="711.72"
+         stroke="#000000"
+         cx="711.71997"
          cy="-434"
          rx="27"
          ry="18"
          id="ellipse4738" />
       <text
          text-anchor="middle"
-         x="711.72"
-         y="-430.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         x="711.71997"
+         y="-430.29999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4740">dot</text>
     </g>
     <!-- csv&#45;&gt;dot -->
@@ -442,20 +436,20 @@
          id="title4743">csv-&gt;dot</title>
       <path
          fill="none"
-         stroke="blue"
-         d="M560.25,-386.09C563.61,-387.46 566.98,-388.79 570.25,-390 606.09,-403.31 648.02,-416.09 676.68,-424.42"
+         stroke="#0000ff"
+         d="m 560.25,-386.09 c 3.36,-1.37 6.73,-2.7 10,-3.91 35.84,-13.31 77.77,-26.09 106.43,-34.42"
          id="path4745" />
       <polygon
-         fill="blue"
-         stroke="blue"
-         points="676.02,-427.87 686.6,-427.28 677.96,-421.14 676.02,-427.87"
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="686.6,-427.28 677.96,-421.14 676.02,-427.87 "
          id="polygon4747" />
       <text
          text-anchor="middle"
          x="598.75"
-         y="-411.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-411.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4749">RE</text>
     </g>
     <!-- gpt -->
@@ -466,18 +460,18 @@
          id="title4752">gpt</title>
       <ellipse
          fill="none"
-         stroke="black"
-         cx="711.72"
+         stroke="#000000"
+         cx="711.71997"
          cy="-227"
          rx="27"
          ry="18"
          id="ellipse4754" />
       <text
          text-anchor="middle"
-         x="711.72"
+         x="711.71997"
          y="-223.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4756">gpt</text>
     </g>
     <!-- csv&#45;&gt;gpt -->
@@ -488,20 +482,20 @@
          id="title4759">csv-&gt;gpt</title>
       <path
          fill="none"
-         stroke="blue"
-         d="M528.46,-345C532.25,-317.58 542.51,-275.2 570.25,-252 599.15,-227.84 643.28,-223.56 674.35,-224.07"
+         stroke="#0000ff"
+         d="m 528.46,-345 c 3.79,27.42 14.05,69.8 41.79,93 28.9,24.16 73.03,28.44 104.1,27.93"
          id="path4761" />
       <polygon
-         fill="blue"
-         stroke="blue"
-         points="674.64,-227.58 684.75,-224.42 674.87,-220.58 674.64,-227.58"
+         fill="#0000ff"
+         stroke="#0000ff"
+         points="684.75,-224.42 674.87,-220.58 674.64,-227.58 "
          id="polygon4763" />
       <text
          text-anchor="middle"
          x="598.75"
          y="-255.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4765">RE</text>
     </g>
     <!-- raster&#45;&gt;raster -->
@@ -512,27 +506,27 @@
          id="title4768">raster-&gt;raster</title>
       <path
          fill="none"
-         stroke="black"
-         d="M1055.6,-411C1053.99,-422.14 1058.89,-431.87 1070.3,-431.87 1077.96,-431.87 1082.69,-427.48 1084.48,-421.22"
+         stroke="#000000"
+         d="m 1055.6,-411 c -1.61,-11.14 3.29,-20.87 14.7,-20.87 7.66,0 12.39,4.39 14.18,10.65"
          id="path4770" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="1087.99,-421.17 1085,-411 1081,-420.81 1087.99,-421.17"
+         fill="#000000"
+         stroke="#000000"
+         points="1085,-411 1081,-420.81 1087.99,-421.17 "
          id="polygon4772" />
       <text
          text-anchor="middle"
          x="1070.3"
-         y="-450.67"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-450.67001"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4774">gimp</text>
       <text
          text-anchor="middle"
          x="1070.3"
-         y="-435.67"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-435.67001"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4776">imagemagick</text>
     </g>
     <!-- xml -->
@@ -543,7 +537,7 @@
          id="title4779">xml</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="90"
          cy="-216"
          rx="27.9"
@@ -553,8 +547,8 @@
          text-anchor="middle"
          x="90"
          y="-212.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4783">xml</text>
     </g>
     <!-- json -->
@@ -565,18 +559,18 @@
          id="title4786">json</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="306.12"
          cy="-216"
-         rx="29.8"
+         rx="29.799999"
          ry="18"
          id="ellipse4788" />
       <text
          text-anchor="middle"
          x="306.12"
          y="-212.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4790">json</text>
     </g>
     <!-- xml&#45;&gt;json -->
@@ -587,20 +581,20 @@
          id="title4793">xml-&gt;json</title>
       <path
          fill="none"
-         stroke="black"
-         d="M118.12,-216C155.55,-216 223.25,-216 266.11,-216"
+         stroke="#000000"
+         d="m 118.12,-216 c 37.43,0 105.13,0 147.99,0"
          id="path4795" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="266.18,-219.5 276.18,-216 266.18,-212.5 266.18,-219.5"
+         fill="#000000"
+         stroke="#000000"
+         points="276.18,-216 266.18,-212.5 266.18,-219.5 "
          id="polygon4797" />
       <text
          text-anchor="middle"
          x="207"
          y="-219.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4799">xq</text>
     </g>
     <!-- json&#45;&gt;csv -->
@@ -611,20 +605,20 @@
          id="title4802">json-&gt;csv</title>
       <path
          fill="none"
-         stroke="black"
-         d="M331.47,-225.81C366.89,-240.87 433.47,-272.28 480.25,-313 491.08,-322.43 500.97,-334.91 508.61,-345.88"
+         stroke="#000000"
+         d="m 331.47,-225.81 c 35.42,-15.06 102,-46.47 148.78,-87.19 10.83,-9.43 20.72,-21.91 28.36,-32.88"
          id="path4804" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="505.76,-347.92 514.24,-354.27 511.57,-344.02 505.76,-347.92"
+         fill="#000000"
+         stroke="#000000"
+         points="514.24,-354.27 511.57,-344.02 505.76,-347.92 "
          id="polygon4806" />
       <text
          text-anchor="middle"
          x="438.25"
-         y="-316.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-316.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4808">zq</text>
     </g>
     <!-- json&#45;&gt;json -->
@@ -635,27 +629,27 @@
          id="title4811">json-&gt;json</title>
       <path
          fill="none"
-         stroke="black"
-         d="M289.54,-231.17C284.52,-241.66 290.05,-252 306.12,-252 316.93,-252 322.97,-247.33 324.24,-241.09"
+         stroke="#000000"
+         d="m 289.54,-231.17 c -5.02,-10.49 0.51,-20.83 16.58,-20.83 10.81,0 16.85,4.67 18.12,10.91"
          id="path4813" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="327.7,-240.51 322.71,-231.17 320.78,-241.58 327.7,-240.51"
+         fill="#000000"
+         stroke="#000000"
+         points="322.71,-231.17 320.78,-241.58 327.7,-240.51 "
          id="polygon4815" />
       <text
          text-anchor="middle"
          x="306.12"
-         y="-270.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-270.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4817">jq</text>
       <text
          text-anchor="middle"
          x="306.12"
          y="-255.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4819">zq</text>
     </g>
     <!-- xlsx -->
@@ -666,7 +660,7 @@
          id="title4822">xlsx</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="306.12"
          cy="-162"
          rx="29.5"
@@ -676,8 +670,8 @@
          text-anchor="middle"
          x="306.12"
          y="-158.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4826">xlsx</text>
     </g>
     <!-- xlsx&#45;&gt;csv -->
@@ -688,27 +682,27 @@
          id="title4829">xlsx-&gt;csv</title>
       <path
          fill="none"
-         stroke="black"
-         d="M335.3,-164.54C373.49,-169.49 441.36,-183.86 480.25,-225 510.8,-257.32 520.2,-310.1 523.06,-342.57"
+         stroke="#000000"
+         d="m 335.3,-164.54 c 38.19,-4.95 106.06,-19.32 144.95,-60.46 30.55,-32.32 39.95,-85.1 42.81,-117.57"
          id="path4831" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="519.58,-343.02 523.79,-352.74 526.56,-342.51 519.58,-343.02"
+         fill="#000000"
+         stroke="#000000"
+         points="523.79,-352.74 526.56,-342.51 519.58,-343.02 "
          id="polygon4833" />
       <text
          text-anchor="middle"
          x="438.25"
          y="-243.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4835">Libre Office</text>
       <text
          text-anchor="middle"
          x="438.25"
          y="-228.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4837">visidata</text>
     </g>
     <!-- svg&#45;&gt;raster -->
@@ -719,20 +713,20 @@
          id="title4840">svg-&gt;raster</title>
       <path
          fill="none"
-         stroke="black"
-         d="M929.9,-308.4C956.24,-323.25 1002.7,-349.45 1034.7,-367.49"
+         stroke="#000000"
+         d="m 929.9,-308.4 c 26.34,-14.85 72.8,-41.05 104.8,-59.09"
          id="path4842" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="1033.29,-370.71 1043.72,-372.58 1036.73,-364.62 1033.29,-370.71"
+         fill="#000000"
+         stroke="#000000"
+         points="1043.72,-372.58 1036.73,-364.62 1033.29,-370.71 "
          id="polygon4844" />
       <text
          text-anchor="middle"
          x="989.69"
-         y="-360.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-360.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4846">inkscape</text>
     </g>
     <!-- svg&#45;&gt;svg -->
@@ -743,20 +737,20 @@
          id="title4849">svg-&gt;svg</title>
       <path
          fill="none"
-         stroke="black"
-         d="M895.01,-312.54C891.16,-322.91 895.72,-333 908.69,-333 917.2,-333 922.09,-328.65 923.35,-322.74"
+         stroke="#000000"
+         d="m 895.01,-312.54 c -3.85,-10.37 0.71,-20.46 13.68,-20.46 8.51,0 13.4,4.35 14.66,10.26"
          id="path4851" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="926.81,-322.16 922.36,-312.54 919.85,-322.83 926.81,-322.16"
+         fill="#000000"
+         stroke="#000000"
+         points="922.36,-312.54 919.85,-322.83 926.81,-322.16 "
          id="polygon4853" />
       <text
          text-anchor="middle"
          x="908.69"
-         y="-336.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-336.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4855">inkscape</text>
     </g>
     <!-- dot&#45;&gt;raster -->
@@ -767,20 +761,20 @@
          id="title4858">dot-&gt;raster</title>
       <path
          fill="none"
-         stroke="black"
-         d="M738.36,-430.62C799.7,-422.54 955.26,-402.03 1029.15,-392.29"
+         stroke="#000000"
+         d="m 738.36,-430.62 c 61.34,8.08 216.9,28.59 290.79,38.33"
          id="path4860" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="1029.98,-395.71 1039.44,-390.94 1029.07,-388.77 1029.98,-395.71"
+         fill="#000000"
+         stroke="#000000"
+         points="1039.44,-390.94 1029.07,-388.77 1029.98,-395.71 "
          id="polygon4862" />
       <text
          text-anchor="middle"
          x="908.69"
-         y="-415.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-415.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4864">graphviz</text>
     </g>
     <!-- dot&#45;&gt;svg -->
@@ -791,20 +785,20 @@
          id="title4867">dot-&gt;svg</title>
       <path
          fill="none"
-         stroke="black"
-         d="M737.4,-428.3C750.74,-424.19 766.78,-417.49 778.19,-407 791.06,-395.16 784.56,-385.07 796.19,-372 819.04,-346.3 852.55,-325.32 876.86,-312.16"
+         stroke="#000000"
+         d="m 737.4,-428.3 c 13.34,4.11 29.38,10.81 40.79,21.3 12.87,11.84 6.37,21.93 18,35 22.85,25.7 56.36,46.68 80.67,59.84"
          id="path4869" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="878.8,-315.09 886.01,-307.34 875.54,-308.9 878.8,-315.09"
+         fill="#000000"
+         stroke="#000000"
+         points="886.01,-307.34 875.54,-308.9 878.8,-315.09 "
          id="polygon4871" />
       <text
          text-anchor="middle"
          x="827.69"
-         y="-375.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-375.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4873">graphviz</text>
     </g>
     <!-- gpt&#45;&gt;raster -->
@@ -815,20 +809,20 @@
          id="title4876">gpt-&gt;raster</title>
       <path
          fill="none"
-         stroke="black"
-         d="M738.7,-224.43C782.89,-221.28 874.27,-220.05 940.19,-255 985.75,-279.16 1025.03,-325.08 1047.94,-355.87"
+         stroke="#000000"
+         d="m 738.7,-224.43 c 44.19,3.15 135.57,4.38 201.49,-30.57 45.56,-24.16 84.84,-70.08 107.75,-100.87"
          id="path4878" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="1045.24,-358.11 1053.96,-364.13 1050.89,-353.99 1045.24,-358.11"
+         fill="#000000"
+         stroke="#000000"
+         points="1053.96,-364.13 1050.89,-353.99 1045.24,-358.11 "
          id="polygon4880" />
       <text
          text-anchor="middle"
          x="908.69"
-         y="-258.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-258.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4882">gnuplot</text>
     </g>
     <!-- gpt&#45;&gt;svg -->
@@ -839,20 +833,20 @@
          id="title4885">gpt-&gt;svg</title>
       <path
          fill="none"
-         stroke="black"
-         d="M738.96,-227.03C769.39,-228.05 820.32,-232.82 859.19,-252 869.91,-257.29 879.93,-265.73 888.05,-273.87"
+         stroke="#000000"
+         d="m 738.96,-227.03 c 30.43,-1.02 81.36,-5.79 120.23,-24.97 10.72,-5.29 20.74,-13.73 28.86,-21.87"
          id="path4887" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="885.53,-276.29 894.94,-281.16 890.62,-271.49 885.53,-276.29"
+         fill="#000000"
+         stroke="#000000"
+         points="894.94,-281.16 890.62,-271.49 885.53,-276.29 "
          id="polygon4889" />
       <text
          text-anchor="middle"
          x="827.69"
          y="-255.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4891">gnuplot</text>
     </g>
     <!-- ods -->
@@ -863,7 +857,7 @@
          id="title4894">ods</title>
       <ellipse
          fill="none"
-         stroke="black"
+         stroke="#000000"
          cx="306.12"
          cy="-318"
          rx="27"
@@ -872,9 +866,9 @@
       <text
          text-anchor="middle"
          x="306.12"
-         y="-314.3"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-314.29999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4898">ods</text>
     </g>
     <!-- ods&#45;&gt;csv -->
@@ -885,20 +879,20 @@
          id="title4901">ods-&gt;csv</title>
       <path
          fill="none"
-         stroke="black"
-         d="M332.83,-320.95C367.05,-325.32 429.22,-334.79 480.25,-351 484.69,-352.41 489.27,-354.15 493.73,-356.01"
+         stroke="#000000"
+         d="m 332.83,-320.95 c 34.22,-4.37 96.39,-13.84 147.42,-30.05 4.44,-1.41 9.02,-3.15 13.48,-5.01"
          id="path4903" />
       <polygon
-         fill="black"
-         stroke="black"
-         points="492.61,-359.34 503.17,-360.19 495.44,-352.94 492.61,-359.34"
+         fill="#000000"
+         stroke="#000000"
+         points="503.17,-360.19 495.44,-352.94 492.61,-359.34 "
          id="polygon4905" />
       <text
          text-anchor="middle"
          x="438.25"
-         y="-354.8"
-         font-family="Times,serif"
-         font-size="14.00"
+         y="-354.79999"
+         font-family="Times, serif"
+         font-size="14px"
          id="text4907">Libre Office</text>
     </g>
   </g>
