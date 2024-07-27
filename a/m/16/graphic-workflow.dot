@@ -1,8 +1,22 @@
 // dot -Tsvg graphic-workflow.dot -o graphic-workflow.svg
 digraph "檔案格式為中心的繪圖工作流程" {
 
+    label = "「長線投資的繪圖工具箱」 (請搜尋)";
+    labelloc = "t";
+    rankdir = "LR";
     overlap = scale;
     compound = true;
+    node [imagescale=true]
+
+    url_qrcode [
+	penwidth = 0;
+	label = "";
+	width = 2.5;
+	height = 2.5;
+	fixedsize = true;
+	image = "graphic-workflow-url.png";
+    ];
+    // https://github.com/quarto-dev/quarto-cli/issues/7368
 
     subgraph cluster_text {
 	text [ label="any text\n任何文字格式" ];
@@ -28,5 +42,6 @@ digraph "檔案格式為中心的繪圖工作流程" {
     svg -> { svg raster } [ label="inkscape" ];
     gpt -> { svg raster } [ label="gnuplot" ];
     raster -> raster [ label="gimp\nimagemagick" ];
+
 }
 
