@@ -1,7 +1,7 @@
 // dot -Tsvg graphic-workflow.dot -o graphic-workflow.svg
-digraph "一個意見背後的幾個因素" {
+digraph "一個意見的形成， 背後的幾個因素" {
 
-    label = "一個意見背後的幾個因素";
+    label = "一個意見的形成， 背後的幾個因素";
     labelloc = "t";
     rankdir = "LR";
     overlap = scale;
@@ -15,9 +15,10 @@ digraph "一個意見背後的幾個因素" {
     knowledge [ label="knowledge\n知識\n(事實? 錯假訊息? 成見?)" ];
 
     belief -> perspective;
+    belief -> knowledge [ style="dashed" ];
     intention -> perspective;
     standpoint -> intention;
     { perspective knowledge } -> opinion;
-    intention -> opinion [ color="black:red" ]
+    intention -> opinion [ color="black:red" ];
 }
 
