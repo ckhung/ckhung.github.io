@@ -12,13 +12,15 @@ digraph "一個意見的形成， 背後的幾個因素" {
     perspective [ label="perspective\n觀點" ];
     opinion [ label="opinion\n意見" ];
     intention [ label="intention\n意圖" ];
-    knowledge [ label="knowledge\n知識\n(事實? 錯假訊息? 成見?)" ];
+    obj_statement [ label="objective statement\n客觀陳述\n(事實? 錯假訊息? 成見?)" ];
 
     belief -> perspective;
-    belief -> knowledge [ style="dashed" ];
+    belief -> obj_statement [ style="dashed" ];
     intention -> perspective;
     standpoint -> intention;
-    { perspective knowledge } -> opinion;
+    { perspective obj_statement } -> opinion;
+    standpoint -> perspective [ style="dashed" ];
     intention -> opinion [ color="black:red" ];
+    intention -> obj_statement [ color="black:red" ];
 }
 
