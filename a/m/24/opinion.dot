@@ -8,7 +8,7 @@ digraph "一個意見的形成， 背後的幾個因素" {
     compound = true;
 
     belief [ label="belief\n信仰/價值觀" ];
-    standpoint [ label="standpoint\n立場" ];
+    role [ label="role\n角色" ];
     perspective [ label="perspective\n觀點" ];
     opinion [ label="opinion\n意見" ];
     intention [ label="intention\n意圖" ];
@@ -16,10 +16,10 @@ digraph "一個意見的形成， 背後的幾個因素" {
 
     belief -> perspective;
     belief -> obj_statement [ style="dashed" ];
-    intention -> perspective;
-    standpoint -> intention;
+    intention -> perspective [ color="black:red" ];
+    role -> intention;
     { perspective obj_statement } -> opinion;
-    standpoint -> perspective [ style="dashed" ];
+    role -> perspective [ style="dashed" ];
     intention -> opinion [ color="black:red" ];
     intention -> obj_statement [ color="black:red" ];
 }
