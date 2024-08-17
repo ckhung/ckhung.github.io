@@ -12,7 +12,7 @@ digraph "一個意見的形成， 背後的幾個因素" {
     perspective [ label="perspective\n觀點" ];
     opinion [ label="opinion\n意見" ];
     intention [ label="intention\n意圖" ];
-    obj_statement [ label="objective statement\n客觀陳述\n(事實? 錯假訊息? 成見?)" ];
+    obj_statement [ label="objective statement\n客觀陳述\n(事實? 錯假訊息? 成見? \n謠傳? 被轉移的話題?)" ];
 
     belief -> perspective;
     belief -> obj_statement [ style="dashed" ];
