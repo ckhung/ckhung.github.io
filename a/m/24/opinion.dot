@@ -18,9 +18,8 @@ digraph "一個意見的形成， 背後的幾個因素" {
     belief -> obj_statement [ style="dashed" ];
     intention -> perspective [ color="black:red" ];
     role -> intention;
-    { perspective obj_statement } -> opinion;
+    perspective -> obj_statement -> opinion;
     role -> perspective [ style="dashed" ];
     intention -> opinion [ color="black:red" ];
-    intention -> obj_statement [ color="black:red" ];
 }
 
