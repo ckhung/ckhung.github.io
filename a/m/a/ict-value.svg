@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="450"
    height="450"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="ict-value.svg"
-   inkscape:export-filename="/mnt/worksp/home/ckhung/public_html/a/ict-value.png"
+   inkscape:export-filename="ict-value.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   version="1.0">
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -38,9 +38,9 @@
        style="overflow:visible">
       <path
          id="path3261"
-         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="scale(-0.8,-0.8)" />
+         transform="scale(-0.8)" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lstart"
@@ -51,9 +51,9 @@
        style="overflow:visible">
       <path
          id="path3264"
-         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="scale(0.8,0.8)" />
+         transform="scale(0.8)" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -63,18 +63,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.98823529"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="252"
-     inkscape:cy="250"
+     inkscape:zoom="1.8355556"
+     inkscape:cx="245.42978"
+     inkscape:cy="224.99999"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="719"
-     inkscape:window-x="-1"
-     inkscape:window-y="221"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -83,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,137 +95,137 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);stroke-opacity:1"
-       d="M 78.46448,74.37228 L 79.87869,234.47131 L 399.49096,234.7642"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="m 73.532836,113.03393 1.41421,160.09903 319.612274,0.29289"
        id="path1307"
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
-       x="277.32492"
-       y="-321.8952"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="315.98657"
+       y="-316.96356"
        id="text1309"
-       sodipodi:linespacing="100%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-321.8952"
-         id="tspan1333">education</tspan><tspan
+         x="315.98657"
+         y="-316.96356"
+         id="tspan1333"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">教育</tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-297.8952"
-         id="tspan2451" /><tspan
+         x="315.98657"
+         y="-292.96356"
+         id="tspan2451"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"> </tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-273.8952"
-         id="tspan2453" /><tspan
+         x="315.98657"
+         y="-268.96356"
+         id="tspan2453"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"> </tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-249.8952"
-         id="tspan2457">science</tspan><tspan
+         x="315.98657"
+         y="-244.96356"
+         id="tspan2457"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">科學</tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-225.8952"
-         id="tspan2459">ICT</tspan><tspan
+         x="315.98657"
+         y="-220.96356"
+         id="tspan2459"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">資訊</tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-201.8952"
-         id="tspan2461">engineering</tspan><tspan
+         x="315.98657"
+         y="-196.96356"
+         id="tspan2461"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">工程</tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-177.8952"
-         id="tspan2463" /><tspan
+         x="315.98657"
+         y="-172.96356"
+         id="tspan2463"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"> </tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-153.8952"
-         id="tspan2465" /><tspan
+         x="315.98657"
+         y="-148.96356"
+         id="tspan2465"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"> </tspan><tspan
          sodipodi:role="line"
-         x="277.32492"
-         y="-129.8952"
-         id="tspan2469">tourism</tspan></text>
+         x="315.98657"
+         y="-124.96356"
+         id="tspan2469"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">旅遊</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
-       x="232.22745"
-       y="337.14081"
-       id="text1337"
-       sodipodi:linespacing="100%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="225.422"
+       y="344.76559"
+       id="text1337"><tspan
          sodipodi:role="line"
          id="tspan1339"
-         x="232.22745"
-         y="337.14081">...   ...     ...   ..</tspan></text>
+         x="225.422"
+         y="344.76559"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">...  ....       ...   ..</tspan></text>
     <path
        style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ff00ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 84.5797,211.67841 L 112.5797,221.67841 L 136.5797,205.67841 L 156.5797,209.67841 L 186.5797,195.67841 L 202.5797,203.67841 L 216.5797,185.67841 L 232.5797,77.67841 L 250.5797,181.67841 L 272.5797,201.67841 L 292.5797,197.67841 L 316.5797,221.67841 L 336.5797,213.67841 L 353.5797,221.23354"
+       d="m 79.648056,250.34006 28.000004,10 24,-16 20,4 30,-14 16,8 14,-18 16,-108 18,104 22,20 20,-4 24,24 20,-8 17,7.55513"
        id="path1341" />
     <path
        style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#00c0c0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 84.5797,161.14645 L 104.78071,154.08819 L 115.24517,163.40829 L 126.98172,95.704023 L 142.46196,164.302 L 174.91065,151.33144 L 196.22436,166.75785 L 207.98172,124.57408 L 232.98172,149.57408 L 249.88121,108.64515 L 276.91274,162.64515 L 291.05488,148.30201 L 312.26808,155.81672 L 325.98172,103.16369 L 337.06708,165.95886 L 354.56751,168.21752"
+       d="m 79.648056,199.8081 20.20101,-7.05826 10.464464,9.3201 11.73655,-67.70427 15.48024,68.59798 32.44869,-12.97056 21.31371,15.42641 11.75736,-42.18377 25,25 16.89949,-40.92893 27.03153,54 14.14214,-14.34314 21.2132,7.51471 13.71364,-52.65303 11.08536,62.79517 17.50043,2.25866"
        id="path1343"
        sodipodi:nodetypes="cccccccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
-       x="183.92"
-       y="262.08218"
-       id="text3327"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="207.51912"
+       y="305.66403"
+       id="text3327"><tspan
          sodipodi:role="line"
          id="tspan3329"
-         x="183.92"
-         y="262.08218">Industry</tspan></text>
+         x="207.51912"
+         y="305.66403"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">產業</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
-       x="92.947807"
-       y="-53.944"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="122.6022"
+       y="-34.761803"
        id="text3331"
-       transform="matrix(0,1,-1,0,0,0)"
-       sodipodi:linespacing="125%"><tspan
+       transform="rotate(90)"><tspan
          sodipodi:role="line"
-         id="tspan3333"
-         x="92.947807"
-         y="-53.944">Benefits</tspan><tspan
-         sodipodi:role="line"
-         x="92.947807"
-         y="-23.944"
-         id="tspan3335">from ICT</tspan></text>
+         x="122.6022"
+         y="-34.761803"
+         id="tspan3335"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">資訊科技增能</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
-       x="150.17912"
-       y="194.50262"
-       id="text3341"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="144.12553"
+       y="253.46927"
+       id="text3341"><tspan
          sodipodi:role="line"
-         id="tspan3343"
-         x="150.17912"
-         y="194.50262">proprietary soft.</tspan><tspan
-         sodipodi:role="line"
-         x="150.17912"
-         y="217.00262"
-         id="tspan5099">(sale value)</tspan></text>
+         x="144.12553"
+         y="253.46927"
+         id="tspan5099"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';stroke:none;fill:#ff00ff;fill-opacity:1">專屬軟體 (販售價值)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#00c0c0;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
-       x="249.04541"
-       y="82.986031"
-       id="text3345"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="244.11377"
+       y="121.64768"
+       id="text3345"><tspan
          sodipodi:role="line"
          id="tspan3347"
-         x="249.04541"
-         y="82.986031">FLOSS (use value)</tspan></text>
+         x="244.11377"
+         y="121.64768"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';fill:#008080;fill-opacity:1;stroke:none">自由軟體 (使用價值)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Courier"
-       x="112.33749"
-       y="45.570183"
-       id="text5095"
-       sodipodi:linespacing="100%"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.40585"
+       y="84.231834"
+       id="text5095"><tspan
          sodipodi:role="line"
          id="tspan5097"
-         x="112.33749"
-         y="45.570183">Value of ICT</tspan></text>
+         x="107.40585"
+         y="84.231834"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">資訊科技的價值</tspan></text>
   </g>
 </svg>
