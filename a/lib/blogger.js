@@ -11,10 +11,16 @@ $(document).ready(function() {
     if ($(this).hasClass('nozoom')) return;
     align = $(this).attr('align');
     align = align ? 'float:' + align : '';
-    if ($(this).parent().get(0).tagName == "A")
-      wrapped = $(this).parent();
-    else
-      wrapped = $(this).wrap('<a style="' + align + '" href="' + $(this).attr('src') + '" title="' + $(this).attr('alt') + '">');
+    ancestor = $(this).parent();
+    for (i=0; i<3; ++i) {
+      if (ancestor.get(0).tagName == "A") {
+        wrapped = ancestor;
+        return;
+      } else {
+	ancestor = ancestor.parent();
+      }
+    }
+    wrapped = $(this).wrap('<a style="' + align + '" href="' + $(this).attr('src') + '" title="' + $(this).attr('alt') + '">');
     if (wrapped.hasClass('mag-image')) { return; }
     wrapped.parent().fancybox({
 	openEffect	: 'elastic',
