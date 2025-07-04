@@ -3,7 +3,7 @@ graph meshtastic_network {
     node [shape=circle];
     edge [style=dashed];
 
-    Broker [shape=box, label="MQTT\nBroker"];
+    Broker [shape=box; label="MQTT\nBroker"; style=filled, fillcolor="#ffc0ff"];
 
     subgraph cluster_group1 {
         label = "台北文山";
