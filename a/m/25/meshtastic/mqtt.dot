@@ -1,0 +1,38 @@
+graph meshtastic_network {
+    rankdir=LR;
+    node [shape=circle];
+    edge [style=dashed];
+
+    Broker [shape=box, label="MQTT\nBroker"];
+
+    subgraph cluster_group1 {
+        label = "台北文山";
+        style=dashed;
+	WS1 [label="WS1\n(MQTT\n+Proxy)"; peripheries=3; style=filled, fillcolor="#70f7a0"];
+	WS2, WS3 [peripheries=2];
+	WS1 -- WS2 
+	WS1 -- WS3 
+	WS2 -- WS3 
+	WS1 -- Broker [style=solid; color="black:white:black"];
+    }
+
+    subgraph cluster_group2 {
+        label = "台中霧峰";
+        style=dashed;
+	WF1 [label="WF1\n(MQTT)"; peripheries=2; style=filled, fillcolor="#70f7a0"];
+	WF1 -- WF2 
+	WF1 -- WF3 
+	WF2 -- WF3 
+	WF1 -- Broker [style=solid; color="black:white:black"];
+    }
+
+    subgraph cluster_group3 {
+        label = "高雄鹽埕";
+        style=dashed;
+	rank=max;
+	YC1 -- YC2 
+	YC1 -- YC3 
+	YC2 -- YC3 
+    }
+}
+
