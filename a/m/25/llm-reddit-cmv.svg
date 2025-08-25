@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="805"
+   height="600"
+   version="1.1"
+   id="svg110"
+   sodipodi:docname="llm-reddit-cmv.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="llm-reddit-cmv.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs114" />
+  <sodipodi:namedview
+     id="namedview112"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4066667"
+     inkscape:cx="307.46445"
+     inkscape:cy="299.99999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <g
+     id="viz"
+     transform="matrix(0.91220386,0,0,0.91220386,24.293448,15.232741)">
+    <g
+       id="g107">
+      <g
+         transform="translate(50,20)"
+         id="g103">
+        <g
+           class="bars"
+           id="g7">
+          <rect
+             id="undefined - AI-個人化"
+             x="558.99969"
+             y="0"
+             height="560"
+             width="185.00168"
+             fill="#1f77b4"
+             style="fill:#ff0000;fill-opacity:1" />
+          <rect
+             id="undefined - AI-僅原po"
+             x="372.99933"
+             y="31.111111"
+             height="528.88892"
+             width="185.00168"
+             fill="#ff7f0e"
+             style="fill:#fffe80;fill-opacity:1" />
+          <rect
+             id="undefined - AI-社群習慣"
+             x="186.99899"
+             y="280"
+             height="280"
+             width="185.00168"
+             fill="#2ca02c" />
+          <rect
+             id="undefined - 人類"
+             x="0.99865949"
+             y="466.66666"
+             height="93.333336"
+             width="185.00168"
+             fill="#d62728"
+             style="fill:#8080ff;fill-opacity:1" />
+        </g>
+        <g
+           id="xAxis"
+           transform="translate(0,560)"
+           fill="none"
+           font-size="20px"
+           font-family="'AR PL UKai TW MBE'"
+           text-anchor="middle">
+          <path
+             class="domain"
+             stroke="currentColor"
+             d="m 0.5,0.5 h 745"
+             id="path9" />
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(93.499497)"
+             id="g15">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line11"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text13">人類</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(279.49983)"
+             id="g21">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line17"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text19">AI-社群習慣</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(465.50017)"
+             id="g27">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line23"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text25">AI-僅原po</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(651.5005)"
+             id="g33">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line29"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text31">AI-個人化</text>
+          </g>
+          <text
+             x="745"
+             y="-4"
+             text-anchor="end"
+             style="font-weight:bold;font-size:12px;font-family:'AR PL UKai TW MBE';fill:#7b7b7b"
+             id="text35">方式</text>
+        </g>
+        <g
+           id="yAxis"
+           fill="none"
+           font-size="10px"
+           font-family="'AR PL UKai TW MBE'"
+           text-anchor="end">
+          <path
+             class="domain"
+             stroke="currentColor"
+             d="M -6,560.5 H 0.5 V 0.5 H -6"
+             id="path38" />
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,560.5)"
+             id="g44">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line40"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text42">0.00</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,498.27778)"
+             id="g50">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line46"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text48">0.02</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,436.05556)"
+             id="g56">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line52"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text54">0.04</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,373.83333)"
+             id="g62">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line58"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text60">0.06</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,311.61111)"
+             id="g68">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line64"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text66">0.08</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,249.38889)"
+             id="g74">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line70"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text72">0.10</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,187.16667)"
+             id="g80">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line76"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text78">0.12</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,124.94444)"
+             id="g86">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line82"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text84">0.14</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,62.722222)"
+             id="g92">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line88"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text90">0.16</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,0.5)"
+             id="g98">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line94"
+               x1="0"
+               y1="0"
+               y2="0" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.31999999em"
+               id="text96">0.18</text>
+          </g>
+          <text
+             x="4"
+             text-anchor="start"
+             dominant-baseline="hanging"
+             style="font-weight:bold;font-size:20px;font-family:'AR PL UKai TW MBE';fill:#7b7b7b"
+             id="text100">說服率</text>
+        </g>
+      </g>
+      <text
+         y="4"
+         x="4"
+         style="font-weight:bold;font-size:12px;font-family:'AR PL UKai TW MBE';dominant-baseline:hanging;fill:#000000"
+         id="text105" />
+    </g>
+  </g>
+</svg>
