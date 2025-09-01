@@ -1,0 +1,21 @@
+// dot -Tsvg greg-pol-strategy.dot -o greg-pol-strategy.svg
+digraph "貴哥的政治辯論戰場" {
+
+    label = "貴哥的政治辯論戰場";
+    node [ shape="box"; ];
+    labelloc = "t";
+    rankdir = "TB";
+    overlap = scale;
+
+    so [ label="聽過國有器官?"; ];
+    cases [ label="給關鍵詞、影片\n案例、報告"; ];
+    fc_difficulty [ label="言論管制國家\n的事實查核"; ];
+    low_emotion [ label="低情緒衝擊\n的政治問題"; ];
+    accountability [ label="權責相稱\naccountability"; ];
+
+    so -> cases [ label="那是什麼?" ];
+    { so cases } -> fc_difficulty [ label="真的嗎?" ];
+    { cases fc_difficulty } -> low_emotion [ label="與我何干?"; ];
+    low_emotion -> accountability;
+}
+
