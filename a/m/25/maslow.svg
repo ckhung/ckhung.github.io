@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1080"
+   height="360"
+   viewBox="-100 -30 1080 360"
+   font-family="Arial, sans-serif"
+   font-size="14px"
+   version="1.1"
+   id="svg1266"
+   sodipodi:docname="maslow.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="maslow.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1270" />
+  <sodipodi:namedview
+     id="namedview1268"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3"
+     inkscape:cx="467.30769"
+     inkscape:cy="156.92308"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1264" />
+  <g
+     transform="translate(347.32812,6.968196)"
+     id="g1264">
+    <polygon
+       points="0,0 40,60 -40,60 "
+       style="fill:#58b1da"
+       id="polygon1204"
+       transform="translate(0,-6.968196)" />
+    <polygon
+       points="-80,120 -40,60 40,60 80,120 "
+       style="fill:#94d878"
+       id="polygon1206"
+       transform="translate(0,-6.968196)" />
+    <polygon
+       points="-120,180 -80,120 80,120 120,180 "
+       style="fill:#fce888"
+       id="polygon1208"
+       transform="translate(0,-6.968196)" />
+    <polygon
+       points="-160,240 -120,180 120,180 160,240 "
+       style="fill:#f99763"
+       id="polygon1210"
+       transform="translate(0,-6.968196)" />
+    <polygon
+       points="-200,300 -160,240 160,240 200,300 "
+       style="fill:#ee5b50"
+       id="polygon1212"
+       transform="translate(0,-6.968196)" />
+    <text
+       x="0"
+       y="30"
+       text-anchor="middle"
+       fill="#000000"
+       font-weight="bold"
+       font-size="16"
+       id="text1214"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">自我實現</text>
+    <text
+       x="0"
+       y="90"
+       text-anchor="middle"
+       fill="#000000"
+       font-weight="bold"
+       font-size="16"
+       id="text1216"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">尊重需求</text>
+    <text
+       x="0"
+       y="150"
+       text-anchor="middle"
+       fill="#000000"
+       font-weight="bold"
+       font-size="16"
+       id="text1218"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">愛與歸屬</text>
+    <text
+       x="0"
+       y="210"
+       text-anchor="middle"
+       fill="#000000"
+       font-weight="bold"
+       font-size="16"
+       id="text1220"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">安全需求</text>
+    <text
+       x="0"
+       y="270"
+       text-anchor="middle"
+       fill="#000000"
+       font-weight="bold"
+       font-size="16"
+       id="text1222"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">生理需求</text>
+    <text
+       x="-220"
+       y="30"
+       text-anchor="end"
+       fill="#000000"
+       id="text1226"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="-220"
+         dy="0"
+         id="tspan1224"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">實現個人潛能</tspan></text>
+    <text
+       x="-220"
+       y="90"
+       text-anchor="end"
+       fill="#000000"
+       id="text1230"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="-220"
+         dy="0"
+         id="tspan1228"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">認可、能力與尊重</tspan></text>
+    <text
+       x="-220"
+       y="150"
+       text-anchor="end"
+       fill="#000000"
+       id="text1234"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="-220"
+         dy="0"
+         id="tspan1232"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">社交連結與接納</tspan></text>
+    <text
+       x="-220"
+       y="210"
+       text-anchor="end"
+       fill="#000000"
+       id="text1238"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="-220"
+         dy="0"
+         id="tspan1236"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">環境安全、可預測</tspan></text>
+    <text
+       x="-220"
+       y="270"
+       text-anchor="end"
+       fill="#000000"
+       id="text1242"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="-220"
+         dy="0"
+         id="tspan1240"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">生物生存基本需求</tspan></text>
+    <text
+       x="220"
+       y="30"
+       text-anchor="start"
+       fill="#000000"
+       id="text1246"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="220"
+         dy="0"
+         id="tspan1244"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">創造力、個人成長、道德發展、追求意義...</tspan></text>
+    <text
+       x="220"
+       y="90"
+       text-anchor="start"
+       fill="#000000"
+       id="text1250"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="220"
+         dy="0"
+         id="tspan1248"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">自尊、自信、他人的尊重、聲譽、認可與成就</tspan></text>
+    <text
+       x="220"
+       y="150"
+       text-anchor="start"
+       fill="#000000"
+       id="text1254"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="220"
+         dy="0"
+         id="tspan1252"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">家庭、友誼、社群、浪漫關係、團體歸屬感...</tspan></text>
+    <text
+       x="220"
+       y="210"
+       text-anchor="start"
+       fill="#000000"
+       id="text1258"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="220"
+         dy="0"
+         id="tspan1256"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">個人安全、健康幸福、穩定環境、財務安全...</tspan></text>
+    <text
+       x="220"
+       y="270"
+       text-anchor="start"
+       fill="#000000"
+       id="text1262"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'"><tspan
+         x="220"
+         dy="0"
+         id="tspan1260"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW Bold'">空氣、水、食物、住所、衣物、睡眠、生殖</tspan></text>
+  </g>
+</svg>
