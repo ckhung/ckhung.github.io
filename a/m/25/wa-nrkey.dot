@@ -1,0 +1,58 @@
+digraph NonResidentKey {
+    rankdir=TB;
+    
+    // Global Styles
+    node [shape=ellipse];
+    
+    // Title
+    label = "generating a\nNon-Resident Key /\nNon-Discoverable Credential";
+    labelloc = "t";
+    
+    subgraph cluster_authenticator {
+        label = "Authenticator";
+	style = "rounded";
+	bgcolor = "#ffc0c0";
+        MasterKey [ label="Master Secret Key" ];
+	KDF [
+	    label="Key Derivation Function";
+	    shape=box;
+	    style="filled";
+	    fillcolor="#ffffff"
+	];
+	RNG [
+	    label="Random Number Generator";
+	    shape=box;
+	    style="filled";
+	    fillcolor="#ffffff"
+	];
+	crypt [
+	    label="encrypt/\ndecrypt"
+	    shape=box;
+	    style="filled";
+	    fillcolor="#ffffff"
+	];
+	PrivKey [
+	    label="(ephemeral)\nprivate key";
+            style="dashed";
+	];
+    }
+    
+    RP_ID [ label="RP ID" ];
+    Cred_ID [ label="Credential ID" ];
+    User_ID [ label="User ID" ];
+    PubKey [ label="public key\nof the ephemeral key" ];
+    RP_DB [ label="RP Database", shape=cylinder];
+
+    // registration
+    { MasterKey RNG RP_ID } -> KDF;
+    KDF -> PrivKey;
+    { KDF MasterKey } -> crypt -> Cred_ID;
+    PrivKey -> PubKey;
+    { PubKey Cred_ID User_ID } -> RP_DB;
+
+    // authentication
+    RP_DB -> Cred_ID -> crypt [ color="#ffe0e0" ];
+    { RP_ID crypt } -> KDF [ color="#ffe0e0" ];
+    MasterKey -> { crypt KDF } [ color="#ffe0e0" ];
+    KDF -> PrivKey [ color="#ffe0e0" ];
+}

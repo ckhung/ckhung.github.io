@@ -1,0 +1,35 @@
+digraph ResidentKey {
+    rankdir=TB;
+    
+    // Global Styles
+    node [shape=ellipse];
+    
+    // Title
+    label = "generating a\nResident Key / Passkey /\nDiscoverable Credential";
+    labelloc = "t";
+    
+    subgraph cluster_authenticator {
+        label = "Authenticator";
+	style = "rounded";
+	bgcolor = "#ffc0c0";
+        MasterKey [label="Master Secret Key"];
+	KDF [
+	    label="Key Derivation Function";
+	    shape=box;
+	    style="filled";
+	    fillcolor="#ffffff"
+	];
+        ResidentKey [label="credential data of a\nresident key\n(including private key)"];
+    }
+    
+    RP_ID [label="RP ID"];
+    User_ID [label="User ID"];
+    PubKey [label="public key +\ncredential ID"];
+    RP_DB [label="RP Database", shape=cylinder];
+
+    { MasterKey RP_ID User_ID } -> KDF;
+    KDF -> ResidentKey -> PubKey -> RP_DB;
+
+    // for layout control
+    User_ID -> RP_ID [style=invis, constraint=true];
+}
