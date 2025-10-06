@@ -51,6 +51,7 @@ digraph NonResidentKey {
     { PubKey Cred_ID User_ID } -> RP_DB;
 
     // authentication
+    User_ID -> RP_DB [ color="#ffe0e0" ];
     RP_DB -> Cred_ID -> crypt [ color="#ffe0e0" ];
     { RP_ID crypt } -> KDF [ color="#ffe0e0" ];
     MasterKey -> { crypt KDF } [ color="#ffe0e0" ];
