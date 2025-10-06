@@ -26,7 +26,7 @@ digraph NonResidentKey {
 	    fillcolor="#ffffff"
 	];
 	crypt [
-	    label="encrypt/\ndecrypt"
+	    label="\"encrypt\"/\n\"decrypt\""
 	    shape=box;
 	    style="filled";
 	    fillcolor="#ffffff"

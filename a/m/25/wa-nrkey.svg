@@ -26,27 +26,27 @@
 <!-- KDF -->
 <g id="node2" class="node">
 <title>KDF</title>
-<polygon fill="#ffffff" stroke="black" points="377,-287.48 187,-287.48 187,-251.48 377,-251.48 377,-287.48"/>
-<text text-anchor="middle" x="282" y="-265.78" font-family="Times,serif" font-size="14.00">Key Derivation Function</text>
+<polygon fill="#ffffff" stroke="black" points="380,-287.48 190,-287.48 190,-251.48 380,-251.48 380,-287.48"/>
+<text text-anchor="middle" x="285" y="-265.78" font-family="Times,serif" font-size="14.00">Key Derivation Function</text>
 </g>
 <!-- MasterKey&#45;&gt;KDF -->
 <g id="edge1" class="edge">
 <title>MasterKey&#45;&gt;KDF</title>
-<path fill="none" stroke="black" d="M145.99,-324.42C168.57,-314.61 198.98,-301.95 225.35,-291.36"/>
-<polygon fill="black" stroke="black" points="226.87,-294.52 234.86,-287.56 224.28,-288.02 226.87,-294.52"/>
+<path fill="none" stroke="black" d="M146.68,-324.42C169.78,-314.56 200.9,-301.84 227.81,-291.22"/>
+<polygon fill="black" stroke="black" points="229.1,-294.48 237.13,-287.56 226.54,-287.96 229.1,-294.48"/>
 </g>
 <!-- MasterKey&#45;&gt;KDF -->
 <g id="edge17" class="edge">
 <title>MasterKey&#45;&gt;KDF</title>
-<path fill="none" stroke="#ffe0e0" d="M155.35,-325.29C180.4,-315.41 212.01,-302.4 237.43,-291.53"/>
-<polygon fill="#ffe0e0" stroke="#ffe0e0" points="239.04,-294.65 246.84,-287.48 236.27,-288.22 239.04,-294.65"/>
+<path fill="none" stroke="#ffe0e0" d="M156,-325.29C181.58,-315.37 213.92,-302.29 239.87,-291.39"/>
+<polygon fill="#ffe0e0" stroke="#ffe0e0" points="241.26,-294.6 249.11,-287.48 238.54,-288.15 241.26,-294.6"/>
 </g>
 <!-- crypt -->
 <g id="node4" class="node">
 <title>crypt</title>
-<polygon fill="#ffffff" stroke="black" points="151,-207.61 75,-207.61 75,-169.61 151,-169.61 151,-207.61"/>
-<text text-anchor="middle" x="113" y="-192.41" font-family="Times,serif" font-size="14.00">encrypt/</text>
-<text text-anchor="middle" x="113" y="-177.41" font-family="Times,serif" font-size="14.00">decrypt</text>
+<polygon fill="#ffffff" stroke="black" points="157.5,-207.61 68.5,-207.61 68.5,-169.61 157.5,-169.61 157.5,-207.61"/>
+<text text-anchor="middle" x="113" y="-192.41" font-family="Times,serif" font-size="14.00">&quot;encrypt&quot;/</text>
+<text text-anchor="middle" x="113" y="-177.41" font-family="Times,serif" font-size="14.00">&quot;decrypt&quot;</text>
 </g>
 <!-- MasterKey&#45;&gt;crypt -->
 <g id="edge5" class="edge">
@@ -63,27 +63,27 @@
 <!-- KDF&#45;&gt;crypt -->
 <g id="edge6" class="edge">
 <title>KDF&#45;&gt;crypt</title>
-<path fill="none" stroke="black" d="M239.65,-251.37C213.77,-239.87 180.87,-224.59 155.05,-212.11"/>
-<polygon fill="black" stroke="black" points="156.4,-208.88 145.88,-207.65 153.34,-215.17 156.4,-208.88"/>
+<path fill="none" stroke="black" d="M242,-251.37C215.68,-239.87 182.2,-224.59 155.9,-212.11"/>
+<polygon fill="black" stroke="black" points="157.1,-208.8 146.57,-207.65 154.08,-215.12 157.1,-208.8"/>
 </g>
 <!-- PrivKey -->
 <g id="node5" class="node">
 <title>PrivKey</title>
-<ellipse fill="none" stroke="black" stroke-dasharray="5,2" cx="282" cy="-188.61" rx="72.66" ry="26.74"/>
-<text text-anchor="middle" x="282" y="-192.41" font-family="Times,serif" font-size="14.00">(ephemeral)</text>
-<text text-anchor="middle" x="282" y="-177.41" font-family="Times,serif" font-size="14.00">private key</text>
+<ellipse fill="none" stroke="black" stroke-dasharray="5,2" cx="285" cy="-188.61" rx="72.66" ry="26.74"/>
+<text text-anchor="middle" x="285" y="-192.41" font-family="Times,serif" font-size="14.00">(ephemeral)</text>
+<text text-anchor="middle" x="285" y="-177.41" font-family="Times,serif" font-size="14.00">private key</text>
 </g>
 <!-- KDF&#45;&gt;PrivKey -->
 <g id="edge4" class="edge">
 <title>KDF&#45;&gt;PrivKey</title>
-<path fill="none" stroke="black" d="M276.32,-251.37C275.5,-243.73 275.15,-234.43 275.28,-225.38"/>
-<polygon fill="black" stroke="black" points="278.77,-225.5 275.62,-215.39 271.78,-225.26 278.77,-225.5"/>
+<path fill="none" stroke="black" d="M279.32,-251.37C278.5,-243.73 278.15,-234.43 278.28,-225.38"/>
+<polygon fill="black" stroke="black" points="281.77,-225.5 278.62,-215.39 274.78,-225.26 281.77,-225.5"/>
 </g>
 <!-- KDF&#45;&gt;PrivKey -->
 <g id="edge19" class="edge">
 <title>KDF&#45;&gt;PrivKey</title>
-<path fill="none" stroke="#ffe0e0" d="M287.68,-251.37C288.5,-243.73 288.85,-234.43 288.72,-225.38"/>
-<polygon fill="#ffe0e0" stroke="#ffe0e0" points="292.22,-225.26 288.38,-215.39 285.23,-225.5 292.22,-225.26"/>
+<path fill="none" stroke="#ffe0e0" d="M290.68,-251.37C291.5,-243.73 291.85,-234.43 291.72,-225.38"/>
+<polygon fill="#ffe0e0" stroke="#ffe0e0" points="295.22,-225.26 291.38,-215.39 288.23,-225.5 295.22,-225.26"/>
 </g>
 <!-- RNG -->
 <g id="node3" class="node">
@@ -94,39 +94,39 @@
 <!-- RNG&#45;&gt;KDF -->
 <g id="edge2" class="edge">
 <title>RNG&#45;&gt;KDF</title>
-<path fill="none" stroke="black" d="M321.9,-323.18C315.61,-314.87 307.95,-304.76 301.04,-295.62"/>
-<polygon fill="black" stroke="black" points="303.78,-293.44 294.95,-287.58 298.2,-297.67 303.78,-293.44"/>
+<path fill="none" stroke="black" d="M322.64,-323.18C316.77,-314.95 309.63,-304.96 303.16,-295.9"/>
+<polygon fill="black" stroke="black" points="305.88,-293.69 297.22,-287.58 300.18,-297.76 305.88,-293.69"/>
 </g>
 <!-- crypt&#45;&gt;KDF -->
 <g id="edge15" class="edge">
 <title>crypt&#45;&gt;KDF</title>
-<path fill="none" stroke="#ffe0e0" d="M151.06,-204.82C178.08,-216.75 214.16,-233.49 241.67,-246.81"/>
-<polygon fill="#ffe0e0" stroke="#ffe0e0" points="240.49,-250.13 251.01,-251.37 243.55,-243.84 240.49,-250.13"/>
+<path fill="none" stroke="#ffe0e0" d="M157.8,-207.51C184.53,-219.22 218.14,-234.58 244.15,-246.96"/>
+<polygon fill="#ffe0e0" stroke="#ffe0e0" points="242.83,-250.2 253.36,-251.37 245.85,-243.89 242.83,-250.2"/>
 </g>
 <!-- Cred_ID -->
 <g id="node7" class="node">
 <title>Cred_ID</title>
-<ellipse fill="none" stroke="black" cx="93" cy="-98.87" rx="73.39" ry="18"/>
-<text text-anchor="middle" x="93" y="-95.17" font-family="Times,serif" font-size="14.00">Credential ID</text>
+<ellipse fill="none" stroke="black" cx="94" cy="-98.87" rx="73.39" ry="18"/>
+<text text-anchor="middle" x="94" y="-95.17" font-family="Times,serif" font-size="14.00">Credential ID</text>
 </g>
 <!-- crypt&#45;&gt;Cred_ID -->
 <g id="edge7" class="edge">
 <title>crypt&#45;&gt;Cred_ID</title>
-<path fill="none" stroke="black" d="M103.26,-169.43C99.22,-157.19 95.26,-140.83 92.9,-127.05"/>
-<polygon fill="black" stroke="black" points="96.36,-126.51 91.44,-117.13 89.43,-127.53 96.36,-126.51"/>
+<path fill="none" stroke="black" d="M103.47,-169.43C99.57,-157.19 95.79,-140.83 93.59,-127.05"/>
+<polygon fill="black" stroke="black" points="97.06,-126.57 92.24,-117.13 90.12,-127.51 97.06,-126.57"/>
 </g>
 <!-- PubKey -->
 <g id="node9" class="node">
 <title>PubKey</title>
-<ellipse fill="none" stroke="black" cx="303" cy="-98.87" rx="118.17" ry="26.74"/>
-<text text-anchor="middle" x="303" y="-102.67" font-family="Times,serif" font-size="14.00">public key</text>
-<text text-anchor="middle" x="303" y="-87.67" font-family="Times,serif" font-size="14.00">of the ephemeral key</text>
+<ellipse fill="none" stroke="black" cx="304" cy="-98.87" rx="118.17" ry="26.74"/>
+<text text-anchor="middle" x="304" y="-102.67" font-family="Times,serif" font-size="14.00">public key</text>
+<text text-anchor="middle" x="304" y="-87.67" font-family="Times,serif" font-size="14.00">of the ephemeral key</text>
 </g>
 <!-- PrivKey&#45;&gt;PubKey -->
 <g id="edge8" class="edge">
 <title>PrivKey&#45;&gt;PubKey</title>
-<path fill="none" stroke="black" d="M288.19,-161.76C290.13,-153.62 292.32,-144.48 294.41,-135.77"/>
-<polygon fill="black" stroke="black" points="297.86,-136.38 296.78,-125.84 291.05,-134.75 297.86,-136.38"/>
+<path fill="none" stroke="black" d="M290.6,-161.76C292.36,-153.62 294.34,-144.48 296.22,-135.77"/>
+<polygon fill="black" stroke="black" points="299.68,-136.35 298.38,-125.84 292.84,-134.87 299.68,-136.35"/>
 </g>
 <!-- RP_ID -->
 <g id="node6" class="node">
@@ -137,63 +137,63 @@
 <!-- RP_ID&#45;&gt;KDF -->
 <g id="edge3" class="edge">
 <title>RP_ID&#45;&gt;KDF</title>
-<path fill="none" stroke="black" d="M466.73,-331.14C459.83,-328.55 452.67,-325.82 446,-323.48 412.43,-311.72 374.7,-299.99 343.85,-290.57"/>
-<polygon fill="black" stroke="black" points="344.67,-287.17 334.09,-287.6 342.63,-293.86 344.67,-287.17"/>
+<path fill="none" stroke="black" d="M466.72,-331.16C459.82,-328.58 452.66,-325.83 446,-323.48 412.86,-311.78 375.62,-300.02 345.25,-290.56"/>
+<polygon fill="black" stroke="black" points="346.24,-287.2 335.65,-287.57 344.16,-293.88 346.24,-287.2"/>
 </g>
 <!-- RP_ID&#45;&gt;KDF -->
 <g id="edge16" class="edge">
 <title>RP_ID&#45;&gt;KDF</title>
-<path fill="none" stroke="#ffe0e0" d="M474.19,-327.22C470.79,-325.92 467.33,-324.65 464,-323.48 430.28,-311.67 392.38,-299.89 359.87,-290.45"/>
-<polygon fill="#ffe0e0" stroke="#ffe0e0" points="360.55,-287 349.97,-287.6 358.61,-293.73 360.55,-287"/>
+<path fill="none" stroke="#ffe0e0" d="M474.18,-327.23C470.79,-325.93 467.33,-324.66 464,-323.48 430.71,-311.73 393.3,-299.92 361.26,-290.44"/>
+<polygon fill="#ffe0e0" stroke="#ffe0e0" points="362.08,-287.03 351.5,-287.57 360.11,-293.75 362.08,-287.03"/>
 </g>
 <!-- Cred_ID&#45;&gt;crypt -->
 <g id="edge14" class="edge">
 <title>Cred_ID&#45;&gt;crypt</title>
-<path fill="none" stroke="#ffe0e0" d="M102.33,-116.84C106.41,-128.87 110.45,-145.31 112.91,-159.31"/>
-<polygon fill="#ffe0e0" stroke="#ffe0e0" points="109.48,-160.07 114.45,-169.43 116.4,-159.02 109.48,-160.07"/>
+<path fill="none" stroke="#ffe0e0" d="M103.14,-116.84C107.08,-128.87 110.93,-145.31 113.23,-159.31"/>
+<polygon fill="#ffe0e0" stroke="#ffe0e0" points="109.79,-160.02 114.66,-169.43 116.73,-159.04 109.79,-160.02"/>
 </g>
 <!-- RP_DB -->
 <g id="node10" class="node">
 <title>RP_DB</title>
-<path fill="none" stroke="black" d="M357,-32.73C357,-34.53 332.8,-36 303,-36 273.2,-36 249,-34.53 249,-32.73 249,-32.73 249,-3.27 249,-3.27 249,-1.47 273.2,0 303,0 332.8,0 357,-1.47 357,-3.27 357,-3.27 357,-32.73 357,-32.73"/>
-<path fill="none" stroke="black" d="M357,-32.73C357,-30.92 332.8,-29.45 303,-29.45 273.2,-29.45 249,-30.92 249,-32.73"/>
-<text text-anchor="middle" x="303" y="-14.3" font-family="Times,serif" font-size="14.00">RP Database</text>
+<path fill="none" stroke="black" d="M358,-32.73C358,-34.53 333.8,-36 304,-36 274.2,-36 250,-34.53 250,-32.73 250,-32.73 250,-3.27 250,-3.27 250,-1.47 274.2,0 304,0 333.8,0 358,-1.47 358,-3.27 358,-3.27 358,-32.73 358,-32.73"/>
+<path fill="none" stroke="black" d="M358,-32.73C358,-30.92 333.8,-29.45 304,-29.45 274.2,-29.45 250,-30.92 250,-32.73"/>
+<text text-anchor="middle" x="304" y="-14.3" font-family="Times,serif" font-size="14.00">RP Database</text>
 </g>
 <!-- Cred_ID&#45;&gt;RP_DB -->
 <g id="edge9" class="edge">
 <title>Cred_ID&#45;&gt;RP_DB</title>
-<path fill="none" stroke="black" d="M127.56,-82.85C159.52,-70.25 207.48,-52.18 245.23,-38.47"/>
-<polygon fill="black" stroke="black" points="246.87,-41.6 255.09,-34.91 244.5,-35.02 246.87,-41.6"/>
+<path fill="none" stroke="black" d="M128.56,-82.85C160.52,-70.25 208.48,-52.18 246.23,-38.47"/>
+<polygon fill="black" stroke="black" points="247.87,-41.6 256.09,-34.91 245.5,-35.02 247.87,-41.6"/>
 </g>
 <!-- User_ID -->
 <g id="node8" class="node">
 <title>User_ID</title>
-<ellipse fill="none" stroke="black" cx="486" cy="-98.87" rx="46.59" ry="18"/>
-<text text-anchor="middle" x="486" y="-95.17" font-family="Times,serif" font-size="14.00">User ID</text>
+<ellipse fill="none" stroke="black" cx="487" cy="-98.87" rx="46.59" ry="18"/>
+<text text-anchor="middle" x="487" y="-95.17" font-family="Times,serif" font-size="14.00">User ID</text>
 </g>
 <!-- User_ID&#45;&gt;RP_DB -->
 <g id="edge10" class="edge">
 <title>User_ID&#45;&gt;RP_DB</title>
-<path fill="none" stroke="black" d="M452.6,-86.08C442.35,-81.59 431.2,-76.48 421,-72 396.12,-61.07 368.28,-49.38 345.8,-39.78"/>
-<polygon fill="black" stroke="black" points="347.1,-36.52 336.53,-35.8 344.34,-42.96 347.1,-36.52"/>
+<path fill="none" stroke="black" d="M453.6,-86.08C443.35,-81.59 432.2,-76.48 422,-72 397.12,-61.07 369.28,-49.38 346.8,-39.78"/>
+<polygon fill="black" stroke="black" points="348.1,-36.52 337.53,-35.8 345.34,-42.96 348.1,-36.52"/>
 </g>
 <!-- User_ID&#45;&gt;RP_DB -->
 <g id="edge12" class="edge">
 <title>User_ID&#45;&gt;RP_DB</title>
-<path fill="none" stroke="#ffe0e0" d="M463.12,-83.02C455.46,-79.36 446.94,-75.49 439,-72 413.22,-60.67 384.26,-48.54 359.64,-38.75"/>
-<polygon fill="#ffe0e0" stroke="#ffe0e0" points="360.66,-35.39 350.08,-34.98 358.09,-41.9 360.66,-35.39"/>
+<path fill="none" stroke="#ffe0e0" d="M464.12,-83.02C456.46,-79.36 447.94,-75.49 440,-72 414.22,-60.67 385.26,-48.54 360.64,-38.75"/>
+<polygon fill="#ffe0e0" stroke="#ffe0e0" points="361.66,-35.39 351.08,-34.98 359.09,-41.9 361.66,-35.39"/>
 </g>
 <!-- PubKey&#45;&gt;RP_DB -->
 <g id="edge11" class="edge">
 <title>PubKey&#45;&gt;RP_DB</title>
-<path fill="none" stroke="black" d="M303,-71.61C303,-63.51 303,-54.57 303,-46.39"/>
-<polygon fill="black" stroke="black" points="306.5,-46.22 303,-36.22 299.5,-46.22 306.5,-46.22"/>
+<path fill="none" stroke="black" d="M304,-71.61C304,-63.51 304,-54.57 304,-46.39"/>
+<polygon fill="black" stroke="black" points="307.5,-46.22 304,-36.22 300.5,-46.22 307.5,-46.22"/>
 </g>
 <!-- RP_DB&#45;&gt;Cred_ID -->
 <g id="edge13" class="edge">
 <title>RP_DB&#45;&gt;Cred_ID</title>
-<path fill="none" stroke="#ffe0e0" d="M264.55,-35.55C230.88,-48.75 181.83,-67.19 144.74,-80.58"/>
-<polygon fill="#ffe0e0" stroke="#ffe0e0" points="143.33,-77.37 135.1,-84.04 145.69,-83.95 143.33,-77.37"/>
+<path fill="none" stroke="#ffe0e0" d="M265.55,-35.55C231.88,-48.75 182.83,-67.19 145.74,-80.58"/>
+<polygon fill="#ffe0e0" stroke="#ffe0e0" points="144.33,-77.37 136.1,-84.04 146.69,-83.95 144.33,-77.37"/>
 </g>
 </g>
 </svg>
