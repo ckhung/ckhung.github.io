@@ -1,7 +1,7 @@
 /* dark.css */
 @media screen {
     body { color: #0f8; background: #000; }
-    .strong { background: #266; }
+    .strong { background: #220; }
     :link { color: #66ffe1; }
     :visited { color: #66b3ff; }
     em, .em { color: #ff0000; }
@@ -9,17 +9,17 @@
     code, .code { color: #33ff33; }
     dfn { color: #ff33ff; }
 
-    blockquote.celebrity { background: #666600; }
-    .quote, blockquote { color: #ff4c4c; }
+    blockquote.celebrity { background: #666647; }
+    .quote, blockquote { color: #99ffff; }
     pre.mail { color: #ff4c4c; }
-    .hilight1 { background: #66663d; }
-    .hilight2 { background: #3d6666; }
-    .hilight3 { background: #663d66; }
+    .hilight1 { background: #666647; }
+    .hilight2 { background: #476666; }
+    .hilight3 { background: #664766; }
     .alert { background: #661414; }
 
     pre.docsrc { background: #476666; }
     .kbd { color: #33ff33; background: #664766; }
-    .tag { background: #516666; }
+    .tag, .post-tags li { background: #516666; }
 
     .magic { background: #666666; }
     .gray_out { color: gray; }

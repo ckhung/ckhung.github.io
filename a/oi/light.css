@@ -1,7 +1,7 @@
 /* light.css */
 @media screen {
     body, slide { color: #000; background: #ffd; }
-    .strong { background: #ff0; }
+    .strong { background: #ffa; }
     :link { color: #1e4c43; }
     :visited { color: #1e354c; }
     em, .em { color: #4c0000; }
@@ -10,16 +10,16 @@
     dfn { color: #4c0f4c; }
 
     blockquote.celebrity { background: #ffffb3; }
-    .quote, blockquote { color: #4c1717; }
+    .quote, blockquote { color: #2e4c4c; }
     pre.mail { color: #4c1717; }
-    .hilight1 { background: #ffff99; }
-    .hilight2 { background: #99ffff; }
-    .hilight3 { background: #ff99ff; }
+    .hilight1 { background: #ffffb3; }
+    .hilight2 { background: #b3ffff; }
+    .hilight3 { background: #ffb3ff; }
     .alert { background: #ff3333; }
 
     pre.docsrc { background: #b3ffff; }
     .kbd { color: #0f4c0f; background: #ffb3ff; }
-    .tag { background: #ccffff; }
+    .tag, .post-tags li { background: #ccffff; }
 
     .magic { background: #ffffff; }
     .gray_out { color: gray; }
