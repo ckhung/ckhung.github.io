@@ -25,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.2265625"
-     inkscape:cx="122.8862"
+     inkscape:cx="123.50605"
      inkscape:cy="128"
      inkscape:window-width="1920"
      inkscape:window-height="1035"
@@ -116,17 +116,33 @@
   <text
      xml:space="preserve"
      style="font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;text-anchor:middle;fill:#000001;fill-opacity:1;stroke:none"
-     x="38.839237"
-     y="218.74623"
+     x="43.412281"
+     y="218.43631"
      id="text303-5-6"><tspan
        sodipodi:role="line"
-       x="38.839237"
-       y="218.74623"
+       x="43.412281"
+       y="218.43631"
        style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
        id="tspan1064-5-2">親共的</tspan><tspan
        sodipodi:role="line"
-       x="38.839237"
-       y="245.41286"
+       x="43.412281"
+       y="245.10294"
        style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1292-9">團體</tspan></text>
+       id="tspan1292-9">非環團</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;text-anchor:middle;fill:#000001;fill-opacity:1;stroke:none"
+     x="221.15587"
+     y="216.30627"
+     id="text303-5-6-3"><tspan
+       sodipodi:role="line"
+       x="221.15587"
+       y="216.30627"
+       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
+       id="tspan1064-5-2-6">其他</tspan><tspan
+       sodipodi:role="line"
+       x="221.15587"
+       y="242.9729"
+       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
+       id="tspan1292-9-7">團體</tspan></text>
 </svg>
