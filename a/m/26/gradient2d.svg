@@ -1,148 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="256"
-   height="256"
-   viewBox="0 0 256 256"
-   version="1.1"
-   id="svg18"
-   sodipodi:docname="ccp-env-gradient.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   inkscape:export-filename="ccp-env-gradient.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview20"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="3.2265625"
-     inkscape:cx="123.50605"
-     inkscape:cy="128"
-     inkscape:window-width="1920"
-     inkscape:window-height="1035"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
-  <defs
-     id="defs12">
-    <linearGradient
-       id="redHorizontal"
-       x1="0%"
-       y1="0%"
-       x2="100%"
-       y2="0%">
-      <stop
-         offset="0%"
-         style="stop-color:rgb(255,0,0);stop-opacity:1"
-         id="stop2" />
-      <stop
-         offset="100%"
-         style="stop-color:rgb(0,0,0);stop-opacity:1"
-         id="stop4" />
+<svg width="256" height="256" viewBox="0 0 256 256" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="gradR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="100%" stop-color="#000000" />
     </linearGradient>
-    <linearGradient
-       id="greenVertical"
-       x1="0%"
-       y1="0%"
-       x2="0%"
-       y2="100%">
-      <stop
-         offset="0%"
-         style="stop-color:rgb(0,255,0);stop-opacity:1"
-         id="stop7" />
-      <stop
-         offset="100%"
-         style="stop-color:rgb(0,0,0);stop-opacity:1"
-         id="stop9" />
+
+    <linearGradient id="gradG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00ff00" />
+      <stop offset="100%" stop-color="#000000" />
     </linearGradient>
+
+    <filter id="additiveCombine" x="0" y="0" width="256" height="256" filterUnits="userSpaceOnUse">
+      <feImage xlink:href="#rectG" result="greenLayer" />
+      <feComposite in="SourceGraphic" in2="greenLayer" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" />
+    </filter>
   </defs>
-  <rect
-     x="0"
-     y="0"
-     width="100%"
-     height="100%"
-     fill="url(#redHorizontal)"
-     id="rect14" />
-  <rect
-     x="0"
-     y="0"
-     width="100%"
-     height="100%"
-     fill="url(#greenVertical)"
-     style="mix-blend-mode: screen;"
-     id="rect16" />
-  <text
-     xml:space="preserve"
-     style="font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;text-anchor:middle;fill:#000001;fill-opacity:1;stroke:none"
-     x="218.73763"
-     y="24.848166"
-     id="text303"><tspan
-       sodipodi:role="line"
-       x="218.73763"
-       y="24.848166"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1064">真正的</tspan><tspan
-       sodipodi:role="line"
-       x="218.73763"
-       y="51.51479"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1296">環團</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;text-anchor:middle;fill:#000001;fill-opacity:1;stroke:none"
-     x="38.884125"
-     y="26.166899"
-     id="text303-5"><tspan
-       sodipodi:role="line"
-       x="38.884125"
-       y="26.166899"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1064-5">親共的</tspan><tspan
-       sodipodi:role="line"
-       x="38.884125"
-       y="52.833523"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1292">環團</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;text-anchor:middle;fill:#000001;fill-opacity:1;stroke:none"
-     x="43.412281"
-     y="218.43631"
-     id="text303-5-6"><tspan
-       sodipodi:role="line"
-       x="43.412281"
-       y="218.43631"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1064-5-2">親共的</tspan><tspan
-       sodipodi:role="line"
-       x="43.412281"
-       y="245.10294"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1292-9">非環團</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:21.3333px;font-family:'AR PL UKai TW';-inkscape-font-specification:'AR PL UKai TW';text-align:center;text-anchor:middle;fill:#000001;fill-opacity:1;stroke:none"
-     x="221.15587"
-     y="216.30627"
-     id="text303-5-6-3"><tspan
-       sodipodi:role="line"
-       x="221.15587"
-       y="216.30627"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1064-5-2-6">其他</tspan><tspan
-       sodipodi:role="line"
-       x="221.15587"
-       y="242.9729"
-       style="font-size:21.3333px;fill:#000001;fill-opacity:1;stroke:none"
-       id="tspan1292-9-7">團體</tspan></text>
+
+  <g style="display:none;">
+    <rect id="rectG" width="256" height="256" fill="url(#gradG)" />
+  </g>
+
+  <rect width="256" height="256" fill="url(#gradR)" filter="url(#additiveCombine)" />
 </svg>
