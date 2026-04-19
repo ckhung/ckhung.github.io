@@ -1,0 +1,52 @@
+digraph ism {
+    rankdir=BT;
+    ranksep=4;
+    node [
+	shape=circle;
+	fontsize=18;
+	fixedsize=true
+	width=2
+	height=4
+    ];
+    edge [ fontsize=18; ]
+    label="各種主義?\n導演張內咸觀點";
+    fontsize=32;
+    labelloc="t";
+
+    social_darwinism [
+	label="社會達爾文主義"
+	labelloc="c";
+	image="ccp.png";
+	imagescale=true;
+	imagepos="b";
+    ];
+
+    subgraph sane {
+	rank="same";
+	conservatism [
+	    label="保守主義";
+	    labelloc="b";
+	    image="republican.png";
+	    imagescale=true;
+	    imagepos="t";
+	];
+	socialism [
+	    label="社會主義";
+	    labelloc="t";
+	    image="democrat.png";
+	    imagescale=true;
+	    imagepos="b";
+	];
+	progressivism [
+	    label="進步主義"
+	    labelloc="c";
+	    image="dpp.png";
+	    imagescale=true;
+	    imagepos="b";
+	];
+    }
+    socialism -> progressivism [ label="相近"; dir=both ];
+    progressivism -> conservatism [ label="友善"; dir=both ];
+
+    social_darwinism -> { conservatism socialism progressivism } [ label="顛覆"; style="dashed" ];
+}
