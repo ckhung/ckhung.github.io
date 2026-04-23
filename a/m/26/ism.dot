@@ -3,7 +3,7 @@ digraph ism {
     ranksep=4;
     node [
 	shape=circle;
-	fontsize=18;
+	fontsize=32;
 	fixedsize=true
 	width=2
 	height=4
@@ -14,7 +14,7 @@ digraph ism {
     labelloc="t";
 
     social_darwinism [
-	label="社會達爾文主義"
+	label=< 社會達爾文主義<BR/><BR/><FONT POINT-SIZE="18">恨/鬥爭<BR/>(1935/2035)</FONT> >;
 	labelloc="c";
 	image="ccp.png";
 	imagescale=true;
@@ -23,28 +23,31 @@ digraph ism {
 
     subgraph sane {
 	rank="same";
-	conservatism [
-	    label="保守主義";
-	    labelloc="b";
-	    image="republican.png";
-	    imagescale=true;
-	    imagepos="t";
-	];
 	socialism [
 	    label="社會主義";
-	    labelloc="t";
+	    labelloc="b";
 	    image="soviet-union.png";
 	    imagescale=true;
 	    imagepos="b";
 	];
 	progressivism [
-	    label="進步主義"
-	    labelloc="c";
+	    label=< 進步主義<BR/><BR/><BR/><FONT POINT-SIZE="18">愛/珍惜生命</FONT> >;
+	    labelloc="b";
 	    image="dpp+dem.png";
 	    imagescale=true;
 	    imagepos="b";
 	];
+	conservatism [
+	    label="保守主義";
+	    labelloc="b";
+	    image="republican.png";
+	    imagescale=true;
+	    imagepos="b";
+	];
     }
+    victory_point [shape=point; width=0];
+    { conservatism progressivism } -> victory_point [color=blue; label="聯手"; dir=none; penwidth=2];
+    victory_point -> socialism [color=blue; label="冷戰勝因"; penwidth=2];
     socialism -> progressivism [ label="相近"; dir=both ];
     progressivism -> conservatism [ label="友善"; dir=both ];
 
