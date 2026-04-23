@@ -33,14 +33,14 @@ digraph ism {
 	socialism [
 	    label="社會主義";
 	    labelloc="t";
-	    image="democrat.png";
+	    image="soviet-union.png";
 	    imagescale=true;
 	    imagepos="b";
 	];
 	progressivism [
 	    label="進步主義"
 	    labelloc="c";
-	    image="dpp.png";
+	    image="dpp+dem.png";
 	    imagescale=true;
 	    imagepos="b";
 	];
@@ -48,5 +48,5 @@ digraph ism {
     socialism -> progressivism [ label="相近"; dir=both ];
     progressivism -> conservatism [ label="友善"; dir=both ];
 
-    social_darwinism -> { conservatism socialism progressivism } [ label="顛覆"; style="dashed" ];
+    social_darwinism -> { conservatism socialism progressivism } [ label="去文明化"; style="dashed" ];
 }
