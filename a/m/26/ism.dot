@@ -29,6 +29,8 @@ digraph ism {
 	    image="soviet-union.png";
 	    imagescale=true;
 	    imagepos="b";
+	    style=filled;
+	    fillcolor="#bc0000";
 	];
 	progressivism [
 	    label=< 進步主義<BR/><BR/><BR/><FONT POINT-SIZE="18">愛/珍惜生命</FONT> >;
