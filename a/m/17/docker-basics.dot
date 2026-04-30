@@ -24,6 +24,7 @@ digraph "Docker 常用指令" {
     attached -> exited [ xlabel="^d"; fontcolor="red"; ];
     detached -> attached [ xlabel="attach"; ];
     detached -> exited [ xlabel="stop"; ];
+    detached -> detached [ label="exec -it\n...\n^d"; fontcolor="blue"; color="blue"; ];
     exited -> attached:n [ label="start -ai"; ];
     exited -> detached:e [ label="start"; ];
     exited -> removed [ label="rm"; ];
